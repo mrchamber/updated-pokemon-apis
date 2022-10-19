@@ -1,0 +1,58 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "height": "2ft and 4in",
+      "weight": "15.2 lbs"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "height": "3ft and 3in",
+      "weight": "28.7 lbs"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "height": "6ft and 7in",
+      "weight": "220.5 lbs"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "height": "2ft and 0in",
+      "weight": "18.7 lbs"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "height": "3ft and 7in",
+      "weight": "41.9 lbs"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "height": "5ft and 7in",
+      "weight": "199.5 lbs"
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "height": "1ft and 8in",
+      "weight": "19.8 lbs"
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "height": "3ft and 3in",
+      "weight": "49.6 lbs"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "height": "5ft and 3in",
+      "weight": "188.5 lbs"
+    }
+  ]
+}
