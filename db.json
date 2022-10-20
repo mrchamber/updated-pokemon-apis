@@ -6,7 +6,7 @@
       "name": "Bulbasaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow. Hidden: Chlorophyll",
-      "height": "2ft and 4in",
+      "height": "2ft 4in",
       "weight": "15.2 lbs",
       "stats": "HP: 45, Attack: 49, Defense: 49, Sp. Atk, 65, Sp. Def: 65, Speed: 45"
     },
@@ -16,7 +16,7 @@
       "name": "Ivysaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow. Hidden: Chlorophyll",
-      "height": "3ft and 3in",
+      "height": "3ft 3in",
       "weight": "28.7 lbs",
       "stats": "HP: 60, Attack: 62, Defense: 63, Sp. Atk: 80, Sp. Def: 80, Speed: 60"
     },
@@ -26,7 +26,7 @@
       "name": "Venusaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow. Hidden: Chlorophyll",
-      "height": "6ft and 7in",
+      "height": "6ft 7in",
       "weight": "220.5 lbs",
       "stats": "HP: 80, Attack: 82, Defense: 83, Sp. Atk. 83, Sp. Def: 100, Speed: 80",
       "variation": [
@@ -35,7 +35,7 @@
           "image": "pokeImg/003-m.png",
           "name": "Mega Venusaur",
           "type": "Grass/Poison",
-          "height": "2ft and 4in",
+          "height": "2ft 4in",
           "weight": "146.8 lbs"
         },
         {
@@ -43,7 +43,7 @@
           "image": "pokeImg/003-gi.png",
           "name": "Gigantamax Venusaur",
           "type": "Grass/Poison",
-          "height": "78ft and 9in",
+          "height": "78ft 9in",
           "weight": "???"
         }
       ]
@@ -54,7 +54,7 @@
       "name": "Charmander",
       "type": "Fire",
       "abilities": "Main: Blaze. Hidden: Solar Power",
-      "height": "2ft and 0in",
+      "height": "2ft 0in",
       "weight": "18.7 lbs",
       "stats": ""
     },
@@ -64,7 +64,7 @@
       "name": "Charmeleon",
       "type": "Fire",
       "abilities": "Main: Blaze. Hidden: Solar Power",
-      "height": "3ft and 7in",
+      "height": "3ft 7in",
       "weight": "41.9 lbs",
       "stats": ""
     },
@@ -74,7 +74,7 @@
       "name": "Charizard",
       "type": "Fire/Flying",
       "abilities": "Main: Blaze. Hidden: Solar Power",
-      "height": "5ft and 7in",
+      "height": "5ft 7in",
       "weight": "199.5 lbs",
       "stats": "",
       "variation": [
@@ -83,7 +83,7 @@
           "image": "pokeImg/006-mx.png",
           "name": "Mega Charizard X",
           "type": "Fire/Dragon",
-          "height": "1ft and 4in",
+          "height": "1ft 4in",
           "weight": "9.3 lbs"
         },
         {
@@ -91,7 +91,7 @@
           "image": "pokeImg/006-my.png",
           "name": "Mega Charizard Y",
           "type": "Fire/Flying",
-          "height": "1ft and 4in",
+          "height": "1ft 4in",
           "weight": "16.5 lbs"
         },
         {
@@ -99,7 +99,7 @@
           "image": "pokeImg/006-gi.png",
           "name": "Gigantamax Charizard",
           "type": "Grass/Poison",
-          "height": "91ft and 10in",
+          "height": "91ft 10in",
           "weight": "???"
         }
       ]
@@ -110,7 +110,7 @@
       "name": "Squirtle",
       "type": "Water",
       "abilities": "Main: Torrent. Hidden: Rain Dish",
-      "height": "1ft and 8in",
+      "height": "1ft 8in",
       "weight": "19.8 lbs",
       "stats": ""
     },
@@ -120,7 +120,7 @@
       "name": "Wartortle",
       "type": "Water",
       "abilities": "Main: Torrent. Hidden: Rain Dish",
-      "height": "3ft and 3in",
+      "height": "3ft 3in",
       "weight": "49.6 lbs",
       "stats": ""
     },
@@ -130,7 +130,7 @@
       "name": "Blastoise",
       "type": "Water",
       "abilities": "Main: Torrent. Hidden: Rain Dish",
-      "height": "5ft and 3in",
+      "height": "5ft 3in",
       "weight": "188.5 lbs",
       "stats": "",
       "variation": [
@@ -139,7 +139,7 @@
           "image": "pokeImg/009-m.png",
           "name": "Mega Blastoise",
           "type": "Water",
-          "height": "3ft and 7in",
+          "height": "3ft 7in",
           "weight": "72.8 lbs"
         },
         {
@@ -147,8 +147,128 @@
           "image": "pokeImg/009-gi.png",
           "name": "Gigantamax Blastoise",
           "type": "Water",
-          "height": "82ft and 0in",
+          "height": "82ft 0in",
           "weight": "???"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "pokeImg/010.png",
+      "name": "Caterpie",
+      "type": "Bug",
+      "abilities": "Main: Shield Dust. Hidden: Run Away",
+      "height": "1ft 0in",
+      "weight": "6.4 lbs",
+      "stats": ""
+    },
+    {
+      "id": 11,
+      "image": "pokeImg/011.png",
+      "name": "Metapod",
+      "type": "Bug",
+      "abilities": "Main: Shed Skin.",
+      "height": "2ft 4in",
+      "weight": "21.8 lbs",
+      "stats": ""
+    },
+    {
+      "id": 12,
+      "image": "pokeImg/012.png",
+      "name": "Butterfree",
+      "type": "Bug/Flying",
+      "abilities": "Main: Compound Eyes. Hidden: Tinted Lens",
+      "height": "3ft 7in",
+      "weight": "70.5 lbs",
+      "stats": "",
+      "variation": [
+        {
+          "idGigantamax":12.4 ,
+          "image": "pokeImg/012-gi.png",
+          "name": "Gigantamax Butterfree",
+          "type": "Bug/Flying",
+          "height": "55ft 9in",
+          "weight": "???"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "pokeImg/013.png",
+      "name": "Weedle",
+      "type": "Bug/Poison",
+      "abilities": "Main: Shield Dust. Hidden: Run Away",
+      "height": "1ft 0in",
+      "weight": "7.1 lbs",
+      "stats": ""
+    },
+    {
+      "id": 14,
+      "image": "pokeImg/014.png",
+      "name": "Kakuna",
+      "type": "Bug/Poison",
+      "abilities": "Main:Shed Skin",
+      "height": "2ft 0in",
+      "weight": "22.0 lbs",
+      "stats": ""
+    },
+    {
+      "id": 15,
+      "image": "pokeImg/015.png",
+      "name": "Beedrill",
+      "type": "Bug/Poison",
+      "abilities": "Main: Swarm. Hidden: Sniper",
+      "height": "3ft 3in",
+      "weight": "65.0 lbs",
+      "stats": "",
+      "variation": [
+        {
+          "idMega":15.1,
+          "image": "pokeImg/015-m.png",
+          "name": "Mega Beedrill",
+          "type": "Bug/Poison",
+          "height": "4ft 7in",
+          "weight": "89.3 lbs"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "pokeImg/016.png",
+      "name": "Pidgey",
+      "type": "Normal/Flying",
+      "abilities": "Main: Keen Eye/Tangled Feet. Hidden: Big Pecks",
+      "height": "1ft 0in",
+      "weight": "4.0 lbs",
+      "stats": ""
+    },
+    {
+      "id": 17,
+      "image": "pokeImg/017.png",
+      "name": "Pidgeotto",
+      "type": "Normal/Flying",
+      "abilities": "Main: Keen Eye/Tangled Feet. Hidden: Big Pecks",
+      "height": "3ft 7in",
+      "weight": "66.1 lbs",
+      "stats": ""
+    },
+    {
+      "id": 18,
+      "image": "pokeImg/018.png",
+      "name": "Pidgeot",
+      "type": "Normal/Flying",
+      "abilities": "Main: Keen Eye/Tangled Feet. Hidden: Big Pecks",
+      "height": "4ft 11in",
+      "weight": "87.1 lbs",
+      "stats": "",
+      "variation": [
+        {
+          "idMega":18.1,
+          "image": "pokeImg/018-m.png",
+          "name": "Mega Pidgeot",
+          "type": "Normal/Flying",
+          "height": "7ft 3in",
+          "weight": "111.3 lbs"
         }
       ]
     }
