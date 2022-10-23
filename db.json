@@ -371,71 +371,1241 @@
       "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110"
     },
     {
-      "id": ,
-      "image": "pokeImg/.png",
+      "id": 27,
+      "image": "pokeImg/027.png",
       "name": "Sandshrew",
       "type": "Ground",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "2ft 0in",
-      "weight": "",
-      "stats": ""
+      "weight": "26.5 lbs",
+      "stats": "HP: 50, Attack: 75, Defense: 85, Sp. Atk: 20, Sp. Def: 30, Speed: 40"
     },
     {
-      "id": ,
+      "id": 28,
+      "image": "pokeImg/028.png",
+      "name": "Sandslash",
+      "type": "Ground",
+      "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
+      "height": "3ft 3in",
+      "weight": "65 lbs",
+      "stats": "HP: 75, Attack: 100, Defense: 110, Sp. Atk: 45, Sp. Def: 55, Speed: 65"
+    },
+    {
+      "id": 29,
+      "image": "pokeImg/029.png",
+      "name": "Nidoran \t♀",
+      "type": "Poison",
+      "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
+      "height": "1ft 4in",
+      "weight": "15.4 lbs",
+      "stats": "HP: 55, Attack: 47, Defense: 52, Sp. Atk: 40, Sp. Def: 40, Speed: 41"
+    },
+    {
+      "id": 30,
+      "image": "pokeImg/030.png",
+      "name": "Nidorina",
+      "type": "Poison",
+      "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
+      "height": "2ft 7in",
+      "weight": "44.1 lbs",
+      "stats": "HP: 70, Attack: 62, Defense: 67, Sp. Atk: 55, Sp. Def: 55, Speed: 56"
+    },
+    {
+      "id": 31,
+      "image": "pokeImg/031.png",
+      "name": "Nidoqueen",
+      "type": "Poison/Ground",
+      "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
+      "height": "4ft 3in",
+      "weight": "132.3",
+      "stats": "HP: 90, AttacK 92, Defense: 87, Sp. Atk: 75, Sp. Def: 85, Speed: 76"
+    },
+    {
+      "id": 32,
+      "image": "pokeImg/032.png",
+      "name": "Nidoran \t♂",
+      "type": "Poison",
+      "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
+      "height": "1'08\"",
+      "weight": "19.8 lbs. ",
+      "stats": "HP: 46, Attack: 57, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 50"
+    },
+    {
+      "id": 33,
+      "image": "pokeImg/033.png",
+      "name": "Nidorino",
+      "type": "Poison",
+      "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
+      "height": "2'11\"",
+      "weight": "43.0 lbs. ",
+      "stats": "HP: 61, Attack: 72, Defense: 57, Sp. Atk: 55, Sp. Def: 55, Speed: 65"
+    },
+    {
+      "id": 34,
+      "image": "pokeImg/034.png",
+      "name": "Nidoking",
+      "type": "Poison/Ground",
+      "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
+      "height": "4'07\"",
+      "weight": "136.7 lbs. ",
+      "stats": "HP: 81, Attack: 102, Defense: 77, Sp. Atk: 85, Sp. Def: 75, Speed: 85"
+    },
+    {
+      "id": 35,
+      "image": "pokeImg/035.png",
+      "name": "Clefairy",
+      "type": "Fairy",
+      "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
+      "height": "2'00\"",
+      "weight": "16.5 lbs.",
+      "stats": "HP: 70, Attack: 45, Defense: 48, Sp. Atk: 60, Sp. Def: 65, Speed: 35"
+    },
+    {
+      "id": 36,
+      "image": "pokeImg/036.png",
+      "name": "Clefable",
+      "type": "Fairy",
+      "abilities": "Main: Cute Charm, Magic Guard | Hidden: Unaware",
+      "height": "4'03\"",
+      "weight": "88.2 lbs.",
+      "stats": "HP: 95, Attack: 70, Defense: 73, Sp. Atk: 95, Sp. Def: 90, Speed: 60"
+    },
+    {
+      "id": 37,
+      "image": "pokeImg/037.png",
+      "name": "Vulpix",
+      "type": "Fire",
+      "abilities": "Main: Flash Fire | Hidden: Drought",
+      "height": "2'00\"",
+      "weight": "21.8 lbs.",
+      "stats": "HP: 38, Attack: 41, Defense: 40, Sp. Atk: 50, Sp. Def: 65, Speed: 65"
+    },
+    {
+      "id": 38,
+      "image": "pokeImg/038.png",
+      "name": "Ninetales",
+      "type": "Fire",
+      "abilities": "Main: Flash Fire | Hidden: Drought",
+      "height": "3'07\"",
+      "weight": "43.9 lbs.",
+      "stats": "HP: 73, Attack: 76, Defense: 75, Sp. Atk: 81, Sp. Def: 100, Speed: 100"
+    },
+    {
+      "id": 39,
+      "image": "pokeImg/039.png",
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
+      "height": "1'08\"",
+      "weight": "12.1 lbs.",
+      "stats": "HP: 115, Attack: 45, Defense: 20, Sp. Atk: 45, Sp. Def: 25, Speed: 20"
+    },
+    {
+      "id": 40,
+      "image": "pokeImg/040.png",
+      "name": "Wigglytuff",
+      "type": "Normal/Fairy",
+      "abilities": "Main: Cute Charm, Competitive | Hidden: Frisk",
+      "height": "3'03\"",
+      "weight": "26.5 lbs.",
+      "stats": "HP: 140, Attack: 70, Defense: 45, Sp. Atk: 85, Sp. Def: 50, Speed: 45"
+    },
+    {
+      "id": 41,
+      "image": "pokeImg/041.png",
+      "name": "Zubat",
+      "type": "Poison/Flying",
+      "abilities": "Main: Inner Focus | Hidden: Infiltrator",
+      "height": "2'07\" ",
+      "weight": "16.5 lbs.",
+      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 30, Sp. Def: 40, Speed: 55"
+    },
+    {
+      "id": 42,
+      "image": "pokeImg/042.png",
+      "name": "Golbat",
+      "type": "Poison/Flying",
+      "abilities": "Main: Inner Focus | Hidden: Infiltrator",
+      "height": "5'03\"",
+      "weight": "121.3 lbs.",
+      "stats": "HP: 75, Attack: 80, Defense: 70, Sp. Atk: 65, Sp. Def: 75, Speed: 90d"
+    },
+    {
+      "id": 43,
+      "image": "pokeImg/043.png",
+      "name": "Oddish",
+      "type": "Grass/Poison",
+      "abilities": "Main: Chlorophyll | Hidden: Run Away",
+      "height": "1'08\"",
+      "weight": "11.9 lbs.",
+      "stats": "HP: 45, Attack: 50, Defense: 55, Sp. Atk: 75, Sp. Def: 65, Speed: 30"
+    },
+    {
+      "id": 44,
+      "image": "pokeImg/044.png",
+      "name": "Gloom",
+      "type": "Grass/Poison",
+      "abilities": "Main: Chlorophyll | Hidden: Stench ",
+      "height": "2'07\"",
+      "weight": "19.0 lbs.",
+      "stats": "HP: 60, Attack: 65, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40"
+    },
+    {
+      "id": 45,
+      "image": "pokeImg/045.png",
+      "name": "Vileplume",
+      "type": "Grass/Poison",
+      "abilities": "Main: Chlorophyll | Hidden: Effect Spore",
+      "height": "3'11\"",
+      "weight": "41.0 lbs.",
+      "stats": "HP: 75, Attack: 80, Defense: 85, Sp. Atk: 110, Sp. Def: 90, Speed: 50"
+    },
+    {
+      "id": 46,
+      "image": "pokeImg/046.png",
+      "name": "Paras",
+      "type": "Bug/Grass",
+      "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
+      "height": "1'00\"",
+      "weight": "11.9 lbs.",
+      "stats": "HP: 35, Attack: 70, Defense: 55, Sp. Atk: 45, Sp. Def: 55, Speed: 25"
+    },
+    {
+      "id": 47,
+      "image": "pokeImg/047.png",
+      "name": "Parasect",
+      "type": "Bug/Grass",
+      "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
+      "height": "3'03\"",
+      "weight": "65.0 lbs.",
+      "stats": "HP: 60, Attack: 95, Defense: 80, Sp. Atk: 60, Sp. Def: 80, Speed: 30"
+    },
+    {
+      "id": 48,
+      "image": "pokeImg/048.png",
+      "name": "Venonat",
+      "type": "Bug/Poison",
+      "abilities": "Main: Compound Eyes, Tinted Lens | Hidden: Run Away",
+      "height": "3'03\"",
+      "weight": "66.1 lbs. ",
+      "stats": "HP: 60, Attack: 55, Defense: 50, Sp. Atk: 40, Sp. Def: 55, Speed: 45"
+    },
+    {
+      "id": 49,
+      "image": "pokeImg/049.png",
+      "name": "Venomoth",
+      "type": "Bug/Poison",
+      "abilities": "Main: Shield Dust, Tinted Lens | Hidden: Wonder Skin",
+      "height": "4'11\"",
+      "weight": "27.6 lbs.",
+      "stats": "HP: 70, Attack: 65, Defense: 60, Sp. Atk: 90, Sp. Def: 75, Speed: 90"
+    },
+    {
+      "id": 50,
+      "image": "pokeImg/050.png",
+      "name": "Diglett",
+      "type": "Ground",
+      "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
+      "height": "0'08\"",
+      "weight": "1.8 lbs.",
+      "stats": "HP: 10, Attack: 55, Defense:25, Sp. Atk: 35, Sp. Def: 45, Speed: 95"
+    },
+    {
+      "id": 51,
+      "image": "pokeImg/051.png",
+      "name": "Dugtrio",
+      "type": "Ground",
+      "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
+      "height": "2'04\"",
+      "weight": "73.4 lbs.",
+      "stats": "HP: 35, Attack: 100, Defense: 50, Sp. Atk: 50, Sp. Def: 70, Speed: 120"
+    },
+    {
+      "id": 52,
+      "image": "pokeImg/052.png",
+      "name": "Meowth",
+      "type": "Normal",
+      "abilities": "Main: Pickup, Technician | Hidden: Unnerve",
+      "height": "1'04\"",
+      "weight": "9.3 lbs.",
+      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 40, Sp. Def: 40, Speed: 90"
+    },
+    {
+      "id": 53,
+      "image": "pokeImg/055.png",
+      "name": "Persian",
+      "type": "Normal",
+      "abilities": "Main: Limber, Technician | Hidden: Unnerve",
+      "height": "3'03\"",
+      "weight": "70.5 lbs.",
+      "stats": "HP: 65, Attack: 70, Defense: 60, Sp. Atk: 65, Sp. Def: 65, Speed: 115"
+    },
+    {
+      "id": 54,
+      "image": "pokeImg/054.png",
+      "name": "Psyduck",
+      "type": "Water",
+      "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
+      "height": "2'07\"",
+      "weight": "42.2 lbs.",
+      "stats": "HP: 50, Attack: 52, Defense: 48, Sp. Atk: 65, Sp. Def: 50, Speed: 55"
+    },
+    {
+      "id": 55,
+      "image": "pokeImg/055.png",
+      "name": "Golduck",
+      "type": "Water",
+      "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
+      "height": "5'07\"",
+      "weight": "168.9 lbs.",
+      "stats": "HP: 80, Attack: 82, Defense: 78, Sp. Atk: 95, Sp. Def: 80, Speed: 85"
+    },
+    {
+      "id": 56,
+      "image": "pokeImg/056.png",
+      "name": "Mankey",
+      "type": "Fighting",
+      "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
+      "height": "1'08\"",
+      "weight": "61.7 lbs. ",
+      "stats": "HP: 40, Attack: 80, Defense: 35, Sp. Atk: 35, Sp. Def: 45, Speed: 70"
+    },
+    {
+      "id": 57,
+      "image": "pokeImg/057.png",
+      "name": "Primeape",
+      "type": "Fighting",
+      "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
+      "height": "3'03\"",
+      "weight": "70.5 lbs.",
+      "stats": "HP: 65, Attack: 105, Defense: 60, Sp. Atk: 60, Sp. Def: 70, Speed: 95"
+    },
+    {
+      "id": 58,
+      "image": "pokeImg/058.png",
+      "name": "Growlithe",
+      "type": "Fire",
+      "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
+      "height": "2'04\"",
+      "weight": "41.9 lbs.",
+      "stats": "HP: 55, Attack: 70, Defense: 45, Sp. Atk: 70, Sp. Def: 50, Speed: 60"
+    },
+    {
+      "id": 59,
+      "image": "pokeImg/059.png",
+      "name": "Arcanine",
+      "type": "Fire",
+      "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
+      "height": "6'03",
+      "weight": "341.7 lbs.",
+      "stats": "HP: 90, Attack: 110, Defense: 80, Sp. Atk: 100, Sp. Def: 80, Speed: 95"
+    },
+    {
+      "id": 60,
+      "image": "pokeImg/060.png",
+      "name": "Poliwag",
+      "type": "Water",
+      "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
+      "height": "2'00\"",
+      "weight": "27.3 lbs.",
+      "stats": "HP: 40, Attack: 50, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 90"
+    },
+    {
+      "id": 61,
+      "image": "pokeImg/061.png",
+      "name": "Poliwhirl",
+      "type": "Water",
+      "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
+      "height": "3'00\"",
+      "weight": "44.1 lbs.",
+      "stats": "HP: 65, Attack: 65, Defense: 65, Sp. Atk: 50, Sp. Def, 50, Speed: 90"
+    },
+    {
+      "id": 62,
+      "image": "pokeImg/062.png",
+      "name": "Poliwrath",
+      "type": "Water/Fighting",
+      "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
+      "height": "4'03\"",
+      "weight": "119.0 lbs.",
+      "stats": "HP: 90, Attack: 95, Defense: 95, Sp. Atk: 70, Sp. Def: 90, Speed: 70"
+    },
+    {
+      "id": 63,
+      "image": "pokeImg/063.png",
+      "name": "Abra",
+      "type": "Psychic",
+      "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
+      "height": "2'11\"",
+      "weight": "43.0 lbs. ",
+      "stats": "HP: 25, Attack: 20, Defense: 15, Sp. Atk: 105, Sp. Def: 55, Speed: 90"
+    },
+    {
+      "id": 64,
+      "image": "pokeImg/064.png",
+      "name": "Kadabra",
+      "type": "Psychic",
+      "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
+      "height": "4'03\"",
+      "weight": "124.6 lbs.",
+      "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 120, Sp. Def: 70, Speed: 105"
+    },
+    {
+      "id": 65,
+      "image": "pokeImg/065.png",
+      "name": "Alakazam",
+      "type": "Psychic",
+      "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
+      "height": "4'11\"",
+      "weight": "105.8 lbs.",
+      "stats": "HP: 55, Attack: 50, Defense: 45, Sp. Atk: 135, Sp. Def: 95, Speed: 120"
+    },
+    {
+      "id": 66,
+      "image": "pokeImg/066.png",
+      "name": "Machop",
+      "type": "Fighting",
+      "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
+      "height": "2'07\"",
+      "weight": "43.0 lbs.",
+      "stats": "HP: 70, Attack: 80, Defense: 50, Sp. Atk: 35, Sp. Def: 35, Speed: 35"
+    },
+    {
+      "id": 67,
+      "image": "pokeImg/067.png",
+      "name": "Machoke",
+      "type": "Fighting",
+      "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
+      "height": "4'11\"",
+      "weight": "155.4 lbs.",
+      "stats": "HP: 80, Attack: 100, Defense: 70, Sp. Atk: 50, Sp. Def: 60, Speed: 45"
+    },
+    {
+      "id": 68,
+      "image": "pokeImg/068.png",
+      "name": "Machamp",
+      "type": "Fighting",
+      "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
+      "height": "5'03\"",
+      "weight": "286.6 lbs.",
+      "stats": "HP: 90, Attack: 130, Defense: 80, Sp. Atk: 65, Sp. Def: 85, Speed: 55"
+    },
+    {
+      "id": 69,
+      "image": "pokeImg/069.png",
+      "name": "Bellsprout",
+      "type": "Grass/Poison",
+      "abilities": "Main: Chlorophyll | Hidden: Gluttony",
+      "height": "2'04\"",
+      "weight": "8.8 lbs.",
+      "stats": "HP: 50, Attack: 75, Defense: 35, Sp. Atk: 70, Sp. Def: 30, Speed: 40"
+    },
+    {
+      "id": 70,
+      "image": "pokeImg/070.png",
+      "name": "Weepinbell",
+      "type": "Grass/Poison",
+      "abilities": "Main: Chlorophyll | Hidden: Gluttony",
+      "height": "3'03\"",
+      "weight": "14.1 lbs.",
+      "stats": "HP: 65, Attack: 90, Defense: 50, Sp. Atk: 85, Sp. Def: 45, Speed: 55"
+    },
+    {
+      "id": 71,
+      "image": "pokeImg/071.png",
+      "name": "Victreebel",
+      "type": "Grass/Poison",
+      "abilities": "Main: Chlorophyll | Hidden: Gluttony",
+      "height": "5'07\"",
+      "weight": "34.2 lbs.",
+      "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 100, Sp. Def: 70, Speed: 70"
+    },
+    {
+      "id": 72,
+      "image": "pokeImg/072.png",
+      "name": "Tentacool",
+      "type": "Water/Poison",
+      "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
+      "height": "2'11\"",
+      "weight": "100.3 lbs.",
+      "stats": "HP: 40, Attack: 40, Defense: 35, Sp. Atk: 50, Sp. Def: 100, Speed: 70"
+    },
+    {
+      "id": 73,
+      "image": "pokeImg/073.png",
+      "name": "Tentacruel",
+      "type": "Water/Poison",
+      "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
+      "height": "5'03\"",
+      "weight": "121.3 lbs.",
+      "stats": "HP: 80, Attack: 70, Defense: 65, Sp. Atk: 80, Sp. Def: 120, Speed: 100"
+    },
+    {
+      "id": 74,
+      "image": "pokeImg/074.png",
+      "name": "Geodude",
+      "type": "Rock",
+      "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
+      "height": "1'04\"",
+      "weight": "44.1 lbs.",
+      "stats": "HP: 40, Attack: 80, Defense: 100, Sp. Atk: 30, Sp. Def: 30, Speed: 20"
+    },
+    {
+      "id": 75,
+      "image": "pokeImg/075.png",
+      "name": "Graveler",
+      "type": "Rock/Ground",
+      "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
+      "height": "3'03\"",
+      "weight": "231.5 lbs.",
+      "stats": "HP: 55, Attack: 95, Defense: 115, Sp. Atk: 45, Sp. Def: 45, Speed: 35"
+    },
+    {
+      "id": 76,
+      "image": "pokeImg/076.png",
+      "name": "Golem",
+      "type": "Rock/Ground",
+      "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
+      "height": "4'07\"",
+      "weight": "661.4 lbs.",
+      "stats": "HP: 80, Attack: 120, Defense: 130, Sp. Atk: 55, Sp. Def: 65, Speed: 45"
+    },
+    {
+      "id": 77,
+      "image": "pokeImg/077.png",
+      "name": "Ponyta",
+      "type": "Fire",
+      "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
+      "height": "3'03\"",
+      "weight": "66.1 lbs.",
+      "stats": "HP: 50, Attack: 85, Defense: 55, Sp. Atk: 65, Sp. Def: 65, Speed: 90"
+    },
+    {
+      "id": 78,
+      "image": "pokeImg/078.png",
+      "name": "Rapidash",
+      "type": "Fire",
+      "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
+      "height": "5'07\"",
+      "weight": "209.4 lbs.",
+      "stats": "HP: 65, Attack: 100, Defese: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 105"
+    },
+    {
+      "id": 79,
+      "image": "pokeImg/079.png",
+      "name": "Slowpoke",
+      "type": "Water/Psychic",
+      "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
+      "height": "3'11\"",
+      "weight": "79.4 lbs.",
+      "stats": "HP: 90, Attack: 65, Defense: 65, Sp. Atk: 40, Sp. Def: 40, Speed: 15"
+    },
+    {
+      "id": 80,
+      "image": "pokeImg/080.png",
+      "name": "Slowbro",
+      "type": "Water/Psychic",
+      "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
+      "height": "5'03\"",
+      "weight": "173.1 lbs.",
+      "stats": "HP: 95, Attack: 75, Defense: 110, Sp. Atk: 100, Sp. Def: 80, Speed: 30"
+    },
+    {
+      "id": 81,
+      "image": "pokeImg/081.png",
+      "name": "Magnemite",
+      "type": "Electric/Steel",
+      "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
+      "height": "1'00\"",
+      "weight": "13.2 lbs.",
+      "stats": "HP: 25, Attack: 35, Defense: 70, Sp. Atk: 95, Sp. Def: 55, Speed: 45"
+    },
+    {
+      "id": 82,
+      "image": "pokeImg/082.png",
+      "name": "Magneton",
+      "type": "Electric/Steel",
+      "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
+      "height": "3'03\"",
+      "weight": "132.3 lbs.",
+      "stats": "HP: 50, Attack: 60, Defense: 95, Sp. Atk: 120, Sp. Def: 70, Speed: 70"
+    },
+    {
+      "id": 83,
+      "image": "pokeImg/083.png",
+      "name": "Farfetch'd",
+      "type": "Normal/Flying",
+      "abilities": "Main: Keen Eye, Inner Focus | Hidden: Defiant",
+      "height": "2'07\"",
+      "weight": "33.1 lbs.",
+      "stats": "HP: 52, Attack: 90, Defense: 55, Sp. Atk: 58, Sp. Def: 62, Speed: 60"
+    },
+    {
+      "id": 84,
+      "image": "pokeImg/084.png",
+      "name": "Doduo",
+      "type": "Normal/Flying",
+      "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
+      "height": "4'07\"",
+      "weight": "86.4 lbs. ",
+      "stats": "HP: 35, Attack: 85, Defense: 45, Sp. Atk: 35, Sp. Def: 35, Speed: 75"
+    },
+    {
+      "id": 85,
+      "image": "pokeImg/085.png",
+      "name": "Dodrio",
+      "type": "Normal/Flying",
+      "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
+      "height": "5'11\"",
+      "weight": "187.8 lbs.",
+      "stats": "HP: 60, Attack: 110, Defense: 70, Sp. Atk: 60, Sp. Def: 60, Speed: 100"
+    },
+    {
+      "id": 86,
+      "image": "pokeImg/086.png",
+      "name": "Seel",
+      "type": "Water",
+      "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
+      "height": "3'07\"",
+      "weight": "198.4 lbs.",
+      "stats": "HP: 65, Attack: 45, Defense: 55, Sp. Atk: 45, Sp. Def: 70, Speed: 45"
+    },
+    {
+      "id": 87,
+      "image": "pokeImg/087.png",
+      "name": "Dewgong",
+      "type": "Water/Ice",
+      "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
+      "height": "5'07\"",
+      "weight": "264.6 lbs.",
+      "stats": "HP: 90, Attack: 70, Defense: 80, Sp. Atk: 70, Sp. Def: 95, Speed: 70"
+    },
+    {
+      "id": 88,
+      "image": "pokeImg/088.png",
+      "name": "Grimer",
+      "type": "Poison",
+      "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
+      "height": "2'11\"",
+      "weight": "66.1 lbs.",
+      "stats": "HP: 80, Attack: 80, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 25"
+    },
+    {
+      "id": 89,
+      "image": "pokeImg/089.png",
+      "name": "Muk",
+      "type": "Poison",
+      "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
+      "height": "3'11\"",
+      "weight": "66.1 lbs.",
+      "stats": "HP: 105, Attack: 105, Defense: 75, Sp. Atk: 65, Sp. Def: 100, Speed: 50"
+    },
+    {
+      "id": 90,
+      "image": "pokeImg/090.png",
+      "name": "Shellder",
+      "type": "Water",
+      "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
+      "height": "1'00\"",
+      "weight": "8.8 lbs.",
+      "stats": "HP: 30, Attack: 65, Defense: 100, Sp. Atk: 45, Sp. Def: 25, Speed: 40"
+    },
+    {
+      "id": 91,
+      "image": "pokeImg/091.png",
+      "name": "Cloyster",
+      "type": "Water/Ice",
+      "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
+      "height": "4'11\"",
+      "weight": "292.1 lbs.",
+      "stats": "HP: 50, Attack: 95, Defense: 180, Sp. Atk: 85, Sp. Def: 45, Speed: 70"
+    },
+    {
+      "id": 92,
+      "image": "pokeImg/092.png",
+      "name": "Gastly",
+      "type": "Ghost/Poison",
+      "abilities": "Main: Levitate",
+      "height": "4'03\"",
+      "weight": "0.2 lbs.",
+      "stats": "HP: 30, Attack: 35, Defense: 30, Sp. Atk: 100, Sp. Def: 35, Speed: 80"
+    },
+    {
+      "id": 93,
+      "image": "pokeImg/093.png",
+      "name": "Haunter",
+      "type": "Ghost/Poison",
+      "abilities": "Main: Levitae",
+      "height": "5'03\"",
+      "weight": "0.2 lbs.",
+      "stats": "HP: 45, Attack: 50, Defense: 45, Sp. Atk: 115, Sp. Def: 55, Speed: 95"
+    },
+    {
+      "id": 94,
+      "image": "pokeImg/094.png",
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "abilities": "Main: Cursed Body",
+      "height": "4'11\"",
+      "weight": "89.3 lbs.",
+      "stats": "HP: 60, Attack: 65, Defense: 60, Sp. Atk: 130, Sp. Def: 75, Speed: 110"
+    },
+    {
+      "id": 95,
+      "image": "pokeImg/095.png",
+      "name": "Onix",
+      "type": "Rock/Ground",
+      "abilities": "Main: Rock Head, Sturdy | Hidden: Weak Armor",
+      "height": "28'10\"",
+      "weight": "463.0 lbs.",
+      "stats": "HP: 35, Attack: 45, Defense: 160, Sp. Atk: 30, Sp. Def: 45, Speed: 70"
+    },
+    {
+      "id": 96,
+      "image": "pokeImg/096.png",
+      "name": "Drowzee",
+      "type": "Psychic",
+      "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
+      "height": "3'03\"",
+      "weight": "71.4 lbs.",
+      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42"
+    },
+    {
+      "id": 97,
+      "image": "pokeImg/097.png",
+      "name": "Hypno",
+      "type": "Psychic",
+      "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
+      "height": "5'03\"",
+      "weight": "166.7 lbs.",
+      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67"
+    },
+    {
+      "id": 98,
+      "image": "pokeImg/098.png",
+      "name": "Drowzee",
+      "type": "Psychic",
+      "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
+      "height": "3'03\"",
+      "weight": "71.4 lbs.",
+      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42"
+    },
+    {
+      "id": 99,
+      "image": "pokeImg/099.png",
+      "name": "Hypno",
+      "type": "Psychic",
+      "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
+      "height": "5'03\"",
+      "weight": "166.7 lbs.",
+      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67"
+    },
+    {
+      "id": 100,
+      "image": "pokeImg/100.png",
+      "name": "Voltorb",
+      "type": "Electric",
+      "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
+      "height": "1'08\"",
+      "weight": "22.9 lbs.",
+      "stats": "HP: 40, Attack: 30, Defense: 50, Sp. Atk: 55, Sp. Def: 55, Speed: 100"
+    },
+    {
+      "id": 101,
       "image": "pokeImg/.png",
       "name": "",
       "type": "",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": ""
     },
     {
-      "id": ,
+      "id": 102,
       "image": "pokeImg/.png",
       "name": "",
       "type": "",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": ""
     },
     {
-      "id": ,
+      "id": 103,
       "image": "pokeImg/.png",
       "name": "",
       "type": "",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": ""
     },
     {
-      "id": ,
+      "id": 104,
       "image": "pokeImg/.png",
       "name": "",
       "type": "",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": ""
     },
     {
-      "id": ,
+      "id": 105,
       "image": "pokeImg/.png",
       "name": "",
       "type": "",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": ""
     },
     {
-      "id": ,
+      "id": 106,
       "image": "pokeImg/.png",
       "name": "",
       "type": "",
-      "abilities": "Main: |  Hidden:",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 107,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 108,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 109,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 110,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 111,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 112,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 113,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 114,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 115,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 116,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 117,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 118,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 119,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 120,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 121,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 123,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 124,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 125,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 126,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 127,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 128,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 129,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 130,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 131,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 132,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 133,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 134,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 135,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 136,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 137,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 138,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 139,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 140,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 141,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 142,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 143,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 144,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 145,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 146,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 147,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 148,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 149,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 150,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": 151,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": ""
