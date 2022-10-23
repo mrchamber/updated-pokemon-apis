@@ -9,7 +9,7 @@
       "height": "2ft 4in",
       "weight": "15.2 lbs",
       "stats": "HP: 45, Attack: 49, Defense: 49, Sp. Atk, 65, Sp. Def: 65, Speed: 45",
-      "entry": "A strange seed was planted on its back at birth. The plan sprouts and grows with this Pokemon. It can go for days without eating a single morse. In the bulb on its back, it stores energy. The bulb-like pouch on its back grows larger as it ages. The pouch is filled with numerous seeds"
+      "generation": ""
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "height": "3ft 3in",
       "weight": "28.7 lbs",
       "stats": "HP: 60, Attack: 62, Defense: 63, Sp. Atk: 80, Sp. Def: 80, Speed: 60",
-      "entry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.The bulb grows by drawing energy. It gives off an aroma when it is ready to bloom. The bud on its back apparently draws energy from its body. The bud is said to open into a large flower when fully grown."
+      "generation": ""
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "height": "6ft 7in",
       "weight": "220.5 lbs",
       "stats": "HP: 80, Attack: 82, Defense: 83, Sp. Atk. 83, Sp. Def: 100, Speed: 80",
-      "entry": "The flower on its back blooms when it is absorbing solar energ, which is then absorbed and used for energy. It stays on the move to seek sunlight. Once it's catching the sun's rays, it often remains quiet and still.",
+      "generation": "",
       "variation": [
         {
           "idMega":3.1,
@@ -60,7 +60,7 @@
       "height": "2ft 0in",
       "weight": "18.7 lbs",
       "stats": "HP: 39, Attack: 52, Defense: 43, Sp. Atk: 60, Sp. Def: 50, Speed: 65",
-      "entry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail. The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places. Even the newborns have flaming tails Unfamiliar with fire, babies are said to accidentally burn themselves."
+      "generation": ""
     },
     {
       "id": 5,
@@ -71,7 +71,7 @@
       "height": "3ft 7in",
       "weight": "41.9 lbs",
       "stats": "HP: 58, Attack: 64, Defense: 58, Sp. Atk: 80, Sp. Def: 65, Speed: 80",
-      "entry":"When it swings its burning tail, it elevates the temperature to unbearably high levels. Tough fights could excite this Pokemon. When excited, it may blow out bluish-white flames. It appears to be very vicioius. It attacks with razor-sharp claws and won't stop until the enemy is defeated."
+      "generation": ""
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
       "height": "5ft 7in",
       "weight": "199.5 lbs",
       "stats": "HP: 78, Attack: 84, Defense: 78, Sp. Atk: 109, Sp. Def: 85, Speed: 100",
-      "entry": "Its fiery breath reaches incredible temperatures. It spits fire that is hot enough to melt boulders and can quickly melt glaciers weighing 10,000 tons. When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.  Charizard is known to cause forest fires unintentionally.",
+      "generation": "",
       "variation": [
         {
           "idMega":3.11,
@@ -119,7 +119,7 @@
       "height": "1ft 8in",
       "weight": "19.8 lbs",
       "stats": "HP: 44, Attack: 48, Defense: 65, Sp. Atk: 50, Sp. Def: 64, Speed: 43",
-      "entry": "After birth, its back swells and hardens into a shell. It takes time for the shell to form and harden after hatching. It powerfully sprays foam from its mout, shoots water at prey while in the water and withdraws its shell when in danger."
+      "generation": ""
     },
     {
       "id": 8,
@@ -130,7 +130,7 @@
       "height": "3ft 3in",
       "weight": "49.6 lbs",
       "stats": "HP: 59, Attack: 63, Defense: 80, Sp. Atk: 65, Sp. Def: 80, Speed: 58",
-      "entry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance. When tapped, this Pokemon will pull in its head, but its tail will still stick out a little bit. The tail is covered with a rich fur. It stores air in the fur before taking extended dives underwater."
+      "generation": ""
     },
     {
       "id": 9,
@@ -141,7 +141,7 @@
       "height": "5ft 3in",
       "weight": "188.5 lbs",
       "stats": "HP: 79, Attack: 83, Defense: 100, Sp. Atk: 85, Sp. Def: 105, Speed: 78",
-      "entry": "A brutal Pokemon with pressurized water jets on its shell. It has spouts extending from its shell at the top, which is used for high speed tackles. They spray water like cannons, hard enough to pierce concrete walls. Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+      "generation": "",
       "variation": [
         {
           "idMega":9.1,
@@ -170,7 +170,7 @@
       "height": "1ft 0in",
       "weight": "6.4 lbs",
       "stats": "HP: 45, Attack: 30, Defense: 35, Sp. Atk: 20, Sp. Def: 20, Speed: 45",
-      "entry": ""
+      "generation": ""
     },
     {
       "id": 11,
@@ -181,7 +181,7 @@
       "height": "2ft 4in",
       "weight": "21.8 lbs",
       "stats": "HP: 50, Attack: 20, Defense: 55, Sp. Atk: 25, Sp. Def: 25, Speed: 30",
-      "entry": ""
+      "generation": ""
     },
     {
       "id": 12,
@@ -192,7 +192,7 @@
       "height": "3ft 7in",
       "weight": "70.5 lbs",
       "stats": "HP: 60, Attack: 45, Defense: 50, Sp. Atk: 80, Sp. Def: 80, Speed: 70",
-      "entry": "",
+      "generation": "",
       "variation": [
         {
           "idGigantamax":12.4 ,
@@ -213,7 +213,7 @@
       "height": "1ft 0in",
       "weight": "7.1 lbs",
       "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 20, Sp. Def: 20, Speed: 50",
-      "entry": ""
+      "generation": ""
     },
     {
       "id": 14,
@@ -224,7 +224,7 @@
       "height": "2ft 0in",
       "weight": "22.0 lbs",
       "stats": "HP: 45, Attack: 25, Defense: 50, Sp. Atk: 25, Sp. Def: 25, Speed: 35",
-      "entry": ""
+      "generation": ""
     },
     {
       "id": 15,
@@ -235,7 +235,7 @@
       "height": "3ft 3in",
       "weight": "65.0 lbs",
       "stats": "HP: 65, Attack: 80, Defense: 40, Sp. Atk: 45, Sp. Def: 80, Speed: 75",
-      "entry": "",
+      "generation": "",
       "variation": [
         {
           "idMega":15.1,
@@ -256,7 +256,7 @@
       "height": "1ft 0in",
       "weight": "4.0 lbs",
       "stats": "HP: 40, Attack: 45, Defense: 40, Sp. Atk: 35, Sp. Def: 35, Speed: 56",
-      "entry": ""
+      "generation": ""
     },
     {
       "id": 17,
@@ -267,7 +267,7 @@
       "height": "3ft 7in",
       "weight": "66.1 lbs",
       "stats": "HP: 63, Attack: 60, Defense: 55, Sp. Atk: 50, Sp. Def: 50, Speed: 71",
-      "entry": ""
+      "generation": ""
     },
     {
       "id": 18,
@@ -278,7 +278,7 @@
       "height": "4ft 11in",
       "weight": "87.1 lbs",
       "stats": "HP: 83, Attack: 80, Defense: 75, Sp. Atk: 70, Sp. Def: 70, Speed: 101",
-      "entry": "",
+      "generation": "",
       "variation": [
         {
           "idMega":18.1,
@@ -298,7 +298,9 @@
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "1ft 0in",
       "weight": "7.7 lbs",
-      "stats": "HP: 30, Attack: 56, Defense: 35, Sp. Atk: 25, Sp. Def: 35, Speed: 72"
+      "stats": "HP: 30, Attack: 56, Defense: 35, Sp. Atk: 25, Sp. Def: 35, Speed: 72",
+      "generation": ""
+
     },
     {
       "id": 20,
@@ -308,7 +310,8 @@
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "2ft 4in",
       "weight": "40.8 lbs",
-      "stats": "HP: 55, Attack: 81, Defense: 60, Sp. Atk: 50, Sp. Def: 70, Speed: 97"
+      "stats": "HP: 55, Attack: 81, Defense: 60, Sp. Atk: 50, Sp. Def: 70, Speed: 97",
+      "generation": ""
     },
     {
       "id": 21,
@@ -318,7 +321,8 @@
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "1ft 0in",
       "weight": "4.4 lbs",
-      "stats": "HP: 40, Attack: 60, Defense: 30, Sp. Atk: 31, Sp. Def: 31, Speed: 70"
+      "stats": "HP: 40, Attack: 60, Defense: 30, Sp. Atk: 31, Sp. Def: 31, Speed: 70",
+      "generation": ""
     },
     {
       "id": 22,
@@ -328,7 +332,8 @@
       "abilities": "Main:. Hidden:",
       "height": "3ft 11in",
       "weight": "83.8 lbs",
-      "stats": "HP: 65, Attack: 90, Defense: 65, Sp. Atk: 61, Sp. Def: 61, Speed: 100"
+      "stats": "HP: 65, Attack: 90, Defense: 65, Sp. Atk: 61, Sp. Def: 61, Speed: 100",
+      "generation": ""
     },
     {
       "id": 23,
@@ -338,7 +343,8 @@
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
       "height": "6ft 7in",
       "weight": "15.2 lbs",
-      "stats": "HP: 35, Attack: 60, Defense: 44, Sp. Atk: 40, Sp. Def: 54, Speed: 55"
+      "stats": "HP: 35, Attack: 60, Defense: 44, Sp. Atk: 40, Sp. Def: 54, Speed: 55",
+      "generation": ""
     },
     {
       "id": 24,
@@ -348,7 +354,8 @@
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
       "height": "11ft 6in",
       "weight": "143.3 lbs",
-      "stats": "HP: 60, Attack: 95, Defense: 69, Sp. Atk: 65, Sp. Def: 79, Speed: 80"
+      "stats": "HP: 60, Attack: 95, Defense: 69, Sp. Atk: 65, Sp. Def: 79, Speed: 80",
+      "generation": ""
     },
     {
       "id": 25,
@@ -358,7 +365,8 @@
       "abilities": "Main: Static |  Hidden: Lightning",
       "height": "1ft 4in",
       "weight": "13.2 lbs",
-      "stats": "HP: 35, Attack: 55, Defense: 40, Sp. Atk: 50, Sp. Def: 50, Speed: 90"
+      "stats": "HP: 35, Attack: 55, Defense: 40, Sp. Atk: 50, Sp. Def: 50, Speed: 90",
+      "generation": ""
     },
     {
       "id": 26,
@@ -368,7 +376,8 @@
       "abilities": "Main: Static |  Hidden: Lightning",
       "height": "2ft 7in",
       "weight": "66.1 lbs",
-      "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110"
+      "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110",
+      "generation": ""
     },
     {
       "id": 27,
@@ -378,7 +387,8 @@
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "2ft 0in",
       "weight": "26.5 lbs",
-      "stats": "HP: 50, Attack: 75, Defense: 85, Sp. Atk: 20, Sp. Def: 30, Speed: 40"
+      "stats": "HP: 50, Attack: 75, Defense: 85, Sp. Atk: 20, Sp. Def: 30, Speed: 40",
+      "generation": ""
     },
     {
       "id": 28,
@@ -388,7 +398,8 @@
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "3ft 3in",
       "weight": "65 lbs",
-      "stats": "HP: 75, Attack: 100, Defense: 110, Sp. Atk: 45, Sp. Def: 55, Speed: 65"
+      "stats": "HP: 75, Attack: 100, Defense: 110, Sp. Atk: 45, Sp. Def: 55, Speed: 65",
+      "generation": ""
     },
     {
       "id": 29,
@@ -398,7 +409,8 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "1ft 4in",
       "weight": "15.4 lbs",
-      "stats": "HP: 55, Attack: 47, Defense: 52, Sp. Atk: 40, Sp. Def: 40, Speed: 41"
+      "stats": "HP: 55, Attack: 47, Defense: 52, Sp. Atk: 40, Sp. Def: 40, Speed: 41",
+      "generation": ""
     },
     {
       "id": 30,
@@ -408,7 +420,8 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "2ft 7in",
       "weight": "44.1 lbs",
-      "stats": "HP: 70, Attack: 62, Defense: 67, Sp. Atk: 55, Sp. Def: 55, Speed: 56"
+      "stats": "HP: 70, Attack: 62, Defense: 67, Sp. Atk: 55, Sp. Def: 55, Speed: 56",
+      "generation": ""
     },
     {
       "id": 31,
@@ -418,7 +431,8 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
       "height": "4ft 3in",
       "weight": "132.3",
-      "stats": "HP: 90, AttacK 92, Defense: 87, Sp. Atk: 75, Sp. Def: 85, Speed: 76"
+      "stats": "HP: 90, AttacK 92, Defense: 87, Sp. Atk: 75, Sp. Def: 85, Speed: 76",
+      "generation": ""
     },
     {
       "id": 32,
@@ -428,7 +442,8 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "1'08\"",
       "weight": "19.8 lbs. ",
-      "stats": "HP: 46, Attack: 57, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 50"
+      "stats": "HP: 46, Attack: 57, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 50",
+      "generation": ""
     },
     {
       "id": 33,
@@ -438,7 +453,8 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "2'11\"",
       "weight": "43.0 lbs. ",
-      "stats": "HP: 61, Attack: 72, Defense: 57, Sp. Atk: 55, Sp. Def: 55, Speed: 65"
+      "stats": "HP: 61, Attack: 72, Defense: 57, Sp. Atk: 55, Sp. Def: 55, Speed: 65",
+      "generation": ""
     },
     {
       "id": 34,
@@ -448,7 +464,8 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
       "height": "4'07\"",
       "weight": "136.7 lbs. ",
-      "stats": "HP: 81, Attack: 102, Defense: 77, Sp. Atk: 85, Sp. Def: 75, Speed: 85"
+      "stats": "HP: 81, Attack: 102, Defense: 77, Sp. Atk: 85, Sp. Def: 75, Speed: 85",
+      "generation": ""
     },
     {
       "id": 35,
@@ -458,7 +475,8 @@
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
       "height": "2'00\"",
       "weight": "16.5 lbs.",
-      "stats": "HP: 70, Attack: 45, Defense: 48, Sp. Atk: 60, Sp. Def: 65, Speed: 35"
+      "stats": "HP: 70, Attack: 45, Defense: 48, Sp. Atk: 60, Sp. Def: 65, Speed: 35",
+      "generation": ""
     },
     {
       "id": 36,
@@ -468,7 +486,8 @@
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Unaware",
       "height": "4'03\"",
       "weight": "88.2 lbs.",
-      "stats": "HP: 95, Attack: 70, Defense: 73, Sp. Atk: 95, Sp. Def: 90, Speed: 60"
+      "stats": "HP: 95, Attack: 70, Defense: 73, Sp. Atk: 95, Sp. Def: 90, Speed: 60",
+      "generation": ""
     },
     {
       "id": 37,
@@ -478,7 +497,8 @@
       "abilities": "Main: Flash Fire | Hidden: Drought",
       "height": "2'00\"",
       "weight": "21.8 lbs.",
-      "stats": "HP: 38, Attack: 41, Defense: 40, Sp. Atk: 50, Sp. Def: 65, Speed: 65"
+      "stats": "HP: 38, Attack: 41, Defense: 40, Sp. Atk: 50, Sp. Def: 65, Speed: 65",
+      "generation": ""
     },
     {
       "id": 38,
@@ -488,7 +508,8 @@
       "abilities": "Main: Flash Fire | Hidden: Drought",
       "height": "3'07\"",
       "weight": "43.9 lbs.",
-      "stats": "HP: 73, Attack: 76, Defense: 75, Sp. Atk: 81, Sp. Def: 100, Speed: 100"
+      "stats": "HP: 73, Attack: 76, Defense: 75, Sp. Atk: 81, Sp. Def: 100, Speed: 100",
+      "generation": ""
     },
     {
       "id": 39,
@@ -498,7 +519,8 @@
       "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
       "height": "1'08\"",
       "weight": "12.1 lbs.",
-      "stats": "HP: 115, Attack: 45, Defense: 20, Sp. Atk: 45, Sp. Def: 25, Speed: 20"
+      "stats": "HP: 115, Attack: 45, Defense: 20, Sp. Atk: 45, Sp. Def: 25, Speed: 20",
+      "generation": ""
     },
     {
       "id": 40,
@@ -508,7 +530,8 @@
       "abilities": "Main: Cute Charm, Competitive | Hidden: Frisk",
       "height": "3'03\"",
       "weight": "26.5 lbs.",
-      "stats": "HP: 140, Attack: 70, Defense: 45, Sp. Atk: 85, Sp. Def: 50, Speed: 45"
+      "stats": "HP: 140, Attack: 70, Defense: 45, Sp. Atk: 85, Sp. Def: 50, Speed: 45",
+      "generation": ""
     },
     {
       "id": 41,
@@ -518,7 +541,8 @@
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "2'07\" ",
       "weight": "16.5 lbs.",
-      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 30, Sp. Def: 40, Speed: 55"
+      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 30, Sp. Def: 40, Speed: 55",
+      "generation": ""
     },
     {
       "id": 42,
@@ -528,7 +552,8 @@
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "5'03\"",
       "weight": "121.3 lbs.",
-      "stats": "HP: 75, Attack: 80, Defense: 70, Sp. Atk: 65, Sp. Def: 75, Speed: 90d"
+      "stats": "HP: 75, Attack: 80, Defense: 70, Sp. Atk: 65, Sp. Def: 75, Speed: 90",
+      "generation": ""
     },
     {
       "id": 43,
@@ -538,7 +563,8 @@
       "abilities": "Main: Chlorophyll | Hidden: Run Away",
       "height": "1'08\"",
       "weight": "11.9 lbs.",
-      "stats": "HP: 45, Attack: 50, Defense: 55, Sp. Atk: 75, Sp. Def: 65, Speed: 30"
+      "stats": "HP: 45, Attack: 50, Defense: 55, Sp. Atk: 75, Sp. Def: 65, Speed: 30",
+      "generation": ""
     },
     {
       "id": 44,
@@ -548,7 +574,8 @@
       "abilities": "Main: Chlorophyll | Hidden: Stench ",
       "height": "2'07\"",
       "weight": "19.0 lbs.",
-      "stats": "HP: 60, Attack: 65, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40"
+      "stats": "HP: 60, Attack: 65, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40",
+      "generation": ""
     },
     {
       "id": 45,
@@ -558,7 +585,8 @@
       "abilities": "Main: Chlorophyll | Hidden: Effect Spore",
       "height": "3'11\"",
       "weight": "41.0 lbs.",
-      "stats": "HP: 75, Attack: 80, Defense: 85, Sp. Atk: 110, Sp. Def: 90, Speed: 50"
+      "stats": "HP: 75, Attack: 80, Defense: 85, Sp. Atk: 110, Sp. Def: 90, Speed: 50",
+      "generation": ""
     },
     {
       "id": 46,
@@ -568,7 +596,8 @@
       "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
       "height": "1'00\"",
       "weight": "11.9 lbs.",
-      "stats": "HP: 35, Attack: 70, Defense: 55, Sp. Atk: 45, Sp. Def: 55, Speed: 25"
+      "stats": "HP: 35, Attack: 70, Defense: 55, Sp. Atk: 45, Sp. Def: 55, Speed: 25",
+      "generation": ""
     },
     {
       "id": 47,
@@ -578,7 +607,8 @@
       "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
       "height": "3'03\"",
       "weight": "65.0 lbs.",
-      "stats": "HP: 60, Attack: 95, Defense: 80, Sp. Atk: 60, Sp. Def: 80, Speed: 30"
+      "stats": "HP: 60, Attack: 95, Defense: 80, Sp. Atk: 60, Sp. Def: 80, Speed: 30",
+      "generation": ""
     },
     {
       "id": 48,
@@ -588,7 +618,8 @@
       "abilities": "Main: Compound Eyes, Tinted Lens | Hidden: Run Away",
       "height": "3'03\"",
       "weight": "66.1 lbs. ",
-      "stats": "HP: 60, Attack: 55, Defense: 50, Sp. Atk: 40, Sp. Def: 55, Speed: 45"
+      "stats": "HP: 60, Attack: 55, Defense: 50, Sp. Atk: 40, Sp. Def: 55, Speed: 45",
+      "generation": ""
     },
     {
       "id": 49,
@@ -598,7 +629,8 @@
       "abilities": "Main: Shield Dust, Tinted Lens | Hidden: Wonder Skin",
       "height": "4'11\"",
       "weight": "27.6 lbs.",
-      "stats": "HP: 70, Attack: 65, Defense: 60, Sp. Atk: 90, Sp. Def: 75, Speed: 90"
+      "stats": "HP: 70, Attack: 65, Defense: 60, Sp. Atk: 90, Sp. Def: 75, Speed: 90",
+      "generation": ""
     },
     {
       "id": 50,
@@ -608,7 +640,8 @@
       "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
       "height": "0'08\"",
       "weight": "1.8 lbs.",
-      "stats": "HP: 10, Attack: 55, Defense:25, Sp. Atk: 35, Sp. Def: 45, Speed: 95"
+      "stats": "HP: 10, Attack: 55, Defense:25, Sp. Atk: 35, Sp. Def: 45, Speed: 95",
+      "generation": ""
     },
     {
       "id": 51,
@@ -618,7 +651,8 @@
       "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
       "height": "2'04\"",
       "weight": "73.4 lbs.",
-      "stats": "HP: 35, Attack: 100, Defense: 50, Sp. Atk: 50, Sp. Def: 70, Speed: 120"
+      "stats": "HP: 35, Attack: 100, Defense: 50, Sp. Atk: 50, Sp. Def: 70, Speed: 120",
+      "generation": ""
     },
     {
       "id": 52,
@@ -628,7 +662,8 @@
       "abilities": "Main: Pickup, Technician | Hidden: Unnerve",
       "height": "1'04\"",
       "weight": "9.3 lbs.",
-      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 40, Sp. Def: 40, Speed: 90"
+      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 40, Sp. Def: 40, Speed: 90",
+      "generation": ""
     },
     {
       "id": 53,
@@ -638,7 +673,8 @@
       "abilities": "Main: Limber, Technician | Hidden: Unnerve",
       "height": "3'03\"",
       "weight": "70.5 lbs.",
-      "stats": "HP: 65, Attack: 70, Defense: 60, Sp. Atk: 65, Sp. Def: 65, Speed: 115"
+      "stats": "HP: 65, Attack: 70, Defense: 60, Sp. Atk: 65, Sp. Def: 65, Speed: 115",
+      "generation": ""
     },
     {
       "id": 54,
@@ -648,7 +684,8 @@
       "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
       "height": "2'07\"",
       "weight": "42.2 lbs.",
-      "stats": "HP: 50, Attack: 52, Defense: 48, Sp. Atk: 65, Sp. Def: 50, Speed: 55"
+      "stats": "HP: 50, Attack: 52, Defense: 48, Sp. Atk: 65, Sp. Def: 50, Speed: 55",
+      "generation": ""
     },
     {
       "id": 55,
@@ -658,7 +695,8 @@
       "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
       "height": "5'07\"",
       "weight": "168.9 lbs.",
-      "stats": "HP: 80, Attack: 82, Defense: 78, Sp. Atk: 95, Sp. Def: 80, Speed: 85"
+      "stats": "HP: 80, Attack: 82, Defense: 78, Sp. Atk: 95, Sp. Def: 80, Speed: 85",
+      "generation": ""
     },
     {
       "id": 56,
@@ -668,7 +706,8 @@
       "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
       "height": "1'08\"",
       "weight": "61.7 lbs. ",
-      "stats": "HP: 40, Attack: 80, Defense: 35, Sp. Atk: 35, Sp. Def: 45, Speed: 70"
+      "stats": "HP: 40, Attack: 80, Defense: 35, Sp. Atk: 35, Sp. Def: 45, Speed: 70",
+      "generation": ""
     },
     {
       "id": 57,
@@ -678,7 +717,8 @@
       "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
       "height": "3'03\"",
       "weight": "70.5 lbs.",
-      "stats": "HP: 65, Attack: 105, Defense: 60, Sp. Atk: 60, Sp. Def: 70, Speed: 95"
+      "stats": "HP: 65, Attack: 105, Defense: 60, Sp. Atk: 60, Sp. Def: 70, Speed: 95",
+      "generation": ""
     },
     {
       "id": 58,
@@ -688,7 +728,8 @@
       "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
       "height": "2'04\"",
       "weight": "41.9 lbs.",
-      "stats": "HP: 55, Attack: 70, Defense: 45, Sp. Atk: 70, Sp. Def: 50, Speed: 60"
+      "stats": "HP: 55, Attack: 70, Defense: 45, Sp. Atk: 70, Sp. Def: 50, Speed: 60",
+      "generation": ""
     },
     {
       "id": 59,
@@ -698,7 +739,8 @@
       "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
       "height": "6'03",
       "weight": "341.7 lbs.",
-      "stats": "HP: 90, Attack: 110, Defense: 80, Sp. Atk: 100, Sp. Def: 80, Speed: 95"
+      "stats": "HP: 90, Attack: 110, Defense: 80, Sp. Atk: 100, Sp. Def: 80, Speed: 95",
+      "generation": ""
     },
     {
       "id": 60,
@@ -708,7 +750,8 @@
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "2'00\"",
       "weight": "27.3 lbs.",
-      "stats": "HP: 40, Attack: 50, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 90"
+      "stats": "HP: 40, Attack: 50, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 90",
+      "generation": ""
     },
     {
       "id": 61,
@@ -718,7 +761,8 @@
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "3'00\"",
       "weight": "44.1 lbs.",
-      "stats": "HP: 65, Attack: 65, Defense: 65, Sp. Atk: 50, Sp. Def, 50, Speed: 90"
+      "stats": "HP: 65, Attack: 65, Defense: 65, Sp. Atk: 50, Sp. Def, 50, Speed: 90",
+      "generation": ""
     },
     {
       "id": 62,
@@ -728,7 +772,8 @@
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "4'03\"",
       "weight": "119.0 lbs.",
-      "stats": "HP: 90, Attack: 95, Defense: 95, Sp. Atk: 70, Sp. Def: 90, Speed: 70"
+      "stats": "HP: 90, Attack: 95, Defense: 95, Sp. Atk: 70, Sp. Def: 90, Speed: 70",
+      "generation": ""
     },
     {
       "id": 63,
@@ -738,7 +783,8 @@
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "2'11\"",
       "weight": "43.0 lbs. ",
-      "stats": "HP: 25, Attack: 20, Defense: 15, Sp. Atk: 105, Sp. Def: 55, Speed: 90"
+      "stats": "HP: 25, Attack: 20, Defense: 15, Sp. Atk: 105, Sp. Def: 55, Speed: 90",
+      "generation": ""
     },
     {
       "id": 64,
@@ -748,7 +794,8 @@
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "4'03\"",
       "weight": "124.6 lbs.",
-      "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 120, Sp. Def: 70, Speed: 105"
+      "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 120, Sp. Def: 70, Speed: 105",
+      "generation": ""
     },
     {
       "id": 65,
@@ -758,7 +805,8 @@
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "4'11\"",
       "weight": "105.8 lbs.",
-      "stats": "HP: 55, Attack: 50, Defense: 45, Sp. Atk: 135, Sp. Def: 95, Speed: 120"
+      "stats": "HP: 55, Attack: 50, Defense: 45, Sp. Atk: 135, Sp. Def: 95, Speed: 120",
+      "generation": ""
     },
     {
       "id": 66,
@@ -768,7 +816,8 @@
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "2'07\"",
       "weight": "43.0 lbs.",
-      "stats": "HP: 70, Attack: 80, Defense: 50, Sp. Atk: 35, Sp. Def: 35, Speed: 35"
+      "stats": "HP: 70, Attack: 80, Defense: 50, Sp. Atk: 35, Sp. Def: 35, Speed: 35",
+      "generation": ""
     },
     {
       "id": 67,
@@ -778,7 +827,8 @@
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "4'11\"",
       "weight": "155.4 lbs.",
-      "stats": "HP: 80, Attack: 100, Defense: 70, Sp. Atk: 50, Sp. Def: 60, Speed: 45"
+      "stats": "HP: 80, Attack: 100, Defense: 70, Sp. Atk: 50, Sp. Def: 60, Speed: 45",
+      "generation": ""
     },
     {
       "id": 68,
@@ -788,7 +838,8 @@
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "5'03\"",
       "weight": "286.6 lbs.",
-      "stats": "HP: 90, Attack: 130, Defense: 80, Sp. Atk: 65, Sp. Def: 85, Speed: 55"
+      "stats": "HP: 90, Attack: 130, Defense: 80, Sp. Atk: 65, Sp. Def: 85, Speed: 55",
+      "generation": ""
     },
     {
       "id": 69,
@@ -798,7 +849,8 @@
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "2'04\"",
       "weight": "8.8 lbs.",
-      "stats": "HP: 50, Attack: 75, Defense: 35, Sp. Atk: 70, Sp. Def: 30, Speed: 40"
+      "stats": "HP: 50, Attack: 75, Defense: 35, Sp. Atk: 70, Sp. Def: 30, Speed: 40",
+      "generation": ""
     },
     {
       "id": 70,
@@ -808,7 +860,8 @@
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "3'03\"",
       "weight": "14.1 lbs.",
-      "stats": "HP: 65, Attack: 90, Defense: 50, Sp. Atk: 85, Sp. Def: 45, Speed: 55"
+      "stats": "HP: 65, Attack: 90, Defense: 50, Sp. Atk: 85, Sp. Def: 45, Speed: 55",
+      "generation": ""
     },
     {
       "id": 71,
@@ -818,7 +871,8 @@
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "5'07\"",
       "weight": "34.2 lbs.",
-      "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 100, Sp. Def: 70, Speed: 70"
+      "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 100, Sp. Def: 70, Speed: 70",
+      "generation": ""
     },
     {
       "id": 72,
@@ -828,7 +882,8 @@
       "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
       "height": "2'11\"",
       "weight": "100.3 lbs.",
-      "stats": "HP: 40, Attack: 40, Defense: 35, Sp. Atk: 50, Sp. Def: 100, Speed: 70"
+      "stats": "HP: 40, Attack: 40, Defense: 35, Sp. Atk: 50, Sp. Def: 100, Speed: 70",
+      "generation": ""
     },
     {
       "id": 73,
@@ -838,7 +893,8 @@
       "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
       "height": "5'03\"",
       "weight": "121.3 lbs.",
-      "stats": "HP: 80, Attack: 70, Defense: 65, Sp. Atk: 80, Sp. Def: 120, Speed: 100"
+      "stats": "HP: 80, Attack: 70, Defense: 65, Sp. Atk: 80, Sp. Def: 120, Speed: 100",
+      "generation": ""
     },
     {
       "id": 74,
@@ -848,7 +904,8 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "1'04\"",
       "weight": "44.1 lbs.",
-      "stats": "HP: 40, Attack: 80, Defense: 100, Sp. Atk: 30, Sp. Def: 30, Speed: 20"
+      "stats": "HP: 40, Attack: 80, Defense: 100, Sp. Atk: 30, Sp. Def: 30, Speed: 20",
+      "generation": ""
     },
     {
       "id": 75,
@@ -858,7 +915,8 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "3'03\"",
       "weight": "231.5 lbs.",
-      "stats": "HP: 55, Attack: 95, Defense: 115, Sp. Atk: 45, Sp. Def: 45, Speed: 35"
+      "stats": "HP: 55, Attack: 95, Defense: 115, Sp. Atk: 45, Sp. Def: 45, Speed: 35",
+      "generation": ""
     },
     {
       "id": 76,
@@ -868,7 +926,8 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "4'07\"",
       "weight": "661.4 lbs.",
-      "stats": "HP: 80, Attack: 120, Defense: 130, Sp. Atk: 55, Sp. Def: 65, Speed: 45"
+      "stats": "HP: 80, Attack: 120, Defense: 130, Sp. Atk: 55, Sp. Def: 65, Speed: 45",
+      "generation": ""
     },
     {
       "id": 77,
@@ -878,7 +937,8 @@
       "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
       "height": "3'03\"",
       "weight": "66.1 lbs.",
-      "stats": "HP: 50, Attack: 85, Defense: 55, Sp. Atk: 65, Sp. Def: 65, Speed: 90"
+      "stats": "HP: 50, Attack: 85, Defense: 55, Sp. Atk: 65, Sp. Def: 65, Speed: 90",
+      "generation": ""
     },
     {
       "id": 78,
@@ -888,7 +948,8 @@
       "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
       "height": "5'07\"",
       "weight": "209.4 lbs.",
-      "stats": "HP: 65, Attack: 100, Defese: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 105"
+      "stats": "HP: 65, Attack: 100, Defese: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 105",
+      "generation": ""
     },
     {
       "id": 79,
@@ -898,7 +959,8 @@
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "3'11\"",
       "weight": "79.4 lbs.",
-      "stats": "HP: 90, Attack: 65, Defense: 65, Sp. Atk: 40, Sp. Def: 40, Speed: 15"
+      "stats": "HP: 90, Attack: 65, Defense: 65, Sp. Atk: 40, Sp. Def: 40, Speed: 15",
+      "generation": ""
     },
     {
       "id": 80,
@@ -908,7 +970,8 @@
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "5'03\"",
       "weight": "173.1 lbs.",
-      "stats": "HP: 95, Attack: 75, Defense: 110, Sp. Atk: 100, Sp. Def: 80, Speed: 30"
+      "stats": "HP: 95, Attack: 75, Defense: 110, Sp. Atk: 100, Sp. Def: 80, Speed: 30",
+      "generation": ""
     },
     {
       "id": 81,
@@ -918,7 +981,8 @@
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "1'00\"",
       "weight": "13.2 lbs.",
-      "stats": "HP: 25, Attack: 35, Defense: 70, Sp. Atk: 95, Sp. Def: 55, Speed: 45"
+      "stats": "HP: 25, Attack: 35, Defense: 70, Sp. Atk: 95, Sp. Def: 55, Speed: 45",
+      "generation": ""
     },
     {
       "id": 82,
@@ -928,7 +992,8 @@
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "3'03\"",
       "weight": "132.3 lbs.",
-      "stats": "HP: 50, Attack: 60, Defense: 95, Sp. Atk: 120, Sp. Def: 70, Speed: 70"
+      "stats": "HP: 50, Attack: 60, Defense: 95, Sp. Atk: 120, Sp. Def: 70, Speed: 70",
+      "generation": ""
     },
     {
       "id": 83,
@@ -938,7 +1003,8 @@
       "abilities": "Main: Keen Eye, Inner Focus | Hidden: Defiant",
       "height": "2'07\"",
       "weight": "33.1 lbs.",
-      "stats": "HP: 52, Attack: 90, Defense: 55, Sp. Atk: 58, Sp. Def: 62, Speed: 60"
+      "stats": "HP: 52, Attack: 90, Defense: 55, Sp. Atk: 58, Sp. Def: 62, Speed: 60",
+      "generation": ""
     },
     {
       "id": 84,
@@ -948,7 +1014,8 @@
       "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
       "height": "4'07\"",
       "weight": "86.4 lbs. ",
-      "stats": "HP: 35, Attack: 85, Defense: 45, Sp. Atk: 35, Sp. Def: 35, Speed: 75"
+      "stats": "HP: 35, Attack: 85, Defense: 45, Sp. Atk: 35, Sp. Def: 35, Speed: 75",
+      "generation": ""
     },
     {
       "id": 85,
@@ -958,7 +1025,8 @@
       "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
       "height": "5'11\"",
       "weight": "187.8 lbs.",
-      "stats": "HP: 60, Attack: 110, Defense: 70, Sp. Atk: 60, Sp. Def: 60, Speed: 100"
+      "stats": "HP: 60, Attack: 110, Defense: 70, Sp. Atk: 60, Sp. Def: 60, Speed: 100",
+      "generation": ""
     },
     {
       "id": 86,
@@ -968,7 +1036,8 @@
       "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
       "height": "3'07\"",
       "weight": "198.4 lbs.",
-      "stats": "HP: 65, Attack: 45, Defense: 55, Sp. Atk: 45, Sp. Def: 70, Speed: 45"
+      "stats": "HP: 65, Attack: 45, Defense: 55, Sp. Atk: 45, Sp. Def: 70, Speed: 45",
+      "generation": ""
     },
     {
       "id": 87,
@@ -978,7 +1047,8 @@
       "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
       "height": "5'07\"",
       "weight": "264.6 lbs.",
-      "stats": "HP: 90, Attack: 70, Defense: 80, Sp. Atk: 70, Sp. Def: 95, Speed: 70"
+      "stats": "HP: 90, Attack: 70, Defense: 80, Sp. Atk: 70, Sp. Def: 95, Speed: 70",
+      "generation": ""
     },
     {
       "id": 88,
@@ -988,7 +1058,8 @@
       "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
       "height": "2'11\"",
       "weight": "66.1 lbs.",
-      "stats": "HP: 80, Attack: 80, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 25"
+      "stats": "HP: 80, Attack: 80, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 25",
+      "generation": ""
     },
     {
       "id": 89,
@@ -998,7 +1069,8 @@
       "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
       "height": "3'11\"",
       "weight": "66.1 lbs.",
-      "stats": "HP: 105, Attack: 105, Defense: 75, Sp. Atk: 65, Sp. Def: 100, Speed: 50"
+      "stats": "HP: 105, Attack: 105, Defense: 75, Sp. Atk: 65, Sp. Def: 100, Speed: 50",
+      "generation": ""
     },
     {
       "id": 90,
@@ -1008,7 +1080,8 @@
       "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
       "height": "1'00\"",
       "weight": "8.8 lbs.",
-      "stats": "HP: 30, Attack: 65, Defense: 100, Sp. Atk: 45, Sp. Def: 25, Speed: 40"
+      "stats": "HP: 30, Attack: 65, Defense: 100, Sp. Atk: 45, Sp. Def: 25, Speed: 40",
+      "generation": ""
     },
     {
       "id": 91,
@@ -1018,7 +1091,8 @@
       "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
       "height": "4'11\"",
       "weight": "292.1 lbs.",
-      "stats": "HP: 50, Attack: 95, Defense: 180, Sp. Atk: 85, Sp. Def: 45, Speed: 70"
+      "stats": "HP: 50, Attack: 95, Defense: 180, Sp. Atk: 85, Sp. Def: 45, Speed: 70",
+      "generation": ""
     },
     {
       "id": 92,
@@ -1028,7 +1102,8 @@
       "abilities": "Main: Levitate",
       "height": "4'03\"",
       "weight": "0.2 lbs.",
-      "stats": "HP: 30, Attack: 35, Defense: 30, Sp. Atk: 100, Sp. Def: 35, Speed: 80"
+      "stats": "HP: 30, Attack: 35, Defense: 30, Sp. Atk: 100, Sp. Def: 35, Speed: 80",
+      "generation": ""
     },
     {
       "id": 93,
@@ -1038,7 +1113,8 @@
       "abilities": "Main: Levitae",
       "height": "5'03\"",
       "weight": "0.2 lbs.",
-      "stats": "HP: 45, Attack: 50, Defense: 45, Sp. Atk: 115, Sp. Def: 55, Speed: 95"
+      "stats": "HP: 45, Attack: 50, Defense: 45, Sp. Atk: 115, Sp. Def: 55, Speed: 95",
+      "generation": ""
     },
     {
       "id": 94,
@@ -1048,7 +1124,8 @@
       "abilities": "Main: Cursed Body",
       "height": "4'11\"",
       "weight": "89.3 lbs.",
-      "stats": "HP: 60, Attack: 65, Defense: 60, Sp. Atk: 130, Sp. Def: 75, Speed: 110"
+      "stats": "HP: 60, Attack: 65, Defense: 60, Sp. Atk: 130, Sp. Def: 75, Speed: 110",
+      "generation": ""
     },
     {
       "id": 95,
@@ -1058,7 +1135,8 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Weak Armor",
       "height": "28'10\"",
       "weight": "463.0 lbs.",
-      "stats": "HP: 35, Attack: 45, Defense: 160, Sp. Atk: 30, Sp. Def: 45, Speed: 70"
+      "stats": "HP: 35, Attack: 45, Defense: 160, Sp. Atk: 30, Sp. Def: 45, Speed: 70",
+      "generation": ""
     },
     {
       "id": 96,
@@ -1068,7 +1146,8 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "3'03\"",
       "weight": "71.4 lbs.",
-      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42"
+      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42",
+      "generation": ""
     },
     {
       "id": 97,
@@ -1078,7 +1157,8 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "5'03\"",
       "weight": "166.7 lbs.",
-      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67"
+      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67",
+      "generation": ""
     },
     {
       "id": 98,
@@ -1088,7 +1168,8 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "3'03\"",
       "weight": "71.4 lbs.",
-      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42"
+      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42",
+      "generation": ""
     },
     {
       "id": 99,
@@ -1098,7 +1179,8 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "5'03\"",
       "weight": "166.7 lbs.",
-      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67"
+      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67",
+      "generation": ""
     },
     {
       "id": 100,
@@ -1108,507 +1190,569 @@
       "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
       "height": "1'08\"",
       "weight": "22.9 lbs.",
-      "stats": "HP: 40, Attack: 30, Defense: 50, Sp. Atk: 55, Sp. Def: 55, Speed: 100"
+      "stats": "HP: 40, Attack: 30, Defense: 50, Sp. Atk: 55, Sp. Def: 55, Speed: 100",
+      "generation": ""
     },
     {
       "id": 101,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Electrode",
+      "type": "Electric",
+      "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
+      "height": "3'11\"",
+      "weight": "146.8 lbs.",
+      "stats": "HP: 60, Attack: 50, Defense: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 140",
+      "generation": ""
     },
     {
       "id": 102,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Exeggcute",
+      "type": "Grass/Psychic",
+      "abilities": "Main: Chlorophyl | Hidden: Harvest",
+      "height": "1'04\"",
+      "weight": "5.5 lbs.",
+      "stats": "HP: 60, Attack: 40, Defense: 80, Sp. Atk: 60, Sp. Def: 45, Speed: 40",
+      "generation": ""
     },
     {
       "id": 103,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Exeggutor",
+      "type": "Grass/Psychic",
+      "abilities": "Main: Choorophyl | Hidden: Frisk",
+      "height": "6'07\"",
+      "weight": "264.6 lbs.",
+      "stats": "HP: 95, Attack: 95, Defense: 85, Sp. Atk: 125, Sp. Def: 75, Speed: 55",
+      "generation": ""
     },
     {
       "id": 104,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Cubone",
+      "type": "Ground",
+      "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
+      "height": "1'04\"",
+      "weight": "14.3 lbs.",
+      "stats": "HP: 50, Attack: 50, Defense: 95, Sp. Atk: 40, Sp. Def: 50, Speed: 35",
+      "generation": ""
     },
     {
       "id": 105,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Marowak",
+      "type": "Ground",
+      "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
+      "height": "3'03\"",
+      "weight": "99.2 lbs.",
+      "stats": "HP: 60, Attack: 80, Defense: 100, Sp. Atk: 50, Sp. Def: 80, Speed: 45",
+      "generation": ""
     },
     {
       "id": 106,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Hitmonlee",
+      "type": "Fighting",
+      "abilities": "Main: Limber, Reckless | Hidden: Unburden",
+      "height": "4'11\"",
+      "weight": "109.8 lbs. ",
+      "stats": "HP: 50, Attack: 120, Defense: 53, Sp. Atk: 35, Sp. Def: 110, Speed: 87",
+      "generation": ""
     },
     {
       "id": 107,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Hitmonchan",
+      "type": "Fighting",
+      "abilities": "Main: Keen Eye, Iron Fist | Hidden: Inner Focus",
+      "height": "4'07\"",
+      "weight": "110.7 lbs.",
+      "stats": "HP: 50, Attack: 105, Defense: 79, Sp. Atk: 35, Sp. Def: 110, Speed: 76",
+      "generation": ""
     },
     {
       "id": 108,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Lickitung",
+      "type": "Normal",
+      "abilities": "Main: Own Tempo, Obvious | Hidden: Cloud Nine",
+      "height": "3'11\"",
+      "weight": "144.4 lbs.",
+      "stats": "HP: 90, Attack: 55, Defense: 75, Sp. Atk: 60, Sp. Def: 75, Speed: 30",
+      "generation": ""
     },
     {
       "id": 109,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Koffing",
+      "type": "Poison",
+      "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
+      "height": "2'00\"",
+      "weight": "2.2 lbs.",
+      "stats": "HP: 40, Attack: 65, Defense: 95, Sp. Atk: 60, Sp. Def: 45, Speed: 35",
+      "generation": ""
     },
     {
       "id": 110,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Weezing",
+      "type": "Poison",
+      "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
+      "height": "3'11\"",
+      "weight": "20.9 lbs.",
+      "stats": "HP: 65, Attack: 90, Defense: 120, Sp. Atk: 85, Sp. Def: 70, Speed: 60",
+      "generation": ""
     },
     {
       "id": 111,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Rhyhorn",
+      "type": "Ground/Rock",
+      "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
+      "height": "3'03\"",
+      "weight": "253.5 lbs.",
+      "stats": "HP: 80, Attack: 85, Defense: 95, Sp. Atk: 30, Sp. Def: 30, Speed: 25",
+      "generation": ""
     },
     {
       "id": 112,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Rhydon",
+      "type": "Ground/Rock",
+      "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
+      "height": "6'03\"",
+      "weight": "264.6 lbs. ",
+      "stats": "HP: 105, Attack: 130, Defense: 120, Sp. Atk: 45, Sp. Def: 45, Speed: 40",
+      "generation": ""
     },
     {
       "id": 113,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Chansey",
+      "type": "Normal",
+      "abilities": "Main: Natural Cure, Serene Grace | Hidden: Healer",
+      "height": "3'07\"",
+      "weight": "76.3 lbs.",
+      "stats": "HP: 250, Attack: 5, Defense: 5, Sp. Atk: 35, Sp. Def: 105, Speed: 50",
+      "generation": ""
     },
     {
       "id": 114,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Tangela",
+      "type": "Grass",
+      "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Regenerator",
+      "height": "3'03\"",
+      "weight": "77.2 lbs.",
+      "stats": "HP: 65, Attack: 55, Defense: 115, Sp. Atk: 100, Sp. Def: 40, Speed: 60",
+      "generation": ""
     },
     {
       "id": 115,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Kangaskhan",
+      "type": "Normal",
+      "abilities": "Main: Early Bird, Scrappy | Hidden: Inner Focus",
+      "height": "7'03\"",
+      "weight": "176.4 lbs.",
+      "stats": "HP: 105, Attack: 95, Defense: 80, Sp. Atk: 40, Sp. Def: 80, Speed: 90",
+      "generation": ""
     },
     {
       "id": 116,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Horsea",
+      "type": "Water",
+      "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
+      "height": "1'04\"",
+      "weight": "17.6 lbs.",
+      "stats": "HP: 30, Attack: 40, Defense: 70, Sp. Atk: 70, Sp. Def: 25, Speed: 60",
+      "generation": ""
     },
     {
       "id": 117,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Seadra",
+      "type": "Water",
+      "abilities": "Main: Poison Point, Sniper | Hidden: Damp",
+      "height": "3'11\"",
+      "weight": "55.1 lbs.",
+      "stats": "HP: 55, Attack: 65, Defense: 95, Sp. Atk: 95, Sp. Def: 45, Speed: 85",
+      "generation": ""
     },
     {
       "id": 118,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Goldeen",
+      "type": "Water",
+      "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
+      "height": "2'00\"",
+      "weight": "33.1 lbs.",
+      "stats": "HP: 45, Attack: 67, Defense: 60, Sp. Atk: 35, Sp. Def: 50, Speed: 63",
+      "generation": ""
     },
     {
       "id": 119,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Seaking",
+      "type": "Water",
+      "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
+      "height": "4'03\"",
+      "weight": "86.0 lbs.",
+      "stats": "HP: 80, Attack: 92, Defense: 65, Sp. Atk: 65, Sp. Def: 80, Speed: 68",
+      "generation": ""
     },
     {
       "id": 120,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Staryu",
+      "type": "Water",
+      "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
+      "height": "2'07\"",
+      "weight": "76.1 lbs.",
+      "stats": "HP: 30, Attack: 45, Defense: 55, Sp. Atk: 70, Sp. Def: 55, Speed: 85",
+      "generation": ""
     },
     {
       "id": 121,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Starmie",
+      "type": "Water/Psychic",
+      "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
+      "height": "3'07\"",
+      "weight": "176.5 lbs.",
+      "stats": "HP: 60, Attack: 75, Defense: 85, Sp. Atk: 100, Sp. Def: 85, Speed: 115",
+      "generation": ""
+    },
+    {
+      "id": 122,
+      "image": "pokeImg/.png",
+      "name": "Mr.Mime",
+      "type": "Psychic/Fairy",
+      "abilities": "Main: Soundproof, Filter | Hidden: Technician",
+      "height": "4'03\"",
+      "weight": "120.2 lbs.",
+      "stats": "HP: 40, Attack: 45, Defense: 65, Sp. Atk: 100, Sp. Def: 120, Speed: 90",
+      "generation": ""
     },
     {
       "id": 123,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Scyther",
+      "type": "Bug/Flying",
+      "abilities": "Main: Swarm, Technician | Hidden: Steadfast",
+      "height": "4'11\"",
+      "weight": "123.5 lbs.",
+      "stats": "HP: 70, Attack: 110, Defense: 80, Sp. Atk: 55, Sp. Def: 80, Speed: 105",
+      "generation": ""
     },
     {
       "id": 124,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Jynx",
+      "type": "Ice/Psychic",
+      "abilities": "Main: Oblivious, Forewarn | Hidden: Dry Skin",
+      "height": "4'07\"",
+      "weight": "89.5 lbs.",
+      "stats": "HP: 65, Attack: 50, Defense: 35, Sp. Atk: 115, Sp. Def: 95, Speed: 95",
+      "generation": ""
     },
     {
       "id": 125,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Electabuzz",
+      "type": "Electric",
+      "abilities": "Main: Static | Hidden: Vital Spirit",
+      "height": "3'07\"",
+      "weight": "66.1 lbs. ",
+      "stats": "HP: 65, Attack: 83, Defense: 57, Sp. Atk: 95, Sp. Def: 85, Speed: 105",
+      "generation": ""
     },
     {
       "id": 126,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Magmar",
+      "type": "Fire",
+      "abilities": "Main: Flame Body | Hidden: Vital Spirit",
+      "height": "4'03\"",
+      "weight": "98.1 lbs. ",
+      "stats": "HP: 65, Attack: 95, Defense: 57, Sp. Atk: 100, Sp. 85, Speed: 93",
+      "generation": ""
     },
     {
       "id": 127,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Pinsir",
+      "type": "Bug",
+      "abilities": "Main: Hyper Cutter, Mold Breaker | Hidden: Moxie",
+      "height": "4'11\"",
+      "weight": "121.3 lbs.",
+      "stats": "HP: 65, Attack: 125, Defense: 100, Sp. Atk: 55, Sp. Def: 70, Speed: 85",
+      "generation": ""
     },
     {
       "id": 128,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Tauros",
+      "type": "Normal",
+      "abilities": "Main: Intimidate, Anger Point | Hidden: Sheer Force",
+      "height": "4'07\"",
+      "weight": "194.9 lbs.",
+      "stats": "HP: 75, Attack: 100, Defense: 95, Sp. Atk: 40, Sp. Def: 70, Speed: 100",
+      "generation": ""
     },
     {
       "id": 129,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Magikarp",
+      "type": "Water",
+      "abilities": "Main: Swift Swim | Hidden: Rattled",
+      "height": "2'11\"",
+      "weight": "22.0 lbs.",
+      "stats": "HP: 20, Attack: 10, Defense: 55, Sp. Atk: 15, Sp. Def: 20, Speed: 80",
+      "generation": ""
     },
     {
       "id": 130,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Gyarados",
+      "type": "Water/Flying",
+      "abilities": "Main: Intimidate | Hidden: Moxie",
+      "height": "21'04\"",
+      "weight": "518.1 lbs.",
+      "stats": "HP: 95, Attack: 125, Defense: 79, Sp. Atk: 60, Sp. Def: 100, Speed: 81",
+      "generation": ""
     },
     {
       "id": 131,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Lapras",
+      "type": "Water/Ice",
+      "abilities": "Main: Water Absorb, Shell Armor | Hidden: Hydration",
+      "height": "8'02\"",
+      "weight": "485.0 lbs.",
+      "stats": "HP: 130, Attack: 85, Defense: 80, Sp. Atk: 85, Sp. Def: 95, Speed: 60",
+      "generation": ""
     },
     {
       "id": 132,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Ditto",
+      "type": "Normal",
+      "abilities": "Main: Limber | Hidden: Imposter",
+      "height": "1'00\"",
+      "weight": "8.8 lbs.",
+      "stats": "HP: 48, Attack: 48, Defense: 48, Sp. Atk: 48, Sp. Def: 48, Speed: 48",
+      "generation": ""
     },
     {
       "id": 133,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Eevee",
+      "type": "Normal",
+      "abilities": "Main: Run Away, Adaptability | Hidden: Anticipation",
+      "height": "1'00\"",
+      "weight": "14.3 lbs.",
+      "stats": "HP: 55, Attack: 55, Defense: 50, Sp. Atk: 45, Sp. Def: 65, Speed: 55",
+      "generation": ""
     },
     {
       "id": 134,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Vaporeon",
+      "type": "Water",
+      "abilities": "Main: Water Absorb | Hidden: Hydration",
+      "height": "3'03\"",
+      "weight": "63.9 lbs.",
+      "stats": "HP: 130, Attack: 65, Defense: 60, Sp. Atk: 110, Sp. Def: 95, Speed: 65",
+      "generation": ""
     },
     {
       "id": 135,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Jolteon",
+      "type": "Electric",
+      "abilities": "Main: Volt Absorb | Hidden: Quick Feet",
+      "height": "2'07\"",
+      "weight": "54.0 lbs.",
+      "stats": "HP: 65, Attack: 65, Defense: 60, Sp. Atk: 110, Sp. Def: 95, Speed: 130",
+      "generation": ""
     },
     {
       "id": 136,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Flareon",
+      "type": "Fire",
+      "abilities": "Main: Flash Fire | Hidden: Guts",
+      "height": "2'11\"",
+      "weight": "55.1 lbs.",
+      "stats": "HP: 65, Attack: 130, Defense: 60, Sp. Atk: 95, Sp. Def: 110, Speed: 65",
+      "generation": ""
     },
     {
       "id": 137,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Porygon",
+      "type": "Normal",
+      "abilities": "Main: Trace, Download | Hidden: Analytic",
+      "height": "2'07\"",
+      "weight": "80.5 lbs.",
+      "stats": "HP: 65, Attack: 60, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40",
+      "generation": ""
     },
     {
       "id": 138,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Omanyte",
+      "type": "Rock/Water",
+      "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
+      "height": "1'04\"",
+      "weight": "16.5 lbs.",
+      "stats": "HP: 35, Attack: 40, Defense: 100, Sp. Atk: 90, Sp. Def: 55, Speed: 35",
+      "generation": ""
     },
     {
       "id": 139,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Omastar",
+      "type": "Rock/Water",
+      "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
+      "height": "3'03\"",
+      "weight": "77.2 lbs.",
+      "stats": "HP: 70, Attack: 60, Defense: 125, Sp. Atk, 115, Sp. Def: 70, Speed: 55",
+      "generation": ""
     },
     {
       "id": 140,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Kabuto",
+      "type": "Rock/Water",
+      "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
+      "height": "1'08\"",
+      "weight": "25.4 lbs.",
+      "stats": "HP: 30, Attack: 80, Defense: 90, Sp. Atk: 55, Sp. Def: 45, Speed: 55",
+      "generation": ""
     },
     {
       "id": 141,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Kabutops",
+      "type": "Rock/Water",
+      "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
+      "height": "4'03\"",
+      "weight": "89.3 lbs.",
+      "stats": "HP: 60, Attack: 115, Defense: 105, Sp. Atk: 65, Sp. Def: 70, Speed: 80",
+      "generation": ""
     },
     {
       "id": 142,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Aerodactyl",
+      "type": "Rock/Flying",
+      "abilities": "Main: Rock Head, Pressure | Hidden: Unnerve",
+      "height": "5'11\"",
+      "weight": "130.1 lbs.",
+      "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 60, Sp. Def, Speed: 130",
+      "generation": ""
     },
     {
       "id": 143,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Snorlax",
+      "type": "Normal",
+      "abilities": "Main: Immunity, Thick Fat | Hidden: Gluttony",
+      "height": "6'11\"",
+      "weight": "1014.1 lbs.",
+      "stats": "HP: 160, Attack: 110, Defense: 65, Sp. Atk, 65, Sp. Def: 65, Speed: 30",
+      "generation": ""
     },
     {
       "id": 144,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Articuno",
+      "type": "Ice/Flying",
+      "abilities": "Main: Pressure | Hidden: Snow Cloak",
+      "height": "5'07\"",
+      "weight": "122.1 lbs.",
+      "stats": "HP: 90, Attack: 85, Defense: 100, Sp. Atk: 95, Sp. Def: 125, Speed: 85",
+      "generation": ""
     },
     {
       "id": 145,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Zapdos",
+      "type": "Electric/Flying",
+      "abilities": "Main: Pressure, Static | Hidden: Lightning Rod",
+      "height": "5'03\"",
+      "weight": "116.0 lbs.",
+      "stats": "HP: 90, Attack: 90, Defense: 85. Sp. Atk: 125, Sp. Def: 90, Speed: 100",
+      "generation": ""
     },
     {
       "id": 146,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Moltres",
+      "type": "Fire/Flying",
+      "abilities": "Main: Pressure, Flame Body | Hidden: Beserk",
+      "height": "6'07\"",
+      "weight": "132.3 lbs.",
+      "stats": "HP: 90, Attack: 100, Defense: 90, Sp. Atk, 125, Sp. Def: 85, Speed: 90",
+      "generation": ""
     },
     {
       "id": 147,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Dratini",
+      "type": "Dragon",
+      "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
+      "height": "5'11\"",
+      "weight": "7.3 lbs.",
+      "stats": "HP: 41, Attack: 64, Denfese: 45, Sp. Atk: 50, Sp. Def: 50, Speed: 50",
+      "generation": ""
     },
     {
       "id": 148,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Dragonair",
+      "type": "Dragon",
+      "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
+      "height": "13'01\"",
+      "weight": "36.4 lbs",
+      "stats": "HP: 61, Attack: 84, Defense: 65, Sp.. Atk: 70, Sp. Def: 70, Speed: 70",
+      "generation": ""
     },
     {
       "id": 149,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Dragonite",
+      "type": "Dragon",
+      "abilities": "Main: Inner Focus | Hidden: Multiscale",
+      "height": "7'03\"",
+      "weight": "463.0 lbs.",
+      "stats": "HP: 91, Attack: 134, Defense: 95, Sp. Atk: 100, Sp. Def: 100, Speed: 80",
+      "generation": ""
     },
     {
       "id": 150,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "abilities": "Main: Pressure | Hidden: Unnerve",
+      "height": "6'07\"",
+      "weight": "269.0 lbs.",
+      "stats": "HP: 106, Attack: 110, Defense: 90, Sp. Atk: 154, Sp. Def: 90, Speed: 130",
+      "generation": ""
     },
     {
       "id": 151,
       "image": "pokeImg/.png",
-      "name": "",
-      "type": "",
-      "abilities": "",
-      "height": "",
-      "weight": "",
-      "stats": ""
+      "name": "Mew",
+      "type": "Psychic",
+      "abilities": "Main: Synchroize",
+      "height": "1'04\"",
+      "weight": "8.8 lbs.",
+      "stats": "HP: 100, Attack: 100, Defense: 100, Sp. Atk: 100, Sp. Def: 100, Speed: 100",
+      "generation": ""
     }
   ]
 }
