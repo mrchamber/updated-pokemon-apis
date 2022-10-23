@@ -9,7 +9,10 @@
       "height": "2ft 4in",
       "weight": "15.2 lbs",
       "stats": "HP: 45, Attack: 49, Defense: 49, Sp. Atk, 65, Sp. Def: 65, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 2,
@@ -20,7 +23,10 @@
       "height": "3ft 3in",
       "weight": "28.7 lbs",
       "stats": "HP: 60, Attack: 62, Defense: 63, Sp. Atk: 80, Sp. Def: 80, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 3,
@@ -31,7 +37,10 @@
       "height": "6ft 7in",
       "weight": "220.5 lbs",
       "stats": "HP: 80, Attack: 82, Defense: 83, Sp. Atk. 83, Sp. Def: 100, Speed: 80",
-      "generation": "",
+      "generation":
+      {
+        "name": "generation-i"
+      },
       "variation": [
         {
           "idMega":3.1,
@@ -60,7 +69,10 @@
       "height": "2ft 0in",
       "weight": "18.7 lbs",
       "stats": "HP: 39, Attack: 52, Defense: 43, Sp. Atk: 60, Sp. Def: 50, Speed: 65",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 5,
@@ -71,7 +83,10 @@
       "height": "3ft 7in",
       "weight": "41.9 lbs",
       "stats": "HP: 58, Attack: 64, Defense: 58, Sp. Atk: 80, Sp. Def: 65, Speed: 80",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 6,
@@ -82,7 +97,10 @@
       "height": "5ft 7in",
       "weight": "199.5 lbs",
       "stats": "HP: 78, Attack: 84, Defense: 78, Sp. Atk: 109, Sp. Def: 85, Speed: 100",
-      "generation": "",
+      "generation":
+      {
+        "name": "generation-i"
+      },
       "variation": [
         {
           "idMega":3.11,
@@ -119,7 +137,10 @@
       "height": "1ft 8in",
       "weight": "19.8 lbs",
       "stats": "HP: 44, Attack: 48, Defense: 65, Sp. Atk: 50, Sp. Def: 64, Speed: 43",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 8,
@@ -130,7 +151,10 @@
       "height": "3ft 3in",
       "weight": "49.6 lbs",
       "stats": "HP: 59, Attack: 63, Defense: 80, Sp. Atk: 65, Sp. Def: 80, Speed: 58",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 9,
@@ -141,7 +165,10 @@
       "height": "5ft 3in",
       "weight": "188.5 lbs",
       "stats": "HP: 79, Attack: 83, Defense: 100, Sp. Atk: 85, Sp. Def: 105, Speed: 78",
-      "generation": "",
+      "generation":
+      {
+        "name": "generation-i"
+      },
       "variation": [
         {
           "idMega":9.1,
@@ -170,7 +197,10 @@
       "height": "1ft 0in",
       "weight": "6.4 lbs",
       "stats": "HP: 45, Attack: 30, Defense: 35, Sp. Atk: 20, Sp. Def: 20, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 11,
@@ -181,7 +211,10 @@
       "height": "2ft 4in",
       "weight": "21.8 lbs",
       "stats": "HP: 50, Attack: 20, Defense: 55, Sp. Atk: 25, Sp. Def: 25, Speed: 30",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 12,
@@ -192,7 +225,10 @@
       "height": "3ft 7in",
       "weight": "70.5 lbs",
       "stats": "HP: 60, Attack: 45, Defense: 50, Sp. Atk: 80, Sp. Def: 80, Speed: 70",
-      "generation": "",
+      "generation":
+      {
+        "name": "generation-i"
+      },
       "variation": [
         {
           "idGigantamax":12.4 ,
@@ -213,7 +249,10 @@
       "height": "1ft 0in",
       "weight": "7.1 lbs",
       "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 20, Sp. Def: 20, Speed: 50",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 14,
@@ -224,7 +263,10 @@
       "height": "2ft 0in",
       "weight": "22.0 lbs",
       "stats": "HP: 45, Attack: 25, Defense: 50, Sp. Atk: 25, Sp. Def: 25, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 15,
@@ -235,7 +277,10 @@
       "height": "3ft 3in",
       "weight": "65.0 lbs",
       "stats": "HP: 65, Attack: 80, Defense: 40, Sp. Atk: 45, Sp. Def: 80, Speed: 75",
-      "generation": "",
+      "generation":
+      {
+        "name": "generation-i"
+      },
       "variation": [
         {
           "idMega":15.1,
@@ -256,7 +301,10 @@
       "height": "1ft 0in",
       "weight": "4.0 lbs",
       "stats": "HP: 40, Attack: 45, Defense: 40, Sp. Atk: 35, Sp. Def: 35, Speed: 56",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 17,
@@ -267,7 +315,10 @@
       "height": "3ft 7in",
       "weight": "66.1 lbs",
       "stats": "HP: 63, Attack: 60, Defense: 55, Sp. Atk: 50, Sp. Def: 50, Speed: 71",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 18,
@@ -278,7 +329,10 @@
       "height": "4ft 11in",
       "weight": "87.1 lbs",
       "stats": "HP: 83, Attack: 80, Defense: 75, Sp. Atk: 70, Sp. Def: 70, Speed: 101",
-      "generation": "",
+      "generation":
+      {
+        "name": "generation-i"
+      },
       "variation": [
         {
           "idMega":18.1,
@@ -299,7 +353,10 @@
       "height": "1ft 0in",
       "weight": "7.7 lbs",
       "stats": "HP: 30, Attack: 56, Defense: 35, Sp. Atk: 25, Sp. Def: 35, Speed: 72",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
 
     },
     {
@@ -311,7 +368,10 @@
       "height": "2ft 4in",
       "weight": "40.8 lbs",
       "stats": "HP: 55, Attack: 81, Defense: 60, Sp. Atk: 50, Sp. Def: 70, Speed: 97",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 21,
@@ -322,7 +382,10 @@
       "height": "1ft 0in",
       "weight": "4.4 lbs",
       "stats": "HP: 40, Attack: 60, Defense: 30, Sp. Atk: 31, Sp. Def: 31, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 22,
@@ -333,7 +396,10 @@
       "height": "3ft 11in",
       "weight": "83.8 lbs",
       "stats": "HP: 65, Attack: 90, Defense: 65, Sp. Atk: 61, Sp. Def: 61, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 23,
@@ -344,7 +410,10 @@
       "height": "6ft 7in",
       "weight": "15.2 lbs",
       "stats": "HP: 35, Attack: 60, Defense: 44, Sp. Atk: 40, Sp. Def: 54, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 24,
@@ -355,7 +424,10 @@
       "height": "11ft 6in",
       "weight": "143.3 lbs",
       "stats": "HP: 60, Attack: 95, Defense: 69, Sp. Atk: 65, Sp. Def: 79, Speed: 80",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 25,
@@ -366,7 +438,10 @@
       "height": "1ft 4in",
       "weight": "13.2 lbs",
       "stats": "HP: 35, Attack: 55, Defense: 40, Sp. Atk: 50, Sp. Def: 50, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 26,
@@ -377,7 +452,10 @@
       "height": "2ft 7in",
       "weight": "66.1 lbs",
       "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 27,
@@ -388,7 +466,10 @@
       "height": "2ft 0in",
       "weight": "26.5 lbs",
       "stats": "HP: 50, Attack: 75, Defense: 85, Sp. Atk: 20, Sp. Def: 30, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 28,
@@ -399,7 +480,10 @@
       "height": "3ft 3in",
       "weight": "65 lbs",
       "stats": "HP: 75, Attack: 100, Defense: 110, Sp. Atk: 45, Sp. Def: 55, Speed: 65",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 29,
@@ -410,7 +494,10 @@
       "height": "1ft 4in",
       "weight": "15.4 lbs",
       "stats": "HP: 55, Attack: 47, Defense: 52, Sp. Atk: 40, Sp. Def: 40, Speed: 41",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 30,
@@ -421,7 +508,10 @@
       "height": "2ft 7in",
       "weight": "44.1 lbs",
       "stats": "HP: 70, Attack: 62, Defense: 67, Sp. Atk: 55, Sp. Def: 55, Speed: 56",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 31,
@@ -432,7 +522,10 @@
       "height": "4ft 3in",
       "weight": "132.3",
       "stats": "HP: 90, AttacK 92, Defense: 87, Sp. Atk: 75, Sp. Def: 85, Speed: 76",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 32,
@@ -443,7 +536,10 @@
       "height": "1'08\"",
       "weight": "19.8 lbs. ",
       "stats": "HP: 46, Attack: 57, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 50",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 33,
@@ -454,7 +550,10 @@
       "height": "2'11\"",
       "weight": "43.0 lbs. ",
       "stats": "HP: 61, Attack: 72, Defense: 57, Sp. Atk: 55, Sp. Def: 55, Speed: 65",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 34,
@@ -465,7 +564,10 @@
       "height": "4'07\"",
       "weight": "136.7 lbs. ",
       "stats": "HP: 81, Attack: 102, Defense: 77, Sp. Atk: 85, Sp. Def: 75, Speed: 85",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 35,
@@ -476,7 +578,10 @@
       "height": "2'00\"",
       "weight": "16.5 lbs.",
       "stats": "HP: 70, Attack: 45, Defense: 48, Sp. Atk: 60, Sp. Def: 65, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 36,
@@ -487,7 +592,10 @@
       "height": "4'03\"",
       "weight": "88.2 lbs.",
       "stats": "HP: 95, Attack: 70, Defense: 73, Sp. Atk: 95, Sp. Def: 90, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 37,
@@ -498,7 +606,10 @@
       "height": "2'00\"",
       "weight": "21.8 lbs.",
       "stats": "HP: 38, Attack: 41, Defense: 40, Sp. Atk: 50, Sp. Def: 65, Speed: 65",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 38,
@@ -509,7 +620,10 @@
       "height": "3'07\"",
       "weight": "43.9 lbs.",
       "stats": "HP: 73, Attack: 76, Defense: 75, Sp. Atk: 81, Sp. Def: 100, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 39,
@@ -520,7 +634,10 @@
       "height": "1'08\"",
       "weight": "12.1 lbs.",
       "stats": "HP: 115, Attack: 45, Defense: 20, Sp. Atk: 45, Sp. Def: 25, Speed: 20",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 40,
@@ -531,7 +648,10 @@
       "height": "3'03\"",
       "weight": "26.5 lbs.",
       "stats": "HP: 140, Attack: 70, Defense: 45, Sp. Atk: 85, Sp. Def: 50, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 41,
@@ -542,7 +662,10 @@
       "height": "2'07\" ",
       "weight": "16.5 lbs.",
       "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 30, Sp. Def: 40, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 42,
@@ -553,7 +676,10 @@
       "height": "5'03\"",
       "weight": "121.3 lbs.",
       "stats": "HP: 75, Attack: 80, Defense: 70, Sp. Atk: 65, Sp. Def: 75, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 43,
@@ -564,7 +690,10 @@
       "height": "1'08\"",
       "weight": "11.9 lbs.",
       "stats": "HP: 45, Attack: 50, Defense: 55, Sp. Atk: 75, Sp. Def: 65, Speed: 30",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 44,
@@ -575,7 +704,10 @@
       "height": "2'07\"",
       "weight": "19.0 lbs.",
       "stats": "HP: 60, Attack: 65, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 45,
@@ -586,7 +718,10 @@
       "height": "3'11\"",
       "weight": "41.0 lbs.",
       "stats": "HP: 75, Attack: 80, Defense: 85, Sp. Atk: 110, Sp. Def: 90, Speed: 50",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 46,
@@ -597,7 +732,10 @@
       "height": "1'00\"",
       "weight": "11.9 lbs.",
       "stats": "HP: 35, Attack: 70, Defense: 55, Sp. Atk: 45, Sp. Def: 55, Speed: 25",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 47,
@@ -608,7 +746,10 @@
       "height": "3'03\"",
       "weight": "65.0 lbs.",
       "stats": "HP: 60, Attack: 95, Defense: 80, Sp. Atk: 60, Sp. Def: 80, Speed: 30",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 48,
@@ -619,7 +760,10 @@
       "height": "3'03\"",
       "weight": "66.1 lbs. ",
       "stats": "HP: 60, Attack: 55, Defense: 50, Sp. Atk: 40, Sp. Def: 55, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 49,
@@ -630,7 +774,10 @@
       "height": "4'11\"",
       "weight": "27.6 lbs.",
       "stats": "HP: 70, Attack: 65, Defense: 60, Sp. Atk: 90, Sp. Def: 75, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 50,
@@ -641,7 +788,10 @@
       "height": "0'08\"",
       "weight": "1.8 lbs.",
       "stats": "HP: 10, Attack: 55, Defense:25, Sp. Atk: 35, Sp. Def: 45, Speed: 95",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 51,
@@ -652,7 +802,10 @@
       "height": "2'04\"",
       "weight": "73.4 lbs.",
       "stats": "HP: 35, Attack: 100, Defense: 50, Sp. Atk: 50, Sp. Def: 70, Speed: 120",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 52,
@@ -663,7 +816,10 @@
       "height": "1'04\"",
       "weight": "9.3 lbs.",
       "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 40, Sp. Def: 40, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 53,
@@ -674,7 +830,10 @@
       "height": "3'03\"",
       "weight": "70.5 lbs.",
       "stats": "HP: 65, Attack: 70, Defense: 60, Sp. Atk: 65, Sp. Def: 65, Speed: 115",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 54,
@@ -685,7 +844,10 @@
       "height": "2'07\"",
       "weight": "42.2 lbs.",
       "stats": "HP: 50, Attack: 52, Defense: 48, Sp. Atk: 65, Sp. Def: 50, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 55,
@@ -696,7 +858,10 @@
       "height": "5'07\"",
       "weight": "168.9 lbs.",
       "stats": "HP: 80, Attack: 82, Defense: 78, Sp. Atk: 95, Sp. Def: 80, Speed: 85",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 56,
@@ -707,7 +872,10 @@
       "height": "1'08\"",
       "weight": "61.7 lbs. ",
       "stats": "HP: 40, Attack: 80, Defense: 35, Sp. Atk: 35, Sp. Def: 45, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 57,
@@ -718,7 +886,10 @@
       "height": "3'03\"",
       "weight": "70.5 lbs.",
       "stats": "HP: 65, Attack: 105, Defense: 60, Sp. Atk: 60, Sp. Def: 70, Speed: 95",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 58,
@@ -729,7 +900,10 @@
       "height": "2'04\"",
       "weight": "41.9 lbs.",
       "stats": "HP: 55, Attack: 70, Defense: 45, Sp. Atk: 70, Sp. Def: 50, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 59,
@@ -740,7 +914,10 @@
       "height": "6'03",
       "weight": "341.7 lbs.",
       "stats": "HP: 90, Attack: 110, Defense: 80, Sp. Atk: 100, Sp. Def: 80, Speed: 95",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 60,
@@ -751,7 +928,10 @@
       "height": "2'00\"",
       "weight": "27.3 lbs.",
       "stats": "HP: 40, Attack: 50, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 61,
@@ -762,7 +942,10 @@
       "height": "3'00\"",
       "weight": "44.1 lbs.",
       "stats": "HP: 65, Attack: 65, Defense: 65, Sp. Atk: 50, Sp. Def, 50, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 62,
@@ -773,7 +956,10 @@
       "height": "4'03\"",
       "weight": "119.0 lbs.",
       "stats": "HP: 90, Attack: 95, Defense: 95, Sp. Atk: 70, Sp. Def: 90, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 63,
@@ -784,7 +970,10 @@
       "height": "2'11\"",
       "weight": "43.0 lbs. ",
       "stats": "HP: 25, Attack: 20, Defense: 15, Sp. Atk: 105, Sp. Def: 55, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 64,
@@ -795,7 +984,10 @@
       "height": "4'03\"",
       "weight": "124.6 lbs.",
       "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 120, Sp. Def: 70, Speed: 105",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 65,
@@ -806,7 +998,10 @@
       "height": "4'11\"",
       "weight": "105.8 lbs.",
       "stats": "HP: 55, Attack: 50, Defense: 45, Sp. Atk: 135, Sp. Def: 95, Speed: 120",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 66,
@@ -817,7 +1012,10 @@
       "height": "2'07\"",
       "weight": "43.0 lbs.",
       "stats": "HP: 70, Attack: 80, Defense: 50, Sp. Atk: 35, Sp. Def: 35, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 67,
@@ -828,7 +1026,10 @@
       "height": "4'11\"",
       "weight": "155.4 lbs.",
       "stats": "HP: 80, Attack: 100, Defense: 70, Sp. Atk: 50, Sp. Def: 60, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 68,
@@ -839,7 +1040,10 @@
       "height": "5'03\"",
       "weight": "286.6 lbs.",
       "stats": "HP: 90, Attack: 130, Defense: 80, Sp. Atk: 65, Sp. Def: 85, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 69,
@@ -850,7 +1054,10 @@
       "height": "2'04\"",
       "weight": "8.8 lbs.",
       "stats": "HP: 50, Attack: 75, Defense: 35, Sp. Atk: 70, Sp. Def: 30, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 70,
@@ -861,7 +1068,10 @@
       "height": "3'03\"",
       "weight": "14.1 lbs.",
       "stats": "HP: 65, Attack: 90, Defense: 50, Sp. Atk: 85, Sp. Def: 45, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 71,
@@ -872,7 +1082,10 @@
       "height": "5'07\"",
       "weight": "34.2 lbs.",
       "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 100, Sp. Def: 70, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 72,
@@ -883,7 +1096,10 @@
       "height": "2'11\"",
       "weight": "100.3 lbs.",
       "stats": "HP: 40, Attack: 40, Defense: 35, Sp. Atk: 50, Sp. Def: 100, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 73,
@@ -894,7 +1110,10 @@
       "height": "5'03\"",
       "weight": "121.3 lbs.",
       "stats": "HP: 80, Attack: 70, Defense: 65, Sp. Atk: 80, Sp. Def: 120, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 74,
@@ -905,7 +1124,10 @@
       "height": "1'04\"",
       "weight": "44.1 lbs.",
       "stats": "HP: 40, Attack: 80, Defense: 100, Sp. Atk: 30, Sp. Def: 30, Speed: 20",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 75,
@@ -916,7 +1138,10 @@
       "height": "3'03\"",
       "weight": "231.5 lbs.",
       "stats": "HP: 55, Attack: 95, Defense: 115, Sp. Atk: 45, Sp. Def: 45, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 76,
@@ -927,7 +1152,10 @@
       "height": "4'07\"",
       "weight": "661.4 lbs.",
       "stats": "HP: 80, Attack: 120, Defense: 130, Sp. Atk: 55, Sp. Def: 65, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 77,
@@ -938,7 +1166,10 @@
       "height": "3'03\"",
       "weight": "66.1 lbs.",
       "stats": "HP: 50, Attack: 85, Defense: 55, Sp. Atk: 65, Sp. Def: 65, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 78,
@@ -949,7 +1180,10 @@
       "height": "5'07\"",
       "weight": "209.4 lbs.",
       "stats": "HP: 65, Attack: 100, Defese: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 105",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 79,
@@ -960,7 +1194,10 @@
       "height": "3'11\"",
       "weight": "79.4 lbs.",
       "stats": "HP: 90, Attack: 65, Defense: 65, Sp. Atk: 40, Sp. Def: 40, Speed: 15",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 80,
@@ -971,7 +1208,10 @@
       "height": "5'03\"",
       "weight": "173.1 lbs.",
       "stats": "HP: 95, Attack: 75, Defense: 110, Sp. Atk: 100, Sp. Def: 80, Speed: 30",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 81,
@@ -982,7 +1222,10 @@
       "height": "1'00\"",
       "weight": "13.2 lbs.",
       "stats": "HP: 25, Attack: 35, Defense: 70, Sp. Atk: 95, Sp. Def: 55, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 82,
@@ -993,7 +1236,10 @@
       "height": "3'03\"",
       "weight": "132.3 lbs.",
       "stats": "HP: 50, Attack: 60, Defense: 95, Sp. Atk: 120, Sp. Def: 70, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 83,
@@ -1004,7 +1250,10 @@
       "height": "2'07\"",
       "weight": "33.1 lbs.",
       "stats": "HP: 52, Attack: 90, Defense: 55, Sp. Atk: 58, Sp. Def: 62, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 84,
@@ -1015,7 +1264,10 @@
       "height": "4'07\"",
       "weight": "86.4 lbs. ",
       "stats": "HP: 35, Attack: 85, Defense: 45, Sp. Atk: 35, Sp. Def: 35, Speed: 75",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 85,
@@ -1026,7 +1278,10 @@
       "height": "5'11\"",
       "weight": "187.8 lbs.",
       "stats": "HP: 60, Attack: 110, Defense: 70, Sp. Atk: 60, Sp. Def: 60, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 86,
@@ -1037,7 +1292,10 @@
       "height": "3'07\"",
       "weight": "198.4 lbs.",
       "stats": "HP: 65, Attack: 45, Defense: 55, Sp. Atk: 45, Sp. Def: 70, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 87,
@@ -1048,7 +1306,10 @@
       "height": "5'07\"",
       "weight": "264.6 lbs.",
       "stats": "HP: 90, Attack: 70, Defense: 80, Sp. Atk: 70, Sp. Def: 95, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 88,
@@ -1059,7 +1320,10 @@
       "height": "2'11\"",
       "weight": "66.1 lbs.",
       "stats": "HP: 80, Attack: 80, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 25",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 89,
@@ -1070,7 +1334,10 @@
       "height": "3'11\"",
       "weight": "66.1 lbs.",
       "stats": "HP: 105, Attack: 105, Defense: 75, Sp. Atk: 65, Sp. Def: 100, Speed: 50",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 90,
@@ -1081,7 +1348,10 @@
       "height": "1'00\"",
       "weight": "8.8 lbs.",
       "stats": "HP: 30, Attack: 65, Defense: 100, Sp. Atk: 45, Sp. Def: 25, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 91,
@@ -1092,7 +1362,10 @@
       "height": "4'11\"",
       "weight": "292.1 lbs.",
       "stats": "HP: 50, Attack: 95, Defense: 180, Sp. Atk: 85, Sp. Def: 45, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 92,
@@ -1103,7 +1376,10 @@
       "height": "4'03\"",
       "weight": "0.2 lbs.",
       "stats": "HP: 30, Attack: 35, Defense: 30, Sp. Atk: 100, Sp. Def: 35, Speed: 80",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 93,
@@ -1114,7 +1390,10 @@
       "height": "5'03\"",
       "weight": "0.2 lbs.",
       "stats": "HP: 45, Attack: 50, Defense: 45, Sp. Atk: 115, Sp. Def: 55, Speed: 95",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 94,
@@ -1125,7 +1404,10 @@
       "height": "4'11\"",
       "weight": "89.3 lbs.",
       "stats": "HP: 60, Attack: 65, Defense: 60, Sp. Atk: 130, Sp. Def: 75, Speed: 110",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 95,
@@ -1136,7 +1418,10 @@
       "height": "28'10\"",
       "weight": "463.0 lbs.",
       "stats": "HP: 35, Attack: 45, Defense: 160, Sp. Atk: 30, Sp. Def: 45, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 96,
@@ -1147,7 +1432,10 @@
       "height": "3'03\"",
       "weight": "71.4 lbs.",
       "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 97,
@@ -1158,7 +1446,10 @@
       "height": "5'03\"",
       "weight": "166.7 lbs.",
       "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 98,
@@ -1169,7 +1460,10 @@
       "height": "3'03\"",
       "weight": "71.4 lbs.",
       "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 99,
@@ -1180,7 +1474,10 @@
       "height": "5'03\"",
       "weight": "166.7 lbs.",
       "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 100,
@@ -1191,7 +1488,10 @@
       "height": "1'08\"",
       "weight": "22.9 lbs.",
       "stats": "HP: 40, Attack: 30, Defense: 50, Sp. Atk: 55, Sp. Def: 55, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 101,
@@ -1202,7 +1502,10 @@
       "height": "3'11\"",
       "weight": "146.8 lbs.",
       "stats": "HP: 60, Attack: 50, Defense: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 140",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 102,
@@ -1213,7 +1516,10 @@
       "height": "1'04\"",
       "weight": "5.5 lbs.",
       "stats": "HP: 60, Attack: 40, Defense: 80, Sp. Atk: 60, Sp. Def: 45, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 103,
@@ -1224,7 +1530,10 @@
       "height": "6'07\"",
       "weight": "264.6 lbs.",
       "stats": "HP: 95, Attack: 95, Defense: 85, Sp. Atk: 125, Sp. Def: 75, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 104,
@@ -1235,7 +1544,10 @@
       "height": "1'04\"",
       "weight": "14.3 lbs.",
       "stats": "HP: 50, Attack: 50, Defense: 95, Sp. Atk: 40, Sp. Def: 50, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 105,
@@ -1246,7 +1558,10 @@
       "height": "3'03\"",
       "weight": "99.2 lbs.",
       "stats": "HP: 60, Attack: 80, Defense: 100, Sp. Atk: 50, Sp. Def: 80, Speed: 45",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 106,
@@ -1257,7 +1572,10 @@
       "height": "4'11\"",
       "weight": "109.8 lbs. ",
       "stats": "HP: 50, Attack: 120, Defense: 53, Sp. Atk: 35, Sp. Def: 110, Speed: 87",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 107,
@@ -1268,7 +1586,10 @@
       "height": "4'07\"",
       "weight": "110.7 lbs.",
       "stats": "HP: 50, Attack: 105, Defense: 79, Sp. Atk: 35, Sp. Def: 110, Speed: 76",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 108,
@@ -1279,7 +1600,10 @@
       "height": "3'11\"",
       "weight": "144.4 lbs.",
       "stats": "HP: 90, Attack: 55, Defense: 75, Sp. Atk: 60, Sp. Def: 75, Speed: 30",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 109,
@@ -1290,7 +1614,10 @@
       "height": "2'00\"",
       "weight": "2.2 lbs.",
       "stats": "HP: 40, Attack: 65, Defense: 95, Sp. Atk: 60, Sp. Def: 45, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 110,
@@ -1301,7 +1628,10 @@
       "height": "3'11\"",
       "weight": "20.9 lbs.",
       "stats": "HP: 65, Attack: 90, Defense: 120, Sp. Atk: 85, Sp. Def: 70, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 111,
@@ -1312,7 +1642,10 @@
       "height": "3'03\"",
       "weight": "253.5 lbs.",
       "stats": "HP: 80, Attack: 85, Defense: 95, Sp. Atk: 30, Sp. Def: 30, Speed: 25",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 112,
@@ -1323,7 +1656,10 @@
       "height": "6'03\"",
       "weight": "264.6 lbs. ",
       "stats": "HP: 105, Attack: 130, Defense: 120, Sp. Atk: 45, Sp. Def: 45, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 113,
@@ -1334,7 +1670,10 @@
       "height": "3'07\"",
       "weight": "76.3 lbs.",
       "stats": "HP: 250, Attack: 5, Defense: 5, Sp. Atk: 35, Sp. Def: 105, Speed: 50",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 114,
@@ -1345,7 +1684,10 @@
       "height": "3'03\"",
       "weight": "77.2 lbs.",
       "stats": "HP: 65, Attack: 55, Defense: 115, Sp. Atk: 100, Sp. Def: 40, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 115,
@@ -1356,7 +1698,10 @@
       "height": "7'03\"",
       "weight": "176.4 lbs.",
       "stats": "HP: 105, Attack: 95, Defense: 80, Sp. Atk: 40, Sp. Def: 80, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 116,
@@ -1367,7 +1712,10 @@
       "height": "1'04\"",
       "weight": "17.6 lbs.",
       "stats": "HP: 30, Attack: 40, Defense: 70, Sp. Atk: 70, Sp. Def: 25, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 117,
@@ -1378,7 +1726,10 @@
       "height": "3'11\"",
       "weight": "55.1 lbs.",
       "stats": "HP: 55, Attack: 65, Defense: 95, Sp. Atk: 95, Sp. Def: 45, Speed: 85",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 118,
@@ -1389,7 +1740,10 @@
       "height": "2'00\"",
       "weight": "33.1 lbs.",
       "stats": "HP: 45, Attack: 67, Defense: 60, Sp. Atk: 35, Sp. Def: 50, Speed: 63",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 119,
@@ -1400,7 +1754,10 @@
       "height": "4'03\"",
       "weight": "86.0 lbs.",
       "stats": "HP: 80, Attack: 92, Defense: 65, Sp. Atk: 65, Sp. Def: 80, Speed: 68",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 120,
@@ -1411,7 +1768,10 @@
       "height": "2'07\"",
       "weight": "76.1 lbs.",
       "stats": "HP: 30, Attack: 45, Defense: 55, Sp. Atk: 70, Sp. Def: 55, Speed: 85",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 121,
@@ -1422,7 +1782,10 @@
       "height": "3'07\"",
       "weight": "176.5 lbs.",
       "stats": "HP: 60, Attack: 75, Defense: 85, Sp. Atk: 100, Sp. Def: 85, Speed: 115",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 122,
@@ -1433,7 +1796,10 @@
       "height": "4'03\"",
       "weight": "120.2 lbs.",
       "stats": "HP: 40, Attack: 45, Defense: 65, Sp. Atk: 100, Sp. Def: 120, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 123,
@@ -1444,7 +1810,10 @@
       "height": "4'11\"",
       "weight": "123.5 lbs.",
       "stats": "HP: 70, Attack: 110, Defense: 80, Sp. Atk: 55, Sp. Def: 80, Speed: 105",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 124,
@@ -1455,7 +1824,10 @@
       "height": "4'07\"",
       "weight": "89.5 lbs.",
       "stats": "HP: 65, Attack: 50, Defense: 35, Sp. Atk: 115, Sp. Def: 95, Speed: 95",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 125,
@@ -1466,7 +1838,10 @@
       "height": "3'07\"",
       "weight": "66.1 lbs. ",
       "stats": "HP: 65, Attack: 83, Defense: 57, Sp. Atk: 95, Sp. Def: 85, Speed: 105",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 126,
@@ -1477,7 +1852,10 @@
       "height": "4'03\"",
       "weight": "98.1 lbs. ",
       "stats": "HP: 65, Attack: 95, Defense: 57, Sp. Atk: 100, Sp. 85, Speed: 93",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 127,
@@ -1488,7 +1866,10 @@
       "height": "4'11\"",
       "weight": "121.3 lbs.",
       "stats": "HP: 65, Attack: 125, Defense: 100, Sp. Atk: 55, Sp. Def: 70, Speed: 85",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 128,
@@ -1499,7 +1880,10 @@
       "height": "4'07\"",
       "weight": "194.9 lbs.",
       "stats": "HP: 75, Attack: 100, Defense: 95, Sp. Atk: 40, Sp. Def: 70, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 129,
@@ -1510,7 +1894,10 @@
       "height": "2'11\"",
       "weight": "22.0 lbs.",
       "stats": "HP: 20, Attack: 10, Defense: 55, Sp. Atk: 15, Sp. Def: 20, Speed: 80",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 130,
@@ -1521,7 +1908,10 @@
       "height": "21'04\"",
       "weight": "518.1 lbs.",
       "stats": "HP: 95, Attack: 125, Defense: 79, Sp. Atk: 60, Sp. Def: 100, Speed: 81",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 131,
@@ -1532,7 +1922,10 @@
       "height": "8'02\"",
       "weight": "485.0 lbs.",
       "stats": "HP: 130, Attack: 85, Defense: 80, Sp. Atk: 85, Sp. Def: 95, Speed: 60",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 132,
@@ -1543,7 +1936,10 @@
       "height": "1'00\"",
       "weight": "8.8 lbs.",
       "stats": "HP: 48, Attack: 48, Defense: 48, Sp. Atk: 48, Sp. Def: 48, Speed: 48",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 133,
@@ -1554,7 +1950,10 @@
       "height": "1'00\"",
       "weight": "14.3 lbs.",
       "stats": "HP: 55, Attack: 55, Defense: 50, Sp. Atk: 45, Sp. Def: 65, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 134,
@@ -1565,7 +1964,10 @@
       "height": "3'03\"",
       "weight": "63.9 lbs.",
       "stats": "HP: 130, Attack: 65, Defense: 60, Sp. Atk: 110, Sp. Def: 95, Speed: 65",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 135,
@@ -1576,7 +1978,10 @@
       "height": "2'07\"",
       "weight": "54.0 lbs.",
       "stats": "HP: 65, Attack: 65, Defense: 60, Sp. Atk: 110, Sp. Def: 95, Speed: 130",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 136,
@@ -1587,7 +1992,10 @@
       "height": "2'11\"",
       "weight": "55.1 lbs.",
       "stats": "HP: 65, Attack: 130, Defense: 60, Sp. Atk: 95, Sp. Def: 110, Speed: 65",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 137,
@@ -1598,7 +2006,10 @@
       "height": "2'07\"",
       "weight": "80.5 lbs.",
       "stats": "HP: 65, Attack: 60, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 138,
@@ -1609,7 +2020,10 @@
       "height": "1'04\"",
       "weight": "16.5 lbs.",
       "stats": "HP: 35, Attack: 40, Defense: 100, Sp. Atk: 90, Sp. Def: 55, Speed: 35",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 139,
@@ -1620,7 +2034,10 @@
       "height": "3'03\"",
       "weight": "77.2 lbs.",
       "stats": "HP: 70, Attack: 60, Defense: 125, Sp. Atk, 115, Sp. Def: 70, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 140,
@@ -1631,7 +2048,10 @@
       "height": "1'08\"",
       "weight": "25.4 lbs.",
       "stats": "HP: 30, Attack: 80, Defense: 90, Sp. Atk: 55, Sp. Def: 45, Speed: 55",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 141,
@@ -1642,7 +2062,10 @@
       "height": "4'03\"",
       "weight": "89.3 lbs.",
       "stats": "HP: 60, Attack: 115, Defense: 105, Sp. Atk: 65, Sp. Def: 70, Speed: 80",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 142,
@@ -1653,7 +2076,10 @@
       "height": "5'11\"",
       "weight": "130.1 lbs.",
       "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 60, Sp. Def, Speed: 130",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 143,
@@ -1664,7 +2090,10 @@
       "height": "6'11\"",
       "weight": "1014.1 lbs.",
       "stats": "HP: 160, Attack: 110, Defense: 65, Sp. Atk, 65, Sp. Def: 65, Speed: 30",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 144,
@@ -1675,7 +2104,10 @@
       "height": "5'07\"",
       "weight": "122.1 lbs.",
       "stats": "HP: 90, Attack: 85, Defense: 100, Sp. Atk: 95, Sp. Def: 125, Speed: 85",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 145,
@@ -1686,7 +2118,10 @@
       "height": "5'03\"",
       "weight": "116.0 lbs.",
       "stats": "HP: 90, Attack: 90, Defense: 85. Sp. Atk: 125, Sp. Def: 90, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 146,
@@ -1697,7 +2132,10 @@
       "height": "6'07\"",
       "weight": "132.3 lbs.",
       "stats": "HP: 90, Attack: 100, Defense: 90, Sp. Atk, 125, Sp. Def: 85, Speed: 90",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 147,
@@ -1708,7 +2146,10 @@
       "height": "5'11\"",
       "weight": "7.3 lbs.",
       "stats": "HP: 41, Attack: 64, Denfese: 45, Sp. Atk: 50, Sp. Def: 50, Speed: 50",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 148,
@@ -1719,7 +2160,10 @@
       "height": "13'01\"",
       "weight": "36.4 lbs",
       "stats": "HP: 61, Attack: 84, Defense: 65, Sp.. Atk: 70, Sp. Def: 70, Speed: 70",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 149,
@@ -1730,7 +2174,10 @@
       "height": "7'03\"",
       "weight": "463.0 lbs.",
       "stats": "HP: 91, Attack: 134, Defense: 95, Sp. Atk: 100, Sp. Def: 100, Speed: 80",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 150,
@@ -1741,7 +2188,10 @@
       "height": "6'07\"",
       "weight": "269.0 lbs.",
       "stats": "HP: 106, Attack: 110, Defense: 90, Sp. Atk: 154, Sp. Def: 90, Speed: 130",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     },
     {
       "id": 151,
@@ -1752,7 +2202,10 @@
       "height": "1'04\"",
       "weight": "8.8 lbs.",
       "stats": "HP: 100, Attack: 100, Defense: 100, Sp. Atk: 100, Sp. Def: 100, Speed: 100",
-      "generation": ""
+      "generation":
+      {
+        "name": "generation-i"
+      }
     }
   ]
 }
