@@ -369,6 +369,76 @@
       "height": "2ft 7in",
       "weight": "66.1 lbs",
       "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110"
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "Sandshrew",
+      "type": "Ground",
+      "abilities": "Main: |  Hidden:",
+      "height": "2ft 0in",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "Main: |  Hidden:",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "Main: |  Hidden:",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "Main: |  Hidden:",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "Main: |  Hidden:",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "Main: |  Hidden:",
+      "height": "",
+      "weight": "",
+      "stats": ""
+    },
+    {
+      "id": ,
+      "image": "pokeImg/.png",
+      "name": "",
+      "type": "",
+      "abilities": "Main: |  Hidden:",
+      "height": "",
+      "weight": "",
+      "stats": ""
     }
   ]
 }
