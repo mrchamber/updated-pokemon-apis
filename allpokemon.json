@@ -1495,7 +1495,7 @@
     },
     {
       "id": 101,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/101.png",
       "name": "Electrode",
       "type": "Electric",
       "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
@@ -1509,7 +1509,7 @@
     },
     {
       "id": 102,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/102.png",
       "name": "Exeggcute",
       "type": "Grass/Psychic",
       "abilities": "Main: Chlorophyl | Hidden: Harvest",
@@ -1523,7 +1523,7 @@
     },
     {
       "id": 103,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/103.png",
       "name": "Exeggutor",
       "type": "Grass/Psychic",
       "abilities": "Main: Choorophyl | Hidden: Frisk",
@@ -1537,7 +1537,7 @@
     },
     {
       "id": 104,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/104.png",
       "name": "Cubone",
       "type": "Ground",
       "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 105,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/105.png",
       "name": "Marowak",
       "type": "Ground",
       "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": 106,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/106.png",
       "name": "Hitmonlee",
       "type": "Fighting",
       "abilities": "Main: Limber, Reckless | Hidden: Unburden",
@@ -1579,7 +1579,7 @@
     },
     {
       "id": 107,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/107.png",
       "name": "Hitmonchan",
       "type": "Fighting",
       "abilities": "Main: Keen Eye, Iron Fist | Hidden: Inner Focus",
@@ -1593,7 +1593,7 @@
     },
     {
       "id": 108,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/108.png",
       "name": "Lickitung",
       "type": "Normal",
       "abilities": "Main: Own Tempo, Obvious | Hidden: Cloud Nine",
@@ -1607,7 +1607,7 @@
     },
     {
       "id": 109,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/109.png",
       "name": "Koffing",
       "type": "Poison",
       "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 110,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/110.png",
       "name": "Weezing",
       "type": "Poison",
       "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
@@ -1635,7 +1635,7 @@
     },
     {
       "id": 111,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/111.png",
       "name": "Rhyhorn",
       "type": "Ground/Rock",
       "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
@@ -1649,7 +1649,7 @@
     },
     {
       "id": 112,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/112.png",
       "name": "Rhydon",
       "type": "Ground/Rock",
       "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
@@ -1663,7 +1663,7 @@
     },
     {
       "id": 113,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/113.png",
       "name": "Chansey",
       "type": "Normal",
       "abilities": "Main: Natural Cure, Serene Grace | Hidden: Healer",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 114,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/114.png",
       "name": "Tangela",
       "type": "Grass",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Regenerator",
@@ -1691,7 +1691,7 @@
     },
     {
       "id": 115,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/115.png",
       "name": "Kangaskhan",
       "type": "Normal",
       "abilities": "Main: Early Bird, Scrappy | Hidden: Inner Focus",
@@ -1705,7 +1705,7 @@
     },
     {
       "id": 116,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/116.png",
       "name": "Horsea",
       "type": "Water",
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
@@ -1719,7 +1719,7 @@
     },
     {
       "id": 117,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/117.png",
       "name": "Seadra",
       "type": "Water",
       "abilities": "Main: Poison Point, Sniper | Hidden: Damp",
@@ -1733,7 +1733,7 @@
     },
     {
       "id": 118,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/118.png",
       "name": "Goldeen",
       "type": "Water",
       "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": 119,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/119.png",
       "name": "Seaking",
       "type": "Water",
       "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
@@ -1761,7 +1761,7 @@
     },
     {
       "id": 120,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/120.png",
       "name": "Staryu",
       "type": "Water",
       "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
@@ -1775,7 +1775,7 @@
     },
     {
       "id": 121,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/121.png",
       "name": "Starmie",
       "type": "Water/Psychic",
       "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
@@ -1789,7 +1789,7 @@
     },
     {
       "id": 122,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/122.png",
       "name": "Mr.Mime",
       "type": "Psychic/Fairy",
       "abilities": "Main: Soundproof, Filter | Hidden: Technician",
@@ -1803,7 +1803,7 @@
     },
     {
       "id": 123,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/123.png",
       "name": "Scyther",
       "type": "Bug/Flying",
       "abilities": "Main: Swarm, Technician | Hidden: Steadfast",
@@ -1817,7 +1817,7 @@
     },
     {
       "id": 124,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/124.png",
       "name": "Jynx",
       "type": "Ice/Psychic",
       "abilities": "Main: Oblivious, Forewarn | Hidden: Dry Skin",
@@ -1831,7 +1831,7 @@
     },
     {
       "id": 125,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/125.png",
       "name": "Electabuzz",
       "type": "Electric",
       "abilities": "Main: Static | Hidden: Vital Spirit",
@@ -1845,7 +1845,7 @@
     },
     {
       "id": 126,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/126.png",
       "name": "Magmar",
       "type": "Fire",
       "abilities": "Main: Flame Body | Hidden: Vital Spirit",
@@ -1859,7 +1859,7 @@
     },
     {
       "id": 127,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/127.png",
       "name": "Pinsir",
       "type": "Bug",
       "abilities": "Main: Hyper Cutter, Mold Breaker | Hidden: Moxie",
@@ -1873,7 +1873,7 @@
     },
     {
       "id": 128,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/128.png",
       "name": "Tauros",
       "type": "Normal",
       "abilities": "Main: Intimidate, Anger Point | Hidden: Sheer Force",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": 129,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/129.png",
       "name": "Magikarp",
       "type": "Water",
       "abilities": "Main: Swift Swim | Hidden: Rattled",
@@ -1901,7 +1901,7 @@
     },
     {
       "id": 130,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/130.png",
       "name": "Gyarados",
       "type": "Water/Flying",
       "abilities": "Main: Intimidate | Hidden: Moxie",
@@ -1915,7 +1915,7 @@
     },
     {
       "id": 131,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/131.png",
       "name": "Lapras",
       "type": "Water/Ice",
       "abilities": "Main: Water Absorb, Shell Armor | Hidden: Hydration",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": 132,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/132.png",
       "name": "Ditto",
       "type": "Normal",
       "abilities": "Main: Limber | Hidden: Imposter",
@@ -1943,7 +1943,7 @@
     },
     {
       "id": 133,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/133.png",
       "name": "Eevee",
       "type": "Normal",
       "abilities": "Main: Run Away, Adaptability | Hidden: Anticipation",
@@ -1957,7 +1957,7 @@
     },
     {
       "id": 134,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/134.png",
       "name": "Vaporeon",
       "type": "Water",
       "abilities": "Main: Water Absorb | Hidden: Hydration",
@@ -1971,7 +1971,7 @@
     },
     {
       "id": 135,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/135.png",
       "name": "Jolteon",
       "type": "Electric",
       "abilities": "Main: Volt Absorb | Hidden: Quick Feet",
@@ -1985,7 +1985,7 @@
     },
     {
       "id": 136,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/136.png",
       "name": "Flareon",
       "type": "Fire",
       "abilities": "Main: Flash Fire | Hidden: Guts",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 137,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/137.png",
       "name": "Porygon",
       "type": "Normal",
       "abilities": "Main: Trace, Download | Hidden: Analytic",
@@ -2013,7 +2013,7 @@
     },
     {
       "id": 138,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/138.png",
       "name": "Omanyte",
       "type": "Rock/Water",
       "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
@@ -2027,7 +2027,7 @@
     },
     {
       "id": 139,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/139.png",
       "name": "Omastar",
       "type": "Rock/Water",
       "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
@@ -2041,7 +2041,7 @@
     },
     {
       "id": 140,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/140.png",
       "name": "Kabuto",
       "type": "Rock/Water",
       "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
@@ -2055,7 +2055,7 @@
     },
     {
       "id": 141,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/141.png",
       "name": "Kabutops",
       "type": "Rock/Water",
       "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
@@ -2069,7 +2069,7 @@
     },
     {
       "id": 142,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/142.png",
       "name": "Aerodactyl",
       "type": "Rock/Flying",
       "abilities": "Main: Rock Head, Pressure | Hidden: Unnerve",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": 143,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/143.png",
       "name": "Snorlax",
       "type": "Normal",
       "abilities": "Main: Immunity, Thick Fat | Hidden: Gluttony",
@@ -2097,7 +2097,7 @@
     },
     {
       "id": 144,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/144.png",
       "name": "Articuno",
       "type": "Ice/Flying",
       "abilities": "Main: Pressure | Hidden: Snow Cloak",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": 145,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/145.png",
       "name": "Zapdos",
       "type": "Electric/Flying",
       "abilities": "Main: Pressure, Static | Hidden: Lightning Rod",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 146,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/146.png",
       "name": "Moltres",
       "type": "Fire/Flying",
       "abilities": "Main: Pressure, Flame Body | Hidden: Beserk",
@@ -2139,7 +2139,7 @@
     },
     {
       "id": 147,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/147.png",
       "name": "Dratini",
       "type": "Dragon",
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
@@ -2153,7 +2153,7 @@
     },
     {
       "id": 148,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/148.png",
       "name": "Dragonair",
       "type": "Dragon",
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
@@ -2167,7 +2167,7 @@
     },
     {
       "id": 149,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/149.png",
       "name": "Dragonite",
       "type": "Dragon",
       "abilities": "Main: Inner Focus | Hidden: Multiscale",
@@ -2181,7 +2181,7 @@
     },
     {
       "id": 150,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/150.png",
       "name": "Mewtwo",
       "type": "Psychic",
       "abilities": "Main: Pressure | Hidden: Unnerve",
@@ -2195,7 +2195,7 @@
     },
     {
       "id": 151,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/151.png",
       "name": "Mew",
       "type": "Psychic",
       "abilities": "Main: Synchroize",
