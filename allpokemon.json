@@ -2,7 +2,7 @@
   "pokemon": [
     {
       "id": 1,
-      "image": "pokeImg/001.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/001.png",
       "name": "Bulbasaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
