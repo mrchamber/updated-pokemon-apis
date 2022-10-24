@@ -6,7 +6,7 @@
       "name": "Bulbasaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
-      "height": "2ft 4in",
+      "height": "2'04\"",
       "weight": "15.2 lbs",
       "stats": "HP: 45, Attack: 49, Defense: 49, Sp. Atk, 65, Sp. Def: 65, Speed: 45",
       "generation":
@@ -20,7 +20,7 @@
       "name": "Ivysaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
-      "height": "3ft 3in",
+      "height": "3'03\"",
       "weight": "28.7 lbs",
       "stats": "HP: 60, Attack: 62, Defense: 63, Sp. Atk: 80, Sp. Def: 80, Speed: 60",
       "generation":
@@ -34,7 +34,7 @@
       "name": "Venusaur",
       "type": "Grass/Poison",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
-      "height": "6ft 7in",
+      "height": "6'07\"",
       "weight": "220.5 lbs",
       "stats": "HP: 80, Attack: 82, Defense: 83, Sp. Atk. 83, Sp. Def: 100, Speed: 80",
       "generation":
@@ -66,7 +66,7 @@
       "name": "Charmander",
       "type": "Fire",
       "abilities": "Main: Blaze | Hidden: Solar Power",
-      "height": "2ft 0in",
+      "height": "2'00\"",
       "weight": "18.7 lbs",
       "stats": "HP: 39, Attack: 52, Defense: 43, Sp. Atk: 60, Sp. Def: 50, Speed: 65",
       "generation":
@@ -80,7 +80,7 @@
       "name": "Charmeleon",
       "type": "Fire",
       "abilities": "Main: Blaze | Hidden: Solar Power",
-      "height": "3ft 7in",
+      "height": "3'07\"",
       "weight": "41.9 lbs",
       "stats": "HP: 58, Attack: 64, Defense: 58, Sp. Atk: 80, Sp. Def: 65, Speed: 80",
       "generation":
@@ -94,7 +94,7 @@
       "name": "Charizard",
       "type": "Fire/Flying",
       "abilities": "Main: Blaze | Hidden: Solar Power",
-      "height": "5ft 7in",
+      "height": "5'07\"",
       "weight": "199.5 lbs",
       "stats": "HP: 78, Attack: 84, Defense: 78, Sp. Atk: 109, Sp. Def: 85, Speed: 100",
       "generation":
@@ -134,7 +134,7 @@
       "name": "Squirtle",
       "type": "Water",
       "abilities": "Main: Torrent | Hidden: Rain Dish",
-      "height": "1ft 8in",
+      "height": "1'08\"",
       "weight": "19.8 lbs",
       "stats": "HP: 44, Attack: 48, Defense: 65, Sp. Atk: 50, Sp. Def: 64, Speed: 43",
       "generation":
@@ -148,7 +148,7 @@
       "name": "Wartortle",
       "type": "Water",
       "abilities": "Main: Torrent | Hidden: Rain Dish",
-      "height": "3ft 3in",
+      "height": "3'03\"",
       "weight": "49.6 lbs",
       "stats": "HP: 59, Attack: 63, Defense: 80, Sp. Atk: 65, Sp. Def: 80, Speed: 58",
       "generation":
@@ -162,7 +162,7 @@
       "name": "Blastoise",
       "type": "Water",
       "abilities": "Main: Torrent | Hidden: Rain Dish",
-      "height": "5ft 3in",
+      "height": "5'03\"",
       "weight": "188.5 lbs",
       "stats": "HP: 79, Attack: 83, Defense: 100, Sp. Atk: 85, Sp. Def: 105, Speed: 78",
       "generation":
@@ -194,7 +194,7 @@
       "name": "Caterpie",
       "type": "Bug",
       "abilities": "Main: Shield Dust | Hidden: Run Away",
-      "height": "1ft 0in",
+      "height": "1'00\"",
       "weight": "6.4 lbs",
       "stats": "HP: 45, Attack: 30, Defense: 35, Sp. Atk: 20, Sp. Def: 20, Speed: 45",
       "generation":
@@ -208,7 +208,7 @@
       "name": "Metapod",
       "type": "Bug",
       "abilities": "Main: Shed Skin.",
-      "height": "2ft 4in",
+      "height": "2'04\"",
       "weight": "21.8 lbs",
       "stats": "HP: 50, Attack: 20, Defense: 55, Sp. Atk: 25, Sp. Def: 25, Speed: 30",
       "generation":
@@ -222,7 +222,7 @@
       "name": "Butterfree",
       "type": "Bug/Flying",
       "abilities": "Main: Compound Eyes | Hidden: Tinted Lens",
-      "height": "3ft 7in",
+      "height": "3'07\"",
       "weight": "70.5 lbs",
       "stats": "HP: 60, Attack: 45, Defense: 50, Sp. Atk: 80, Sp. Def: 80, Speed: 70",
       "generation":
@@ -246,7 +246,7 @@
       "name": "Weedle",
       "type": "Bug/Poison",
       "abilities": "Main: Shield Dust | Hidden: Run Away",
-      "height": "1ft 0in",
+      "height": "1'00\"",
       "weight": "7.1 lbs",
       "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 20, Sp. Def: 20, Speed: 50",
       "generation":
@@ -260,7 +260,7 @@
       "name": "Kakuna",
       "type": "Bug/Poison",
       "abilities": "Main:Shed Skin",
-      "height": "2ft 0in",
+      "height": "2'00\"",
       "weight": "22.0 lbs",
       "stats": "HP: 45, Attack: 25, Defense: 50, Sp. Atk: 25, Sp. Def: 25, Speed: 35",
       "generation":
@@ -274,7 +274,7 @@
       "name": "Beedrill",
       "type": "Bug/Poison",
       "abilities": "Main: Swarm | Hidden: Sniper",
-      "height": "3ft 3in",
+      "height": "3'03\"",
       "weight": "65.0 lbs",
       "stats": "HP: 65, Attack: 80, Defense: 40, Sp. Atk: 45, Sp. Def: 80, Speed: 75",
       "generation":
@@ -298,7 +298,7 @@
       "name": "Pidgey",
       "type": "Normal/Flying",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
-      "height": "1ft 0in",
+      "height": "1'00\"",
       "weight": "4.0 lbs",
       "stats": "HP: 40, Attack: 45, Defense: 40, Sp. Atk: 35, Sp. Def: 35, Speed: 56",
       "generation":
@@ -312,7 +312,7 @@
       "name": "Pidgeotto",
       "type": "Normal/Flying",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
-      "height": "3ft 7in",
+      "height": "3'07\"",
       "weight": "66.1 lbs",
       "stats": "HP: 63, Attack: 60, Defense: 55, Sp. Atk: 50, Sp. Def: 50, Speed: 71",
       "generation":
@@ -326,7 +326,7 @@
       "name": "Pidgeot",
       "type": "Normal/Flying",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
-      "height": "4ft 11in",
+      "height": "4'11\"",
       "weight": "87.1 lbs",
       "stats": "HP: 83, Attack: 80, Defense: 75, Sp. Atk: 70, Sp. Def: 70, Speed: 101",
       "generation":
@@ -350,7 +350,7 @@
       "name": "Rattata",
       "type": "Normal",
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
-      "height": "1ft 0in",
+      "height": "1'00\"",
       "weight": "7.7 lbs",
       "stats": "HP: 30, Attack: 56, Defense: 35, Sp. Atk: 25, Sp. Def: 35, Speed: 72",
       "generation":
@@ -365,7 +365,7 @@
       "name": "Raticate",
       "type": "Normal",
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
-      "height": "2ft 4in",
+      "height": "2'04\"",
       "weight": "40.8 lbs",
       "stats": "HP: 55, Attack: 81, Defense: 60, Sp. Atk: 50, Sp. Def: 70, Speed: 97",
       "generation":
@@ -379,7 +379,7 @@
       "name": "Spearow",
       "type": "Normal/Flying",
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
-      "height": "1ft 0in",
+      "height": "1'00\"",
       "weight": "4.4 lbs",
       "stats": "HP: 40, Attack: 60, Defense: 30, Sp. Atk: 31, Sp. Def: 31, Speed: 70",
       "generation":
@@ -393,7 +393,7 @@
       "name": "Fearow",
       "type": "Normal/Flying",
       "abilities": "Main:. Hidden:",
-      "height": "3ft 11in",
+      "height": "3'11\"",
       "weight": "83.8 lbs",
       "stats": "HP: 65, Attack: 90, Defense: 65, Sp. Atk: 61, Sp. Def: 61, Speed: 100",
       "generation":
@@ -407,7 +407,7 @@
       "name": "Ekans",
       "type": "Poison",
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
-      "height": "6ft 7in",
+      "height": "6'07\"",
       "weight": "15.2 lbs",
       "stats": "HP: 35, Attack: 60, Defense: 44, Sp. Atk: 40, Sp. Def: 54, Speed: 55",
       "generation":
@@ -421,7 +421,7 @@
       "name": "Arbok",
       "type": "Poison",
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
-      "height": "11ft 6in",
+      "height": "11'06\"",
       "weight": "143.3 lbs",
       "stats": "HP: 60, Attack: 95, Defense: 69, Sp. Atk: 65, Sp. Def: 79, Speed: 80",
       "generation":
@@ -435,7 +435,7 @@
       "name": "Pikachu",
       "type": "Electric",
       "abilities": "Main: Static |  Hidden: Lightning",
-      "height": "1ft 4in",
+      "height": "1'04\"",
       "weight": "13.2 lbs",
       "stats": "HP: 35, Attack: 55, Defense: 40, Sp. Atk: 50, Sp. Def: 50, Speed: 90",
       "generation":
@@ -449,7 +449,7 @@
       "name": "Raichu",
       "type": "Electric",
       "abilities": "Main: Static |  Hidden: Lightning",
-      "height": "2ft 7in",
+      "height": "2'07\"",
       "weight": "66.1 lbs",
       "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110",
       "generation":
@@ -463,7 +463,7 @@
       "name": "Sandshrew",
       "type": "Ground",
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
-      "height": "2ft 0in",
+      "height": "2'00\"",
       "weight": "26.5 lbs",
       "stats": "HP: 50, Attack: 75, Defense: 85, Sp. Atk: 20, Sp. Def: 30, Speed: 40",
       "generation":
@@ -477,7 +477,7 @@
       "name": "Sandslash",
       "type": "Ground",
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
-      "height": "3ft 3in",
+      "height": "3'03\"",
       "weight": "65 lbs",
       "stats": "HP: 75, Attack: 100, Defense: 110, Sp. Atk: 45, Sp. Def: 55, Speed: 65",
       "generation":
@@ -491,7 +491,7 @@
       "name": "Nidoran \t♀",
       "type": "Poison",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
-      "height": "1ft 4in",
+      "height": "1'04\"",
       "weight": "15.4 lbs",
       "stats": "HP: 55, Attack: 47, Defense: 52, Sp. Atk: 40, Sp. Def: 40, Speed: 41",
       "generation":
@@ -505,7 +505,7 @@
       "name": "Nidorina",
       "type": "Poison",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
-      "height": "2ft 7in",
+      "height": "2'07\"",
       "weight": "44.1 lbs",
       "stats": "HP: 70, Attack: 62, Defense: 67, Sp. Atk: 55, Sp. Def: 55, Speed: 56",
       "generation":
@@ -519,7 +519,7 @@
       "name": "Nidoqueen",
       "type": "Poison/Ground",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
-      "height": "4ft 3in",
+      "height": "4'03\"",
       "weight": "132.3",
       "stats": "HP: 90, AttacK 92, Defense: 87, Sp. Atk: 75, Sp. Def: 85, Speed: 76",
       "generation":
