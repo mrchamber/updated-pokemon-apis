@@ -3021,12 +3021,12 @@
       "height": "1'08\"",
       "weight": "25.4 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Atk": 55,
+        "Sp. Def": 45,
+        "Speed": 55
       },
       "generation":
       {
@@ -3042,12 +3042,12 @@
       "height": "4'03\"",
       "weight": "89.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Sp. Atk": 65,
+        "Sp. Def": 70,
+        "Speed": 80
       },
       "generation":
       {
@@ -3063,12 +3063,12 @@
       "height": "5'11\"",
       "weight": "130.1 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 80
       },
       "generation":
       {
@@ -3084,12 +3084,12 @@
       "height": "6'11\"",
       "weight": "1014.1 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Sp. Atk": 65,
+        "Sp. Def": 110,
+        "Speed": 30
       },
       "generation":
       {
@@ -3105,12 +3105,12 @@
       "height": "5'07\"",
       "weight": "122.1 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Sp. Atk": 95,
+        "Sp. Def": 125,
+        "Speed": 85
       },
       "generation":
       {
@@ -3126,12 +3126,12 @@
       "height": "5'03\"",
       "weight": "116.0 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Sp. Atk": 125,
+        "Sp. Def": 90,
+        "Speed": 100
       },
       "generation":
       {
@@ -3147,12 +3147,12 @@
       "height": "6'07\"",
       "weight": "132.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Atk": 125,
+        "Sp. Def": 85,
+        "Speed": 90
       },
       "generation":
       {
@@ -3168,12 +3168,12 @@
       "height": "5'11\"",
       "weight": "7.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 50
       },
       "generation":
       {
@@ -3189,12 +3189,12 @@
       "height": "13'01\"",
       "weight": "36.4 lbs",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 70
       },
       "generation":
       {
@@ -3210,12 +3210,12 @@
       "height": "7'03\"",
       "weight": "463.0 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 80
       },
       "generation":
       {
@@ -3231,12 +3231,12 @@
       "height": "6'07\"",
       "weight": "269.0 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Atk": 154,
+        "Sp. Def": 90,
+        "Speed": 130
       },
       "generation":
       {
@@ -3252,12 +3252,12 @@
       "height": "1'04\"",
       "weight": "8.8 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "Sp. Atk": ,
-        "Sp. Def": ,
-        "Speed":
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Atk": 100,
+        "Sp. Def": 100,
+        "Speed": 100
       },
       "generation":
       {
