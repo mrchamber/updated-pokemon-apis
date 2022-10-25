@@ -8,7 +8,14 @@
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "2'04\"",
       "weight": "15.2 lbs",
-      "stats": "HP: 45, Attack: 49, Defense: 49, Sp. Atk, 65, Sp. Def: 65, Speed: 45",
+      "stats": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -22,7 +29,14 @@
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "3'03\"",
       "weight": "28.7 lbs",
-      "stats": "HP: 60, Attack: 62, Defense: 63, Sp. Atk: 80, Sp. Def: 80, Speed: 60",
+      "stats": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -36,7 +50,14 @@
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "6'07\"",
       "weight": "220.5 lbs",
-      "stats": "HP: 80, Attack: 82, Defense: 83, Sp. Atk. 83, Sp. Def: 100, Speed: 80",
+      "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Atk": 83,
+        "Sp. Def": 100,
+        "Speed": 80
+      },
       "generation":
       {
         "name": "generation-i"
@@ -68,7 +89,14 @@
       "abilities": "Main: Blaze | Hidden: Solar Power",
       "height": "2'00\"",
       "weight": "18.7 lbs",
-      "stats": "HP: 39, Attack: 52, Defense: 43, Sp. Atk: 60, Sp. Def: 50, Speed: 65",
+      "stats": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Atk": 60,
+        "Sp. Def": 50,
+        "Speed": 65
+      },
       "generation":
       {
         "name": "generation-i"
@@ -82,7 +110,14 @@
       "abilities": "Main: Blaze | Hidden: Solar Power",
       "height": "3'07\"",
       "weight": "41.9 lbs",
-      "stats": "HP: 58, Attack: 64, Defense: 58, Sp. Atk: 80, Sp. Def: 65, Speed: 80",
+      "stats": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Atk": 80,
+        "Sp. Def": 65,
+        "Speed": 80
+      },
       "generation":
       {
         "name": "generation-i"
@@ -96,7 +131,14 @@
       "abilities": "Main: Blaze | Hidden: Solar Power",
       "height": "5'07\"",
       "weight": "199.5 lbs",
-      "stats": "HP: 78, Attack: 84, Defense: 78, Sp. Atk: 109, Sp. Def: 85, Speed: 100",
+      "stats": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Atk": 109,
+        "Sp. Def": 85,
+        "Speed": 100
+      },
       "generation":
       {
         "name": "generation-i"
@@ -136,7 +178,14 @@
       "abilities": "Main: Torrent | Hidden: Rain Dish",
       "height": "1'08\"",
       "weight": "19.8 lbs",
-      "stats": "HP: 44, Attack: 48, Defense: 65, Sp. Atk: 50, Sp. Def: 64, Speed: 43",
+      "stats": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Atk": 50,
+        "Sp. Def": 64,
+        "Speed": 43
+      },
       "generation":
       {
         "name": "generation-i"
@@ -150,7 +199,14 @@
       "abilities": "Main: Torrent | Hidden: Rain Dish",
       "height": "3'03\"",
       "weight": "49.6 lbs",
-      "stats": "HP: 59, Attack: 63, Defense: 80, Sp. Atk: 65, Sp. Def: 80, Speed: 58",
+      "stats": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Sp. Atk": 65,
+        "Sp. Def": 80,
+        "Speed": 58
+      },
       "generation":
       {
         "name": "generation-i"
@@ -164,7 +220,14 @@
       "abilities": "Main: Torrent | Hidden: Rain Dish",
       "height": "5'03\"",
       "weight": "188.5 lbs",
-      "stats": "HP: 79, Attack: 83, Defense: 100, Sp. Atk: 85, Sp. Def: 105, Speed: 78",
+      "stats": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Sp. Atk": 85,
+        "Sp. Def": 105,
+        "Speed": 78
+      },
       "generation":
       {
         "name": "generation-i"
@@ -196,7 +259,14 @@
       "abilities": "Main: Shield Dust | Hidden: Run Away",
       "height": "1'00\"",
       "weight": "6.4 lbs",
-      "stats": "HP: 45, Attack: 30, Defense: 35, Sp. Atk: 20, Sp. Def: 20, Speed: 45",
+      "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Atk": 20,
+        "Sp. Def": 20,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -210,7 +280,14 @@
       "abilities": "Main: Shed Skin.",
       "height": "2'04\"",
       "weight": "21.8 lbs",
-      "stats": "HP: 50, Attack: 20, Defense: 55, Sp. Atk: 25, Sp. Def: 25, Speed: 30",
+      "stats": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 30
+      },
       "generation":
       {
         "name": "generation-i"
@@ -224,7 +301,14 @@
       "abilities": "Main: Compound Eyes | Hidden: Tinted Lens",
       "height": "3'07\"",
       "weight": "70.5 lbs",
-      "stats": "HP: 60, Attack: 45, Defense: 50, Sp. Atk: 80, Sp. Def: 80, Speed: 70",
+      "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Atk": 90,
+        "Sp. Def": 80,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -248,7 +332,14 @@
       "abilities": "Main: Shield Dust | Hidden: Run Away",
       "height": "1'00\"",
       "weight": "7.1 lbs",
-      "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 20, Sp. Def: 20, Speed: 50",
+      "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Atk": 20,
+        "Sp. Def": 20,
+        "Speed": 50
+      },
       "generation":
       {
         "name": "generation-i"
@@ -262,7 +353,14 @@
       "abilities": "Main:Shed Skin",
       "height": "2'00\"",
       "weight": "22.0 lbs",
-      "stats": "HP: 45, Attack: 25, Defense: 50, Sp. Atk: 25, Sp. Def: 25, Speed: 35",
+      "stats": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -276,7 +374,14 @@
       "abilities": "Main: Swarm | Hidden: Sniper",
       "height": "3'03\"",
       "weight": "65.0 lbs",
-      "stats": "HP: 65, Attack: 80, Defense: 40, Sp. Atk: 45, Sp. Def: 80, Speed: 75",
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "Sp. Atk": 45,
+        "Sp. Def": 80,
+        "Speed": 75
+      },
       "generation":
       {
         "name": "generation-i"
@@ -300,7 +405,14 @@
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "1'00\"",
       "weight": "4.0 lbs",
-      "stats": "HP: 40, Attack: 45, Defense: 40, Sp. Atk: 35, Sp. Def: 35, Speed: 56",
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 56
+      },
       "generation":
       {
         "name": "generation-i"
@@ -314,7 +426,14 @@
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "3'07\"",
       "weight": "66.1 lbs",
-      "stats": "HP: 63, Attack: 60, Defense: 55, Sp. Atk: 50, Sp. Def: 50, Speed: 71",
+      "stats": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 71
+      },
       "generation":
       {
         "name": "generation-i"
@@ -328,7 +447,14 @@
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "4'11\"",
       "weight": "87.1 lbs",
-      "stats": "HP: 83, Attack: 80, Defense: 75, Sp. Atk: 70, Sp. Def: 70, Speed: 101",
+      "stats": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Sp. Atk": 70,
+        "Sp. Def": 70,
+        "Speed": 101
+      },
       "generation":
       {
         "name": "generation-i"
@@ -352,7 +478,14 @@
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "1'00\"",
       "weight": "7.7 lbs",
-      "stats": "HP: 30, Attack: 56, Defense: 35, Sp. Atk: 25, Sp. Def: 35, Speed: 72",
+      "stats": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Sp. Atk": 25,
+        "Sp. Def": 35,
+        "Speed": 72
+      },
       "generation":
       {
         "name": "generation-i"
@@ -367,7 +500,14 @@
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "2'04\"",
       "weight": "40.8 lbs",
-      "stats": "HP: 55, Attack: 81, Defense: 60, Sp. Atk: 50, Sp. Def: 70, Speed: 97",
+      "stats": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Sp. Atk": 50,
+        "Sp. Def": 70,
+        "Speed": 97
+      },
       "generation":
       {
         "name": "generation-i"
@@ -381,7 +521,14 @@
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "1'00\"",
       "weight": "4.4 lbs",
-      "stats": "HP: 40, Attack: 60, Defense: 30, Sp. Atk: 31, Sp. Def: 31, Speed: 70",
+      "stats": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Atk": 31,
+        "Sp. Def": 31,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -395,7 +542,14 @@
       "abilities": "Main:. Hidden:",
       "height": "3'11\"",
       "weight": "83.8 lbs",
-      "stats": "HP: 65, Attack: 90, Defense: 65, Sp. Atk: 61, Sp. Def: 61, Speed: 100",
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Atk": 61,
+        "Sp. Def": 61,
+        "Speed": 100
+      },
       "generation":
       {
         "name": "generation-i"
@@ -409,7 +563,14 @@
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
       "height": "6'07\"",
       "weight": "15.2 lbs",
-      "stats": "HP: 35, Attack: 60, Defense: 44, Sp. Atk: 40, Sp. Def: 54, Speed: 55",
+      "stats": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Sp. Atk": 40,
+        "Sp. Def": 54,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -423,7 +584,14 @@
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
       "height": "11'06\"",
       "weight": "143.3 lbs",
-      "stats": "HP: 60, Attack: 95, Defense: 69, Sp. Atk: 65, Sp. Def: 79, Speed: 80",
+      "stats": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "Sp. Atk": 65,
+        "Sp. Def": 79,
+        "Speed": 80
+      },
       "generation":
       {
         "name": "generation-i"
@@ -437,7 +605,14 @@
       "abilities": "Main: Static |  Hidden: Lightning",
       "height": "1'04\"",
       "weight": "13.2 lbs",
-      "stats": "HP: 35, Attack: 55, Defense: 40, Sp. Atk: 50, Sp. Def: 50, Speed: 90",
+      "stats": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -451,7 +626,14 @@
       "abilities": "Main: Static |  Hidden: Lightning",
       "height": "2'07\"",
       "weight": "66.1 lbs",
-      "stats": "HP: 60, Attack: 90, Defense: 55, Sp. Atk, 90, Sp. Def: 80, Speed: 110",
+      "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Atk": 90,
+        "Sp. Def": 80,
+        "Speed": 110
+      },
       "generation":
       {
         "name": "generation-i"
@@ -465,7 +647,14 @@
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "2'00\"",
       "weight": "26.5 lbs",
-      "stats": "HP: 50, Attack: 75, Defense: 85, Sp. Atk: 20, Sp. Def: 30, Speed: 40",
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Atk": 20,
+        "Sp. Def": 30,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -479,7 +668,14 @@
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "3'03\"",
       "weight": "65 lbs",
-      "stats": "HP: 75, Attack: 100, Defense: 110, Sp. Atk: 45, Sp. Def: 55, Speed: 65",
+      "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 65
+      },
       "generation":
       {
         "name": "generation-i"
@@ -493,7 +689,14 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "1'04\"",
       "weight": "15.4 lbs",
-      "stats": "HP: 55, Attack: 47, Defense: 52, Sp. Atk: 40, Sp. Def: 40, Speed: 41",
+      "stats": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 41
+      },
       "generation":
       {
         "name": "generation-i"
@@ -507,7 +710,14 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "2'07\"",
       "weight": "44.1 lbs",
-      "stats": "HP: 70, Attack: 62, Defense: 67, Sp. Atk: 55, Sp. Def: 55, Speed: 56",
+      "stats": {
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 56
+      },
       "generation":
       {
         "name": "generation-i"
@@ -521,7 +731,14 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
       "height": "4'03\"",
       "weight": "132.3",
-      "stats": "HP: 90, AttacK 92, Defense: 87, Sp. Atk: 75, Sp. Def: 85, Speed: 76",
+      "stats": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 87,
+        "Sp. Atk": 75,
+        "Sp. Def": 85,
+        "Speed": 76
+    },
       "generation":
       {
         "name": "generation-i"
@@ -535,7 +752,14 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "1'08\"",
       "weight": "19.8 lbs. ",
-      "stats": "HP: 46, Attack: 57, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 50",
+      "stats": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 50
+      },
       "generation":
       {
         "name": "generation-i"
@@ -549,7 +773,14 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "2'11\"",
       "weight": "43.0 lbs. ",
-      "stats": "HP: 61, Attack: 72, Defense: 57, Sp. Atk: 55, Sp. Def: 55, Speed: 65",
+      "stats": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 65
+      },
       "generation":
       {
         "name": "generation-i"
@@ -563,7 +794,14 @@
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
       "height": "4'07\"",
       "weight": "136.7 lbs. ",
-      "stats": "HP: 81, Attack: 102, Defense: 77, Sp. Atk: 85, Sp. Def: 75, Speed: 85",
+      "stats": {
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 77,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 85
+      },
       "generation":
       {
         "name": "generation-i"
@@ -577,7 +815,14 @@
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
       "height": "2'00\"",
       "weight": "16.5 lbs.",
-      "stats": "HP: 70, Attack: 45, Defense: 48, Sp. Atk: 60, Sp. Def: 65, Speed: 35",
+      "stats": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Sp. Atk": 60,
+        "Sp. Def": 65,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -591,7 +836,14 @@
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Unaware",
       "height": "4'03\"",
       "weight": "88.2 lbs.",
-      "stats": "HP: 95, Attack: 70, Defense: 73, Sp. Atk: 95, Sp. Def: 90, Speed: 60",
+      "stats": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Sp. Atk": 95,
+        "Sp. Def": 90,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -605,7 +857,14 @@
       "abilities": "Main: Flash Fire | Hidden: Drought",
       "height": "2'00\"",
       "weight": "21.8 lbs.",
-      "stats": "HP: 38, Attack: 41, Defense: 40, Sp. Atk: 50, Sp. Def: 65, Speed: 65",
+      "stats": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Sp. Atk": 50,
+        "Sp. Def": 65,
+        "Speed": 65
+      },
       "generation":
       {
         "name": "generation-i"
@@ -619,7 +878,14 @@
       "abilities": "Main: Flash Fire | Hidden: Drought",
       "height": "3'07\"",
       "weight": "43.9 lbs.",
-      "stats": "HP: 73, Attack: 76, Defense: 75, Sp. Atk: 81, Sp. Def: 100, Speed: 100",
+      "stats": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Sp. Atk": 81,
+        "Sp. Def": 100,
+        "Speed": 100
+      },
       "generation":
       {
         "name": "generation-i"
@@ -633,7 +899,14 @@
       "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
       "height": "1'08\"",
       "weight": "12.1 lbs.",
-      "stats": "HP: 115, Attack: 45, Defense: 20, Sp. Atk: 45, Sp. Def: 25, Speed: 20",
+      "stats": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Sp. Atk": 45,
+        "Sp. Def": 25,
+        "Speed": 20
+      },
       "generation":
       {
         "name": "generation-i"
@@ -647,7 +920,14 @@
       "abilities": "Main: Cute Charm, Competitive | Hidden: Frisk",
       "height": "3'03\"",
       "weight": "26.5 lbs.",
-      "stats": "HP: 140, Attack: 70, Defense: 45, Sp. Atk: 85, Sp. Def: 50, Speed: 45",
+      "stats": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Atk": 85,
+        "Sp. Def": 50,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -661,7 +941,14 @@
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "2'07\" ",
       "weight": "16.5 lbs.",
-      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 30, Sp. Def: 40, Speed: 55",
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Atk": 30,
+        "Sp. Def": 40,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -675,7 +962,14 @@
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "5'03\"",
       "weight": "121.3 lbs.",
-      "stats": "HP: 75, Attack: 80, Defense: 70, Sp. Atk: 65, Sp. Def: 75, Speed: 90",
+      "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Atk": 65,
+        "Sp. Def": 75,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -689,7 +983,14 @@
       "abilities": "Main: Chlorophyll | Hidden: Run Away",
       "height": "1'08\"",
       "weight": "11.9 lbs.",
-      "stats": "HP: 45, Attack: 50, Defense: 55, Sp. Atk: 75, Sp. Def: 65, Speed: 30",
+      "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Sp. Atk": 75,
+        "Sp. Def": 65,
+        "Speed": 30
+      },
       "generation":
       {
         "name": "generation-i"
@@ -703,7 +1004,14 @@
       "abilities": "Main: Chlorophyll | Hidden: Stench ",
       "height": "2'07\"",
       "weight": "19.0 lbs.",
-      "stats": "HP: 60, Attack: 65, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40",
+      "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -717,7 +1025,14 @@
       "abilities": "Main: Chlorophyll | Hidden: Effect Spore",
       "height": "3'11\"",
       "weight": "41.0 lbs.",
-      "stats": "HP: 75, Attack: 80, Defense: 85, Sp. Atk: 110, Sp. Def: 90, Speed: 50",
+      "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Sp. Atk": 110,
+        "Sp. Def": 90,
+        "Speed": 50
+      },
       "generation":
       {
         "name": "generation-i"
@@ -731,7 +1046,14 @@
       "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
       "height": "1'00\"",
       "weight": "11.9 lbs.",
-      "stats": "HP: 35, Attack: 70, Defense: 55, Sp. Atk: 45, Sp. Def: 55, Speed: 25",
+      "stats": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Atk": 45,
+        "Sp. Def": 55,
+        "Speed": 25
+      },
       "generation":
       {
         "name": "generation-i"
@@ -745,7 +1067,14 @@
       "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
       "height": "3'03\"",
       "weight": "65.0 lbs.",
-      "stats": "HP: 60, Attack: 95, Defense: 80, Sp. Atk: 60, Sp. Def: 80, Speed: 30",
+      "stats": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 80,
+        "Speed": 30
+      },
       "generation":
       {
         "name": "generation-i"
@@ -759,7 +1088,14 @@
       "abilities": "Main: Compound Eyes, Tinted Lens | Hidden: Run Away",
       "height": "3'03\"",
       "weight": "66.1 lbs. ",
-      "stats": "HP: 60, Attack: 55, Defense: 50, Sp. Atk: 40, Sp. Def: 55, Speed: 45",
+      "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 55,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -773,7 +1109,14 @@
       "abilities": "Main: Shield Dust, Tinted Lens | Hidden: Wonder Skin",
       "height": "4'11\"",
       "weight": "27.6 lbs.",
-      "stats": "HP: 70, Attack: 65, Defense: 60, Sp. Atk: 90, Sp. Def: 75, Speed: 90",
+      "stats": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 90,
+        "Sp. Def": 75,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -787,7 +1130,14 @@
       "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
       "height": "0'08\"",
       "weight": "1.8 lbs.",
-      "stats": "HP: 10, Attack: 55, Defense:25, Sp. Atk: 35, Sp. Def: 45, Speed: 95",
+      "stats": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Sp. Atk": 35,
+        "Sp. Def": 45,
+        "Speed": 95
+      },
       "generation":
       {
         "name": "generation-i"
@@ -801,7 +1151,14 @@
       "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
       "height": "2'04\"",
       "weight": "73.4 lbs.",
-      "stats": "HP: 35, Attack: 100, Defense: 50, Sp. Atk: 50, Sp. Def: 70, Speed: 120",
+      "stats": {
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Atk": 50,
+        "Sp. Def": 70,
+        "Speed": 120
+      },
       "generation":
       {
         "name": "generation-i"
@@ -815,7 +1172,14 @@
       "abilities": "Main: Pickup, Technician | Hidden: Unnerve",
       "height": "1'04\"",
       "weight": "9.3 lbs.",
-      "stats": "HP: 40, Attack: 45, Defense: 35, Sp. Atk: 40, Sp. Def: 40, Speed: 90",
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -829,7 +1193,14 @@
       "abilities": "Main: Limber, Technician | Hidden: Unnerve",
       "height": "3'03\"",
       "weight": "70.5 lbs.",
-      "stats": "HP: 65, Attack: 70, Defense: 60, Sp. Atk: 65, Sp. Def: 65, Speed: 115",
+      "stats": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 115
+      },
       "generation":
       {
         "name": "generation-i"
@@ -843,7 +1214,14 @@
       "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
       "height": "2'07\"",
       "weight": "42.2 lbs.",
-      "stats": "HP: 50, Attack: 52, Defense: 48, Sp. Atk: 65, Sp. Def: 50, Speed: 55",
+      "stats": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Sp. Atk": 65,
+        "Sp. Def": 50,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -857,7 +1235,14 @@
       "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
       "height": "5'07\"",
       "weight": "168.9 lbs.",
-      "stats": "HP: 80, Attack: 82, Defense: 78, Sp. Atk: 95, Sp. Def: 80, Speed: 85",
+      "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Sp. Atk": 95,
+        "Sp. Def": 80,
+        "Speed": 85
+      },
       "generation":
       {
         "name": "generation-i"
@@ -871,7 +1256,14 @@
       "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
       "height": "1'08\"",
       "weight": "61.7 lbs. ",
-      "stats": "HP: 40, Attack: 80, Defense: 35, Sp. Atk: 35, Sp. Def: 45, Speed: 70",
+      "stats": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Sp. Atk": 35,
+        "Sp. Def": 45,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -885,7 +1277,14 @@
       "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
       "height": "3'03\"",
       "weight": "70.5 lbs.",
-      "stats": "HP: 65, Attack: 105, Defense: 60, Sp. Atk: 60, Sp. Def: 70, Speed: 95",
+      "stats": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Atk": 60,
+        "Sp. Def": 70,
+        "Speed": 95
+      },
       "generation":
       {
         "name": "generation-i"
@@ -899,7 +1298,14 @@
       "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
       "height": "2'04\"",
       "weight": "41.9 lbs.",
-      "stats": "HP: 55, Attack: 70, Defense: 45, Sp. Atk: 70, Sp. Def: 50, Speed: 60",
+      "stats": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Atk": 70,
+        "Sp. Def": 50,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -913,7 +1319,14 @@
       "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
       "height": "6'03",
       "weight": "341.7 lbs.",
-      "stats": "HP: 90, Attack: 110, Defense: 80, Sp. Atk: 100, Sp. Def: 80, Speed: 95",
+      "stats": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Atk": 100,
+        "Sp. Def": 80,
+        "Speed": 95
+      },
       "generation":
       {
         "name": "generation-i"
@@ -927,7 +1340,14 @@
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "2'00\"",
       "weight": "27.3 lbs.",
-      "stats": "HP: 40, Attack: 50, Defense: 40, Sp. Atk: 40, Sp. Def: 40, Speed: 90",
+      "stats": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -941,7 +1361,14 @@
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "3'00\"",
       "weight": "44.1 lbs.",
-      "stats": "HP: 65, Attack: 65, Defense: 65, Sp. Atk: 50, Sp. Def, 50, Speed: 90",
+      "stats": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -955,7 +1382,14 @@
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "4'03\"",
       "weight": "119.0 lbs.",
-      "stats": "HP: 90, Attack: 95, Defense: 95, Sp. Atk: 70, Sp. Def: 90, Speed: 70",
+      "stats": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Atk": 70,
+        "Sp. Def": 90,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -969,7 +1403,14 @@
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "2'11\"",
       "weight": "43.0 lbs. ",
-      "stats": "HP: 25, Attack: 20, Defense: 15, Sp. Atk: 105, Sp. Def: 55, Speed: 90",
+      "stats": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Sp. Atk": 105,
+        "Sp. Def": 55,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -983,7 +1424,14 @@
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "4'03\"",
       "weight": "124.6 lbs.",
-      "stats": "HP: 40, Attack: 35, Defense: 30, Sp. Atk: 120, Sp. Def: 70, Speed: 105",
+      "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Atk": 120,
+        "Sp. Def": 70,
+        "Speed": 105
+      },
       "generation":
       {
         "name": "generation-i"
@@ -997,7 +1445,14 @@
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "4'11\"",
       "weight": "105.8 lbs.",
-      "stats": "HP: 55, Attack: 50, Defense: 45, Sp. Atk: 135, Sp. Def: 95, Speed: 120",
+      "stats": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Atk": 135,
+        "Sp. Def": 95,
+        "Speed": 120
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1011,7 +1466,14 @@
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "2'07\"",
       "weight": "43.0 lbs.",
-      "stats": "HP: 70, Attack: 80, Defense: 50, Sp. Atk: 35, Sp. Def: 35, Speed: 35",
+      "stats": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1025,7 +1487,14 @@
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "4'11\"",
       "weight": "155.4 lbs.",
-      "stats": "HP: 80, Attack: 100, Defense: 70, Sp. Atk: 50, Sp. Def: 60, Speed: 45",
+      "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 50,
+        "Sp. Def": 60,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1039,7 +1508,14 @@
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "5'03\"",
       "weight": "286.6 lbs.",
-      "stats": "HP: 90, Attack: 130, Defense: 80, Sp. Atk: 65, Sp. Def: 85, Speed: 55",
+      "stats": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Atk": 65,
+        "Sp. Def": 85,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1053,7 +1529,14 @@
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "2'04\"",
       "weight": "8.8 lbs.",
-      "stats": "HP: 50, Attack: 75, Defense: 35, Sp. Atk: 70, Sp. Def: 30, Speed: 40",
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Atk": 70,
+        "Sp. Def": 30,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1067,7 +1550,14 @@
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "3'03\"",
       "weight": "14.1 lbs.",
-      "stats": "HP: 65, Attack: 90, Defense: 50, Sp. Atk: 85, Sp. Def: 45, Speed: 55",
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Sp. Atk": 85,
+        "Sp. Def": 45,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1081,7 +1571,14 @@
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "5'07\"",
       "weight": "34.2 lbs.",
-      "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 100, Sp. Def: 70, Speed: 70",
+      "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Atk": 100,
+        "Sp. Def": 70,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1095,7 +1592,14 @@
       "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
       "height": "2'11\"",
       "weight": "100.3 lbs.",
-      "stats": "HP: 40, Attack: 40, Defense: 35, Sp. Atk: 50, Sp. Def: 100, Speed: 70",
+      "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Atk": 50,
+        "Sp. Def": 100,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1109,7 +1613,14 @@
       "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
       "height": "5'03\"",
       "weight": "121.3 lbs.",
-      "stats": "HP: 80, Attack: 70, Defense: 65, Sp. Atk: 80, Sp. Def: 120, Speed: 100",
+      "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Atk": 100,
+        "Sp. Def": 70,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1123,7 +1634,14 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "1'04\"",
       "weight": "44.1 lbs.",
-      "stats": "HP: 40, Attack: 80, Defense: 100, Sp. Atk: 30, Sp. Def: 30, Speed: 20",
+      "stats": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 20
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1137,7 +1655,14 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "3'03\"",
       "weight": "231.5 lbs.",
-      "stats": "HP: 55, Attack: 95, Defense: 115, Sp. Atk: 45, Sp. Def: 45, Speed: 35",
+      "stats": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Atk": 45,
+        "Sp. Def": 45,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1151,7 +1676,14 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "4'07\"",
       "weight": "661.4 lbs.",
-      "stats": "HP: 80, Attack: 120, Defense: 130, Sp. Atk: 55, Sp. Def: 65, Speed: 45",
+      "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 130,
+        "Sp. Atk": 55,
+        "Sp. Def": 65,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1165,7 +1697,14 @@
       "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
       "height": "3'03\"",
       "weight": "66.1 lbs.",
-      "stats": "HP: 50, Attack: 85, Defense: 55, Sp. Atk: 65, Sp. Def: 65, Speed: 90",
+      "stats": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Atk": 65,
+        "Sp. Def": 65,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1179,7 +1718,14 @@
       "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
       "height": "5'07\"",
       "weight": "209.4 lbs.",
-      "stats": "HP: 65, Attack: 100, Defese: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 105",
+      "stats": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 105
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1193,7 +1739,14 @@
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "3'11\"",
       "weight": "79.4 lbs.",
-      "stats": "HP: 90, Attack: 65, Defense: 65, Sp. Atk: 40, Sp. Def: 40, Speed: 15",
+      "stats": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Atk": 40,
+        "Sp. Def": 40,
+        "Speed": 15
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1207,7 +1760,14 @@
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "5'03\"",
       "weight": "173.1 lbs.",
-      "stats": "HP: 95, Attack: 75, Defense: 110, Sp. Atk: 100, Sp. Def: 80, Speed: 30",
+      "stats": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Atk": 100,
+        "Sp. Def": 80,
+        "Speed": 30
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1221,7 +1781,14 @@
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "1'00\"",
       "weight": "13.2 lbs.",
-      "stats": "HP: 25, Attack: 35, Defense: 70, Sp. Atk: 95, Sp. Def: 55, Speed: 45",
+      "stats": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Sp. Atk": 95,
+        "Sp. Def": 55,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1235,7 +1802,14 @@
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "3'03\"",
       "weight": "132.3 lbs.",
-      "stats": "HP: 50, Attack: 60, Defense: 95, Sp. Atk: 120, Sp. Def: 70, Speed: 70",
+      "stats": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Sp. Atk": 120,
+        "Sp. Def": 70,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1249,7 +1823,14 @@
       "abilities": "Main: Keen Eye, Inner Focus | Hidden: Defiant",
       "height": "2'07\"",
       "weight": "33.1 lbs.",
-      "stats": "HP: 52, Attack: 90, Defense: 55, Sp. Atk: 58, Sp. Def: 62, Speed: 60",
+      "stats": {
+        "HP": 52,
+        "Attack": 90,
+        "Defense": 58,
+        "Sp. Atk": 58,
+        "Sp. Def": 62,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1263,7 +1844,14 @@
       "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
       "height": "4'07\"",
       "weight": "86.4 lbs. ",
-      "stats": "HP: 35, Attack: 85, Defense: 45, Sp. Atk: 35, Sp. Def: 35, Speed: 75",
+      "stats": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Sp. Atk": 35,
+        "Sp. Def": 35,
+        "Speed": 75
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1277,7 +1865,14 @@
       "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
       "height": "5'11\"",
       "weight": "187.8 lbs.",
-      "stats": "HP: 60, Attack: 110, Defense: 70, Sp. Atk: 60, Sp. Def: 60, Speed: 100",
+      "stats": {
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Sp. Atk": 60,
+        "Sp. Def": 60,
+        "Speed": 110
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1291,7 +1886,14 @@
       "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
       "height": "3'07\"",
       "weight": "198.4 lbs.",
-      "stats": "HP: 65, Attack: 45, Defense: 55, Sp. Atk: 45, Sp. Def: 70, Speed: 45",
+      "stats": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Atk": 45,
+        "Sp. Def": 70,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1305,7 +1907,14 @@
       "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
       "height": "5'07\"",
       "weight": "264.6 lbs.",
-      "stats": "HP: 90, Attack: 70, Defense: 80, Sp. Atk: 70, Sp. Def: 95, Speed: 70",
+      "stats": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Atk": 70,
+        "Sp. Def": 95,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1319,7 +1928,14 @@
       "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
       "height": "2'11\"",
       "weight": "66.1 lbs.",
-      "stats": "HP: 80, Attack: 80, Defense: 50, Sp. Atk: 40, Sp. Def: 50, Speed: 25",
+      "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 25
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1333,7 +1949,14 @@
       "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
       "height": "3'11\"",
       "weight": "66.1 lbs.",
-      "stats": "HP: 105, Attack: 105, Defense: 75, Sp. Atk: 65, Sp. Def: 100, Speed: 50",
+      "stats": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Atk": 65,
+        "Sp. Def": 100,
+        "Speed": 50
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1347,7 +1970,14 @@
       "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
       "height": "1'00\"",
       "weight": "8.8 lbs.",
-      "stats": "HP: 30, Attack: 65, Defense: 100, Sp. Atk: 45, Sp. Def: 25, Speed: 40",
+      "stats": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Sp. Atk": 45,
+        "Sp. Def": 25,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1361,7 +1991,14 @@
       "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
       "height": "4'11\"",
       "weight": "292.1 lbs.",
-      "stats": "HP: 50, Attack: 95, Defense: 180, Sp. Atk: 85, Sp. Def: 45, Speed: 70",
+      "stats": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Sp. Atk": 85,
+        "Sp. Def": 45,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1375,7 +2012,14 @@
       "abilities": "Main: Levitate",
       "height": "4'03\"",
       "weight": "0.2 lbs.",
-      "stats": "HP: 30, Attack: 35, Defense: 30, Sp. Atk: 100, Sp. Def: 35, Speed: 80",
+      "stats": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Atk": 100,
+        "Sp. Def": 35,
+        "Speed": 80
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1389,7 +2033,14 @@
       "abilities": "Main: Levitae",
       "height": "5'03\"",
       "weight": "0.2 lbs.",
-      "stats": "HP: 45, Attack: 50, Defense: 45, Sp. Atk: 115, Sp. Def: 55, Speed: 95",
+      "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Atk": 115,
+        "Sp. Def": 55,
+        "Speed": 95
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1403,7 +2054,14 @@
       "abilities": "Main: Cursed Body",
       "height": "4'11\"",
       "weight": "89.3 lbs.",
-      "stats": "HP: 60, Attack: 65, Defense: 60, Sp. Atk: 130, Sp. Def: 75, Speed: 110",
+      "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 130,
+        "Sp. Def": 75,
+        "Speed": 110
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1417,7 +2075,14 @@
       "abilities": "Main: Rock Head, Sturdy | Hidden: Weak Armor",
       "height": "28'10\"",
       "weight": "463.0 lbs.",
-      "stats": "HP: 35, Attack: 45, Defense: 160, Sp. Atk: 30, Sp. Def: 45, Speed: 70",
+      "stats": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Sp. Atk": 30,
+        "Sp. Def": 45,
+        "Speed": 70
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1431,7 +2096,14 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "3'03\"",
       "weight": "71.4 lbs.",
-      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42",
+      "stats": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Sp. Atk": 43,
+        "Sp. Def": 90,
+        "Speed":42
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1445,7 +2117,14 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "5'03\"",
       "weight": "166.7 lbs.",
-      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67",
+      "stats": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Sp. Atk": 73,
+        "Sp. Def": 115,
+        "Speed": 67
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1459,7 +2138,14 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "3'03\"",
       "weight": "71.4 lbs.",
-      "stats": "HP: 60, Attack: 48, Defense: 45, Sp. Atk: 43, Sp. Def: 90, Speed: 42",
+      "stats": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Atk": 25,
+        "Sp. Def": 25,
+        "Speed": 50
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1473,7 +2159,14 @@
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "5'03\"",
       "weight": "166.7 lbs.",
-      "stats": "HP: 85, Attack: 73, Defense: 70, Sp. Atk: 73, Sp. Def: 115, Speed: 67",
+      "stats": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Atk": 50,
+        "Sp. Def": 50,
+        "Speed": 75
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1487,7 +2180,14 @@
       "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
       "height": "1'08\"",
       "weight": "22.9 lbs.",
-      "stats": "HP: 40, Attack: 30, Defense: 50, Sp. Atk: 55, Sp. Def: 55, Speed: 100",
+      "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Atk": 55,
+        "Sp. Def": 55,
+        "Speed": 100
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1501,7 +2201,14 @@
       "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
       "height": "3'11\"",
       "weight": "146.8 lbs.",
-      "stats": "HP: 60, Attack: 50, Defense: 70, Sp. Atk: 80, Sp. Def: 80, Speed: 140",
+      "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Atk": 80,
+        "Sp. Def": 80,
+        "Speed": 150
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1515,7 +2222,14 @@
       "abilities": "Main: Chlorophyl | Hidden: Harvest",
       "height": "1'04\"",
       "weight": "5.5 lbs.",
-      "stats": "HP: 60, Attack: 40, Defense: 80, Sp. Atk: 60, Sp. Def: 45, Speed: 40",
+      "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Atk": 60,
+        "Sp. Def": 45,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1529,7 +2243,14 @@
       "abilities": "Main: Choorophyl | Hidden: Frisk",
       "height": "6'07\"",
       "weight": "264.6 lbs.",
-      "stats": "HP: 95, Attack: 95, Defense: 85, Sp. Atk: 125, Sp. Def: 75, Speed: 55",
+      "stats": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Atk": 125,
+        "Sp. Def": 75,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1543,7 +2264,14 @@
       "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
       "height": "1'04\"",
       "weight": "14.3 lbs.",
-      "stats": "HP: 50, Attack: 50, Defense: 95, Sp. Atk: 40, Sp. Def: 50, Speed: 35",
+      "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Atk": 40,
+        "Sp. Def": 50,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1557,7 +2285,14 @@
       "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
       "height": "3'03\"",
       "weight": "99.2 lbs.",
-      "stats": "HP: 60, Attack: 80, Defense: 100, Sp. Atk: 50, Sp. Def: 80, Speed: 45",
+      "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Atk": 50,
+        "Sp. Def": 80,
+        "Speed": 45
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1571,7 +2306,14 @@
       "abilities": "Main: Limber, Reckless | Hidden: Unburden",
       "height": "4'11\"",
       "weight": "109.8 lbs. ",
-      "stats": "HP: 50, Attack: 120, Defense: 53, Sp. Atk: 35, Sp. Def: 110, Speed: 87",
+      "stats": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Sp. Atk": 35,
+        "Sp. Def": 110,
+        "Speed": 76
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1585,7 +2327,14 @@
       "abilities": "Main: Keen Eye, Iron Fist | Hidden: Inner Focus",
       "height": "4'07\"",
       "weight": "110.7 lbs.",
-      "stats": "HP: 50, Attack: 105, Defense: 79, Sp. Atk: 35, Sp. Def: 110, Speed: 76",
+      "stats": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Sp. Atk": 35,
+        "Sp. Def": 110,
+        "Speed": 76
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1599,7 +2348,14 @@
       "abilities": "Main: Own Tempo, Obvious | Hidden: Cloud Nine",
       "height": "3'11\"",
       "weight": "144.4 lbs.",
-      "stats": "HP: 90, Attack: 55, Defense: 75, Sp. Atk: 60, Sp. Def: 75, Speed: 30",
+      "stats": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Atk": 60,
+        "Sp. Def": 75,
+        "Speed": 30
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1613,7 +2369,14 @@
       "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
       "height": "2'00\"",
       "weight": "2.2 lbs.",
-      "stats": "HP: 40, Attack: 65, Defense: 95, Sp. Atk: 60, Sp. Def: 45, Speed: 35",
+      "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Atk": 60,
+        "Sp. Def": 45,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1627,7 +2390,14 @@
       "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
       "height": "3'11\"",
       "weight": "20.9 lbs.",
-      "stats": "HP: 65, Attack: 90, Defense: 120, Sp. Atk: 85, Sp. Def: 70, Speed: 60",
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Sp. Atk": 85,
+        "Sp. Def": 70,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1641,7 +2411,14 @@
       "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
       "height": "3'03\"",
       "weight": "253.5 lbs.",
-      "stats": "HP: 80, Attack: 85, Defense: 95, Sp. Atk: 30, Sp. Def: 30, Speed: 25",
+      "stats": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Atk": 30,
+        "Sp. Def": 30,
+        "Speed": 25
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1655,7 +2432,14 @@
       "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
       "height": "6'03\"",
       "weight": "264.6 lbs. ",
-      "stats": "HP: 105, Attack: 130, Defense: 120, Sp. Atk: 45, Sp. Def: 45, Speed: 40",
+      "stats": {
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Sp. Atk": 45,
+        "Sp. Def": 45,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1669,7 +2453,14 @@
       "abilities": "Main: Natural Cure, Serene Grace | Hidden: Healer",
       "height": "3'07\"",
       "weight": "76.3 lbs.",
-      "stats": "HP: 250, Attack: 5, Defense: 5, Sp. Atk: 35, Sp. Def: 105, Speed: 50",
+      "stats": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Sp. Atk": 35,
+        "Sp. Def": 105,
+        "Speed": 50
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1683,7 +2474,14 @@
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Regenerator",
       "height": "3'03\"",
       "weight": "77.2 lbs.",
-      "stats": "HP: 65, Attack: 55, Defense: 115, Sp. Atk: 100, Sp. Def: 40, Speed: 60",
+      "stats": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Sp. Atk": 100,
+        "Sp. Def": 40,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1697,7 +2495,14 @@
       "abilities": "Main: Early Bird, Scrappy | Hidden: Inner Focus",
       "height": "7'03\"",
       "weight": "176.4 lbs.",
-      "stats": "HP: 105, Attack: 95, Defense: 80, Sp. Atk: 40, Sp. Def: 80, Speed: 90",
+      "stats": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Atk": 40,
+        "Sp. Def": 80,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1711,7 +2516,14 @@
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
       "height": "1'04\"",
       "weight": "17.6 lbs.",
-      "stats": "HP: 30, Attack: 40, Defense: 70, Sp. Atk: 70, Sp. Def: 25, Speed: 60",
+      "stats": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Sp. Atk": 70,
+        "Sp. Def": 25,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1725,7 +2537,14 @@
       "abilities": "Main: Poison Point, Sniper | Hidden: Damp",
       "height": "3'11\"",
       "weight": "55.1 lbs.",
-      "stats": "HP: 55, Attack: 65, Defense: 95, Sp. Atk: 95, Sp. Def: 45, Speed: 85",
+      "stats": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Atk": 95,
+        "Sp. Def": 45,
+        "Speed": 85
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1739,7 +2558,14 @@
       "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
       "height": "2'00\"",
       "weight": "33.1 lbs.",
-      "stats": "HP: 45, Attack: 67, Defense: 60, Sp. Atk: 35, Sp. Def: 50, Speed: 63",
+      "stats": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Sp. Atk": 35,
+        "Sp. Def": 50,
+        "Speed": 63
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1753,7 +2579,14 @@
       "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
       "height": "4'03\"",
       "weight": "86.0 lbs.",
-      "stats": "HP: 80, Attack: 92, Defense: 65, Sp. Atk: 65, Sp. Def: 80, Speed: 68",
+      "stats": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Atk": 65,
+        "Sp. Def": 80,
+        "Speed": 68
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1767,7 +2600,14 @@
       "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
       "height": "2'07\"",
       "weight": "76.1 lbs.",
-      "stats": "HP: 30, Attack: 45, Defense: 55, Sp. Atk: 70, Sp. Def: 55, Speed: 85",
+      "stats": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Atk": 70,
+        "Sp. Def": 55,
+        "Speed": 85
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1781,7 +2621,14 @@
       "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
       "height": "3'07\"",
       "weight": "176.5 lbs.",
-      "stats": "HP: 60, Attack: 75, Defense: 85, Sp. Atk: 100, Sp. Def: 85, Speed: 115",
+      "stats": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Atk": 100,
+        "Sp. Def": 85,
+        "Speed": 115
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1795,7 +2642,14 @@
       "abilities": "Main: Soundproof, Filter | Hidden: Technician",
       "height": "4'03\"",
       "weight": "120.2 lbs.",
-      "stats": "HP: 40, Attack: 45, Defense: 65, Sp. Atk: 100, Sp. Def: 120, Speed: 90",
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Sp. Atk": 100,
+        "Sp. Def": 120,
+        "Speed": 90
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1809,7 +2663,14 @@
       "abilities": "Main: Swarm, Technician | Hidden: Steadfast",
       "height": "4'11\"",
       "weight": "123.5 lbs.",
-      "stats": "HP: 70, Attack: 110, Defense: 80, Sp. Atk: 55, Sp. Def: 80, Speed: 105",
+      "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Atk": 55,
+        "Sp. Def": 80,
+        "Speed": 105
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1823,7 +2684,14 @@
       "abilities": "Main: Oblivious, Forewarn | Hidden: Dry Skin",
       "height": "4'07\"",
       "weight": "89.5 lbs.",
-      "stats": "HP: 65, Attack: 50, Defense: 35, Sp. Atk: 115, Sp. Def: 95, Speed: 95",
+      "stats": {
+        "HP": 65,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Atk": 115,
+        "Sp. Def": 95,
+        "Speed": 95
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1837,7 +2705,14 @@
       "abilities": "Main: Static | Hidden: Vital Spirit",
       "height": "3'07\"",
       "weight": "66.1 lbs. ",
-      "stats": "HP: 65, Attack: 83, Defense: 57, Sp. Atk: 95, Sp. Def: 85, Speed: 105",
+      "stats": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Sp. Atk": 95,
+        "Sp. Def": 85,
+        "Speed": 105
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1851,7 +2726,14 @@
       "abilities": "Main: Flame Body | Hidden: Vital Spirit",
       "height": "4'03\"",
       "weight": "98.1 lbs. ",
-      "stats": "HP: 65, Attack: 95, Defense: 57, Sp. Atk: 100, Sp. 85, Speed: 93",
+      "stats": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Sp. Atk": 100,
+        "Sp. Def": 85,
+        "Speed": 93
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1865,7 +2747,14 @@
       "abilities": "Main: Hyper Cutter, Mold Breaker | Hidden: Moxie",
       "height": "4'11\"",
       "weight": "121.3 lbs.",
-      "stats": "HP: 65, Attack: 125, Defense: 100, Sp. Atk: 55, Sp. Def: 70, Speed: 85",
+      "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Atk": 55,
+        "Sp. Def": 70,
+        "Speed": 85
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1879,7 +2768,14 @@
       "abilities": "Main: Intimidate, Anger Point | Hidden: Sheer Force",
       "height": "4'07\"",
       "weight": "194.9 lbs.",
-      "stats": "HP: 75, Attack: 100, Defense: 95, Sp. Atk: 40, Sp. Def: 70, Speed: 100",
+      "stats": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Sp. Atk": 15,
+        "Sp. Def": 20,
+        "Speed": 110
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1893,7 +2789,14 @@
       "abilities": "Main: Swift Swim | Hidden: Rattled",
       "height": "2'11\"",
       "weight": "22.0 lbs.",
-      "stats": "HP: 20, Attack: 10, Defense: 55, Sp. Atk: 15, Sp. Def: 20, Speed: 80",
+      "stats": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Sp. Atk": 15,
+        "Sp. Def": 20,
+        "Speed": 80
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1907,7 +2810,14 @@
       "abilities": "Main: Intimidate | Hidden: Moxie",
       "height": "21'04\"",
       "weight": "518.1 lbs.",
-      "stats": "HP: 95, Attack: 125, Defense: 79, Sp. Atk: 60, Sp. Def: 100, Speed: 81",
+      "stats": {
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Sp. Atk": 60,
+        "Sp. Def": 100,
+        "Speed": 81
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1921,7 +2831,14 @@
       "abilities": "Main: Water Absorb, Shell Armor | Hidden: Hydration",
       "height": "8'02\"",
       "weight": "485.0 lbs.",
-      "stats": "HP: 130, Attack: 85, Defense: 80, Sp. Atk: 85, Sp. Def: 95, Speed: 60",
+      "stats": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Atk": 85,
+        "Sp. Def": 95,
+        "Speed": 60
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1935,7 +2852,14 @@
       "abilities": "Main: Limber | Hidden: Imposter",
       "height": "1'00\"",
       "weight": "8.8 lbs.",
-      "stats": "HP: 48, Attack: 48, Defense: 48, Sp. Atk: 48, Sp. Def: 48, Speed: 48",
+      "stats": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Atk": 48,
+        "Sp. Def": 48,
+        "Speed": 48
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1949,7 +2873,14 @@
       "abilities": "Main: Run Away, Adaptability | Hidden: Anticipation",
       "height": "1'00\"",
       "weight": "14.3 lbs.",
-      "stats": "HP: 55, Attack: 55, Defense: 50, Sp. Atk: 45, Sp. Def: 65, Speed: 55",
+      "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Atk": 45,
+        "Sp. Def": 65,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1963,7 +2894,14 @@
       "abilities": "Main: Water Absorb | Hidden: Hydration",
       "height": "3'03\"",
       "weight": "63.9 lbs.",
-      "stats": "HP: 130, Attack: 65, Defense: 60, Sp. Atk: 110, Sp. Def: 95, Speed: 65",
+      "stats": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 110,
+        "Sp. Def": 95,
+        "Speed": 65
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1977,7 +2915,14 @@
       "abilities": "Main: Volt Absorb | Hidden: Quick Feet",
       "height": "2'07\"",
       "weight": "54.0 lbs.",
-      "stats": "HP: 65, Attack: 65, Defense: 60, Sp. Atk: 110, Sp. Def: 95, Speed: 130",
+      "stats": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Atk": 110,
+        "Sp. Def": 95,
+        "Speed": 130
+      },
       "generation":
       {
         "name": "generation-i"
@@ -1991,7 +2936,14 @@
       "abilities": "Main: Flash Fire | Hidden: Guts",
       "height": "2'11\"",
       "weight": "55.1 lbs.",
-      "stats": "HP: 65, Attack: 130, Defense: 60, Sp. Atk: 95, Sp. Def: 110, Speed: 65",
+      "stats": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Atk": 95,
+        "Sp. Def": 110,
+        "Speed": 65
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2005,7 +2957,14 @@
       "abilities": "Main: Trace, Download | Hidden: Analytic",
       "height": "2'07\"",
       "weight": "80.5 lbs.",
-      "stats": "HP: 65, Attack: 60, Defense: 70, Sp. Atk: 85, Sp. Def: 75, Speed: 40",
+      "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Atk": 85,
+        "Sp. Def": 75,
+        "Speed": 40
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2019,7 +2978,14 @@
       "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
       "height": "1'04\"",
       "weight": "16.5 lbs.",
-      "stats": "HP: 35, Attack: 40, Defense: 100, Sp. Atk: 90, Sp. Def: 55, Speed: 35",
+      "stats": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Sp. Atk": 90,
+        "Sp. Def": 55,
+        "Speed": 35
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2033,7 +2999,14 @@
       "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
       "height": "3'03\"",
       "weight": "77.2 lbs.",
-      "stats": "HP: 70, Attack: 60, Defense: 125, Sp. Atk, 115, Sp. Def: 70, Speed: 55",
+      "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Sp. Atk": 115,
+        "Sp. Def": 70,
+        "Speed": 55
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2047,7 +3020,14 @@
       "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
       "height": "1'08\"",
       "weight": "25.4 lbs.",
-      "stats": "HP: 30, Attack: 80, Defense: 90, Sp. Atk: 55, Sp. Def: 45, Speed: 55",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2061,7 +3041,14 @@
       "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
       "height": "4'03\"",
       "weight": "89.3 lbs.",
-      "stats": "HP: 60, Attack: 115, Defense: 105, Sp. Atk: 65, Sp. Def: 70, Speed: 80",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2075,7 +3062,14 @@
       "abilities": "Main: Rock Head, Pressure | Hidden: Unnerve",
       "height": "5'11\"",
       "weight": "130.1 lbs.",
-      "stats": "HP: 80, Attack: 105, Defense: 65, Sp. Atk: 60, Sp. Def, Speed: 130",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2089,7 +3083,14 @@
       "abilities": "Main: Immunity, Thick Fat | Hidden: Gluttony",
       "height": "6'11\"",
       "weight": "1014.1 lbs.",
-      "stats": "HP: 160, Attack: 110, Defense: 65, Sp. Atk, 65, Sp. Def: 65, Speed: 30",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2103,7 +3104,14 @@
       "abilities": "Main: Pressure | Hidden: Snow Cloak",
       "height": "5'07\"",
       "weight": "122.1 lbs.",
-      "stats": "HP: 90, Attack: 85, Defense: 100, Sp. Atk: 95, Sp. Def: 125, Speed: 85",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2117,7 +3125,14 @@
       "abilities": "Main: Pressure, Static | Hidden: Lightning Rod",
       "height": "5'03\"",
       "weight": "116.0 lbs.",
-      "stats": "HP: 90, Attack: 90, Defense: 85. Sp. Atk: 125, Sp. Def: 90, Speed: 100",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2131,7 +3146,14 @@
       "abilities": "Main: Pressure, Flame Body | Hidden: Beserk",
       "height": "6'07\"",
       "weight": "132.3 lbs.",
-      "stats": "HP: 90, Attack: 100, Defense: 90, Sp. Atk, 125, Sp. Def: 85, Speed: 90",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2145,7 +3167,14 @@
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
       "height": "5'11\"",
       "weight": "7.3 lbs.",
-      "stats": "HP: 41, Attack: 64, Denfese: 45, Sp. Atk: 50, Sp. Def: 50, Speed: 50",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2159,7 +3188,14 @@
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
       "height": "13'01\"",
       "weight": "36.4 lbs",
-      "stats": "HP: 61, Attack: 84, Defense: 65, Sp.. Atk: 70, Sp. Def: 70, Speed: 70",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2173,7 +3209,14 @@
       "abilities": "Main: Inner Focus | Hidden: Multiscale",
       "height": "7'03\"",
       "weight": "463.0 lbs.",
-      "stats": "HP: 91, Attack: 134, Defense: 95, Sp. Atk: 100, Sp. Def: 100, Speed: 80",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2187,7 +3230,14 @@
       "abilities": "Main: Pressure | Hidden: Unnerve",
       "height": "6'07\"",
       "weight": "269.0 lbs.",
-      "stats": "HP: 106, Attack: 110, Defense: 90, Sp. Atk: 154, Sp. Def: 90, Speed: 130",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
@@ -2201,7 +3251,14 @@
       "abilities": "Main: Synchroize",
       "height": "1'04\"",
       "weight": "8.8 lbs.",
-      "stats": "HP: 100, Attack: 100, Defense: 100, Sp. Atk: 100, Sp. Def: 100, Speed: 100",
+      "stats": {
+        "HP": ,
+        "Attack": ,
+        "Defense": ,
+        "Sp. Atk": ,
+        "Sp. Def": ,
+        "Speed":
+      },
       "generation":
       {
         "name": "generation-i"
