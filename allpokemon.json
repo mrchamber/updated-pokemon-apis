@@ -12,8 +12,8 @@
         "HP": 45,
         "Attack": 49,
         "Defense": 49,
-        "Sp. Atk": 65,
-        "Sp. Def": 65,
+        "SpAtk": 65,
+        "SpDef": 65,
         "Speed": 45
       },
       "generation":
@@ -33,8 +33,8 @@
         "HP": 60,
         "Attack": 62,
         "Defense": 63,
-        "Sp. Atk": 80,
-        "Sp. Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
         "Speed": 60
       },
       "generation":
@@ -54,8 +54,8 @@
         "HP": 80,
         "Attack": 82,
         "Defense": 83,
-        "Sp. Atk": 83,
-        "Sp. Def": 100,
+        "SpAtk": 83,
+        "SpDef": 100,
         "Speed": 80
       },
       "generation":
@@ -93,8 +93,8 @@
         "HP": 39,
         "Attack": 52,
         "Defense": 43,
-        "Sp. Atk": 60,
-        "Sp. Def": 50,
+        "SpAtk": 60,
+        "SpDef": 50,
         "Speed": 65
       },
       "generation":
@@ -114,8 +114,8 @@
         "HP": 58,
         "Attack": 64,
         "Defense": 58,
-        "Sp. Atk": 80,
-        "Sp. Def": 65,
+        "SpAtk": 80,
+        "SpDef": 65,
         "Speed": 80
       },
       "generation":
@@ -135,8 +135,8 @@
         "HP": 78,
         "Attack": 84,
         "Defense": 78,
-        "Sp. Atk": 109,
-        "Sp. Def": 85,
+        "SpAtk": 109,
+        "SpDef": 85,
         "Speed": 100
       },
       "generation":
@@ -182,8 +182,8 @@
         "HP": 44,
         "Attack": 48,
         "Defense": 65,
-        "Sp. Atk": 50,
-        "Sp. Def": 64,
+        "SpAtk": 50,
+        "SpDef": 64,
         "Speed": 43
       },
       "generation":
@@ -203,8 +203,8 @@
         "HP": 59,
         "Attack": 63,
         "Defense": 80,
-        "Sp. Atk": 65,
-        "Sp. Def": 80,
+        "SpAtk": 65,
+        "SpDef": 80,
         "Speed": 58
       },
       "generation":
@@ -224,8 +224,8 @@
         "HP": 79,
         "Attack": 83,
         "Defense": 100,
-        "Sp. Atk": 85,
-        "Sp. Def": 105,
+        "SpAtk": 85,
+        "SpDef": 105,
         "Speed": 78
       },
       "generation":
@@ -263,8 +263,8 @@
         "HP": 45,
         "Attack": 30,
         "Defense": 35,
-        "Sp. Atk": 20,
-        "Sp. Def": 20,
+        "SpAtk": 20,
+        "SpDef": 20,
         "Speed": 45
       },
       "generation":
@@ -284,8 +284,8 @@
         "HP": 50,
         "Attack": 20,
         "Defense": 55,
-        "Sp. Atk": 25,
-        "Sp. Def": 25,
+        "SpAtk": 25,
+        "SpDef": 25,
         "Speed": 30
       },
       "generation":
@@ -305,8 +305,8 @@
         "HP": 60,
         "Attack": 45,
         "Defense": 50,
-        "Sp. Atk": 90,
-        "Sp. Def": 80,
+        "SpAtk": 90,
+        "SpDef": 80,
         "Speed": 70
       },
       "generation":
@@ -336,8 +336,8 @@
         "HP": 40,
         "Attack": 35,
         "Defense": 30,
-        "Sp. Atk": 20,
-        "Sp. Def": 20,
+        "SpAtk": 20,
+        "SpDef": 20,
         "Speed": 50
       },
       "generation":
@@ -357,8 +357,8 @@
         "HP": 45,
         "Attack": 25,
         "Defense": 50,
-        "Sp. Atk": 25,
-        "Sp. Def": 25,
+        "SpAtk": 25,
+        "SpDef": 25,
         "Speed": 35
       },
       "generation":
@@ -378,8 +378,8 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 40,
-        "Sp. Atk": 45,
-        "Sp. Def": 80,
+        "SpAtk": 45,
+        "SpDef": 80,
         "Speed": 75
       },
       "generation":
@@ -409,8 +409,8 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 40,
-        "Sp. Atk": 35,
-        "Sp. Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
         "Speed": 56
       },
       "generation":
@@ -430,8 +430,8 @@
         "HP": 63,
         "Attack": 60,
         "Defense": 55,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 71
       },
       "generation":
@@ -451,8 +451,8 @@
         "HP": 83,
         "Attack": 80,
         "Defense": 75,
-        "Sp. Atk": 70,
-        "Sp. Def": 70,
+        "SpAtk": 70,
+        "SpDef": 70,
         "Speed": 101
       },
       "generation":
@@ -482,8 +482,8 @@
         "HP": 30,
         "Attack": 56,
         "Defense": 35,
-        "Sp. Atk": 25,
-        "Sp. Def": 35,
+        "SpAtk": 25,
+        "SpDef": 35,
         "Speed": 72
       },
       "generation":
@@ -504,8 +504,8 @@
         "HP": 55,
         "Attack": 81,
         "Defense": 60,
-        "Sp. Atk": 50,
-        "Sp. Def": 70,
+        "SpAtk": 50,
+        "SpDef": 70,
         "Speed": 97
       },
       "generation":
@@ -525,8 +525,8 @@
         "HP": 40,
         "Attack": 60,
         "Defense": 30,
-        "Sp. Atk": 31,
-        "Sp. Def": 31,
+        "SpAtk": 31,
+        "SpDef": 31,
         "Speed": 70
       },
       "generation":
@@ -546,8 +546,8 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 65,
-        "Sp. Atk": 61,
-        "Sp. Def": 61,
+        "SpAtk": 61,
+        "SpDef": 61,
         "Speed": 100
       },
       "generation":
@@ -567,8 +567,8 @@
         "HP": 35,
         "Attack": 60,
         "Defense": 44,
-        "Sp. Atk": 40,
-        "Sp. Def": 54,
+        "SpAtk": 40,
+        "SpDef": 54,
         "Speed": 55
       },
       "generation":
@@ -588,8 +588,8 @@
         "HP": 60,
         "Attack": 95,
         "Defense": 69,
-        "Sp. Atk": 65,
-        "Sp. Def": 79,
+        "SpAtk": 65,
+        "SpDef": 79,
         "Speed": 80
       },
       "generation":
@@ -609,8 +609,8 @@
         "HP": 35,
         "Attack": 55,
         "Defense": 40,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 90
       },
       "generation":
@@ -630,8 +630,8 @@
         "HP": 60,
         "Attack": 90,
         "Defense": 55,
-        "Sp. Atk": 90,
-        "Sp. Def": 80,
+        "SpAtk": 90,
+        "SpDef": 80,
         "Speed": 110
       },
       "generation":
@@ -651,8 +651,8 @@
         "HP": 50,
         "Attack": 75,
         "Defense": 85,
-        "Sp. Atk": 20,
-        "Sp. Def": 30,
+        "SpAtk": 20,
+        "SpDef": 30,
         "Speed": 40
       },
       "generation":
@@ -672,8 +672,8 @@
         "HP": 75,
         "Attack": 100,
         "Defense": 110,
-        "Sp. Atk": 45,
-        "Sp. Def": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
         "Speed": 65
       },
       "generation":
@@ -693,8 +693,8 @@
         "HP": 55,
         "Attack": 47,
         "Defense": 52,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 41
       },
       "generation":
@@ -714,8 +714,8 @@
         "HP": 70,
         "Attack": 62,
         "Defense": 67,
-        "Sp. Atk": 55,
-        "Sp. Def": 55,
+        "SpAtk": 55,
+        "SpDef": 55,
         "Speed": 56
       },
       "generation":
@@ -735,8 +735,8 @@
         "HP": 90,
         "Attack": 92,
         "Defense": 87,
-        "Sp. Atk": 75,
-        "Sp. Def": 85,
+        "SpAtk": 75,
+        "SpDef": 85,
         "Speed": 76
     },
       "generation":
@@ -756,8 +756,8 @@
         "HP": 46,
         "Attack": 57,
         "Defense": 40,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 50
       },
       "generation":
@@ -777,8 +777,8 @@
         "HP": 61,
         "Attack": 72,
         "Defense": 57,
-        "Sp. Atk": 55,
-        "Sp. Def": 55,
+        "SpAtk": 55,
+        "SpDef": 55,
         "Speed": 65
       },
       "generation":
@@ -798,8 +798,8 @@
         "HP": 81,
         "Attack": 102,
         "Defense": 77,
-        "Sp. Atk": 85,
-        "Sp. Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
         "Speed": 85
       },
       "generation":
@@ -819,8 +819,8 @@
         "HP": 70,
         "Attack": 45,
         "Defense": 48,
-        "Sp. Atk": 60,
-        "Sp. Def": 65,
+        "SpAtk": 60,
+        "SpDef": 65,
         "Speed": 35
       },
       "generation":
@@ -840,8 +840,8 @@
         "HP": 95,
         "Attack": 70,
         "Defense": 73,
-        "Sp. Atk": 95,
-        "Sp. Def": 90,
+        "SpAtk": 95,
+        "SpDef": 90,
         "Speed": 60
       },
       "generation":
@@ -861,8 +861,8 @@
         "HP": 38,
         "Attack": 41,
         "Defense": 40,
-        "Sp. Atk": 50,
-        "Sp. Def": 65,
+        "SpAtk": 50,
+        "SpDef": 65,
         "Speed": 65
       },
       "generation":
@@ -882,8 +882,8 @@
         "HP": 73,
         "Attack": 76,
         "Defense": 75,
-        "Sp. Atk": 81,
-        "Sp. Def": 100,
+        "SpAtk": 81,
+        "SpDef": 100,
         "Speed": 100
       },
       "generation":
@@ -903,8 +903,8 @@
         "HP": 115,
         "Attack": 45,
         "Defense": 20,
-        "Sp. Atk": 45,
-        "Sp. Def": 25,
+        "SpAtk": 45,
+        "SpDef": 25,
         "Speed": 20
       },
       "generation":
@@ -924,8 +924,8 @@
         "HP": 140,
         "Attack": 70,
         "Defense": 45,
-        "Sp. Atk": 85,
-        "Sp. Def": 50,
+        "SpAtk": 85,
+        "SpDef": 50,
         "Speed": 45
       },
       "generation":
@@ -945,8 +945,8 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 35,
-        "Sp. Atk": 30,
-        "Sp. Def": 40,
+        "SpAtk": 30,
+        "SpDef": 40,
         "Speed": 55
       },
       "generation":
@@ -966,8 +966,8 @@
         "HP": 75,
         "Attack": 80,
         "Defense": 70,
-        "Sp. Atk": 65,
-        "Sp. Def": 75,
+        "SpAtk": 65,
+        "SpDef": 75,
         "Speed": 90
       },
       "generation":
@@ -987,8 +987,8 @@
         "HP": 45,
         "Attack": 50,
         "Defense": 55,
-        "Sp. Atk": 75,
-        "Sp. Def": 65,
+        "SpAtk": 75,
+        "SpDef": 65,
         "Speed": 30
       },
       "generation":
@@ -1008,8 +1008,8 @@
         "HP": 60,
         "Attack": 65,
         "Defense": 70,
-        "Sp. Atk": 85,
-        "Sp. Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
         "Speed": 40
       },
       "generation":
@@ -1029,8 +1029,8 @@
         "HP": 75,
         "Attack": 80,
         "Defense": 85,
-        "Sp. Atk": 110,
-        "Sp. Def": 90,
+        "SpAtk": 110,
+        "SpDef": 90,
         "Speed": 50
       },
       "generation":
@@ -1050,8 +1050,8 @@
         "HP": 35,
         "Attack": 70,
         "Defense": 55,
-        "Sp. Atk": 45,
-        "Sp. Def": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
         "Speed": 25
       },
       "generation":
@@ -1071,8 +1071,8 @@
         "HP": 60,
         "Attack": 95,
         "Defense": 80,
-        "Sp. Atk": 60,
-        "Sp. Def": 80,
+        "SpAtk": 60,
+        "SpDef": 80,
         "Speed": 30
       },
       "generation":
@@ -1092,8 +1092,8 @@
         "HP": 60,
         "Attack": 55,
         "Defense": 50,
-        "Sp. Atk": 40,
-        "Sp. Def": 55,
+        "SpAtk": 40,
+        "SpDef": 55,
         "Speed": 45
       },
       "generation":
@@ -1113,8 +1113,8 @@
         "HP": 70,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 90,
-        "Sp. Def": 75,
+        "SpAtk": 90,
+        "SpDef": 75,
         "Speed": 90
       },
       "generation":
@@ -1134,8 +1134,8 @@
         "HP": 10,
         "Attack": 55,
         "Defense": 25,
-        "Sp. Atk": 35,
-        "Sp. Def": 45,
+        "SpAtk": 35,
+        "SpDef": 45,
         "Speed": 95
       },
       "generation":
@@ -1155,8 +1155,8 @@
         "HP": 35,
         "Attack": 100,
         "Defense": 50,
-        "Sp. Atk": 50,
-        "Sp. Def": 70,
+        "SpAtk": 50,
+        "SpDef": 70,
         "Speed": 120
       },
       "generation":
@@ -1176,8 +1176,8 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 35,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 90
       },
       "generation":
@@ -1197,8 +1197,8 @@
         "HP": 65,
         "Attack": 70,
         "Defense": 60,
-        "Sp. Atk": 65,
-        "Sp. Def": 65,
+        "SpAtk": 65,
+        "SpDef": 65,
         "Speed": 115
       },
       "generation":
@@ -1218,8 +1218,8 @@
         "HP": 50,
         "Attack": 52,
         "Defense": 48,
-        "Sp. Atk": 65,
-        "Sp. Def": 50,
+        "SpAtk": 65,
+        "SpDef": 50,
         "Speed": 55
       },
       "generation":
@@ -1239,8 +1239,8 @@
         "HP": 80,
         "Attack": 82,
         "Defense": 78,
-        "Sp. Atk": 95,
-        "Sp. Def": 80,
+        "SpAtk": 95,
+        "SpDef": 80,
         "Speed": 85
       },
       "generation":
@@ -1260,8 +1260,8 @@
         "HP": 40,
         "Attack": 80,
         "Defense": 35,
-        "Sp. Atk": 35,
-        "Sp. Def": 45,
+        "SpAtk": 35,
+        "SpDef": 45,
         "Speed": 70
       },
       "generation":
@@ -1281,8 +1281,8 @@
         "HP": 65,
         "Attack": 105,
         "Defense": 60,
-        "Sp. Atk": 60,
-        "Sp. Def": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
         "Speed": 95
       },
       "generation":
@@ -1302,8 +1302,8 @@
         "HP": 55,
         "Attack": 70,
         "Defense": 45,
-        "Sp. Atk": 70,
-        "Sp. Def": 50,
+        "SpAtk": 70,
+        "SpDef": 50,
         "Speed": 60
       },
       "generation":
@@ -1323,8 +1323,8 @@
         "HP": 90,
         "Attack": 110,
         "Defense": 80,
-        "Sp. Atk": 100,
-        "Sp. Def": 80,
+        "SpAtk": 100,
+        "SpDef": 80,
         "Speed": 95
       },
       "generation":
@@ -1344,8 +1344,8 @@
         "HP": 40,
         "Attack": 50,
         "Defense": 40,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 90
       },
       "generation":
@@ -1365,8 +1365,8 @@
         "HP": 65,
         "Attack": 65,
         "Defense": 65,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 90
       },
       "generation":
@@ -1386,8 +1386,8 @@
         "HP": 90,
         "Attack": 95,
         "Defense": 95,
-        "Sp. Atk": 70,
-        "Sp. Def": 90,
+        "SpAtk": 70,
+        "SpDef": 90,
         "Speed": 70
       },
       "generation":
@@ -1407,8 +1407,8 @@
         "HP": 25,
         "Attack": 20,
         "Defense": 15,
-        "Sp. Atk": 105,
-        "Sp. Def": 55,
+        "SpAtk": 105,
+        "SpDef": 55,
         "Speed": 90
       },
       "generation":
@@ -1428,8 +1428,8 @@
         "HP": 40,
         "Attack": 35,
         "Defense": 30,
-        "Sp. Atk": 120,
-        "Sp. Def": 70,
+        "SpAtk": 120,
+        "SpDef": 70,
         "Speed": 105
       },
       "generation":
@@ -1449,8 +1449,8 @@
         "HP": 55,
         "Attack": 50,
         "Defense": 45,
-        "Sp. Atk": 135,
-        "Sp. Def": 95,
+        "SpAtk": 135,
+        "SpDef": 95,
         "Speed": 120
       },
       "generation":
@@ -1470,8 +1470,8 @@
         "HP": 70,
         "Attack": 80,
         "Defense": 50,
-        "Sp. Atk": 35,
-        "Sp. Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
         "Speed": 35
       },
       "generation":
@@ -1491,8 +1491,8 @@
         "HP": 80,
         "Attack": 100,
         "Defense": 70,
-        "Sp. Atk": 50,
-        "Sp. Def": 60,
+        "SpAtk": 50,
+        "SpDef": 60,
         "Speed": 45
       },
       "generation":
@@ -1512,8 +1512,8 @@
         "HP": 90,
         "Attack": 130,
         "Defense": 80,
-        "Sp. Atk": 65,
-        "Sp. Def": 85,
+        "SpAtk": 65,
+        "SpDef": 85,
         "Speed": 55
       },
       "generation":
@@ -1533,8 +1533,8 @@
         "HP": 50,
         "Attack": 75,
         "Defense": 35,
-        "Sp. Atk": 70,
-        "Sp. Def": 30,
+        "SpAtk": 70,
+        "SpDef": 30,
         "Speed": 40
       },
       "generation":
@@ -1554,8 +1554,8 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 50,
-        "Sp. Atk": 85,
-        "Sp. Def": 45,
+        "SpAtk": 85,
+        "SpDef": 45,
         "Speed": 55
       },
       "generation":
@@ -1575,8 +1575,8 @@
         "HP": 80,
         "Attack": 105,
         "Defense": 65,
-        "Sp. Atk": 100,
-        "Sp. Def": 70,
+        "SpAtk": 100,
+        "SpDef": 70,
         "Speed": 70
       },
       "generation":
@@ -1596,8 +1596,8 @@
         "HP": 40,
         "Attack": 40,
         "Defense": 35,
-        "Sp. Atk": 50,
-        "Sp. Def": 100,
+        "SpAtk": 50,
+        "SpDef": 100,
         "Speed": 70
       },
       "generation":
@@ -1617,8 +1617,8 @@
         "HP": 80,
         "Attack": 70,
         "Defense": 65,
-        "Sp. Atk": 100,
-        "Sp. Def": 70,
+        "SpAtk": 100,
+        "SpDef": 70,
         "Speed": 70
       },
       "generation":
@@ -1638,8 +1638,8 @@
         "HP": 40,
         "Attack": 80,
         "Defense": 100,
-        "Sp. Atk": 30,
-        "Sp. Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
         "Speed": 20
       },
       "generation":
@@ -1659,8 +1659,8 @@
         "HP": 55,
         "Attack": 95,
         "Defense": 115,
-        "Sp. Atk": 45,
-        "Sp. Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
         "Speed": 35
       },
       "generation":
@@ -1680,8 +1680,8 @@
         "HP": 80,
         "Attack": 120,
         "Defense": 130,
-        "Sp. Atk": 55,
-        "Sp. Def": 65,
+        "SpAtk": 55,
+        "SpDef": 65,
         "Speed": 45
       },
       "generation":
@@ -1701,8 +1701,8 @@
         "HP": 50,
         "Attack": 85,
         "Defense": 55,
-        "Sp. Atk": 65,
-        "Sp. Def": 65,
+        "SpAtk": 65,
+        "SpDef": 65,
         "Speed": 90
       },
       "generation":
@@ -1722,8 +1722,8 @@
         "HP": 65,
         "Attack": 100,
         "Defense": 70,
-        "Sp. Atk": 80,
-        "Sp. Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
         "Speed": 105
       },
       "generation":
@@ -1743,8 +1743,8 @@
         "HP": 90,
         "Attack": 65,
         "Defense": 65,
-        "Sp. Atk": 40,
-        "Sp. Def": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
         "Speed": 15
       },
       "generation":
@@ -1764,8 +1764,8 @@
         "HP": 95,
         "Attack": 75,
         "Defense": 110,
-        "Sp. Atk": 100,
-        "Sp. Def": 80,
+        "SpAtk": 100,
+        "SpDef": 80,
         "Speed": 30
       },
       "generation":
@@ -1785,8 +1785,8 @@
         "HP": 25,
         "Attack": 35,
         "Defense": 70,
-        "Sp. Atk": 95,
-        "Sp. Def": 55,
+        "SpAtk": 95,
+        "SpDef": 55,
         "Speed": 45
       },
       "generation":
@@ -1806,8 +1806,8 @@
         "HP": 50,
         "Attack": 60,
         "Defense": 95,
-        "Sp. Atk": 120,
-        "Sp. Def": 70,
+        "SpAtk": 120,
+        "SpDef": 70,
         "Speed": 70
       },
       "generation":
@@ -1827,8 +1827,8 @@
         "HP": 52,
         "Attack": 90,
         "Defense": 58,
-        "Sp. Atk": 58,
-        "Sp. Def": 62,
+        "SpAtk": 58,
+        "SpDef": 62,
         "Speed": 60
       },
       "generation":
@@ -1848,8 +1848,8 @@
         "HP": 35,
         "Attack": 85,
         "Defense": 45,
-        "Sp. Atk": 35,
-        "Sp. Def": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
         "Speed": 75
       },
       "generation":
@@ -1869,8 +1869,8 @@
         "HP": 60,
         "Attack": 110,
         "Defense": 70,
-        "Sp. Atk": 60,
-        "Sp. Def": 60,
+        "SpAtk": 60,
+        "SpDef": 60,
         "Speed": 110
       },
       "generation":
@@ -1890,8 +1890,8 @@
         "HP": 65,
         "Attack": 45,
         "Defense": 55,
-        "Sp. Atk": 45,
-        "Sp. Def": 70,
+        "SpAtk": 45,
+        "SpDef": 70,
         "Speed": 45
       },
       "generation":
@@ -1911,8 +1911,8 @@
         "HP": 90,
         "Attack": 70,
         "Defense": 80,
-        "Sp. Atk": 70,
-        "Sp. Def": 95,
+        "SpAtk": 70,
+        "SpDef": 95,
         "Speed": 70
       },
       "generation":
@@ -1932,8 +1932,8 @@
         "HP": 80,
         "Attack": 80,
         "Defense": 50,
-        "Sp. Atk": 40,
-        "Sp. Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
         "Speed": 25
       },
       "generation":
@@ -1953,8 +1953,8 @@
         "HP": 105,
         "Attack": 105,
         "Defense": 75,
-        "Sp. Atk": 65,
-        "Sp. Def": 100,
+        "SpAtk": 65,
+        "SpDef": 100,
         "Speed": 50
       },
       "generation":
@@ -1974,8 +1974,8 @@
         "HP": 30,
         "Attack": 65,
         "Defense": 100,
-        "Sp. Atk": 45,
-        "Sp. Def": 25,
+        "SpAtk": 45,
+        "SpDef": 25,
         "Speed": 40
       },
       "generation":
@@ -1995,8 +1995,8 @@
         "HP": 50,
         "Attack": 95,
         "Defense": 180,
-        "Sp. Atk": 85,
-        "Sp. Def": 45,
+        "SpAtk": 85,
+        "SpDef": 45,
         "Speed": 70
       },
       "generation":
@@ -2016,8 +2016,8 @@
         "HP": 30,
         "Attack": 35,
         "Defense": 30,
-        "Sp. Atk": 100,
-        "Sp. Def": 35,
+        "SpAtk": 100,
+        "SpDef": 35,
         "Speed": 80
       },
       "generation":
@@ -2037,8 +2037,8 @@
         "HP": 45,
         "Attack": 50,
         "Defense": 45,
-        "Sp. Atk": 115,
-        "Sp. Def": 55,
+        "SpAtk": 115,
+        "SpDef": 55,
         "Speed": 95
       },
       "generation":
@@ -2058,8 +2058,8 @@
         "HP": 60,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 130,
-        "Sp. Def": 75,
+        "SpAtk": 130,
+        "SpDef": 75,
         "Speed": 110
       },
       "generation":
@@ -2079,8 +2079,8 @@
         "HP": 35,
         "Attack": 45,
         "Defense": 160,
-        "Sp. Atk": 30,
-        "Sp. Def": 45,
+        "SpAtk": 30,
+        "SpDef": 45,
         "Speed": 70
       },
       "generation":
@@ -2100,8 +2100,8 @@
         "HP": 60,
         "Attack": 48,
         "Defense": 45,
-        "Sp. Atk": 43,
-        "Sp. Def": 90,
+        "SpAtk": 43,
+        "SpDef": 90,
         "Speed":42
       },
       "generation":
@@ -2121,8 +2121,8 @@
         "HP": 85,
         "Attack": 73,
         "Defense": 70,
-        "Sp. Atk": 73,
-        "Sp. Def": 115,
+        "SpAtk": 73,
+        "SpDef": 115,
         "Speed": 67
       },
       "generation":
@@ -2142,8 +2142,8 @@
         "HP": 30,
         "Attack": 105,
         "Defense": 90,
-        "Sp. Atk": 25,
-        "Sp. Def": 25,
+        "SpAtk": 25,
+        "SpDef": 25,
         "Speed": 50
       },
       "generation":
@@ -2163,8 +2163,8 @@
         "HP": 55,
         "Attack": 130,
         "Defense": 115,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 75
       },
       "generation":
@@ -2184,8 +2184,8 @@
         "HP": 40,
         "Attack": 30,
         "Defense": 50,
-        "Sp. Atk": 55,
-        "Sp. Def": 55,
+        "SpAtk": 55,
+        "SpDef": 55,
         "Speed": 100
       },
       "generation":
@@ -2205,8 +2205,8 @@
         "HP": 60,
         "Attack": 50,
         "Defense": 70,
-        "Sp. Atk": 80,
-        "Sp. Def": 80,
+        "SpAtk": 80,
+        "SpDef": 80,
         "Speed": 150
       },
       "generation":
@@ -2226,8 +2226,8 @@
         "HP": 60,
         "Attack": 40,
         "Defense": 80,
-        "Sp. Atk": 60,
-        "Sp. Def": 45,
+        "SpAtk": 60,
+        "SpDef": 45,
         "Speed": 40
       },
       "generation":
@@ -2247,8 +2247,8 @@
         "HP": 95,
         "Attack": 95,
         "Defense": 85,
-        "Sp. Atk": 125,
-        "Sp. Def": 75,
+        "SpAtk": 125,
+        "SpDef": 75,
         "Speed": 55
       },
       "generation":
@@ -2268,8 +2268,8 @@
         "HP": 50,
         "Attack": 50,
         "Defense": 95,
-        "Sp. Atk": 40,
-        "Sp. Def": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
         "Speed": 35
       },
       "generation":
@@ -2289,8 +2289,8 @@
         "HP": 60,
         "Attack": 80,
         "Defense": 110,
-        "Sp. Atk": 50,
-        "Sp. Def": 80,
+        "SpAtk": 50,
+        "SpDef": 80,
         "Speed": 45
       },
       "generation":
@@ -2310,8 +2310,8 @@
         "HP": 50,
         "Attack": 120,
         "Defense": 53,
-        "Sp. Atk": 35,
-        "Sp. Def": 110,
+        "SpAtk": 35,
+        "SpDef": 110,
         "Speed": 76
       },
       "generation":
@@ -2331,8 +2331,8 @@
         "HP": 50,
         "Attack": 105,
         "Defense": 79,
-        "Sp. Atk": 35,
-        "Sp. Def": 110,
+        "SpAtk": 35,
+        "SpDef": 110,
         "Speed": 76
       },
       "generation":
@@ -2352,8 +2352,8 @@
         "HP": 90,
         "Attack": 55,
         "Defense": 75,
-        "Sp. Atk": 60,
-        "Sp. Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
         "Speed": 30
       },
       "generation":
@@ -2373,8 +2373,8 @@
         "HP": 40,
         "Attack": 65,
         "Defense": 95,
-        "Sp. Atk": 60,
-        "Sp. Def": 45,
+        "SpAtk": 60,
+        "SpDef": 45,
         "Speed": 35
       },
       "generation":
@@ -2394,8 +2394,8 @@
         "HP": 65,
         "Attack": 90,
         "Defense": 120,
-        "Sp. Atk": 85,
-        "Sp. Def": 70,
+        "SpAtk": 85,
+        "SpDef": 70,
         "Speed": 60
       },
       "generation":
@@ -2415,8 +2415,8 @@
         "HP": 80,
         "Attack": 85,
         "Defense": 95,
-        "Sp. Atk": 30,
-        "Sp. Def": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
         "Speed": 25
       },
       "generation":
@@ -2436,8 +2436,8 @@
         "HP": 105,
         "Attack": 130,
         "Defense": 120,
-        "Sp. Atk": 45,
-        "Sp. Def": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
         "Speed": 40
       },
       "generation":
@@ -2457,8 +2457,8 @@
         "HP": 250,
         "Attack": 5,
         "Defense": 5,
-        "Sp. Atk": 35,
-        "Sp. Def": 105,
+        "SpAtk": 35,
+        "SpDef": 105,
         "Speed": 50
       },
       "generation":
@@ -2478,8 +2478,8 @@
         "HP": 65,
         "Attack": 55,
         "Defense": 115,
-        "Sp. Atk": 100,
-        "Sp. Def": 40,
+        "SpAtk": 100,
+        "SpDef": 40,
         "Speed": 60
       },
       "generation":
@@ -2499,8 +2499,8 @@
         "HP": 105,
         "Attack": 95,
         "Defense": 80,
-        "Sp. Atk": 40,
-        "Sp. Def": 80,
+        "SpAtk": 40,
+        "SpDef": 80,
         "Speed": 90
       },
       "generation":
@@ -2520,8 +2520,8 @@
         "HP": 30,
         "Attack": 40,
         "Defense": 70,
-        "Sp. Atk": 70,
-        "Sp. Def": 25,
+        "SpAtk": 70,
+        "SpDef": 25,
         "Speed": 60
       },
       "generation":
@@ -2541,8 +2541,8 @@
         "HP": 55,
         "Attack": 65,
         "Defense": 95,
-        "Sp. Atk": 95,
-        "Sp. Def": 45,
+        "SpAtk": 95,
+        "SpDef": 45,
         "Speed": 85
       },
       "generation":
@@ -2562,8 +2562,8 @@
         "HP": 45,
         "Attack": 67,
         "Defense": 60,
-        "Sp. Atk": 35,
-        "Sp. Def": 50,
+        "SpAtk": 35,
+        "SpDef": 50,
         "Speed": 63
       },
       "generation":
@@ -2583,8 +2583,8 @@
         "HP": 80,
         "Attack": 92,
         "Defense": 65,
-        "Sp. Atk": 65,
-        "Sp. Def": 80,
+        "SpAtk": 65,
+        "SpDef": 80,
         "Speed": 68
       },
       "generation":
@@ -2604,8 +2604,8 @@
         "HP": 30,
         "Attack": 45,
         "Defense": 55,
-        "Sp. Atk": 70,
-        "Sp. Def": 55,
+        "SpAtk": 70,
+        "SpDef": 55,
         "Speed": 85
       },
       "generation":
@@ -2625,8 +2625,8 @@
         "HP": 60,
         "Attack": 75,
         "Defense": 85,
-        "Sp. Atk": 100,
-        "Sp. Def": 85,
+        "SpAtk": 100,
+        "SpDef": 85,
         "Speed": 115
       },
       "generation":
@@ -2646,8 +2646,8 @@
         "HP": 40,
         "Attack": 45,
         "Defense": 65,
-        "Sp. Atk": 100,
-        "Sp. Def": 120,
+        "SpAtk": 100,
+        "SpDef": 120,
         "Speed": 90
       },
       "generation":
@@ -2667,8 +2667,8 @@
         "HP": 70,
         "Attack": 110,
         "Defense": 80,
-        "Sp. Atk": 55,
-        "Sp. Def": 80,
+        "SpAtk": 55,
+        "SpDef": 80,
         "Speed": 105
       },
       "generation":
@@ -2688,8 +2688,8 @@
         "HP": 65,
         "Attack": 30,
         "Defense": 35,
-        "Sp. Atk": 115,
-        "Sp. Def": 95,
+        "SpAtk": 115,
+        "SpDef": 95,
         "Speed": 95
       },
       "generation":
@@ -2709,8 +2709,8 @@
         "HP": 65,
         "Attack": 83,
         "Defense": 57,
-        "Sp. Atk": 95,
-        "Sp. Def": 85,
+        "SpAtk": 95,
+        "SpDef": 85,
         "Speed": 105
       },
       "generation":
@@ -2730,8 +2730,8 @@
         "HP": 65,
         "Attack": 95,
         "Defense": 57,
-        "Sp. Atk": 100,
-        "Sp. Def": 85,
+        "SpAtk": 100,
+        "SpDef": 85,
         "Speed": 93
       },
       "generation":
@@ -2751,8 +2751,8 @@
         "HP": 65,
         "Attack": 125,
         "Defense": 100,
-        "Sp. Atk": 55,
-        "Sp. Def": 70,
+        "SpAtk": 55,
+        "SpDef": 70,
         "Speed": 85
       },
       "generation":
@@ -2772,8 +2772,8 @@
         "HP": 20,
         "Attack": 10,
         "Defense": 55,
-        "Sp. Atk": 15,
-        "Sp. Def": 20,
+        "SpAtk": 15,
+        "SpDef": 20,
         "Speed": 110
       },
       "generation":
@@ -2793,8 +2793,8 @@
         "HP": 20,
         "Attack": 10,
         "Defense": 55,
-        "Sp. Atk": 15,
-        "Sp. Def": 20,
+        "SpAtk": 15,
+        "SpDef": 20,
         "Speed": 80
       },
       "generation":
@@ -2814,8 +2814,8 @@
         "HP": 95,
         "Attack": 125,
         "Defense": 79,
-        "Sp. Atk": 60,
-        "Sp. Def": 100,
+        "SpAtk": 60,
+        "SpDef": 100,
         "Speed": 81
       },
       "generation":
@@ -2835,8 +2835,8 @@
         "HP": 130,
         "Attack": 85,
         "Defense": 80,
-        "Sp. Atk": 85,
-        "Sp. Def": 95,
+        "SpAtk": 85,
+        "SpDef": 95,
         "Speed": 60
       },
       "generation":
@@ -2856,8 +2856,8 @@
         "HP": 48,
         "Attack": 48,
         "Defense": 48,
-        "Sp. Atk": 48,
-        "Sp. Def": 48,
+        "SpAtk": 48,
+        "SpDef": 48,
         "Speed": 48
       },
       "generation":
@@ -2877,8 +2877,8 @@
         "HP": 55,
         "Attack": 55,
         "Defense": 50,
-        "Sp. Atk": 45,
-        "Sp. Def": 65,
+        "SpAtk": 45,
+        "SpDef": 65,
         "Speed": 55
       },
       "generation":
@@ -2898,8 +2898,8 @@
         "HP": 130,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 110,
-        "Sp. Def": 95,
+        "SpAtk": 110,
+        "SpDef": 95,
         "Speed": 65
       },
       "generation":
@@ -2919,8 +2919,8 @@
         "HP": 65,
         "Attack": 65,
         "Defense": 60,
-        "Sp. Atk": 110,
-        "Sp. Def": 95,
+        "SpAtk": 110,
+        "SpDef": 95,
         "Speed": 130
       },
       "generation":
@@ -2940,8 +2940,8 @@
         "HP": 65,
         "Attack": 130,
         "Defense": 60,
-        "Sp. Atk": 95,
-        "Sp. Def": 110,
+        "SpAtk": 95,
+        "SpDef": 110,
         "Speed": 65
       },
       "generation":
@@ -2961,8 +2961,8 @@
         "HP": 65,
         "Attack": 60,
         "Defense": 70,
-        "Sp. Atk": 85,
-        "Sp. Def": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
         "Speed": 40
       },
       "generation":
@@ -2982,8 +2982,8 @@
         "HP": 35,
         "Attack": 40,
         "Defense": 100,
-        "Sp. Atk": 90,
-        "Sp. Def": 55,
+        "SpAtk": 90,
+        "SpDef": 55,
         "Speed": 35
       },
       "generation":
@@ -3003,8 +3003,8 @@
         "HP": 70,
         "Attack": 60,
         "Defense": 125,
-        "Sp. Atk": 115,
-        "Sp. Def": 70,
+        "SpAtk": 115,
+        "SpDef": 70,
         "Speed": 55
       },
       "generation":
@@ -3024,8 +3024,8 @@
         "HP": 30,
         "Attack": 80,
         "Defense": 90,
-        "Sp. Atk": 55,
-        "Sp. Def": 45,
+        "SpAtk": 55,
+        "SpDef": 45,
         "Speed": 55
       },
       "generation":
@@ -3045,8 +3045,8 @@
         "HP": 60,
         "Attack": 115,
         "Defense": 105,
-        "Sp. Atk": 65,
-        "Sp. Def": 70,
+        "SpAtk": 65,
+        "SpDef": 70,
         "Speed": 80
       },
       "generation":
@@ -3066,8 +3066,8 @@
         "HP": 80,
         "Attack": 105,
         "Defense": 65,
-        "Sp. Atk": 60,
-        "Sp. Def": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
         "Speed": 80
       },
       "generation":
@@ -3087,8 +3087,8 @@
         "HP": 160,
         "Attack": 110,
         "Defense": 65,
-        "Sp. Atk": 65,
-        "Sp. Def": 110,
+        "SpAtk": 65,
+        "SpDef": 110,
         "Speed": 30
       },
       "generation":
@@ -3108,8 +3108,8 @@
         "HP": 90,
         "Attack": 85,
         "Defense": 100,
-        "Sp. Atk": 95,
-        "Sp. Def": 125,
+        "SpAtk": 95,
+        "SpDef": 125,
         "Speed": 85
       },
       "generation":
@@ -3129,8 +3129,8 @@
         "HP": 90,
         "Attack": 90,
         "Defense": 85,
-        "Sp. Atk": 125,
-        "Sp. Def": 90,
+        "SpAtk": 125,
+        "SpDef": 90,
         "Speed": 100
       },
       "generation":
@@ -3150,8 +3150,8 @@
         "HP": 90,
         "Attack": 100,
         "Defense": 90,
-        "Sp. Atk": 125,
-        "Sp. Def": 85,
+        "SpAtk": 125,
+        "SpDef": 85,
         "Speed": 90
       },
       "generation":
@@ -3171,8 +3171,8 @@
         "HP": 41,
         "Attack": 64,
         "Defense": 45,
-        "Sp. Atk": 50,
-        "Sp. Def": 50,
+        "SpAtk": 50,
+        "SpDef": 50,
         "Speed": 50
       },
       "generation":
@@ -3192,8 +3192,8 @@
         "HP": 61,
         "Attack": 84,
         "Defense": 65,
-        "Sp. Atk": 70,
-        "Sp. Def": 70,
+        "SpAtk": 70,
+        "SpDef": 70,
         "Speed": 70
       },
       "generation":
@@ -3213,8 +3213,8 @@
         "HP": 91,
         "Attack": 134,
         "Defense": 95,
-        "Sp. Atk": 100,
-        "Sp. Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
         "Speed": 80
       },
       "generation":
@@ -3234,8 +3234,8 @@
         "HP": 106,
         "Attack": 110,
         "Defense": 90,
-        "Sp. Atk": 154,
-        "Sp. Def": 90,
+        "SpAtk": 154,
+        "SpDef": 90,
         "Speed": 130
       },
       "generation":
@@ -3255,8 +3255,8 @@
         "HP": 100,
         "Attack": 100,
         "Defense": 100,
-        "Sp. Atk": 100,
-        "Sp. Def": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
         "Speed": 100
       },
       "generation":
