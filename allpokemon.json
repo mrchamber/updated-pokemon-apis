@@ -4,7 +4,7 @@
       "id": 1,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/001.png",
       "name": "Bulbasaur",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "2'04\"",
       "weight": "15.2 lbs",
@@ -25,7 +25,7 @@
       "id": 2,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/002.png",
       "name": "Ivysaur",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "3'03\"",
       "weight": "28.7 lbs",
@@ -46,7 +46,7 @@
       "id": 3,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/003.png",
       "name": "Venusaur",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "6'07\"",
       "weight": "220.5 lbs",
@@ -67,7 +67,7 @@
           "idMega":3.1,
           "image": "https://pokeimage-production.up.railway.app/pokeImg/003-m.png",
           "name": "Mega Venusaur",
-          "type": "Grass/Poison",
+          "type": "",
           "height": "2ft 4in",
           "weight": "146.8 lbs"
         },
@@ -75,7 +75,7 @@
           "idGigantamax": 3.4,
           "image": "https://pokeimage-production.up.railway.app/pokeImg/003-gi.png",
           "name": "Gigantamax Venusaur",
-          "type": "Grass/Poison",
+          "type": "",
           "height": "78ft 9in",
           "weight": "???"
         }
@@ -164,7 +164,7 @@
           "idGigantamax": 3.4,
           "image": "pokeImg/006-gi.png",
           "name": "Gigantamax Charizard",
-          "type": "Grass/Poison",
+          "type": "",
           "height": "91ft 10in",
           "weight": "???"
         }
@@ -979,7 +979,7 @@
       "id": 43,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/043.png",
       "name": "Oddish",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Chlorophyll | Hidden: Run Away",
       "height": "1'08\"",
       "weight": "11.9 lbs.",
@@ -1000,7 +1000,7 @@
       "id": 44,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/044.png",
       "name": "Gloom",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Chlorophyll | Hidden: Stench ",
       "height": "2'07\"",
       "weight": "19.0 lbs.",
@@ -1021,7 +1021,7 @@
       "id": 45,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/045.png",
       "name": "Vileplume",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Chlorophyll | Hidden: Effect Spore",
       "height": "3'11\"",
       "weight": "41.0 lbs.",
@@ -1525,7 +1525,7 @@
       "id": 69,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/069.png",
       "name": "Bellsprout",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "2'04\"",
       "weight": "8.8 lbs.",
@@ -1546,7 +1546,7 @@
       "id": 70,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/070.png",
       "name": "Weepinbell",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "3'03\"",
       "weight": "14.1 lbs.",
@@ -1567,7 +1567,7 @@
       "id": 71,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/071.png",
       "name": "Victreebel",
-      "type": "Grass/Poison",
+      "type": "",
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "5'07\"",
       "weight": "34.2 lbs.",
@@ -3385,7 +3385,7 @@
         "name": "generation2"
       }
     },{
-      "id": 158
+      "id": 158,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/158.png",
       "name": "Totodile",
       "type": "Water",
@@ -3445,820 +3445,820 @@
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 161,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/161.png",
+      "name": "Sentret",
+      "type": "Normal",
+      "abilities": "Main: Run Away, Keen Eye | Hidden: Frisk",
+      "height": "2'07\"",
+      "weight": "13.2 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 35,
+        "Attack": 46,
+        "Defense": 34,
+        "SpAtk": 35,
+        "SpDef": 45,
+        "Speed": 20
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 162,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/162.png",
+      "name": "Furret",
+      "type": "Normal",
+      "abilities": "Main: Run Away, Keen Eye | Hidden: Frisk",
+      "height": "5'11\"",
+      "weight": "71.7 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 85,
+        "Attack": 76,
+        "Defense": 64,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Speed": 90
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 163,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/163.png",
+      "name": "Hoothoot",
+      "type": "Normal/Flying",
+      "abilities": "Main: Insomnia, Keen Eye | Hidden: Tinted Lens",
+      "height": "2'04\"",
+      "weight": "46.7 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 60,
+        "Attack": 30,
+        "Defense": 30,
+        "SpAtk": 36,
+        "SpDef": 56,
+        "Speed": 50
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 164,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/164.png",
+      "name": "Noctowl",
+      "type": "Normal/Flying",
+      "abilities": "Main: Insomnia, Keen Eye | Hidden: Tinted Lens",
+      "height": "5'03\"",
+      "weight": "89.9 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 50,
+        "SpAtk": 76,
+        "SpDef": 96,
+        "Speed": 70
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 165,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/165.png",
+      "name": "Ledyba",
+      "type": "Bug/Flying",
+      "abilities": "Main: Swarm, Early Bird | Hidden: Rattled",
+      "height": "3'03\"",
+      "weight": "23.8 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 40,
+        "Attack": 20,
+        "Defense": 30,
+        "SpAtk": 40,
+        "SpDef": 80,
+        "Speed": 55
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 166,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/166.png",
+      "name": "Ledian",
+      "type": "Bug/Flying",
+      "abilities": "Main: Swarm, Early Bird | Hidden: Iron Fist",
+      "height": "4'07\"",
+      "weight": "78.5 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 55,
+        "Attack": 35,
+        "Defense": 50,
+        "SpAtk": 55,
+        "SpDef": 110,
+        "Speed": 85
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 167,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/167.png",
+      "name": "Spinarak",
+      "type": "Bug/Poison",
+      "abilities": "Main: Swarm, Insomnia | Hidden: Sniper",
+      "height": "1'08\"",
+      "weight": "18.7 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Speed": 30
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 168,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/168.png",
+      "name": "Ariados",
+      "type": "Bug/Poison",
+      "abilities": "Main: Swarm, Insomnia | Hidden: Sniper",
+      "height": "3'07\"",
+      "weight": "73.9 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Speed": 40
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 169,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/169.png",
+      "name": "Crobat",
+      "type": "Poison/Flying",
+      "abilities": "Main: Inner Focus | Hidden: Infiltrator",
+      "height": "5'11\"",
+      "weight": "165.3 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 85,
+        "Attack": 90,
+        "Defense": 80,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Speed": 130
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 170,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/170.png",
+      "name": "Chinchou",
+      "type": "Water/Electric",
+      "abilities": "Main: Volt Absorb, Illuminate | Hidden: Water Absorb",
+      "height": "1'08\"",
+      "weight": "26.5 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 75,
+        "Attack": 38,
+        "Defense": 38,
+        "SpAtk": 56,
+        "SpDef": 56,
+        "Speed": 67
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 171,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/171.png",
+      "name": "Lanturn ",
+      "type": "Water/Electric",
+      "abilities": "Main: Volt Absorb, Illuminate | Hidden: Water Absorb",
+      "height": "3'11\"",
+      "weight": "49.6 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 125,
+        "Attack": 58,
+        "Defense": 58,
+        "SpAtk": 76,
+        "SpDef": 76,
+        "Speed": 67
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 172,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/172.png",
+      "name": "Pichu",
+      "type": "Electric" ,
+      "abilities": "ElectMain: Static | Hidden: Lightning Rodric",
+      "height": "1'00\"",
+      "weight": "4.4 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 15,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Speed": 60
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 173,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/173.png",
+      "name": "Cleffa",
+      "type": "Fairy",
+      "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
+      "height": "1'00\"",
+      "weight": "6.6 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 50,
+        "Attack": 25,
+        "Defense": 28,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Speed": 15
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 174,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/174.png",
+      "name": "Igglybuff",
+      "type": "Normal/Fairy",
+      "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
+      "height": "1'00\"",
+      "weight": "2.2 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 90,
+        "Attack": 30,
+        "Defense": 15,
+        "SpAtk": 40,
+        "SpDef": 20,
+        "Speed": 15
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 175,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/175.png",
+      "name": "Togepi",
+      "type": "Fairy",
+      "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
+      "height": "1'00\"",
+      "weight": "3.3 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 35,
+        "Attack": 20,
+        "Defense": 65,
+        "SpAtk": 40,
+        "SpDef": 65,
+        "Speed": 20
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 176,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/176.png",
+      "name": "Togetic",
+      "type": "Fairy/Flying",
+      "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
+      "height": "2'00\"",
+      "weight": "7.1 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 85,
+        "SpAtk": 80,
+        "SpDef": 105,
+        "Speed": 40
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 177,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/177.png",
+      "name": "Natu",
+      "type": "Psychic/Flying",
+      "abilities": "Main: Synchronize, Early Bird | Hidden: Magic Bounce",
+      "height": "0'08\"",
+      "weight": "4.4 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 45,
+        "SpAtk": 70,
+        "SpDef": 45,
+        "Speed": 70
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 178,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/178.png",
+      "name": "Xatu",
+      "type": "Psychic/Flying",
+      "abilities": "Main: Synchronize, Early Bird | Hidden: Magic Bounce",
+      "height": "4'11\"",
+      "weight": "33.1 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 70,
+        "SpAtk": 95,
+        "SpDef": 70,
+        "Speed": 95
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 179,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/179179.png",
+      "name": "Mareep",
+      "type": "Electric",
+      "abilities": "Main: Static | Hidden: Plus",
+      "height": "2'00\"",
+      "weight": "17.2 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 40,
+        "SpAtk": 65,
+        "SpDef": 45,
+        "Speed": 35
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 180,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/180.png",
+      "name": "Flaaffy",
+      "type": "Electric",
+      "abilities": "Main: Static | Hidden: Plus",
+      "height": "2'07\"",
+      "weight": "29.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "SpAtk": 80,
+        "SpDef": 60,
+        "Speed": 45
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 181,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/181.png",
+      "name": "Ampharos",
+      "type": "Electric",
+      "abilities": "Main: Static | Hidden: Plus",
+      "height": "4'07\"",
+      "weight": "135.6 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 85,
+        "SpAtk": 115,
+        "SpDef": 90,
+        "Speed": 55
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 182,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/182.png",
+      "name": "Bellossom",
+      "type": "Grass",
+      "abilities": "Main: Chlorophyll | Hidden: Healer",
+      "height": "1'04\"",
+      "weight": "12.8 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 95,
+        "SpAtk": 90,
+        "SpDef": 100,
+        "Speed": 50
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 183,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/183.png",
+      "name": "Marill",
+      "type": "Water/Fairy",
+      "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
+      "height": "1'04\"",
+      "weight": "18.7 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 70,
+        "Attack": 20,
+        "Defense": 50,
+        "SpAtk": 20,
+        "SpDef": 50,
+        "Speed": 40
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 184,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/184.png",
+      "name": "Azumarill",
+      "type": "Water/Fairy",
+      "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
+      "height": "2'07\"",
+      "weight": "62.8 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 80,
+        "SpAtk": 60,
+        "SpDef": 80,
+        "Speed": 50
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 185,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/185.png",
+      "name": "Sudowoodo",
+      "type": "Rock",
+      "abilities": "Main: Sturdy, Rock Head | Hidden: Rattled",
+      "height": "3'11\"",
+      "weight": "83.8 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "SpAtk": 30,
+        "SpDef": 65,
+        "Speed": 30
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 186,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/186.png",
+      "name": "Politoed",
+      "type": "Water",
+      "abilities": "Main: Water Absorb, Damp | Hidden: Drizzle",
+      "height": "3'07\"",
+      "weight": "74.7 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "SpAtk": 90,
+        "SpDef": 100,
+        "Speed": 70
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 187,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/187.png",
+      "name": "Hoppip",
+      "type": "Grass/Flying",
+      "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
+      "height": "1'04\"",
+      "weight": "1.1 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 40,
+        "SpAtk": 35,
+        "SpDef": 55,
+        "Speed": 50
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 188,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/188.png",
+      "name": "Skiploom",
+      "type": "Grass/Flying",
+      "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
+      "height": "2'00\"",
+      "weight": "2.2 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 50,
+        "SpAtk": 45,
+        "SpDef": 65,
+        "Speed": 80
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 189,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/189.png",
+      "name": "Jumpluff",
+      "type": "Grass/Flying",
+      "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
+      "height": "2'07\"",
+      "weight": "6.6 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 75,
+        "Attack": 55,
+        "Defense": 70,
+        "SpAtk": 55,
+        "SpDef": 95,
+        "Speed": 110
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 190,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/190.png",
+      "name": "Aipom",
+      "type": "Normal",
+      "abilities": "Main: Run Away, Pickup | Hidden: Skill Link",
+      "height": "2'07\"",
+      "weight": "25.4 lbs. ",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 55,
+        "SpAtk": 40,
+        "SpDef": 55,
+        "Speed": 80
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 191,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/191.png",
+      "name": "Sunkern",
+      "type": "Grass",
+      "abilities": "Main: Chlorophyll, Solar Power | Hidden: Early Bird",
+      "height": "1'00\"",
+      "weight": "4.0 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 30,
+        "SpAtk": 30,
+        "SpDef": 30,
+        "Speed": 30
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 192,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/192.png",
+      "name": "Sunflora",
+      "type": "Grass",
+      "abilities": "Main: Chlorophyll, Solar Power | Hidden: Early Bird",
+      "height": "2'07\"",
+      "weight": "18.7 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 55,
+        "SpAtk": 105,
+        "SpDef": 85,
+        "Speed": 30
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 193,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/193.png",
+      "name": "Yanma",
+      "type": "Bug/Flying",
+      "abilities": "Main: Speed Boost, Compound Eyes | Hidden: Frisk",
+      "height": "3'11\"",
+      "weight": "83.8 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 45,
+        "SpAtk": 75,
+        "SpDef": 45,
+        "Speed": 95
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 194,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/194.png",
+      "name": "Wooper",
+      "type": "Water/Ground",
+      "abilities": "Main: Damp, Water Absorb | Hidden: Unaware",
+      "height": "1'04\"",
+      "weight": "18.7 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 45,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Speed": 15
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 195,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/195.png",
+      "name": "Quagsire",
+      "type": "Water/Ground",
+      "abilities": "Main: Damp, Water Absorb | Hidden: Unaware",
+      "height": "4'07\"",
+      "weight": "165.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 85,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Speed": 35
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 196,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/196.png",
+      "name": "Espeon",
+      "type": "Psychic",
+      "abilities": "Main: Synchronize | Hidden: Magic Bounce",
+      "height": "2'11\"",
+      "weight": "58.4 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "SpAtk": 130,
+        "SpDef": 95,
+        "Speed": 110
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 197,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/197.png",
+      "name": "Umbreon",
+      "type": "Dark",
+      "abilities": "Main: Synchronize | Hidden: Inner Focus",
+      "height": "3'03\"",
+      "weight": "59.5 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 110,
+        "SpAtk": 60,
+        "SpDef": 130,
+        "Speed": 65
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 198,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/198.png",
+      "name": "Murkrow",
+      "type": "Dark/Flying",
+      "abilities": "Main: Insomnia, Super Luck | Hidden: Prankster",
+      "height": "1'08\"",
+      "weight": "4.6 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 42,
+        "SpAtk": 85,
+        "SpDef": 42,
+        "Speed": 91
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 199,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/199.png",
+      "name": "Slowking",
+      "type": "Water/Psychic",
+      "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
+      "height": "6'07\"",
+      "weight": "175.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 80,
+        "SpAtk": 100,
+        "SpDef": 110,
+        "Speed": 30
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 200,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/200.png",
+      "name": "Misdreavus",
+      "type": "Ghost",
+      "abilities": "Main: Levitate",
+      "height": "2'04\"",
+      "weight": "2.2 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "SpAtk": 85,
+        "SpDef": 85,
+        "Speed": 85
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 201,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/201.png",
+      "name": "Unown",
+      "type": "Psychic",
+      "abilities": "Main: Levitate",
+      "height": "1'08\"",
+      "weight": "11.0 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 48,
+        "Attack": 72,
+        "Defense": 48,
+        "SpAtk": 72,
+        "SpDef": 48,
+        "Speed": 48
       },
       "generation":
       {
@@ -4268,8 +4268,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4288,8 +4288,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4308,8 +4308,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4328,8 +4328,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4348,8 +4348,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4368,8 +4368,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4388,8 +4388,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4408,8 +4408,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4428,8 +4428,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4448,8 +4448,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4468,8 +4468,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4488,8 +4488,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4508,8 +4508,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4528,8 +4528,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4548,8 +4548,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4568,8 +4568,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4588,8 +4588,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4608,8 +4608,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4628,8 +4628,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4648,8 +4648,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4668,8 +4668,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4688,8 +4688,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4708,8 +4708,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4728,8 +4728,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4748,8 +4748,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4768,8 +4768,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4788,8 +4788,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4808,8 +4808,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4828,8 +4828,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4848,8 +4848,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4868,8 +4868,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4888,8 +4888,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4908,8 +4908,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4928,8 +4928,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4948,8 +4948,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4968,8 +4968,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -4988,8 +4988,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5008,8 +5008,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5028,8 +5028,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5048,8 +5048,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5068,8 +5068,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5088,8 +5088,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5108,8 +5108,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5128,8 +5128,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5148,8 +5148,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5168,8 +5168,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5188,8 +5188,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5208,8 +5208,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
@@ -5228,8 +5228,8 @@
       "id": ,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
       "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
+      "type": "",
+      "abilities": "",
       "height": "",
       "weight": "",
       "stats": {
