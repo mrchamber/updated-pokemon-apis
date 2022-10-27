@@ -3325,120 +3325,120 @@
       }
     },
     {
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 155,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/155.png",
+      "name": "Cyndaquil",
+      "type": "Fire",
+      "abilities": "Main: Blaze | Hidden: Flash Fire",
+      "height": "1'08\"",
+      "weight": "17.4 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "SpAtk": 60,
+        "SpDef": 50,
+        "Speed": 65
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 156,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/156.png",
+      "name": "Quilava",
+      "type": "Fire",
+      "abilities": "Main: Blaze | Hidden: Flash Fire",
+      "height": "2'11\"",
+      "weight": "41.9 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "SpAtk": 80,
+        "SpDef": 65,
+        "Speed": 80
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 157,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/157.png",
+      "name": "Typlosion",
+      "type": "Fire",
+      "abilities": "Main: Blaze | Hidden: Flash Fire",
+      "height": "5'07\"",
+      "weight": "175.3 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "SpAtk": 109,
+        "SpDef": 85,
+        "Speed": 100
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 158
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/158.png",
+      "name": "Totodile",
+      "type": "Water",
+      "abilities": "Main: Torrent | Hidden: Sheer Force",
+      "height": "2'00\"",
+      "weight": "20.9 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 64,
+        "SpAtk": 44,
+        "SpDef": 48,
+        "Speed": 43
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 159,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/159.png",
+      "name": "Croconaw",
+      "type": "Water",
+      "abilities": "Main: Torrent | Hidden: Sheer Force",
+      "height": "3'07\"",
+      "weight": "55.1 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 80,
+        "SpAtk": 59,
+        "SpDef": 63,
+        "Speed": 58
       },
       "generation":
       {
         "name": "generation2"
       }
     },{
-      "id": ,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/.png",
-      "name": "",
-      "type": "Grass/Poison",
-      "abilities": "Main:  | Hidden: ",
-      "height": "",
-      "weight": "",
+      "id": 160,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/160.png",
+      "name": "Feraligatr",
+      "type": "Water",
+      "abilities": "Main: Torrent | Hidden: Sheer Force",
+      "height": "7'07\"",
+      "weight": "195.8 lbs.",
       "stats": {
-        "HP": ,
-        "Attack": ,
-        "Defense": ,
-        "SpAtk": ,
-        "SpDef": ,
-        "Speed":
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 100,
+        "SpAtk": 79,
+        "SpDef": 83,
+        "Speed": 78
       },
       "generation":
       {
