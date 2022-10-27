@@ -3263,6 +3263,66 @@
       {
         "name": "generation1"
       }
+    },
+    {
+      "id": 152,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/152.png",
+      "name": "Chikorita",
+      "type": "Grass",
+      "abilities": "Main: Overgrow | Hidden: Leaf Guard",
+      "height": "2'11\"",
+      "weight": "14.1 lbs. ",
+      "stats": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation2"
+      }
+    },
+    {
+      "id": 153,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/153.png",
+      "name": "Bayleef",
+      "type": "Grass",
+      "abilities": "Main: Overgrow | Hidden: Leaf Guard",
+      "height": "3'11\"",
+      "weight": "34.8 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 80,
+        "SpAtk": 63,
+        "SpDef": 80,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation2"
+      }
+    },
+    {
+      "id": 154,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/154.png",
+      "name": "Meganium",
+      "type": "Grass",
+      "abilities": "Main: Overgrow | Hidden: Leaf Guard",
+      "height": "5'11\"",
+      "weight": "221.6 lbs.",
+      "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 100,
+        "SpAtk": 83,
+        "SpDef": 100,
+        "Speed": 80
+      },
+      "generation": {
+        "name": "generation2"
+      }
     }
   ]
 }
