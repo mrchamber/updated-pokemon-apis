@@ -9408,7 +9408,7 @@
         "Defense": 100,
         "SpAtk": 100,
         "SpDef": 100,
-        "Speed": 100F
+        "Speed": 100
       },
       "generation": {
         "name": "generation3"
