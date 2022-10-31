@@ -55,8 +55,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/003.png",
       "name": "Venusaur",
       "type": {
-        "1": "Grass",
-        "2": "Poison"
+        "T1": "Grass",
+        "T2": "Poison"
       },
       "entry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
@@ -3833,8 +3833,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/154.png",
       "name": "Meganium",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass"
       },
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Leaf Guard",
@@ -3857,8 +3856,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/155.png",
       "name": "Cyndaquil",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Fire"
       },
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Flash Fire",
@@ -3881,8 +3879,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/156.png",
       "name": "Quilava",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Fire"
       },
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Flash Fire",
@@ -3905,8 +3902,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/157.png",
       "name": "Typlosion",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Fire"
       },
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Flash Fire",
@@ -3929,8 +3925,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/158.png",
       "name": "Totodile",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water"
       },
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Sheer Force",
@@ -3953,8 +3948,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/159.png",
       "name": "Croconaw",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water"
       },
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Sheer Force",
@@ -3977,8 +3971,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/160.png",
       "name": "Feraligatr",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water"
       },
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Sheer Force",
@@ -4001,8 +3994,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/161.png",
       "name": "Sentret",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Normal"
       },
       "entry": "",
       "abilities": "Main: Run Away, Keen Eye | Hidden: Frisk",
@@ -4025,8 +4017,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/162.png",
       "name": "Furret",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Normal"
       },
       "entry": "",
       "abilities": "Main: Run Away, Keen Eye | Hidden: Frisk",
@@ -4049,8 +4040,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/163.png",
       "name": "Hoothoot",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Normal",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Insomnia, Keen Eye | Hidden: Tinted Lens",
@@ -4073,8 +4064,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/164.png",
       "name": "Noctowl",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Normal",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Insomnia, Keen Eye | Hidden: Tinted Lens",
@@ -4097,8 +4088,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/165.png",
       "name": "Ledyba",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Bug",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Swarm, Early Bird | Hidden: Rattled",
@@ -4121,8 +4112,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/166.png",
       "name": "Ledian",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Bug",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Swarm, Early Bird | Hidden: Iron Fist",
@@ -4145,8 +4136,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/167.png",
       "name": "Spinarak",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Bug",
+        "T2": "Poison"
       },
       "entry": "",
       "abilities": "Main: Swarm, Insomnia | Hidden: Sniper",
@@ -4169,8 +4160,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/168.png",
       "name": "Ariados",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Bug",
+        "T2": "Poison"
       },
       "entry": "",
       "abilities": "Main: Swarm, Insomnia | Hidden: Sniper",
@@ -4193,8 +4184,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/169.png",
       "name": "Crobat",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Poison",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
@@ -4217,8 +4208,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/170.png",
       "name": "Chinchou",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Electric"
       },
       "entry": "",
       "abilities": "Main: Volt Absorb, Illuminate | Hidden: Water Absorb",
@@ -4241,8 +4232,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/171.png",
       "name": "Lanturn ",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Electric"
       },
       "entry": "",
       "abilities": "Main: Volt Absorb, Illuminate | Hidden: Water Absorb",
@@ -4265,8 +4256,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/172.png",
       "name": "Pichu",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Electric"
       },
       "entry": "",
       "abilities": "ElectMain: Static | Hidden: Lightning Rodric",
@@ -4289,8 +4279,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/173.png",
       "name": "Cleffa",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Fairy"
       },
       "entry": "",
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
@@ -4313,8 +4302,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/174.png",
       "name": "Igglybuff",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Normal",
+        "T2": "Fairy"
       },
       "entry": "",
       "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
@@ -4337,8 +4326,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/175.png",
       "name": "Togepi",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Fairy"
       },
       "entry": "",
       "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
@@ -4361,8 +4349,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/176.png",
       "name": "Togetic",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Fairy",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
@@ -4385,8 +4373,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/177.png",
       "name": "Natu",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Psychic",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Synchronize, Early Bird | Hidden: Magic Bounce",
@@ -4409,8 +4397,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/178.png",
       "name": "Xatu",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Psychic",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Synchronize, Early Bird | Hidden: Magic Bounce",
@@ -4433,8 +4421,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/179179.png",
       "name": "Mareep",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Electric"
       },
       "entry": "",
       "abilities": "Main: Static | Hidden: Plus",
@@ -4457,8 +4444,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/180.png",
       "name": "Flaaffy",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Electric"
       },
       "entry": "",
       "abilities": "Main: Static | Hidden: Plus",
@@ -4481,8 +4467,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/181.png",
       "name": "Ampharos",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Electric"
       },
       "entry": "",
       "abilities": "Main: Static | Hidden: Plus",
@@ -4505,8 +4490,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/182.png",
       "name": "Bellossom",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass"
       },
       "entry": "",
       "abilities": "Main: Chlorophyll | Hidden: Healer",
@@ -4529,8 +4513,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/183.png",
       "name": "Marill",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Fairy"
       },
       "entry": "",
       "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
@@ -4553,8 +4537,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/184.png",
       "name": "Azumarill",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Fairy"
       },
       "entry": "",
       "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
@@ -4577,8 +4561,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/185.png",
       "name": "Sudowoodo",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Rock"
       },
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Rattled",
@@ -4601,8 +4584,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/186.png",
       "name": "Politoed",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water"
       },
       "entry": "",
       "abilities": "Main: Water Absorb, Damp | Hidden: Drizzle",
@@ -4625,8 +4607,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/187.png",
       "name": "Hoppip",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
@@ -4649,8 +4631,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/188.png",
       "name": "Skiploom",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
@@ -4673,8 +4655,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/189.png",
       "name": "Jumpluff",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
@@ -4697,8 +4679,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/190.png",
       "name": "Aipom",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Normal"
       },
       "entry": "",
       "abilities": "Main: Run Away, Pickup | Hidden: Skill Link",
@@ -4721,8 +4702,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/191.png",
       "name": "Sunkern",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass"
       },
       "entry": "",
       "abilities": "Main: Chlorophyll, Solar Power | Hidden: Early Bird",
@@ -4745,8 +4725,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/192.png",
       "name": "Sunflora",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Grass"
       },
       "entry": "",
       "abilities": "Main: Chlorophyll, Solar Power | Hidden: Early Bird",
@@ -4769,8 +4748,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/193.png",
       "name": "Yanma",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Bug",
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Speed Boost, Compound Eyes | Hidden: Frisk",
@@ -4793,8 +4772,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/194.png",
       "name": "Wooper",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Ground"
       },
       "entry": "",
       "abilities": "Main: Damp, Water Absorb | Hidden: Unaware",
@@ -4817,8 +4796,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/195.png",
       "name": "Quagsire",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Ground"
       },
       "entry": "",
       "abilities": "Main: Damp, Water Absorb | Hidden: Unaware",
@@ -4841,8 +4820,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/196.png",
       "name": "Espeon",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Psychic"
       },
       "entry": "",
       "abilities": "Main: Synchronize | Hidden: Magic Bounce",
@@ -4865,8 +4843,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/197.png",
       "name": "Umbreon",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Dark"
       },
       "entry": "",
       "abilities": "Main: Synchronize | Hidden: Inner Focus",
@@ -4889,8 +4866,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/198.png",
       "name": "Murkrow",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Dark",
+        "T2": "Fyling"
       },
       "entry": "",
       "abilities": "Main: Insomnia, Super Luck | Hidden: Prankster",
@@ -4913,8 +4890,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/199.png",
       "name": "Slowking",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Water",
+        "T2": "Psychic"
       },
       "entry": "",
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
@@ -4937,8 +4914,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/200.png",
       "name": "Misdreavus",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Ghost"
       },
       "entry": "",
       "abilities": "Main: Levitate",
@@ -4962,8 +4938,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/201.png",
       "name": "Unown",
       "type": {
-        "T1": "",
-        "T2": ""
+        "T1": "Psychic"
       },
       "entry": "",
       "abilities": "Main: Levitate",
@@ -4985,7 +4960,9 @@
       "id": 202,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/202.png",
       "name": "Wobbuffet",
-      "type": "Psychic",
+      "type": {
+        "T1": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Shadow Tag | Hidden: Telepathy",
       "height": "4'03\"",
@@ -5006,7 +4983,10 @@
       "id": 203,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/203.png",
       "name": "Girafarig",
-      "type": "Normal/Psychic",
+      "type": {
+        "T1": "Normal",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Inner Focus, Early Bird | Hidden: Sap Sipper",
       "height": "4'11\"",
@@ -5027,7 +5007,9 @@
       "id": 204,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/204.png",
       "name": "Pineco",
-      "type": "Bug",
+      "type": {
+        "T1": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Sturdy | Hidden: Overcoat",
       "height": "2'00\"",
@@ -5048,7 +5030,10 @@
       "id": 205,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/205.png",
       "name": "Forretress",
-      "type": "Bug/Steel",
+      "type": {
+        "T1": "Bug",
+        "T2": "Steel"
+      },
       "entry": "",
       "abilities": "Main: Sturdy | Hidden: Overcoat",
       "height": "3'11\"",
@@ -5069,7 +5054,9 @@
       "id": 206,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/206.png",
       "name": "Dunsparce",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Serene Grace, Run Away | Hidden: Rattled",
       "height": "4'11\"",
@@ -5090,7 +5077,10 @@
       "id": 207,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/207.png",
       "name": "Gligar",
-      "type": "Ground/Flying",
+      "type": {
+        "T1": "Ground",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Hyper Cutter, Sand Veil | Hidden: Immunity",
       "height": "3'07\"",
@@ -5111,7 +5101,10 @@
       "id": 208,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/208.png",
       "name": "Steelix",
-      "type": "Steel/Ground",
+      "type": {
+        "T1": "Steel",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sheer Force",
       "height": "30'02\"",
@@ -5132,7 +5125,9 @@
       "id": 209,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/209.png",
       "name": "Snubbull",
-      "type": "Fairy",
+      "type": {
+        "T1": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Intimidate, Run Away | Hidden: Rattled",
       "height": "2'00\"",
@@ -5153,7 +5148,9 @@
       "id": 210,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/210.png",
       "name": "Granbull",
-      "type": "Fairy",
+      "type": {
+        "T1": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Intimidate, Quick Feet | Hidden: Rattled",
       "height": "4'07\"",
@@ -5174,7 +5171,10 @@
       "id": 211,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/211.png",
       "name": "Qwilfish",
-      "type": "Water/Poison",
+      "type": {
+        "T1": "Water",
+        "T2": "Poison"
+      },
       "entry": "",
       "abilities": "Main: Poison Point, Swift Swim | Hidden: Intimidate",
       "height": "1'08\"",
@@ -5195,7 +5195,10 @@
       "id": 212,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/212.png",
       "name": "Scizor",
-      "type": "Bug/Steel",
+      "type": {
+        "T1": "Bug",
+        "T2": "Steel"
+      },
       "entry": "",
       "abilities": "Main: Swarm, Technician | Hidden: Light Metal",
       "height": "5'11\"",
@@ -5216,7 +5219,10 @@
       "id": 213,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/213.png",
       "name": "Shuckle",
-      "type": "Bug/Rock",
+      "type": {
+        "T1": "Bug",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Sturdy, Gluttony | Hidden: Contrary",
       "height": "2'00\"",
@@ -5237,7 +5243,10 @@
       "id": 214,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/214.png",
       "name": "Heracross",
-      "type": "Bug/Fighting",
+      "type": {
+        "T1": "Bug",
+        "T2": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Swarm, Guts | Hidden: Moxie",
       "height": "4'11\"",
@@ -5258,7 +5267,10 @@
       "id": 215,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/215.png",
       "name": "Sneasel",
-      "type": "Dark/Ice",
+      "type": {
+        "T1": "Dark",
+        "T2": "Ice"
+      },
       "entry": "",
       "abilities": "Main: Inner Focus, Keen Eye | Hidden: Pickpocket",
       "height": "2'11\"",
@@ -5279,7 +5291,9 @@
       "id": 216,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/216.png",
       "name": "Teddiursa",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Pickup, Quick Feet | Hidden: Honey Gather",
       "height": "2'00\"",
@@ -5300,7 +5314,9 @@
       "id": 217,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/217.png",
       "name": "Ursaring",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Guts, Quick Feet | Hidden: Unnerve",
       "height": "5'11\"",
@@ -5321,7 +5337,9 @@
       "id": 218,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/218.png",
       "name": "Slugma",
-      "type": "Fire",
+      "type": {
+        "T1": "Fire"
+      },
       "entry": "",
       "abilities": "Main: Magma Armor, Flame Body | Hidden: Weak Armor",
       "height": "2'04\"",
@@ -5342,7 +5360,10 @@
       "id": 219,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/219.png",
       "name": "Magcargo",
-      "type": "Fire/Rock",
+      "type": {
+        "T1": "Fire",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Magma Armor, Flame Body | Hidden: Weak Armor",
       "height": "2'07\"",
@@ -5363,7 +5384,10 @@
       "id": 220,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/220.png",
       "name": "Swinub",
-      "type": "Ice/Ground",
+      "type": {
+        "T1": "Ice",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Snow Cloak | Hidden: Thick Fat",
       "height": "1'04\"",
@@ -5384,7 +5408,10 @@
       "id": 221,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/221.png",
       "name": "Piloswine",
-      "type": "Ice/Ground",
+      "type": {
+        "T1": "Ice",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Snow Cloak | Hidden: Thick Fat",
       "height": "3'07\"",
@@ -5405,7 +5432,10 @@
       "id": 222,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/222.png",
       "name": "Corsola",
-      "type": "Water/Rock",
+      "type": {
+        "T1": "Water",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Hustle, Natural Cure | Hidden: Weak Armor",
       "height": "2'00\"",
@@ -5426,7 +5456,9 @@
       "id": 223,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/223.png",
       "name": "Remoraid",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Hustle, Sniper | Hidden: Moody",
       "height": "2'00\"",
@@ -5447,7 +5479,9 @@
       "id": 224,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/224.png",
       "name": "Octillery",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Suction Cups, Sniper | Hidden: Moody",
       "height": "2'11\"",
@@ -5468,7 +5502,10 @@
       "id": 225,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/225.png",
       "name": "Delibird",
-      "type": "Ice/Flying",
+      "type": {
+        "T1": "Ice",
+        "T2": "Fyling"
+      },
       "entry": "",
       "abilities": "Main: Vital Spirit, Hustle | Hidden: Insomnia",
       "height": "2'11\"",
@@ -5489,7 +5526,10 @@
       "id": 226,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/226.png",
       "name": "Mantine",
-      "type": "Water/Flying",
+      "type": {
+        "T1": "Water",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Water Absorb | Hidden: Water Veil",
       "height": "6'11\"",
@@ -5510,7 +5550,10 @@
       "id": 227,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/227.png",
       "name": "Skarmory",
-      "type": "Steel/Flying",
+      "type": {
+        "T1": "Steel",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Keen Eye, Sturdy | Hidden: Weak Armor",
       "height": "5'07\"",
@@ -5531,7 +5574,10 @@
       "id": 228,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/228.png",
       "name": "Houndour",
-      "type": "Dark/Fire",
+      "type": {
+        "T1": "Dark",
+        "T2": "Fire"
+      },
       "entry": "",
       "abilities": "Main: Early Bird, Flash Fire | Hidden: Unnerve",
       "height": "2'00\"",
@@ -5552,7 +5598,10 @@
       "id": 229,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/229.png",
       "name": "Houndoom",
-      "type": "Dark/Fire",
+      "type": {
+        "T1": "Dark",
+        "T2": "Fire"
+      },
       "entry": "",
       "abilities": "Main: Early Bird, Flash Fire | Hidden: Unnerve",
       "height": "4'07\"",
@@ -5573,7 +5622,10 @@
       "id": 230,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/230.png",
       "name": "Kingdra",
-      "type": "Water/Dragon",
+      "type": {
+        "T1": "Steel",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
       "height": "5'11\"",
@@ -5594,7 +5646,9 @@
       "id": 231,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/231.png",
       "name": "Phanpy",
-      "type": "Ground",
+      "type": {
+        "T1": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Pickup | Hidden: Sand Veil",
       "height": "1'08\"",
@@ -5615,7 +5669,9 @@
       "id": 232,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/232.png",
       "name": "Donphan",
-      "type": "Ground",
+      "type": {
+        "T1": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "3'07\"",
@@ -5636,7 +5692,9 @@
       "id": 233,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/233.png",
       "name": "Porygon2",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Trace, Download | Hidden: Analytic",
       "height": "2'00\"",
@@ -5657,7 +5715,9 @@
       "id": 234,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/234.png",
       "name": "Stantler",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Intimidate, Frisk | Hidden: Sap Sipper",
       "height": "4'07\"",
@@ -5678,7 +5738,9 @@
       "id": 235,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/235.png",
       "name": "Smeargle",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Own Tempo, Technician | Hidden: Moddy",
       "height": "3'11\"",
@@ -5699,7 +5761,9 @@
       "id": 236,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/236.png",
       "name": "Tyrogue",
-      "type": "Fighting",
+      "type": {
+        "T1": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Guts, Steadfast | Hidden: Vital Spirit",
       "height": "2'04\"",
@@ -5720,7 +5784,9 @@
       "id": 237,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/237.png",
       "name": "Hitmontop",
-      "type": "Fighting",
+      "type": {
+        "T1": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Intimidate, Technician | Hidden: Steadfast",
       "height": "4'07\"",
@@ -5741,7 +5807,10 @@
       "id": 238,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/238.png",
       "name": "Smoochum",
-      "type": "Ice/Psychic",
+      "type": {
+        "T1": "Ice",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Forewarn | Hidden: Hydration",
       "height": "1'04\"",
@@ -5762,7 +5831,9 @@
       "id": 239,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/239.png",
       "name": "Elekid",
-      "type": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
       "entry": "",
       "abilities": "Main: Static | Hidden: Vital Spirit",
       "height": "2'00\"",
@@ -5783,7 +5854,9 @@
       "id": 240,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/240.png",
       "name": "Magby",
-      "type": "Fire",
+      "type": {
+        "T1": "Fire"
+      },
       "entry": "",
       "abilities": "Main: Flame Body | Hidden: Vital Spirit",
       "height": "2'04\"",
@@ -5804,7 +5877,9 @@
       "id": 241,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/241.png",
       "name": "Miltank",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Scrappy | Hidden: Sap Sipper",
       "height": "3'11\"",
@@ -5825,7 +5900,9 @@
       "id": 242,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/242.png",
       "name": "Blissey",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Natural Cure, Serene Grace | Hidden: Healer",
       "height": "4'11\"",
@@ -5846,7 +5923,9 @@
       "id": 243,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/243.png",
       "name": "Raikou",
-      "type": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Inner Focus",
       "height": "6'03\"",
@@ -5867,7 +5946,9 @@
       "id": 244,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/244.png",
       "name": "Entei",
-      "type": "Fire",
+      "type": {
+        "T1": "Fire"
+      },
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Inner Focus",
       "height": "6'11\"",
@@ -5888,7 +5969,9 @@
       "id": 245,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/245.png",
       "name": "Suicune",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Inner Focus",
       "height": "6'07\"",
@@ -5909,7 +5992,10 @@
       "id": 246,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/246.png",
       "name": "Larvitar",
-      "type": "Rock/Ground",
+      "type": {
+        "T1": "Rock",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Guts | Hidden: Sand Veil",
       "height": "2'00\"",
@@ -5930,7 +6016,10 @@
       "id": 247,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/247.png",
       "name": "Pupitar",
-      "type": "",
+      "type": {
+        "T1": "Rock",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Shed Skin",
       "height": "3'11\"",
@@ -5951,7 +6040,10 @@
       "id": 248,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/248.png",
       "name": "Tyranitar",
-      "type": "Rock/Dark",
+      "type": {
+        "T1": "Rock",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Sand Stream | Hidden: Unnerve",
       "height": "6'07\"",
@@ -5972,7 +6064,10 @@
       "id": 249,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/249.png",
       "name": "Lugia",
-      "type": "Psychic/Flying",
+      "type": {
+        "T1": "Psychic",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Multiscale",
       "height": "17'01\"",
@@ -5993,7 +6088,10 @@
       "id": 250,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/250.png",
       "name": "Ho-oh",
-      "type": "Fire/Flying",
+      "type": {
+        "T1": "Fire",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Regenerator",
       "height": "12'06\"",
@@ -6014,7 +6112,10 @@
       "id": 251,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/251.png",
       "name": "Celebi",
-      "type": "Psychic/Grass",
+      "type": {
+        "T1": "Psychic",
+        "T2": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Natural Cure",
       "height": "2'00\"",
@@ -6036,7 +6137,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/252.png",
       "name": "Treecko",
       "category": "The Wood Gecko Pokemon",
-      "type": "Grass",
+      "type": {
+        "T1": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Unburden",
       "height": "1'08\"",
@@ -6058,7 +6161,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/253.png",
       "name": "Grovlye",
       "category": "The Wood Gecko Pokemon",
-      "type": "Grass",
+      "type": {
+        "T1": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Unburden",
       "height": "2'11\"",
@@ -6080,7 +6185,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/254.png",
       "name": "Sceptile",
       "category": "The Forest Pokemon",
-      "type": "Grass",
+      "type": {
+        "T1": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Unburden",
       "height": "5'07\"",
@@ -6102,7 +6209,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/255.png",
       "name": "Torchic",
       "category": "The Chick Pokemon",
-      "type": "Fire",
+      "type": {
+        "T1": "Fire"
+      },
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Speed Boost",
       "height": "1'04\"",
@@ -6124,7 +6233,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/256.png",
       "name": "Combusken",
       "category": "The Young Fowl Pokemon",
-      "type": "Fire/Fighting",
+      "type": {
+        "T1": "Fire",
+        "T2": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Speed Boost",
       "height": "2'11\"",
@@ -6146,7 +6258,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/257.png",
       "name": "Blaziken",
       "category": "The Blaze Pokemon",
-      "type": "Fire/Fighting",
+      "type": {
+        "T1": "Fire",
+        "T2": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Speed Boost",
       "height": "6'03\"",
@@ -6168,7 +6283,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/258.png",
       "name": "Mudkip",
       "category": "The Mud Fish Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Damp",
       "height": "1'04\"",
@@ -6190,7 +6307,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/259.png",
       "name": "Marshtomp",
       "category": "The Mud Fish Pokemon",
-      "type": "Water/Ground",
+      "type": {
+        "T1": "Water",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Damp",
       "height": "2'04\"",
@@ -6212,7 +6332,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/260.png",
       "name": "Swampert",
       "category": "The Mud Fish Pokemon",
-      "type": "Water/Ground",
+      "type": {
+        "T1": "Water",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Damp",
       "height": "4'11\"",
@@ -6234,7 +6357,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/261.png",
       "name": "Poochyena",
       "category": "The Bite Pokemon",
-      "type": "Dark",
+      "type": {
+        "T1": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Run Away, Quick Feet | Hidden: Rattled",
       "height": "1'08\"",
@@ -6256,7 +6381,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/262.png",
       "name": "Mightyena",
       "category": "The Bite Pokemon",
-      "type": "Dark",
+      "type": {
+        "T1": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Intimidate, Quick Feet | Hidden: Moxie",
       "height": "3'03\"",
@@ -6278,7 +6405,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/263.png",
       "name": "Zigzagoon",
       "category": "The Tiny Raccoon Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Pickup, Gluttony | Hidden: Quick Feet",
       "height": "1'04\"",
@@ -6300,7 +6429,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/264.png",
       "name": "Linoone",
       "category": "The Rushing Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Pickup, Gluttony | Hidden: Quick Feet",
       "height": "1'08\"",
@@ -6322,7 +6453,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/265.png",
       "name": "Wurmple",
       "category": "The Worm Pokemon",
-      "type": "Bug",
+      "type": {
+        "T1": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Shield Dust | Hidden: Run Away",
       "height": "1'00\"",
@@ -6344,7 +6477,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/266.png",
       "name": "Silcoon",
       "category": "The Cocoon Pokemon",
-      "type": "Bug",
+      "type": {
+        "T1": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Shed Skin",
       "height": "2'00\"",
@@ -6366,7 +6501,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/267.png",
       "name": "Beautifly",
       "category": "The Butterfly Pokemon",
-      "type": "Bug/Flying",
+      "type": {
+        "T1": "Bug",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Swarm | Hidden: Rivalry",
       "height": "3'03\"",
@@ -6388,7 +6526,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/268.png",
       "name": "Cascoon",
       "category": "The Cocoon Pokemon",
-      "type": "Bug",
+      "type": {
+        "T1": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Shed Skin",
       "height": "2'04\"",
@@ -6410,7 +6550,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/269.png",
       "name": "Dustox",
       "category": "The Poison Moth Pokemon",
-      "type": "Bug/Poison",
+      "type": {
+        "T1": "Bug",
+        "T2": "Poison"
+      },
       "entry": "",
       "abilities": "Main: Shield Dust | Hidden: Compound Eyes",
       "height": "3'11\"",
@@ -6432,7 +6575,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/270.png",
       "name": "Lotad",
       "category": "The Water Weed Pokemon",
-      "type": "Water/Grass",
+      "type": {
+        "T1": "Water",
+        "T2": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Rain Dish | Hidden: Own Tempo",
       "height": "1'08\"",
@@ -6454,7 +6600,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/271.png",
       "name": "Lombre",
       "category": "The Jolly Pokemon",
-      "type": "Water/Grass",
+      "type": {
+        "T1": "Water",
+        "T2": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Rain Dish | Hidden: Own Tempo",
       "height": "3'11\"",
@@ -6476,7 +6625,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/272.png",
       "name": "Ludicolo",
       "category": "The Carefree Pokemon",
-      "type": "Water/Grass",
+      "type": {
+        "T1": "Water",
+        "T2": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Rain Dish | Hidden: Own Tempo",
       "height": "4'11\"",
@@ -6498,7 +6650,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/273.png",
       "name": "Seedot",
       "category": "The Acorn Pokemon",
-      "type": "Grass",
+      "type": {
+        "T1": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Chlorophyll, Early Bird | Hidden: Pickpocket",
       "height": "1'08\"",
@@ -6520,7 +6674,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/274.png",
       "name": "Nuzleaf",
       "category": "The Wily Pokemon",
-      "type": "Grass/Dark",
+      "type": {
+        "T1": "Grass",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Chlorophyll, Early Bird | Hidden: Pickpocket",
       "height": "3'03\"",
@@ -6542,7 +6699,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/275.png",
       "name": "Shiftry",
       "category": "The Wicked Pokemon",
-      "type": "Grass/Dark",
+      "type": {
+        "T1": "Grass",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Chlorophyll, Early Bird | Hidden: Pickpocket",
       "height": "4'03\"",
@@ -6564,7 +6724,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/276.png",
       "name": "Tailow",
       "category": "The Tiny Swallow Pokemon",
-      "type": "Normal/Flying",
+      "type": {
+        "T1": "Normal",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Guts | Hidden: Scrappy",
       "height": "1'00\"",
@@ -6586,7 +6749,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/277.png",
       "name": "Swellow",
       "category": "The Swallow Pokemon",
-      "type": "Normal/Flying",
+      "type": {
+        "T1": "Normal",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Guts | Hidden: Scrappy",
       "height": "2'04\"",
@@ -6608,7 +6774,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/278.png",
       "name": "Wingull",
       "category": "The Seagull Pokemon",
-      "type": "Water/Flying",
+      "type": {
+        "T1": "Water",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Keen Eye, Hydration | Hidden: Rain Dish",
       "height": "2'00\"",
@@ -6630,7 +6799,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/279.png",
       "name": "Pelipper",
       "category": "The Water Bird Pokemon",
-      "type": "Water/Flying",
+      "type": {
+        "T1": "Water",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Keen Eye, Drizzle | Hidden: Rain Dish",
       "height": "3'11\"",
@@ -6652,7 +6824,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/280.png",
       "name": "Ralts",
       "category": "The Feeling Pokemon",
-      "type": "Psychic/Fairy",
+      "type": {
+        "T1": "Psychic",
+        "T2": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Synchronize, Trace | Hidden: Telepathy",
       "height": "1'04\"",
@@ -6674,7 +6849,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/281.png",
       "name": "Kirlia",
       "category": "The Emotion Pokemon",
-      "type": "Psychic/Fairy",
+      "type": {
+        "T1": "Psychic",
+        "T2": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Synchronize, Trace | Hidden: Telepathy",
       "height": "2'07\"",
@@ -6696,7 +6874,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/282.png",
       "name": "Gardevoir",
       "category": "The Embrace Pokemon",
-      "type": "Psychic/Fairy",
+      "type": {
+        "T1": "Psychic",
+        "T2": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Synchronize, Trace | Hidden: Telepathy",
       "height": "5'03\"",
@@ -6718,7 +6899,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/283.png",
       "name": "Surskit",
       "category": "The Pond Skater Pokemon",
-      "type": "Bug/Water",
+      "type": {
+        "T1": "Bug",
+        "T2": "Water"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Rain Dish",
       "height": "1'08\"",
@@ -6740,7 +6924,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/284.png",
       "name": "Masquerain",
       "category": "The Eyeball Pokemon",
-      "type": "Bug/Flying",
+      "type": {
+        "T1": "Bug",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Intimidate | Hidden: Unnerve",
       "height": "2'07\"",
@@ -6762,7 +6949,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/285.png",
       "name": "Shroomish",
       "category": "The Mushroom Pokemon",
-      "type": "Grass",
+      "type": {
+        "T1": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Effect Spore, Poison heal | Hidden: Quick Feet",
       "height": "1'04\"",
@@ -6784,7 +6973,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/286.png",
       "name": "Breloom",
       "category": "The Mushroom Pokemon",
-      "type": "Grass/Fighting",
+      "type": {
+        "T1": "Grass",
+        "T2": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Effect Spore, Poison Heal | Hidden: Technician",
       "height": "3'11\"",
@@ -6806,7 +6998,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/287.png",
       "name": "Slakoth",
       "category": "The Slacker Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Truant",
       "height": "2'07\"",
@@ -6828,7 +7022,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/288.png",
       "name": "Vigoroth",
       "category": "The Wild Monkey Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Vital Spirit",
       "height": "4'07\"",
@@ -6849,8 +7045,10 @@
       "id": 289,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/289.png",
       "name": "Slaking",
-      "category": "Theh Lazy Pokemon",
-      "type": "Normal",
+      "category": "The Lazy Pokemon",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Truant",
       "height": "6'07\"",
@@ -6872,7 +7070,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/290.png",
       "name": "Nincada",
       "category": "The Trainee Pokemon",
-      "type": "Bug/Ground",
+      "type": {
+        "T1": "Bug",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Compound Eyes | Hidden: Run Away",
       "height": "1'08\"",
@@ -6894,7 +7095,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/291.png",
       "name": "Ninjask",
       "category": "The Ninja Pokemon",
-      "type": "Bug/Flying",
+      "type": {
+        "T1": "Bug",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Speed Boost | Hidden: Infiltrator",
       "height": "2'07\"",
@@ -6916,7 +7120,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/292.png",
       "name": "Shedinja",
       "category": "The Shed Pokemon",
-      "type": "Bug/Ghost",
+      "type": {
+        "T1": "Bug",
+        "T2": "Ghost"
+      },
       "entry": "",
       "abilities": "Main: Wonder Guard",
       "height": "2'07\"",
@@ -6938,7 +7145,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/293.png",
       "name": "Whismur",
       "category": "The Whisper Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Soundproof | Hidden: Rattled",
       "height": "2'00\"",
@@ -6960,7 +7169,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/294.png",
       "name": "Loudred",
       "category": "The Big Voice Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Soundproof | Hidden: Scrappy",
       "height": "3'03\"",
@@ -6982,7 +7193,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/295.png",
       "name": "Exploud",
       "category": "The Loud Noise Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Soundproof | Hidden: Scrappy",
       "height": "4'11\"",
@@ -7004,7 +7217,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/296.png",
       "name": "Makuhita",
       "category": "The Guts Pokemon",
-      "type": "Fighting",
+      "type": {
+        "T1": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Guts | Hidden: Sheer Force",
       "height": "3'03\"",
@@ -7026,7 +7241,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/297.png",
       "name": "Hariyama",
       "category": "The Arm Thrust Pokemon",
-      "type": "Fighting",
+      "type": {
+        "T1": "Fighting"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Guts | Hidden: Sheer Force",
       "height": "7'07\"",
@@ -7048,7 +7265,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/298.png",
       "name": "Azurill",
       "category": "The Polka Dot Pokemon",
-      "type": "Normal/Fairy",
+      "type": {
+        "T1": "Normal",
+        "T2": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
       "height": "0'08\"",
@@ -7070,7 +7290,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/299.png",
       "name": "Nosepass",
       "category": "The Compass Pokemon",
-      "type": "Rock",
+      "type": {
+        "T1": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Sturdy, Magnet Pull | Hidden: Sand Force",
       "height": "3'03\"",
@@ -7092,7 +7314,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/300.png",
       "name": "Skitty",
       "category": "The Kitten Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Cute Charm, Normalize | Hidden: Wonder Skin",
       "height": "2'00\"",
@@ -7114,7 +7338,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/301.png",
       "name": "Delcatty",
       "category": "The Prim Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Cute Charm, Normalize | Hidden: Wonder Skin",
       "height": "3'07\"",
@@ -7136,7 +7362,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/302.png",
       "name": "Sableye",
       "category": "The Darkness Pokemon",
-      "type": "Dark/Ghost",
+      "type": {
+        "T1": "Dark",
+        "T2": "Ghost"
+      },
       "entry": "",
       "abilities": "Main: Keen Eye, Stall | Hidden: Prankster",
       "height": "1'08\"",
@@ -7158,7 +7387,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/303.png",
       "name": "Mawile",
       "category": "The Deceiver Pokemon",
-      "type": "Steel/Fairy",
+      "type": {
+        "T1": "Steel",
+        "T2": "Fairy"
+      },
       "entry": "",
       "abilities": "Main: Hyper Cutter, Intimidate | Hidden: Sheer Force",
       "height": "2'00\"",
@@ -7180,7 +7412,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/304.png",
       "name": "Aron",
       "category": "The Iron Armor Pokemon",
-      "type": "Steel/Rock",
+      "type": {
+        "T1": "Steel",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Heavy Metal",
       "height": "1'04\"",
@@ -7202,7 +7437,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/305.png",
       "name": "Lairon",
       "category": "The Iron Armor Pokemon",
-      "type": "Steel/Rock",
+      "type": {
+        "T1": "Steel",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Heavy Metal",
       "height": "2'11\"",
@@ -7224,7 +7462,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/306.png",
       "name": "Aggron",
       "category": "The Iron Armor Pokemon",
-      "type": "Steel/Rock",
+      "type": {
+        "T1": "Steel",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Heavy Metal",
       "height": "6'11\"",
@@ -7246,7 +7487,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/307.png",
       "name": "Meditite",
       "category": "The Meditate Pokemon",
-      "type": "Fighting/Psychic",
+      "type": {
+        "T1": "Fighting",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Pure Power | Hidden: Telepathy",
       "height": "2'00\"",
@@ -7268,7 +7512,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/308.png",
       "name": "Medicham",
       "category": "The Meditate Pokemon",
-      "type": "Fighting/Psychic",
+      "type": {
+        "T1": "Fighting",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Pure Power | Hidden: Telepathy",
       "height": "4'03\"",
@@ -7290,7 +7537,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/309.png",
       "name": "Electrike",
       "category": "The Lightning Pokemon",
-      "type": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
       "entry": "",
       "abilities": "Main: Static, Lightning | Hidden: Minus",
       "height": "2'00\"",
@@ -7312,7 +7561,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/310.png",
       "name": "Manetric",
       "category": "The Discharge Pokemon",
-      "type": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
       "entry": "",
       "abilities": "Main: Static, Lightning | Hidden: Minus",
       "height": "4'11\"",
@@ -7334,7 +7585,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/311.png",
       "name": "Plusle",
       "category": "The Cheering Pokemon",
-      "type": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
       "entry": "",
       "abilities": "Main: Plus | Hidden: Lightning Rod",
       "height": "1'04\"",
@@ -7356,7 +7609,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/312.png",
       "name": "Minun",
       "category": "The Cheering Pokemon",
-      "type": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
       "entry": "",
       "abilities": "Main: Minus | Hidden: Volt Absorb",
       "height": "1'04\"",
@@ -7378,7 +7633,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/313.png",
       "name": "Volbeat",
       "category": "The Firefly Pokemon",
-      "type": "Bug",
+      "type": {
+        "T1": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Illuminate, Swarm | Hidden: Prankster",
       "height": "2'04\"",
@@ -7400,7 +7657,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/314.png",
       "name": "Illumise",
       "category": "The Firefly Pokemon",
-      "type": "Bug",
+      "type": {
+        "T1": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Tinted Lens | Hidden: Prankster",
       "height": "2'00\"",
@@ -7422,7 +7681,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/315.png",
       "name": "Roselia",
       "category": "The Thorn Pokemon",
-      "type": "Grass/Poison",
+      "type": {
+        "T1": "Grass",
+        "T2": "Poison"
+      },
       "entry": "",
       "abilities": "Main: Natural Cure, Poison Point | Hidden: Leaf Guard",
       "height": "1'00\"",
@@ -7444,7 +7706,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/316.png",
       "name": "Gulpin",
       "category": "The Stomach Pokemon",
-      "type": "Poison",
+      "type": {
+        "T1": "Poison"
+      },
       "entry": "",
       "abilities": "Main: Liquid Ooze, Sticky Hold | Hidden: Gluttony",
       "height": "1'04\"",
@@ -7466,7 +7730,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/317.png",
       "name": "Swalot",
       "category": "The Poison Bag Pokemon",
-      "type": "Poison",
+      "type": {
+        "T1": "Poison"
+      },
       "entry": "",
       "abilities": "Main: Liquid Ooze, Sticky Hold | Hidden: Gluttony",
       "height": "5'07\"",
@@ -7488,7 +7754,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/318.png",
       "name": "Carvanha",
       "category": "The Savage Pokemon",
-      "type": "Water/Dark",
+      "type": {
+        "T1": "Water",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Rough Skin | Hidden: Speed Boost",
       "height": "2'07\"",
@@ -7510,7 +7779,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/319.png",
       "name": "Sharpedo",
       "category": "The Brutal Pokemon",
-      "type": "Water/Dark",
+      "type": {
+        "T1": "Water",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Rough Skin | Hidden: Speed Boost",
       "height": "5'11\"",
@@ -7532,7 +7804,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/320.png",
       "name": "Wailmer",
       "category": "The Ball Whale Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Water Veil, Oblivious | Hidden: Pressure",
       "height": "6'07\"",
@@ -7554,7 +7828,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/321.png",
       "name": "Wailord",
       "category": "The Float Whale Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Water Veil, Oblivious | Hidden: Pressure",
       "height": "47'07\"",
@@ -7576,7 +7852,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/322.png",
       "name": "Numel",
       "category": "The Numb Pokemon",
-      "type": "Fire/Ground",
+      "type": {
+        "T1": "Fire",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Simple | Hidden: Own Tempo",
       "height": "2'04\"",
@@ -7598,7 +7877,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/323.png",
       "name": "Camerupt",
       "category": "The Eruption Pokemon",
-      "type": "Fire/Ground",
+      "type": {
+        "T1": "Fire",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Magma Armor, Solid Rock | Hidden: Anger Point",
       "height": "6'03\"",
@@ -7620,7 +7902,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/324.png",
       "name": "Torkoal",
       "category": "The Coal Pokemon",
-      "type": "Fire",
+      "type": {
+        "T1": "Fire"
+      },
       "entry": "",
       "abilities": "Main: White Smoke, Drought | Hidden: Shell Armor",
       "height": "1'08\"",
@@ -7642,7 +7926,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/325.png",
       "name": "Spoink",
       "category": "The Bounce Pokemon",
-      "type": "Psychic",
+      "type": {
+        "T1": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Own Tempo | Hidden: Gluttony",
       "height": "2'04\"",
@@ -7664,7 +7950,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/326.png",
       "name": "Grumpig",
       "category": "The Manipulate Pokemon",
-      "type": "Psychic",
+      "type": {
+        "T1": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Own Tempo | Hidden: Gluttony",
       "height": "2'11\"",
@@ -7686,7 +7974,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/327.png",
       "name": "Spinda",
       "category": "The Spot Panda Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Own Tempo, Tangled Feet | Hidden: Contrary",
       "height": "3'07\"",
@@ -7708,7 +7998,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/328.png",
       "name": "Trapinch",
       "category": "The Ant Pit Pokemon",
-      "type": "Ground",
+      "type": {
+        "T1": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Hyper Cutter, Arena Trap | Hidden: Sheer Force",
       "height": "3'04\"",
@@ -7730,7 +8022,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/329.png",
       "name": "Vibrava",
       "category": "The Vibration Pokemon",
-      "type": "Ground/Dragon",
+      "type": {
+        "T1": "Ground",
+        "T2": "Dragon"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "3'07\"",
@@ -7752,7 +8047,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/330.png",
       "name": "Flygon",
       "category": "The Mystic Pokemon",
-      "type": "Ground/Dragon",
+      "type": {
+        "T1": "Ground",
+        "T2": "Dragon"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "6'07\"",
@@ -7774,7 +8072,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/331.png",
       "name": "Cacnea",
       "category": "The Cactus Pokemon",
-      "type": "Grass",
+      "type": {
+        "T1": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Water Absorb",
       "height": "1'04\"",
@@ -7796,7 +8096,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/332.png",
       "name": "Cacturne",
       "category": "The Scarecrow Pokemon",
-      "type": "Grass/Dark",
+      "type": {
+        "T1": "Grass",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Water Absorb",
       "height": "4'03\"",
@@ -7818,7 +8121,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/333.png",
       "name": "Swablu",
       "category": "The Cotton Bird Pokemon",
-      "type": "Normal/Flying",
+      "type": {
+        "T1": "Normal",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Natural Cure | Hidden: Cloud Nine",
       "height": "1'04\"",
@@ -7840,7 +8146,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/334.png",
       "name": "Altaria",
       "category": "The Humming Pokemon",
-      "type": "Dragon/Flying",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Natural Cure | Hidden: Cloud Nine",
       "height": "3'07\"",
@@ -7862,7 +8171,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/335.png",
       "name": "Zangoose",
       "category": "The Cat Ferret Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Immunity | Hidden: Toxic Boost",
       "height": "4'03\"",
@@ -7884,7 +8195,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/336.png",
       "name": "Seviper",
       "category": "The Fang Snake Pokemon",
-      "type": "Poison",
+      "type": {
+        "T1": "Poison"
+      },
       "entry": "",
       "abilities": "Main: Shed Skin | Hidden: Infiltrator",
       "height": "8'10\"",
@@ -7906,7 +8219,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/337.png",
       "name": "Lunatone",
       "category": "The Meteorite Pokemon",
-      "type": "Rock/Psychic",
+      "type": {
+        "T1": "Rock",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "3'03\"",
@@ -7928,7 +8244,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/338.png",
       "name": "Solrock",
       "category": "The Meteorite Pokemon",
-      "type": "Rock/Psychic",
+      "type": {
+        "T1": "Rock",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "3'11\"",
@@ -7950,7 +8269,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/339.png",
       "name": "Barboach",
       "category": "The Whiskers Pokemon",
-      "type": "Water/Ground",
+      "type": {
+        "T1": "Water",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Anticipation | Hidden: Hydration",
       "height": "1'04\"",
@@ -7972,7 +8294,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/340.png",
       "name": "Whiscash",
       "category": "The Whiskers Pokemon",
-      "type": "Water/Ground",
+      "type": {
+        "T1": "Water",
+        "T2": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Oblivious, Anticipation | Hidden: Hydration",
       "height": "2'11\"",
@@ -7994,7 +8319,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/341.png",
       "name": "Corphish",
       "category": "The Ruffian Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Hyper Cutter, Shell Armor | Hidden: Adaptability",
       "height": "2'00\"",
@@ -8016,7 +8343,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/342.png",
       "name": "Crawdaunt",
       "category": "The Rogue Pokemon",
-      "type": "Water/Dark",
+      "type": {
+        "T1": "Water",
+        "T2": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Hyper Cutter, Shell Armor | Hidden: Adaptability",
       "height": "3'07\"",
@@ -8038,7 +8368,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/343.png",
       "name": "Baltoy",
       "category": "The Clay Doll Pokemon",
-      "type": "Ground/Psychic",
+      "type": {
+        "T1": "Ground",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'08\"",
@@ -8060,7 +8393,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/344.png",
       "name": "Claydol",
       "category": "The Clay Doll Pokemon",
-      "type": "Ground/Psychic",
+      "type": {
+        "T1": "Ground",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "4'11\"",
@@ -8082,7 +8418,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/345.png",
       "name": "Lileep",
       "category": "The Sea Lily Pokemon",
-      "type": "Rock/Grass",
+      "type": {
+        "T1": "Rock",
+        "T2": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Suction Cups | Hidden: Storm Drain",
       "height": "3'03\"",
@@ -8104,7 +8443,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/346.png",
       "name": "Cradily",
       "category": "The Barnacle Pokemon",
-      "type": "Rock/Grass",
+      "type": {
+        "T1": "Rock",
+        "T2": "Grass"
+      },
       "entry": "",
       "abilities": "Main: Suction Cups | Hidden: Storm Drain",
       "height": "4'11\"",
@@ -8126,7 +8468,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/347.png",
       "name": "Anorith",
       "category": "The Old Shrimp Pokemon",
-      "type": "Rock/Bug",
+      "type": {
+        "T1": "Rock",
+        "T2": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Battle Armor | Hidden: Swift Swim",
       "height": "2'04\"",
@@ -8148,7 +8493,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/348.png",
       "name": "Armaldo",
       "category": "The Plate Pokemon",
-      "type": "Rock/Bug",
+      "type": {
+        "T1": "Rock",
+        "T2": "Bug"
+      },
       "entry": "",
       "abilities": "Main: Battle Armor | Hidden: Swift Swim",
       "height": "4'11\"",
@@ -8170,7 +8518,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/349.png",
       "name": "Feebas",
       "category": "The Fish Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Oblivious | Hidden: Adaptability",
       "height": "2'00\"",
@@ -8192,7 +8542,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/350.png",
       "name": "Milotic",
       "category": "The Tender Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Marvel Scale, Competitive | Hidden: Cute Charm",
       "height": "20'04\"",
@@ -8214,7 +8566,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/351.png",
       "name": "Castform",
       "category": "The Weather Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Forecast",
       "height": "1'00\"",
@@ -8236,7 +8590,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/352.png",
       "name": "Kecleon",
       "category": "The Color Swap Pokemon",
-      "type": "Normal",
+      "type": {
+        "T1": "Normal"
+      },
       "entry": "",
       "abilities": "Main: Color Change | Hidden: Protean",
       "height": "3'03\"",
@@ -8258,7 +8614,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/353.png",
       "name": "Shuppet",
       "category": "The Puppet Pokemon",
-      "type": "Ghost",
+      "type": {
+        "T1": "Ghost"
+      },
       "entry": "",
       "abilities": "Main: Insomnia, Frisk | Hidden: Cursed Body",
       "height": "2'00\"",
@@ -8280,7 +8638,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/354.png",
       "name": "Banette",
       "category": "The Marionette Pokemon",
-      "type": "Ghost",
+      "type": {
+        "T1": "Ghost"
+      },
       "entry": "",
       "abilities": "Main: Insomnia, Frisk | Hidden: Cursed Body",
       "height": "3'07\"",
@@ -8302,7 +8662,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/355.png",
       "name": "Duskull",
       "category": "The Requiem Pokemon",
-      "type": "Ghost",
+      "type": {
+        "T1": "Ghost"
+      },
       "entry": "",
       "abilities": "Main: Levitate | Hidden: Frisk",
       "height": "2'07\"",
@@ -8324,7 +8686,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/356.png",
       "name": "Dusclops",
       "category": "The Beckon Pokemon",
-      "type": "Ghost",
+      "type": {
+        "T1": "Ghost"
+      },
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Frisk",
       "height": "5'03\"",
@@ -8346,7 +8710,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/357.png",
       "name": "Tropius",
       "category": "The Fruit Pokemon",
-      "type": "Grass/Flying",
+      "type": {
+        "T1": "Grass",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Chlorophyll, Solar Power | Hidden: Harvest",
       "height": "6'07\"",
@@ -8368,7 +8735,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/358.png",
       "name": "Chimecho",
       "category": "The Wind Chime Pokemon",
-      "type": "Psychic",
+      "type": {
+        "T1": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "2'00\"",
@@ -8390,7 +8759,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/359.png",
       "name": "Absol",
       "category": "The Disaster Pokemon",
-      "type": "Dark",
+      "type": {
+        "T1": "Dark"
+      },
       "entry": "",
       "abilities": "Main: Pressure, Super Luck | Hidden: Justified",
       "height": "3'11\"",
@@ -8412,7 +8783,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/360.png",
       "name": "Wynaut",
       "category": "The Bright Pokemon",
-      "type": "Psychic",
+      "type": {
+        "T1": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Shadow Tag | Hidden: Telepathy",
       "height": "2'00\"",
@@ -8434,7 +8807,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/361.png",
       "name": "Snorunt",
       "category": "The Snow Hat Pokemon",
-      "type": "Ice",
+      "type": {
+        "T1": "Ice"
+      },
       "entry": "",
       "abilities": "Main: Inner Focus, Ice Body | Hidden: Moody",
       "height": "2'04\"",
@@ -8456,7 +8831,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/362.png",
       "name": "Glalie",
       "category": "The Face Pokemon",
-      "type": "Ice",
+      "type": {
+        "T1": "Ice"
+      },
       "entry": "",
       "abilities": "Main: Inner Focus, Ice Body | Hidden: Moody",
       "height": "4'11\"",
@@ -8478,7 +8855,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/363.png",
       "name": "Spheal",
       "category": "The Clap Pokemon",
-      "type": "Ice/Water",
+      "type": {
+        "T1": "Ice",
+        "T2": "Water"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Ice Body | Hidden: Oblivious",
       "height": "2'07\"",
@@ -8500,7 +8880,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/364.png",
       "name": "Sealeo",
       "category": "The Ball Roll Pokemon",
-      "type": "Ice/Water",
+      "type": {
+        "T1": "Ice",
+        "T2": "Water"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Ice Body | Hidden: Oblivious",
       "height": "3'07\"",
@@ -8522,7 +8905,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/365.png",
       "name": "Walrein",
       "category": "The Ice Break Pokemon",
-      "type": "Ice/Water",
+      "type": {
+        "T1": "Ice",
+        "T2": "Water"
+      },
       "entry": "",
       "abilities": "Main: Thick Fat, Ice Body | Hidden: Oblivious",
       "height": "4'07\"",
@@ -8544,7 +8930,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/366.png",
       "name": "Clamperl",
       "category": "The Bivalve Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Shell Armor | Hidden: Rattled",
       "height": "1'04\"",
@@ -8566,7 +8954,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/367.png",
       "name": "Huntail",
       "category": "The Deep Sea Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Water Veil",
       "height": "5'07\"",
@@ -8588,7 +8978,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/368.png",
       "name": "Gorebyss",
       "category": "The South Sea Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Hydration",
       "height": "5'11\"",
@@ -8610,7 +9002,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/369.png",
       "name": "Relicanth",
       "category": "The Longevity Pokemon",
-      "type": "Water/Rock",
+      "type": {
+        "T1": "Water",
+        "T2": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim, Rock Head | Hidden: Sturdy",
       "height": "3'03\"",
@@ -8632,7 +9027,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/370.png",
       "name": "Luvdisc",
       "category": "The Rendezvous Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Hydration",
       "height": "2'00\"",
@@ -8654,7 +9051,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/371.png",
       "name": "Bagon",
       "category": "The Rock Head Pokemon",
-      "type": "Dragon",
+      "type": {
+        "T1": "Dragon"
+      },
       "entry": "",
       "abilities": "Main: Rock Head | Hidden: Sheer Force",
       "height": "2'00\"",
@@ -8676,7 +9075,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/372.png",
       "name": "Shelgon",
       "category": "The Endurance Pokemon",
-      "type": "Dragon",
+      "type": {
+        "T1": "Dragon"
+      },
       "entry": "",
       "abilities": "Main: Rock Head | Hidden: Overcoat",
       "height": "3'07\"",
@@ -8698,7 +9099,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/373.png",
       "name": "Salamence",
       "category": "The Dragon Pokemon",
-      "type": "Dragon/Flying",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Intimidate | Hidden: Moxie",
       "height": "4'11\"",
@@ -8720,7 +9124,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/374.png",
       "name": "Beldum",
       "category": "The Iron Ball Pokemon",
-      "type": "Steel/Psychic",
+      "type": {
+        "T1": "Steel",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "2'00\"",
@@ -8742,7 +9149,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/375.png",
       "name": "Metang",
       "category": "The Iron Claw Pokemon",
-      "type": "Steel/Psychic",
+      "type": {
+        "T1": "Steel",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "3'11\"",
@@ -8764,7 +9174,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/376.png",
       "name": "Metagross",
       "category": "The Iron Leg Pokemon",
-      "type": "Steel/Psychic",
+      "type": {
+        "T1": "Steel",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "5'03\"",
@@ -8786,7 +9199,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/377.png",
       "name": "Regirock",
       "category": "The Rock Peak Pokemon",
-      "type": "Rock",
+      "type": {
+        "T1": "Rock"
+      },
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Sturdy",
       "height": "5'07\"",
@@ -8808,7 +9223,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/378.png",
       "name": "Regice",
       "category": "The Iceberg Pokemon",
-      "type": "Ice",
+      "type": {
+        "T1": "Ice"
+      },
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Ice Body",
       "height": "5'11\"",
@@ -8830,7 +9247,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/379.png",
       "name": "Registeel",
       "category": "The Iron Pokemon",
-      "type": "Steel",
+      "type": {
+        "T1": "Steel"
+      },
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "6'03\"",
@@ -8852,7 +9271,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/380.png",
       "name": "Latias",
       "category": "The Eon Pokemon",
-      "type": "Dragon/Psychic",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "4'07\"",
@@ -8874,7 +9296,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/381.png",
       "name": "Latios",
       "category": "The Eon Pokemon",
-      "type": "Dragon/Psychic",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "6'07\"",
@@ -8896,7 +9321,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/382.png",
       "name": "Kyogre",
       "category": "The Sea Basin Pokemon",
-      "type": "Water",
+      "type": {
+        "T1": "Water"
+      },
       "entry": "",
       "abilities": "Main: Drizzle | Hidden: Primordial Sea",
       "height": "14'09\"",
@@ -8918,7 +9345,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/383.png",
       "name": "Groudon",
       "category": "The Continent Pokemon",
-      "type": "Ground",
+      "type": {
+        "T1": "Ground"
+      },
       "entry": "",
       "abilities": "Main: Drought | Hidden: Desolate Land",
       "height": "11'06\"",
@@ -8940,7 +9369,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/384.png",
       "name": "Rayquaza",
       "category": "The Sky High Pokemon",
-      "type": "Dragon/Flying",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Flying"
+      },
       "entry": "",
       "abilities": "Main: Air Lock",
       "height": "23'00\"",
@@ -8962,7 +9394,10 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/385.png",
       "name": "Jirachi",
       "category": "The Wish Pokemon",
-      "type": "Steel/Psychic",
+      "type": {
+        "T1": "Steel",
+        "T2": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Serene Grace",
       "height": "1'00\"",
@@ -8984,7 +9419,9 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/386.png",
       "name": "Deoxys",
       "category": "The DNA Pokemon",
-      "type": "Psychic",
+      "type": {
+        "T1": "Psychic"
+      },
       "entry": "",
       "abilities": "Main: Pressure",
       "height": "5'07\"",
