@@ -335,7 +335,7 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/012.png",
       "name": "Butterfree",
       "type": {
-        "T1": "Water",
+        "T1": "Bug",
         "T2": "Flying"
       },
       "entry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
