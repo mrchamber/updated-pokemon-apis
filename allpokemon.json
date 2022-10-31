@@ -5504,7 +5504,7 @@
       "name": "Delibird",
       "type": {
         "T1": "Ice",
-        "T2": "Fyling"
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Vital Spirit, Hustle | Hidden: Insomnia",
@@ -5623,8 +5623,8 @@
       "image": "https://pokeimage-production.up.railway.app/pokeImg/230.png",
       "name": "Kingdra",
       "type": {
-        "T1": "Steel",
-        "T2": "Flying"
+        "T1": "Water",
+        "T2": "Dragon"
       },
       "entry": "",
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
@@ -9408,7 +9408,7 @@
         "Defense": 100,
         "SpAtk": 100,
         "SpDef": 100,
-        "Speed": 100
+        "Speed": 100F
       },
       "generation": {
         "name": "generation3"
