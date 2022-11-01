@@ -4,6 +4,7 @@
       "id": 1,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/001.png",
       "name": "Bulbasaur",
+      "category": "The Seed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -29,6 +30,7 @@
       "id": 2,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/002.png",
       "name": "Ivysaur",
+      "category": "The Seed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -54,6 +56,7 @@
       "id": 3,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/003.png",
       "name": "Venusaur",
+      "category": "The Seed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -74,21 +77,27 @@
       {
         "name": "generation1"
       },
-      "variation": [
+      "variations": [
         {
-          "idMega":3.1,
+          "idMega": 3.1,
           "image": "https://pokeimage-production.up.railway.app/pokeImg/003-m.png",
           "name": "Mega Venusaur",
-          "type": "",
-          "height": "2ft 4in",
-          "weight": "146.8 lbs"
+          "type": {
+            "T1": "Grass", 
+            "T2": "Poison"
+          },
+          "height": "7'10\"",
+          "weight": "342.8 lbs"
         },
         {
           "idGigantamax": 3.4,
           "image": "https://pokeimage-production.up.railway.app/pokeImg/003-gi.png",
           "name": "Gigantamax Venusaur",
-          "type": "",
-          "height": "78ft 9in",
+          "type": {
+            "T1": "Grass", 
+            "T2": "Poison"
+          },
+          "height": "78'9\"",
           "weight": "???"
         }
       ]
@@ -97,6 +106,7 @@
       "id": 4,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/004.png",
       "name": "Charmander",
+      "category": "The Lizard Pokeon",
       "type": {
         "T1": "Fire"
       },
@@ -121,6 +131,7 @@
       "id": 5,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/005.png",
       "name": "Charmeleon",
+      "category": "The Flame Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -145,6 +156,7 @@
       "id": 6,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/006.png",
       "name": "Charizard",
+      "category": "The Flame Pokemon",
       "type": {
         "T1": "Fire",
         "T2": "Flying"
@@ -165,29 +177,38 @@
       {
         "name": "generation1"
       },
-      "variation": [
+      "variations": [
         {
-          "idMega":3.11,
+          "idMega": 3.11,
           "image": "pokeImg/006-mx.png",
           "name": "Mega Charizard X",
-          "type": "Fire/Dragon",
-          "height": "1ft 4in",
-          "weight": "9.3 lbs"
+          "type": {
+            "T1": "Fire", 
+            "T2": "Dragon"
+          },
+          "height": "5'07\"",
+          "weight": "243.6 lbs"
         },
         {
-          "idMega":3.12,
+          "idMega": 3.12,
           "image": "pokeImg/006-my.png",
           "name": "Mega Charizard Y",
-          "type": "Fire/Flying",
-          "height": "1ft 4in",
-          "weight": "16.5 lbs"
+          "type": {
+            "T1": "Fire", 
+            "T2": "Flying"
+          },
+          "height": "5'07\"",
+          "weight": "221.6 lbs"
         },
         {
           "idGigantamax": 3.4,
           "image": "pokeImg/006-gi.png",
           "name": "Gigantamax Charizard",
-          "type": "",
-          "height": "91ft 10in",
+          "type": {
+            "T1": "Fire", 
+            "T2": "Flying"
+          },
+          "height": "91'10\"",
           "weight": "???"
         }
       ]
@@ -196,6 +217,7 @@
       "id": 7,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/007.png",
       "name": "Squirtle",
+      "category": "The Tiny Turtle Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -220,6 +242,7 @@
       "id": 8,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/008.png",
       "name": "Wartortle",
+      "category": "The Turtle Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -244,6 +267,7 @@
       "id": 9,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/009.png",
       "name": "Blastoise",
+      "category": "The Shellfish Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -263,21 +287,25 @@
       {
         "name": "generation1"
       },
-      "variation": [
+      "variations": [
         {
-          "idMega":9.1,
+          "idMega": 9.1,
           "image": "pokeImg/009-m.png",
           "name": "Mega Blastoise",
-          "type": "Water",
-          "height": "3ft 7in",
-          "weight": "72.8 lbs"
+          "type": {
+            "T1": "Water" 
+          },
+          "height": "5'03\"",
+          "weight": "222.9 lbs"
         },
         {
           "idGigantamax": 9.4,
           "image": "pokeImg/009-gi.png",
           "name": "Gigantamax Blastoise",
-          "type": "Water",
-          "height": "82ft 0in",
+          "type": {
+            "T1": "Water"
+          },
+          "height": "82'0\"",
           "weight": "???"
         }
       ]
@@ -286,6 +314,7 @@
       "id": 10,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/010.png",
       "name": "Caterpie",
+      "category": "The Worm Pokemon",
       "type": {
         "T1": "Bug"
       },
@@ -310,6 +339,7 @@
       "id": 11,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/011.png",
       "name": "Metapod",
+      "category": "The Cocoon Pokemon",
       "type": {
         "T1": "Bug"
       },
@@ -334,6 +364,7 @@
       "id": 12,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/012.png",
       "name": "Butterfree",
+      "category": "The Butterfly Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Flying"
@@ -354,13 +385,16 @@
       {
         "name": "generation1"
       },
-      "variation": [
+      "variations": [
         {
-          "idGigantamax":12.4 ,
+          "idGigantamax": 12.4 ,
           "image": "pokeImg/012-gi.png",
           "name": "Gigantamax Butterfree",
-          "type": "Bug/Flying",
-          "height": "55ft 9in",
+          "type": {
+            "T1": "Bug",
+            "T2": "Flying"
+          },
+          "height": "55'9\"",
           "weight": "???"
         }
       ]
@@ -369,6 +403,7 @@
       "id": 13,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/013.png",
       "name": "Weedle",
+      "category": "The Hairy Bug Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -394,6 +429,7 @@
       "id": 14,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/014.png",
       "name": "Kakuna",
+      "category": "The Cocoon Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -419,6 +455,7 @@
       "id": 15,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/015.png",
       "name": "Beedrill",
+      "category": "The Poison Bee Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -439,13 +476,16 @@
       {
         "name": "generation1"
       },
-      "variation": [
+      "variations": [
         {
-          "idMega":15.1,
+          "idMega": 15.1,
           "image": "pokeImg/015-m.png",
           "name": "Mega Beedrill",
-          "type": "Bug/Poison",
-          "height": "4ft 7in",
+          "type": {
+            "T1": "Bug",
+            "T2": "Poison"
+          },
+          "height": "4'07\"",
           "weight": "89.3 lbs"
         }
       ]
@@ -454,6 +494,7 @@
       "id": 16,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/016.png",
       "name": "Pidgey",
+      "category": "The Tiny Bird Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -479,6 +520,7 @@
       "id": 17,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/017.png",
       "name": "Pidgeotto",
+      "category": "The Bird Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -504,6 +546,7 @@
       "id": 18,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/018.png",
       "name": "Pidgeot",
+      "category": "The Bird Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -524,13 +567,16 @@
       {
         "name": "generation1"
       },
-      "variation": [
+      "variations": [
         {
-          "idMega":18.1,
+          "idMega": 18.1,
           "image": "pokeImg/018-m.png",
           "name": "Mega Pidgeot",
-          "type": "Normal/Flying",
-          "height": "7ft 3in",
+          "type": {
+            "T1": "Normal",
+            "T2": "Flying"
+          },
+          "height": "7'03\"",
           "weight": "111.3 lbs"
         }
       ]
@@ -539,6 +585,7 @@
       "id": 19,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/019.png",
       "name": "Rattata",
+      "category": "The Mouse Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -557,7 +604,20 @@
       "generation":
       {
         "name": "generation1"
-      }
+      },
+      "variations": [
+        {
+          "idAlolan": 19.2,
+          "image": "",
+          "name": "Rattata",
+          "type": {
+            "T1": "Dark",
+            "T2": "Normal"
+          },
+          "height": "1'00\"",
+          "weight": "8.4 lbs"
+        }
+      ]
 
     },
     {
@@ -582,12 +642,26 @@
       "generation":
       {
         "name": "generation1"
-      }
+      },
+      "variations": [
+        {
+          "idAlolan": 20.2,
+          "image": "",
+          "name": "Raticate",
+          "type": {
+            "T1": "Dark",
+            "T2": "Normal"
+          },
+          "height": "2'04\"",
+          "weight": "56.2 lbs"
+        }
+      ]
     },
     {
       "id": 21,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/021.png",
       "name": "Spearow",
+      "category": "The Tiny Bird Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -613,6 +687,7 @@
       "id": 22,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/022.png",
       "name": "Fearow",
+      "category": "The Beak Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -638,6 +713,7 @@
       "id": 23,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/023.png",
       "name": "Ekans",
+      "category": "The Snake Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -662,6 +738,7 @@
       "id": 24,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/024.png",
       "name": "Arbok",
+      "category": "The Cobra Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -686,6 +763,7 @@
       "id": 25,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/025.png",
       "name": "Pikachu",
+      "category": "The Mouse Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -710,6 +788,7 @@
       "id": 26,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/026.png",
       "name": "Raichu",
+      "category": "The Mouse Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -734,6 +813,7 @@
       "id": 27,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/027.png",
       "name": "Sandshrew",
+      "category": "The Mouse Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -758,6 +838,7 @@
       "id": 28,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/028.png",
       "name": "Sandslash",
+      "category": "The Mouse Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -781,7 +862,8 @@
     {
       "id": 29,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/029.png",
-      "name": "Nidoran \t♀",
+      "name": "Nidoran\t♀",
+      "category": "The Poison Pin Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -806,6 +888,7 @@
       "id": 30,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/030.png",
       "name": "Nidorina",
+      "category": "The Poison Pin Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -830,6 +913,7 @@
       "id": 31,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/031.png",
       "name": "Nidoqueen",
+      "category": "The Drill Pokemon",
       "type": {
         "T1": "Poison",
         "T2": "Ground"
@@ -854,7 +938,8 @@
     {
       "id": 32,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/032.png",
-      "name": "Nidoran \t♂",
+      "name": "Nidoran\t♂",
+      "category": "The Poison Pin Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -879,6 +964,7 @@
       "id": 33,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/033.png",
       "name": "Nidorino",
+      "category": "The Poison Pin Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -903,6 +989,7 @@
       "id": 34,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/034.png",
       "name": "Nidoking",
+      "category": "The Drill Pokemon",
       "type": {
         "T1": "Poison",
         "T2": "Ground"
@@ -928,6 +1015,7 @@
       "id": 35,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/035.png",
       "name": "Clefairy",
+      "category": "The Fairy Pokemon",
       "type": {
         "T1": "Fairy"
       },
@@ -952,6 +1040,7 @@
       "id": 36,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/036.png",
       "name": "Clefable",
+      "category": "The Fairy Pokemon",
       "type": {
         "T1": "Fairy"
       },
@@ -976,6 +1065,7 @@
       "id": 37,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/037.png",
       "name": "Vulpix",
+      "category": "The Fox Pokmeon",
       "type": {
         "T1": "Fire"
       },
@@ -1000,6 +1090,7 @@
       "id": 38,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/038.png",
       "name": "Ninetales",
+      "category": "The Fox Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -1024,6 +1115,7 @@
       "id": 39,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/039.png",
       "name": "Jigglypuff",
+      "category": "The Balloon Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Fairy"
@@ -1049,6 +1141,7 @@
       "id": 40,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/040.png",
       "name": "Wigglytuff",
+      "category": "The Balloon Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Fairy"
@@ -1074,6 +1167,7 @@
       "id": 41,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/041.png",
       "name": "Zubat",
+      "category": "The Bat Pokemon",
       "type": {
         "T1": "Poison",
         "T2": "Flying"
@@ -1099,6 +1193,7 @@
       "id": 42,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/042.png",
       "name": "Golbat",
+      "category": "The Bat Pokemon",
       "type": {
         "T1": "Poison",
         "T2": "Flying"
@@ -1124,6 +1219,7 @@
       "id": 43,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/043.png",
       "name": "Oddish",
+      "category": "The Weed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -1149,6 +1245,7 @@
       "id": 44,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/044.png",
       "name": "Gloom",
+      "category": "The Weed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -1174,6 +1271,7 @@
       "id": 45,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/045.png",
       "name": "Vileplume",
+      "category": "The Flower Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -1199,6 +1297,7 @@
       "id": 46,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/046.png",
       "name": "Paras",
+      "category": "The Mushroom Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Grass"
@@ -1224,6 +1323,7 @@
       "id": 47,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/047.png",
       "name": "Parasect",
+      "category": "The Mushroom Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Grass"
@@ -1249,6 +1349,7 @@
       "id": 48,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/048.png",
       "name": "Venonat",
+      "category": "The Insect Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -1274,6 +1375,7 @@
       "id": 49,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/049.png",
       "name": "Venomoth",
+      "category": "The Poison Moth Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -1299,6 +1401,7 @@
       "id": 50,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/050.png",
       "name": "Diglett",
+      "category": "The Mole Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -1323,6 +1426,7 @@
       "id": 51,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/051.png",
       "name": "Dugtrio",
+      "category": "The Mole Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -1347,6 +1451,7 @@
       "id": 52,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/052.png",
       "name": "Meowth",
+      "category": "The Scratchy Cat Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -1371,6 +1476,7 @@
       "id": 53,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/055.png",
       "name": "Persian",
+      "category": "The Classy Cat Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -1395,6 +1501,7 @@
       "id": 54,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/054.png",
       "name": "Psyduck",
+      "category": "The Duck Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -1419,6 +1526,7 @@
       "id": 55,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/055.png",
       "name": "Golduck",
+      "category": "The Duck Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -1443,6 +1551,7 @@
       "id": 56,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/056.png",
       "name": "Mankey",
+      "category": "The Pig Monkey Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -1467,6 +1576,7 @@
       "id": 57,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/057.png",
       "name": "Primeape",
+      "category": "The Pig Monkey Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -1491,6 +1601,7 @@
       "id": 58,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/058.png",
       "name": "Growlithe",
+      "category": "The Puppy Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -1515,6 +1626,7 @@
       "id": 59,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/059.png",
       "name": "Arcanine",
+      "category": "The Legendary Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -1539,6 +1651,7 @@
       "id": 60,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/060.png",
       "name": "Poliwag",
+      "category": "The Tadpole Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -1563,6 +1676,7 @@
       "id": 61,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/061.png",
       "name": "Poliwhirl",
+      "category": "The Tadpole Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -1587,6 +1701,7 @@
       "id": 62,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/062.png",
       "name": "Poliwrath",
+      "category": "The Tadpole Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Fighting"
@@ -1612,6 +1727,7 @@
       "id": 63,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/063.png",
       "name": "Abra",
+      "category": "The Psi Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -1636,6 +1752,7 @@
       "id": 64,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/064.png",
       "name": "Kadabra",
+      "category": "The Psi Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -1660,6 +1777,7 @@
       "id": 65,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/065.png",
       "name": "Alakazam",
+      "category": "The Psi Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -1678,12 +1796,25 @@
       "generation":
       {
         "name": "generation1"
-      }
+      }, 
+      "variations": [
+        {
+          "idMega": 65.1,
+          "image": "pokeImg/065-m.png",
+          "name": "Mega Alakazam",
+          "type": {
+            "T1": "Psychic"
+          },
+          "height": "3'11\"",
+          "weight": "105.8 lbs"
+        }
+      ]
     },
     {
       "id": 66,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/066.png",
       "name": "Machop",
+      "category": "The Superpower Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -1708,6 +1839,7 @@
       "id": 67,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/067.png",
       "name": "Machoke",
+      "category": "The Superpower Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -1732,6 +1864,7 @@
       "id": 68,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/068.png",
       "name": "Machamp",
+      "category": "The Superpower Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -1756,6 +1889,7 @@
       "id": 69,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/069.png",
       "name": "Bellsprout",
+      "category": "The Flower Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -1781,6 +1915,7 @@
       "id": 70,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/070.png",
       "name": "Weepinbell",
+      "category": "The Flycatcher Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -1806,6 +1941,7 @@
       "id": 71,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/071.png",
       "name": "Victreebel",
+      "category": "The Flycatcher Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
@@ -1831,6 +1967,7 @@
       "id": 72,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/072.png",
       "name": "Tentacool",
+      "category": "The Jellyfish Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Poison"
@@ -1856,6 +1993,7 @@
       "id": 73,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/073.png",
       "name": "Tentacruel",
+      "category": "The Jellyfish Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Poison"
@@ -1881,6 +2019,7 @@
       "id": 74,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/074.png",
       "name": "Geodude",
+      "category": "The Rock Pokemon",
       "type": {
         "T1": "Rock"
       },
@@ -1905,6 +2044,7 @@
       "id": 75,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/075.png",
       "name": "Graveler",
+      "category": "The Rock Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
@@ -1930,6 +2070,7 @@
       "id": 76,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/076.png",
       "name": "Golem",
+      "category": "The Megaton Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
@@ -1955,6 +2096,7 @@
       "id": 77,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/077.png",
       "name": "Ponyta",
+      "category": "The Fire Horse Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -1979,6 +2121,7 @@
       "id": 78,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/078.png",
       "name": "Rapidash",
+      "category": "The Fire Horse Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -2003,6 +2146,7 @@
       "id": 79,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/079.png",
       "name": "Slowpoke",
+      "category": "The Dopey Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Psychic"
@@ -2028,6 +2172,7 @@
       "id": 80,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/080.png",
       "name": "Slowbro",
+      "category": "The Hermit Crab Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Psychic"
@@ -2047,12 +2192,26 @@
       "generation":
       {
         "name": "generation1"
-      }
+      },
+      "variations": [
+        {
+          "idMega": 80.1,
+          "image": "pokeImg/080-m.png",
+          "name": "Mega Slowbro",
+          "type": {
+            "T1": "Water",
+            "T2": "Psychic"
+          },
+          "height": "6'07\"",
+          "weight": "264.6 lbs"
+        }
+      ]
     },
     {
       "id": 81,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/081.png",
       "name": "Magnemite",
+      "category": "The Magnet Pokemon",
       "type": {
         "T1": "Electric",
         "T2": "Steel"
@@ -2078,6 +2237,7 @@
       "id": 82,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/082.png",
       "name": "Magneton",
+      "category": "The Magnet Pokemon",
       "type": {
         "T1": "Electric",
         "T2": "Steel"
@@ -2103,6 +2263,7 @@
       "id": 83,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/083.png",
       "name": "Farfetch'd",
+      "category": "The Wild Duck Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -2128,6 +2289,7 @@
       "id": 84,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/084.png",
       "name": "Doduo",
+      "category": "The Twin Bird Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -2153,6 +2315,7 @@
       "id": 85,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/085.png",
       "name": "Dodrio",
+      "category": "The Triple Bird Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -2178,6 +2341,7 @@
       "id": 86,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/086.png",
       "name": "Seel",
+      "category": "The Sea Lion Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2202,6 +2366,7 @@
       "id": 87,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/087.png",
       "name": "Dewgong",
+      "category": "The Sea Lion Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Ice"
@@ -2227,6 +2392,7 @@
       "id": 88,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/088.png",
       "name": "Grimer",
+      "category": "The Sludge Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -2251,6 +2417,7 @@
       "id": 89,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/089.png",
       "name": "Muk",
+      "category": "The Sludge Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -2275,6 +2442,7 @@
       "id": 90,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/090.png",
       "name": "Shellder",
+      "category": "The Bivalve Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2299,6 +2467,7 @@
       "id": 91,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/091.png",
       "name": "Cloyster",
+      "category": "The Bivalve Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Ice"
@@ -2324,6 +2493,7 @@
       "id": 92,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/092.png",
       "name": "Gastly",
+      "category": "The Gas Pokemon",
       "type": {
         "T1": "Ghost",
         "T2": "Poison"
@@ -2349,6 +2519,7 @@
       "id": 93,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/093.png",
       "name": "Haunter",
+      "category": "The Gas Pokemon",
       "type": {
         "T1": "Ghost",
         "T2": "Poison"
@@ -2374,6 +2545,7 @@
       "id": 94,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/094.png",
       "name": "Gengar",
+      "category": "The Shadow Pokemon",
       "type": {
         "T1": "Ghost",
         "T2": "Poison"
@@ -2393,12 +2565,26 @@
       "generation":
       {
         "name": "generation1"
-      }
+      }, 
+      "variations": [
+        {
+          "idMega": 94.1,
+          "image": "pokeImg/094-m.png",
+          "name": "Mega Gengar",
+          "type": {
+            "T1": "Ghost",
+            "T2": "Poison"
+          },
+          "height": "4'07\"",
+          "weight": "89.3 lbs"
+        }
+      ]
     },
     {
       "id": 95,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/095.png",
       "name": "Onix",
+      "category": "The Rock Snake Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
@@ -2424,6 +2610,7 @@
       "id": 96,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/096.png",
       "name": "Drowzee",
+      "category": "The Hypnosis Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -2448,6 +2635,7 @@
       "id": 97,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/097.png",
       "name": "Hypno",
+      "category": "The Hypnosis Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -2472,6 +2660,7 @@
       "id": 98,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/098.png",
       "name": "Krabby",
+      "category": "The River Crab Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2496,6 +2685,7 @@
       "id": 99,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/099.png",
       "name": "Kingler",
+      "category": "The Pincer Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2520,6 +2710,7 @@
       "id": 100,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/100.png",
       "name": "Voltorb",
+      "category": "The Ball Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -2544,6 +2735,7 @@
       "id": 101,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/101.png",
       "name": "Electrode",
+      "category": "The Ball Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -2568,6 +2760,7 @@
       "id": 102,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/102.png",
       "name": "Exeggcute",
+      "category": "The Egg Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Psychic"
@@ -2593,6 +2786,7 @@
       "id": 103,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/103.png",
       "name": "Exeggutor",
+      "category": "The Coconut Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Psychic"
@@ -2618,6 +2812,7 @@
       "id": 104,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/104.png",
       "name": "Cubone",
+      "category": "The Lonely Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -2642,6 +2837,7 @@
       "id": 105,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/105.png",
       "name": "Marowak",
+      "category": "The Bone Keeper Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -2666,6 +2862,7 @@
       "id": 106,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/106.png",
       "name": "Hitmonlee",
+      "category": "The Kicking Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -2690,6 +2887,7 @@
       "id": 107,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/107.png",
       "name": "Hitmonchan",
+      "category": "The Punching Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -2714,6 +2912,7 @@
       "id": 108,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/108.png",
       "name": "Lickitung",
+      "category": "The Licking Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -2738,6 +2937,7 @@
       "id": 109,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/109.png",
       "name": "Koffing",
+      "category": "The Poison Gas Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -2762,6 +2962,7 @@
       "id": 110,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/110.png",
       "name": "Weezing",
+      "category": "The Poison Gas Pokemon",
       "type": {
         "T1": "Poison"
       },
@@ -2786,6 +2987,7 @@
       "id": 111,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/111.png",
       "name": "Rhyhorn",
+      "category": "The Spikes Pokemon",
       "type": {
         "T1": "Ground",
         "T2": "Rock"
@@ -2811,6 +3013,7 @@
       "id": 112,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/112.png",
       "name": "Rhydon",
+      "category": "The Drill Pokemon",
       "type": {
         "T1": "Ground",
         "T2": "Rock"
@@ -2836,6 +3039,7 @@
       "id": 113,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/113.png",
       "name": "Chansey",
+      "category": "The Egg Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -2860,6 +3064,7 @@
       "id": 114,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/114.png",
       "name": "Tangela",
+      "category": "The Vine Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -2884,6 +3089,7 @@
       "id": 115,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/115.png",
       "name": "Kangaskhan",
+      "category": "The Parent Pokmeon",
       "type": {
         "T1": "Normal"
       },
@@ -2902,12 +3108,25 @@
       "generation":
       {
         "name": "generation1"
-      }
+      }, 
+      "variations": [
+        {
+          "idMega": 115.1,
+          "image": "pokeImg/115-m.png",
+          "name": "Mega Kangaskhan",
+          "type": {
+            "T1": "Normal"
+          },
+          "height": "7'03\"",
+          "weight": "220.5 lbs"
+        }
+      ]
     },
     {
       "id": 116,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/116.png",
       "name": "Horsea",
+      "category": "The Dragon Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2932,6 +3151,7 @@
       "id": 117,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/117.png",
       "name": "Seadra",
+      "category": "The Dragon Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2956,6 +3176,7 @@
       "id": 118,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/118.png",
       "name": "Goldeen",
+      "category": "The Goldfish Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -2980,6 +3201,7 @@
       "id": 119,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/119.png",
       "name": "Seaking",
+      "category": "The Goldfish Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3004,6 +3226,7 @@
       "id": 120,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/120.png",
       "name": "Staryu",
+      "category": "The Star Shape Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3028,6 +3251,7 @@
       "id": 121,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/121.png",
       "name": "Starmie",
+      "category": "The Mysterioius Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Psychic"
@@ -3053,6 +3277,7 @@
       "id": 122,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/122.png",
       "name": "Mr.Mime",
+      "category": "The Barrier Pokemon",
       "type": {
         "T1": "Psychic",
         "T2": "Fairy"
@@ -3078,6 +3303,7 @@
       "id": 123,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/123.png",
       "name": "Scyther",
+      "category": "The Mantis Pokekmon",
       "type": {
         "T1": "Bug",
         "T2": "Flying"
@@ -3103,6 +3329,7 @@
       "id": 124,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/124.png",
       "name": "Jynx",
+      "category": "The Human Shape Pokemon",
       "type": {
         "T1": "Ice",
         "T2": "Psychic"
@@ -3128,6 +3355,7 @@
       "id": 125,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/125.png",
       "name": "Electabuzz",
+      "category": "The Electric Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -3152,6 +3380,7 @@
       "id": 126,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/126.png",
       "name": "Magmar",
+      "category": "The Spitfire Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -3176,6 +3405,7 @@
       "id": 127,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/127.png",
       "name": "Pinsir",
+      "category": "The Stag Beetle Pokemon",
       "type": {
         "T1": "Bug"
       },
@@ -3194,12 +3424,26 @@
       "generation":
       {
         "name": "generation1"
-      }
+      },
+      "variations": [
+        {
+          "idMega": 128.1,
+          "image": "pokeImg/128-m.png",
+          "name": "Mega Pinsir",
+          "type": {
+            "T1": "Bug",
+            "T2": "Flying"
+          },
+          "height": "5'07\"",
+          "weight": "130.1 lbs"
+        }
+      ]
     },
     {
       "id": 128,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/128.png",
       "name": "Tauros",
+      "category": "The Wild Bull Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -3224,6 +3468,7 @@
       "id": 129,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/129.png",
       "name": "Magikarp",
+      "category": "The Fish Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3248,6 +3493,7 @@
       "id": 130,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/130.png",
       "name": "Gyarados",
+      "category": "The Atrocius Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Flying"
@@ -3267,12 +3513,26 @@
       "generation":
       {
         "name": "generation1"
-      }
+      }, 
+      "variations": [
+        {
+          "idMega": 130.1,
+          "image": "pokeImg/130-m.png",
+          "name": "Mega Gyrados",
+          "type": {
+            "T1": "Water",
+            "T2": "Flying"
+          },
+          "height": "21'04\"",
+          "weight": "672.4 lbs"
+        }
+      ]
     },
     {
       "id": 131,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/131.png",
       "name": "Lapras",
+      "category": "The Transport",
       "type": {
         "T1": "Water",
         "T2": "Ice"
@@ -3298,6 +3558,7 @@
       "id": 132,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/132.png",
       "name": "Ditto",
+      "category": "The Transform Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -3322,6 +3583,7 @@
       "id": 133,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/133.png",
       "name": "Eevee",
+      "category": "The Evolution Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -3346,6 +3608,7 @@
       "id": 134,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/134.png",
       "name": "Vaporeon",
+      "category": "The Bubble Jet Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3370,6 +3633,7 @@
       "id": 135,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/135.png",
       "name": "Jolteon",
+      "category": "The Lightning Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -3394,6 +3658,7 @@
       "id": 136,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/136.png",
       "name": "Flareon",
+      "category":"The Flame Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -3418,6 +3683,7 @@
       "id": 137,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/137.png",
       "name": "Porygon",
+      "category": "The Virtual Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -3442,6 +3708,7 @@
       "id": 138,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/138.png",
       "name": "Omanyte",
+      "category": "The Spiral Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Water"
@@ -3467,6 +3734,7 @@
       "id": 139,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/139.png",
       "name": "Omastar",
+      "category": "The Spiral Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Water"
@@ -3492,6 +3760,7 @@
       "id": 140,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/140.png",
       "name": "Kabuto",
+      "category": "The Shellfish Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Water"
@@ -3517,6 +3786,7 @@
       "id": 141,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/141.png",
       "name": "Kabutops",
+      "category": "The Shellfish Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Water"
@@ -3542,6 +3812,7 @@
       "id": 142,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/142.png",
       "name": "Aerodactyl",
+      "category": "The Fossil Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Water"
@@ -3561,12 +3832,26 @@
       "generation":
       {
         "name": "generation1"
-      }
+      }, 
+      "variations": [
+        {
+          "idMega": 142.1,
+          "image": "pokeImg/142-m.png",
+          "name": "Mega Aerodactyl",
+          "type": {
+            "T1": "Rock",
+            "T2": "Flying"
+          },
+          "height": "6'11\"",
+          "weight": "174.2 lbs"
+        }
+      ]
     },
     {
       "id": 143,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/143.png",
       "name": "Snorlax",
+      "category": "The Sleeping Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -3591,6 +3876,7 @@
       "id": 144,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/144.png",
       "name": "Articuno",
+      "category": "The Freeze Pokemon",
       "type": {
         "T1": "Ice",
         "T2": "Flying"
@@ -3616,6 +3902,7 @@
       "id": 145,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/145.png",
       "name": "Zapdos",
+      "category": "The Electric Pokemon",
       "type": {
         "T1": "Electric",
         "T2": "Flying"
@@ -3641,6 +3928,7 @@
       "id": 146,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/146.png",
       "name": "Moltres",
+      "category": "The Flame Pokemon",
       "type": {
         "T1": "Fire",
         "T2": "Flying"
@@ -3666,6 +3954,7 @@
       "id": 147,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/147.png",
       "name": "Dratini",
+      "category": "The Dragon Pokemon",
       "type": {
       "T1": "Dragon"
     },
@@ -3690,6 +3979,7 @@
       "id": 148,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/148.png",
       "name": "Dragonair",
+      "category": "The Dragon Pokemon",
       "type": {
         "T1": "Dragon"
       },
@@ -3714,6 +4004,7 @@
       "id": 149,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/149.png",
       "name": "Dragonite",
+      "category": "The Dragon Pokemon",
       "type": {
         "T1": "Dragon"
       },
@@ -3738,6 +4029,7 @@
       "id": 150,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/150.png",
       "name": "Mewtwo",
+      "category": "The Genetic Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -3756,12 +4048,37 @@
       "generation":
       {
         "name": "generation1"
-      }
+      }, 
+      "variations": [
+        {
+          "idMega": 150.11,
+          "image": "pokeImg/150-mx.png",
+          "name": "Mega Mewtwo X",
+          "type": {
+            "T1": "Psychic", 
+            "T2": "Fighting"
+          },
+          "height": "7'07\"",
+          "weight": "280.0 lbs"
+        },
+        {
+          "idMega": 150.12,
+          "image": "pokeImg/150-my.png",
+          "name": "Mega Mewtwo Y",
+          "type": {
+            "T1": "Psychic"
+          },
+          "height": "4'11\"",
+          "weight": "72.8 lbs"
+        }
+      ]
+      
     },
     {
       "id": 151,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/151.png",
       "name": "Mew",
+      "category": "The New Species Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -3786,6 +4103,7 @@
       "id": 152,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/152.png",
       "name": "Chikorita",
+      "category": "The Leaf Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -3809,6 +4127,7 @@
       "id": 153,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/153.png",
       "name": "Bayleef",
+      "category": "The Leaf Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -3832,6 +4151,7 @@
       "id": 154,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/154.png",
       "name": "Meganium",
+      "category": "The Herb Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -3855,6 +4175,7 @@
       "id": 155,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/155.png",
       "name": "Cyndaquil",
+      "category": "The Fire Mouse Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -3878,6 +4199,7 @@
       "id": 156,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/156.png",
       "name": "Quilava",
+      "category": "The Volcano Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -3901,6 +4223,7 @@
       "id": 157,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/157.png",
       "name": "Typlosion",
+      "category": "The Volcano Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -3924,6 +4247,7 @@
       "id": 158,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/158.png",
       "name": "Totodile",
+      "category": "The Big Jaw Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3947,6 +4271,7 @@
       "id": 159,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/159.png",
       "name": "Croconaw",
+      "category": "The Big Jaw Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3970,6 +4295,7 @@
       "id": 160,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/160.png",
       "name": "Feraligatr",
+      "category": "The Big Jaw Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -3993,6 +4319,7 @@
       "id": 161,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/161.png",
       "name": "Sentret",
+      "category": "The Scout Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -4016,6 +4343,7 @@
       "id": 162,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/162.png",
       "name": "Furret",
+      "category": "The Long Body Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -4039,6 +4367,7 @@
       "id": 163,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/163.png",
       "name": "Hoothoot",
+      "category": "The Owl Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -4063,6 +4392,7 @@
       "id": 164,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/164.png",
       "name": "Noctowl",
+      "category": "The Owl Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
@@ -4087,6 +4417,7 @@
       "id": 165,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/165.png",
       "name": "Ledyba",
+      "category": "The Five Star Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Flying"
@@ -4111,6 +4442,7 @@
       "id": 166,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/166.png",
       "name": "Ledian",
+      "category": "The Five Star Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Flying"
@@ -4135,6 +4467,7 @@
       "id": 167,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/167.png",
       "name": "Spinarak",
+      "category": "The String Spit Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -4159,6 +4492,7 @@
       "id": 168,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/168.png",
       "name": "Ariados",
+      "category": "The Long Leg Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
@@ -4183,6 +4517,7 @@
       "id": 169,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/169.png",
       "name": "Crobat",
+      "category": "The Bat Pokemon",
       "type": {
         "T1": "Poison",
         "T2": "Flying"
@@ -4207,6 +4542,7 @@
       "id": 170,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/170.png",
       "name": "Chinchou",
+      "category": "The Angler Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Electric"
@@ -4231,6 +4567,7 @@
       "id": 171,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/171.png",
       "name": "Lanturn ",
+      "category": "The Light Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Electric"
@@ -4255,6 +4592,7 @@
       "id": 172,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/172.png",
       "name": "Pichu",
+      "category": "The Tiny Mouse Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -4278,6 +4616,7 @@
       "id": 173,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/173.png",
       "name": "Cleffa",
+      "category": "The Star Shape Pokemon",
       "type": {
         "T1": "Fairy"
       },
@@ -4301,6 +4640,7 @@
       "id": 174,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/174.png",
       "name": "Igglybuff",
+      "category": "The Balloon Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Fairy"
@@ -4325,6 +4665,7 @@
       "id": 175,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/175.png",
       "name": "Togepi",
+      "category": "The Spike Ball Pokemon",
       "type": {
         "T1": "Fairy"
       },
@@ -4348,6 +4689,7 @@
       "id": 176,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/176.png",
       "name": "Togetic",
+      "category": "The Happiness Pokemon",
       "type": {
         "T1": "Fairy",
         "T2": "Flying"
@@ -4372,6 +4714,7 @@
       "id": 177,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/177.png",
       "name": "Natu",
+      "category": "The Tiny Bird Pokemon",
       "type": {
         "T1": "Psychic",
         "T2": "Flying"
@@ -4396,6 +4739,7 @@
       "id": 178,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/178.png",
       "name": "Xatu",
+      "category": "The Mystic Pokemon",
       "type": {
         "T1": "Psychic",
         "T2": "Flying"
@@ -4420,6 +4764,7 @@
       "id": 179,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/179179.png",
       "name": "Mareep",
+      "category": "The Wool Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -4443,6 +4788,7 @@
       "id": 180,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/180.png",
       "name": "Flaaffy",
+      "category": "The Wool Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -4466,6 +4812,7 @@
       "id": 181,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/181.png",
       "name": "Ampharos",
+      "category": "The Light Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -4489,6 +4836,7 @@
       "id": 182,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/182.png",
       "name": "Bellossom",
+      "category": "The Flower Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -4512,6 +4860,7 @@
       "id": 183,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/183.png",
       "name": "Marill",
+      "category": "The Aqua Mouse Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Fairy"
@@ -4536,6 +4885,7 @@
       "id": 184,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/184.png",
       "name": "Azumarill",
+      "category": "The Aqua Mouse Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Fairy"
@@ -4560,6 +4910,7 @@
       "id": 185,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/185.png",
       "name": "Sudowoodo",
+      "category": "The Imitation Pokemon",
       "type": {
         "T1": "Rock"
       },
@@ -4583,6 +4934,7 @@
       "id": 186,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/186.png",
       "name": "Politoed",
+      "category": "The Frog Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -4606,6 +4958,7 @@
       "id": 187,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/187.png",
       "name": "Hoppip",
+      "category": "The Cottonweed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Flying"
@@ -4630,6 +4983,7 @@
       "id": 188,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/188.png",
       "name": "Skiploom",
+      "category": "The Cottonweed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Flying"
@@ -4654,6 +5008,7 @@
       "id": 189,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/189.png",
       "name": "Jumpluff",
+      "category": "The Cottonweed Pokemon",
       "type": {
         "T1": "Grass",
         "T2": "Flying"
@@ -4678,6 +5033,7 @@
       "id": 190,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/190.png",
       "name": "Aipom",
+      "category": "The Long Tail Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -4701,6 +5057,7 @@
       "id": 191,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/191.png",
       "name": "Sunkern",
+      "category": "The Seed Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -4724,6 +5081,7 @@
       "id": 192,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/192.png",
       "name": "Sunflora",
+      "category": "The Sun Pokemon",
       "type": {
         "T1": "Grass"
       },
@@ -4747,6 +5105,7 @@
       "id": 193,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/193.png",
       "name": "Yanma",
+      "category": "The Clear Wing Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Flying"
@@ -4771,6 +5130,7 @@
       "id": 194,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/194.png",
       "name": "Wooper",
+      "category": "The Water Fish Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Ground"
@@ -4795,6 +5155,7 @@
       "id": 195,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/195.png",
       "name": "Quagsire",
+      "category": "The Water Fish Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Ground"
@@ -4819,6 +5180,7 @@
       "id": 196,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/196.png",
       "name": "Espeon",
+      "category": "The Sun Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -4842,6 +5204,7 @@
       "id": 197,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/197.png",
       "name": "Umbreon",
+      "category": "The Moonlight Pokemon",
       "type": {
         "T1": "Dark"
       },
@@ -4865,6 +5228,7 @@
       "id": 198,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/198.png",
       "name": "Murkrow",
+      "category": "The Darkness Pokemon",
       "type": {
         "T1": "Dark",
         "T2": "Fyling"
@@ -4889,6 +5253,7 @@
       "id": 199,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/199.png",
       "name": "Slowking",
+      "category": "The Royal Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Psychic"
@@ -4913,6 +5278,7 @@
       "id": 200,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/200.png",
       "name": "Misdreavus",
+      "category": "The Screech Pokemon",
       "type": {
         "T1": "Ghost"
       },
@@ -4937,6 +5303,7 @@
       "id": 201,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/201.png",
       "name": "Unown",
+      "category": "The Symbol Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -4960,6 +5327,7 @@
       "id": 202,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/202.png",
       "name": "Wobbuffet",
+      "category": "The Patient Pokemon",
       "type": {
         "T1": "Psychic"
       },
@@ -4983,6 +5351,7 @@
       "id": 203,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/203.png",
       "name": "Girafarig",
+      "category": "The Long Neck Pokemon",
       "type": {
         "T1": "Normal",
         "T2": "Psychic"
@@ -5007,6 +5376,7 @@
       "id": 204,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/204.png",
       "name": "Pineco",
+      "category": "The Bagworm Pokemon",
       "type": {
         "T1": "Bug"
       },
@@ -5030,6 +5400,7 @@
       "id": 205,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/205.png",
       "name": "Forretress",
+      "category": "The Bagworm Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Steel"
@@ -5054,6 +5425,7 @@
       "id": 206,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/206.png",
       "name": "Dunsparce",
+      "category": "The Land Snake Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5077,6 +5449,7 @@
       "id": 207,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/207.png",
       "name": "Gligar",
+      "category": "The Fly Scorpion Pokemon",
       "type": {
         "T1": "Ground",
         "T2": "Flying"
@@ -5101,6 +5474,7 @@
       "id": 208,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/208.png",
       "name": "Steelix",
+      "category": "The Iron Snake Pokemon",
       "type": {
         "T1": "Steel",
         "T2": "Ground"
@@ -5125,6 +5499,7 @@
       "id": 209,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/209.png",
       "name": "Snubbull",
+      "category": "The Fairy Pokemon",
       "type": {
         "T1": "Fairy"
       },
@@ -5148,6 +5523,7 @@
       "id": 210,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/210.png",
       "name": "Granbull",
+      "category": "The Fairy Pokemon",
       "type": {
         "T1": "Fairy"
       },
@@ -5171,6 +5547,7 @@
       "id": 211,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/211.png",
       "name": "Qwilfish",
+      "category": "The Balloon Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Poison"
@@ -5195,6 +5572,7 @@
       "id": 212,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/212.png",
       "name": "Scizor",
+      "category": "The Pincer Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Steel"
@@ -5219,6 +5597,7 @@
       "id": 213,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/213.png",
       "name": "Shuckle",
+      "category": "The Mold Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Rock"
@@ -5243,6 +5622,7 @@
       "id": 214,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/214.png",
       "name": "Heracross",
+      "category": "The Single Horn Pokemon",
       "type": {
         "T1": "Bug",
         "T2": "Fighting"
@@ -5267,6 +5647,7 @@
       "id": 215,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/215.png",
       "name": "Sneasel",
+      "category": "The Sharp Claw Pokemon",
       "type": {
         "T1": "Dark",
         "T2": "Ice"
@@ -5291,6 +5672,7 @@
       "id": 216,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/216.png",
       "name": "Teddiursa",
+      "category": "The Little Bear Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5314,6 +5696,7 @@
       "id": 217,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/217.png",
       "name": "Ursaring",
+      "category": "The Hibernator Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5337,6 +5720,7 @@
       "id": 218,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/218.png",
       "name": "Slugma",
+      "category": "The Lava Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -5360,6 +5744,7 @@
       "id": 219,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/219.png",
       "name": "Magcargo",
+      "category": "The Lava Pokemon",
       "type": {
         "T1": "Fire",
         "T2": "Rock"
@@ -5384,6 +5769,7 @@
       "id": 220,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/220.png",
       "name": "Swinub",
+      "category": "The Pig Pokemon",
       "type": {
         "T1": "Ice",
         "T2": "Ground"
@@ -5408,6 +5794,7 @@
       "id": 221,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/221.png",
       "name": "Piloswine",
+      "category": "The Swine Pokemon",
       "type": {
         "T1": "Ice",
         "T2": "Ground"
@@ -5432,6 +5819,7 @@
       "id": 222,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/222.png",
       "name": "Corsola",
+      "category": "The Coral Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Rock"
@@ -5456,6 +5844,7 @@
       "id": 223,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/223.png",
       "name": "Remoraid",
+      "category": "The Jet Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -5479,6 +5868,7 @@
       "id": 224,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/224.png",
       "name": "Octillery",
+      "category": "The Jet Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -5502,6 +5892,7 @@
       "id": 225,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/225.png",
       "name": "Delibird",
+      "category": "The Delivery Pokemon",
       "type": {
         "T1": "Ice",
         "T2": "Fyling"
@@ -5526,6 +5917,7 @@
       "id": 226,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/226.png",
       "name": "Mantine",
+      "category": "The Kite Pokemon",
       "type": {
         "T1": "Water",
         "T2": "Flying"
@@ -5550,6 +5942,7 @@
       "id": 227,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/227.png",
       "name": "Skarmory",
+      "category": "The Armor Bird Pokemon",
       "type": {
         "T1": "Steel",
         "T2": "Flying"
@@ -5574,6 +5967,7 @@
       "id": 228,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/228.png",
       "name": "Houndour",
+      "category": "The Dark Pokemon",
       "type": {
         "T1": "Dark",
         "T2": "Fire"
@@ -5598,6 +5992,7 @@
       "id": 229,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/229.png",
       "name": "Houndoom",
+      "category": "The Dark Pokemon",
       "type": {
         "T1": "Dark",
         "T2": "Fire"
@@ -5622,6 +6017,7 @@
       "id": 230,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/230.png",
       "name": "Kingdra",
+      "category": "The Dragon Pokemon",
       "type": {
         "T1": "Steel",
         "T2": "Flying"
@@ -5646,6 +6042,7 @@
       "id": 231,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/231.png",
       "name": "Phanpy",
+      "category": "The Long Nose Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -5669,6 +6066,7 @@
       "id": 232,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/232.png",
       "name": "Donphan",
+      "category": "The Armor Pokemon",
       "type": {
         "T1": "Ground"
       },
@@ -5692,6 +6090,7 @@
       "id": 233,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/233.png",
       "name": "Porygon2",
+      "category": "The Virtual Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5715,6 +6114,7 @@
       "id": 234,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/234.png",
       "name": "Stantler",
+      "category": "The Big Horn Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5738,6 +6138,7 @@
       "id": 235,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/235.png",
       "name": "Smeargle",
+      "category": "The Painter Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5761,6 +6162,7 @@
       "id": 236,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/236.png",
       "name": "Tyrogue",
+      "category": "The Scruffle Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -5784,6 +6186,7 @@
       "id": 237,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/237.png",
       "name": "Hitmontop",
+      "category": "The Handstand Pokemon",
       "type": {
         "T1": "Fighting"
       },
@@ -5807,6 +6210,7 @@
       "id": 238,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/238.png",
       "name": "Smoochum",
+      "category": "The Kiss Pokemon",
       "type": {
         "T1": "Ice",
         "T2": "Psychic"
@@ -5831,6 +6235,7 @@
       "id": 239,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/239.png",
       "name": "Elekid",
+      "category": "The Electric Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -5854,6 +6259,7 @@
       "id": 240,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/240.png",
       "name": "Magby",
+      "category": "The Live Coal Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -5877,6 +6283,7 @@
       "id": 241,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/241.png",
       "name": "Miltank",
+      "category": "The Milk Cow Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5900,6 +6307,7 @@
       "id": 242,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/242.png",
       "name": "Blissey",
+      "category": "The Happiness Pokemon",
       "type": {
         "T1": "Normal"
       },
@@ -5923,6 +6331,7 @@
       "id": 243,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/243.png",
       "name": "Raikou",
+      "category": "The Thunder Pokemon",
       "type": {
         "T1": "Electric"
       },
@@ -5946,6 +6355,7 @@
       "id": 244,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/244.png",
       "name": "Entei",
+      "category": "The Volcano Pokemon",
       "type": {
         "T1": "Fire"
       },
@@ -5969,6 +6379,7 @@
       "id": 245,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/245.png",
       "name": "Suicune",
+      "category": "The Aurora Pokemon",
       "type": {
         "T1": "Water"
       },
@@ -5992,6 +6403,7 @@
       "id": 246,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/246.png",
       "name": "Larvitar",
+      "category": "The Rock Skin Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
@@ -6016,6 +6428,7 @@
       "id": 247,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/247.png",
       "name": "Pupitar",
+      "category": "The Hard Shell Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
@@ -6040,6 +6453,7 @@
       "id": 248,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/248.png",
       "name": "Tyranitar",
+      "category": "The Armor Pokemon",
       "type": {
         "T1": "Rock",
         "T2": "Dark"
@@ -6064,6 +6478,7 @@
       "id": 249,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/249.png",
       "name": "Lugia",
+      "category": "The Diving Pokemon",
       "type": {
         "T1": "Psychic",
         "T2": "Flying"
@@ -6088,6 +6503,7 @@
       "id": 250,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/250.png",
       "name": "Ho-oh",
+      "category": "The Rainbow Pokemon",
       "type": {
         "T1": "Fire",
         "T2": "Flying"
@@ -6112,6 +6528,7 @@
       "id": 251,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/251.png",
       "name": "Celebi",
+      "category": "The Time Travel Pokemon",
       "type": {
         "T1": "Psychic",
         "T2": "Grass"
