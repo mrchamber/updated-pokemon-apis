@@ -5895,7 +5895,7 @@
       "category": "The Delivery Pokemon",
       "type": {
         "T1": "Ice",
-        "T2": "Fyling"
+        "T2": "Flying"
       },
       "entry": "",
       "abilities": "Main: Vital Spirit, Hustle | Hidden: Insomnia",
@@ -6019,8 +6019,8 @@
       "name": "Kingdra",
       "category": "The Dragon Pokemon",
       "type": {
-        "T1": "Steel",
-        "T2": "Flying"
+        "T1": "Water",
+        "T2": "Dragon"
       },
       "entry": "",
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
