@@ -9,6 +9,7 @@
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/001.mp3",
       "entry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "2'04\"",
