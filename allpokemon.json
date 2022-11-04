@@ -2,7 +2,7 @@
   "Pokemon": [
     {
       "id": 1,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/001.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/1.png",
       "name": "Bulbasaur",
       "category": "Seed",
       "type": {
@@ -34,13 +34,14 @@
     },
     {
       "id": 2,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/002.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/2.png",
       "name": "Ivysaur",
       "category": "Seed",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/2.mp3",
       "entry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "3'03\"",
@@ -65,13 +66,14 @@
     },
     {
       "id": 3,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/003.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/3.png",
       "name": "Venusaur",
       "category": "Seed",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/3.mp3",
       "entry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
       "abilities": "Main: Overgrow | Hidden: Chlorophyll",
       "height": "6'07\"",
@@ -99,7 +101,7 @@
           "image": "https://pokeimage-production.up.railway.app/pokeImg/003-m.png",
           "name": "Mega Venusaur",
           "type": {
-            "T1": "Grass", 
+            "T1": "Grass",
             "T2": "Poison"
           },
           "height": "7'10\"",
@@ -110,7 +112,7 @@
           "image": "https://pokeimage-production.up.railway.app/pokeImg/003-gi.png",
           "name": "Gigantamax Venusaur",
           "type": {
-            "T1": "Grass", 
+            "T1": "Grass",
             "T2": "Poison"
           },
           "height": "78'9\"",
@@ -120,12 +122,13 @@
     },
     {
       "id": 4,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/004.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/4.png",
       "name": "Charmander",
       "category": "Lizard",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/4.mp3",
       "entry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
       "abilities": "Main: Blaze | Hidden: Solar Power",
       "height": "2'00\"",
@@ -145,12 +148,13 @@
     },
     {
       "id": 5,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/005.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/5.png",
       "name": "Charmeleon",
       "category": "Flame",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/5.mp3",
       "entry": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
       "abilities": "Main: Blaze | Hidden: Solar Power",
       "height": "3'07\"",
@@ -170,13 +174,14 @@
     },
     {
       "id": 6,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/006.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/6.png",
       "name": "Charizard",
       "category": "Flame",
       "type": {
         "T1": "Fire",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/6.mp3",
       "entry": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
       "abilities": "Main: Blaze | Hidden: Solar Power",
       "height": "5'07\"",
@@ -199,7 +204,7 @@
           "image": "pokeImg/006-mx.png",
           "name": "Mega Charizard X",
           "type": {
-            "T1": "Fire", 
+            "T1": "Fire",
             "T2": "Dragon"
           },
           "height": "5'07\"",
@@ -210,7 +215,7 @@
           "image": "pokeImg/006-my.png",
           "name": "Mega Charizard Y",
           "type": {
-            "T1": "Fire", 
+            "T1": "Fire",
             "T2": "Flying"
           },
           "height": "5'07\"",
@@ -221,7 +226,7 @@
           "image": "pokeImg/006-gi.png",
           "name": "Gigantamax Charizard",
           "type": {
-            "T1": "Fire", 
+            "T1": "Fire",
             "T2": "Flying"
           },
           "height": "91'10\"",
@@ -231,12 +236,13 @@
     },
     {
       "id": 7,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/007.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/7.png",
       "name": "Squirtle",
       "category": "Tiny Turtle",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/7.mp3",
       "entry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
       "abilities": "Main: Torrent | Hidden: Rain Dish",
       "height": "1'08\"",
@@ -256,12 +262,13 @@
     },
     {
       "id": 8,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/008.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/8.png",
       "name": "Wartortle",
       "category": "Turtle",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/8.mp3",
       "entry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.",
       "abilities": "Main: Torrent | Hidden: Rain Dish",
       "height": "3'03\"",
@@ -281,12 +288,13 @@
     },
     {
       "id": 9,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/009.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/9.png",
       "name": "Blastoise",
       "category": "Shellfish",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/9.mp3",
       "entry": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
       "abilities": "Main: Torrent | Hidden: Rain Dish",
       "height": "5'03\"",
@@ -309,7 +317,7 @@
           "image": "pokeImg/009-m.png",
           "name": "Mega Blastoise",
           "type": {
-            "T1": "Water" 
+            "T1": "Water"
           },
           "height": "5'03\"",
           "weight": "222.9 lbs"
@@ -328,12 +336,13 @@
     },
     {
       "id": 10,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/010.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/10.png",
       "name": "Caterpie",
       "category": "Worm",
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/10.mp3",
       "entry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
       "abilities": "Main: Shield Dust | Hidden: Run Away",
       "height": "1'00\"",
@@ -353,12 +362,13 @@
     },
     {
       "id": 11,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/011.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/11.png",
       "name": "Metapod",
       "category": "Cocoon",
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/11.mp3",
       "entry": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
       "abilities": "Main: Shed Skin.",
       "height": "2'04\"",
@@ -378,13 +388,14 @@
     },
     {
       "id": 12,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/012.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/12.png",
       "name": "Butterfree",
       "category": "Butterfly",
       "type": {
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/12.mp3",
       "entry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
       "abilities": "Main: Compound Eyes | Hidden: Tinted Lens",
       "height": "3'07\"",
@@ -417,13 +428,14 @@
     },
     {
       "id": 13,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/013.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/13.png",
       "name": "Weedle",
       "category": "Hairy Bug",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/13.mp3",
       "entry": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
       "abilities": "Main: Shield Dust | Hidden: Run Away",
       "height": "1'00\"",
@@ -443,13 +455,14 @@
     },
     {
       "id": 14,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/014.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/14.png",
       "name": "Kakuna",
       "category": "Cocoon",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/14.mp3",
       "entry": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
       "abilities": "Main:Shed Skin",
       "height": "2'00\"",
@@ -469,13 +482,14 @@
     },
     {
       "id": 15,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/015.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/15.png",
       "name": "Beedrill",
       "category": "Poison Bee",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/15.mp3",
       "entry": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "abilities": "Main: Swarm | Hidden: Sniper",
       "height": "3'03\"",
@@ -508,13 +522,14 @@
     },
     {
       "id": 16,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/016.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/16.png",
       "name": "Pidgey",
       "category": "Tiny Bird",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/16.mp3",
       "entry": " common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "1'00\"",
@@ -534,13 +549,14 @@
     },
     {
       "id": 17,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/017.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/17.png",
       "name": "Pidgeotto",
       "category": "Bird",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/17.mp3",
       "entry": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "3'07\"",
@@ -560,13 +576,14 @@
     },
     {
       "id": 18,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/018.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/18.png",
       "name": "Pidgeot",
       "category": "Bird",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/18.mp3",
       "entry": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "4'11\"",
@@ -599,12 +616,13 @@
     },
     {
       "id": 19,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/019.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/19.png",
       "name": "Rattata",
       "category": "Mouse",
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/19.mp3",
       "entry": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "1'00\"",
@@ -638,12 +656,13 @@
     },
     {
       "id": 20,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/020.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/20.png",
       "name": "Raticate",
       "category": "Mouse",
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/20.mp3",
       "entry": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "2'04\"",
@@ -676,13 +695,14 @@
     },
     {
       "id": 21,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/021.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/21.png",
       "name": "Spearow",
       "category": "Tiny Bird",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/21.mp3",
       "entry": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
       "abilities": "Main:Ruy Away, Guts | Hidden: Hustle",
       "height": "1'00\"",
@@ -702,13 +722,14 @@
     },
     {
       "id": 22,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/022.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/22.png",
       "name": "Fearow",
       "category": "Beak",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/22.mp3",
       "entry": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
       "abilities": "Main:. Hidden:",
       "height": "3'11\"",
@@ -728,12 +749,13 @@
     },
     {
       "id": 23,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/023.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/23.png",
       "name": "Ekans",
       "category": "Snake",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/23.mp3",
       "entry": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole",
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
       "height": "6'07\"",
@@ -753,12 +775,13 @@
     },
     {
       "id": 24,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/024.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/24.png",
       "name": "Arbok",
       "category": "Cobra",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/24.mp3",
       "entry": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
       "abilities": "Main: Intimidate, Shed Skin | Hidden: Unnerve",
       "height": "11'06\"",
@@ -778,12 +801,13 @@
     },
     {
       "id": 25,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/025.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/25.png",
       "name": "Pikachu",
       "category": "Mouse",
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/25.mp3",
       "entry": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
       "abilities": "Main: Static |  Hidden: Lightning",
       "height": "1'04\"",
@@ -803,12 +827,13 @@
     },
     {
       "id": 26,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/026.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/26.png",
       "name": "Raichu",
       "category": "Mouse",
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/26.mp3",
       "entry": "Its long tail serves as a ground to protect itself from its own high voltage power.",
       "abilities": "Main: Static |  Hidden: Lightning",
       "height": "2'07\"",
@@ -828,12 +853,13 @@
     },
     {
       "id": 27,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/027.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/27.png",
       "name": "Sandshrew",
       "category": "Mouse",
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/27.mp3",
       "entry": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "2'00\"",
@@ -853,12 +879,13 @@
     },
     {
       "id": 28,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/028.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/28.png",
       "name": "Sandslash",
       "category": "Mouse",
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/28.mp3",
       "entry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
       "abilities": "Main: Sand Veil |  Hidden: Sand Rush",
       "height": "3'03\"",
@@ -878,12 +905,13 @@
     },
     {
       "id": 29,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/029.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/29.png",
       "name": "Nidoran\t♀",
       "category": "Poison Pin",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/29.mp3",
       "entry": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "1'04\"",
@@ -903,12 +931,13 @@
     },
     {
       "id": 30,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/030.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/30.png",
       "name": "Nidorina",
       "category": "Poison Pin",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/30.mp3",
       "entry": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "2'07\"",
@@ -928,13 +957,14 @@
     },
     {
       "id": 31,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/031.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/31.png",
       "name": "Nidoqueen",
       "category": "Drill",
       "type": {
         "T1": "Poison",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/31.mp3",
       "entry": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
       "height": "4'03\"",
@@ -954,12 +984,13 @@
     },
     {
       "id": 32,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/032.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/32.png",
       "name": "Nidoran\t♂",
       "category": "Poison Pin",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/32.mp3",
       "entry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "1'08\"",
@@ -979,12 +1010,13 @@
     },
     {
       "id": 33,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/033.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/33.png",
       "name": "Nidorino",
       "category": "Poison Pin",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/33.mp3",
       "entry": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Hustle",
       "height": "2'11\"",
@@ -1004,13 +1036,14 @@
     },
     {
       "id": 34,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/034.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/34.png",
       "name": "Nidoking",
       "category": "Drill",
       "type": {
         "T1": "Poison",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/34.mp3",
       "entry": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
       "abilities": "Main: Poison Point, Rivalry | Hidden: Sheer Force",
       "height": "4'07\"",
@@ -1030,12 +1063,13 @@
     },
     {
       "id": 35,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/035.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/35.png",
       "name": "Clefairy",
       "category": "Fairy",
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/35.mp3",
       "entry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
       "height": "2'00\"",
@@ -1055,12 +1089,13 @@
     },
     {
       "id": 36,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/036.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/36.png",
       "name": "Clefable",
       "category": "Fairy",
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/36.mp3",
       "entry": "A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Unaware",
       "height": "4'03\"",
@@ -1080,12 +1115,13 @@
     },
     {
       "id": 37,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/037.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/37.png",
       "name": "Vulpix",
       "category": "Fox",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/37.mp3",
       "entry": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
       "abilities": "Main: Flash Fire | Hidden: Drought",
       "height": "2'00\"",
@@ -1105,12 +1141,13 @@
     },
     {
       "id": 38,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/038.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/38.png",
       "name": "Ninetales",
       "category": "Fox",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/38.mp3",
       "entry": "ery smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
       "abilities": "Main: Flash Fire | Hidden: Drought",
       "height": "3'07\"",
@@ -1130,13 +1167,14 @@
     },
     {
       "id": 39,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/039.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/39.png",
       "name": "Jigglypuff",
       "category": "Balloon",
       "type": {
         "T1": "Normal",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/39.mp3",
       "entry": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
       "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
       "height": "1'08\"",
@@ -1156,13 +1194,14 @@
     },
     {
       "id": 40,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/040.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/40.png",
       "name": "Wigglytuff",
       "category": "Balloon",
       "type": {
         "T1": "Normal",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/40.mp3",
       "entry": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
       "abilities": "Main: Cute Charm, Competitive | Hidden: Frisk",
       "height": "3'03\"",
@@ -1182,13 +1221,14 @@
     },
     {
       "id": 41,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/041.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/41.png",
       "name": "Zubat",
       "category": "Bat",
       "type": {
         "T1": "Poison",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/41.mp3",
       "entry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "2'07\" ",
@@ -1208,13 +1248,14 @@
     },
     {
       "id": 42,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/042.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/42.png",
       "name": "Golbat",
       "category": "Bat",
       "type": {
         "T1": "Poison",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/42.mp3",
       "entry": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "5'03\"",
@@ -1234,13 +1275,14 @@
     },
     {
       "id": 43,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/043.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/43.png",
       "name": "Oddish",
       "category": "Weed",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/43.mp3",
       "entry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
       "abilities": "Main: Chlorophyll | Hidden: Run Away",
       "height": "1'08\"",
@@ -1260,13 +1302,14 @@
     },
     {
       "id": 44,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/044.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/44.png",
       "name": "Gloom",
       "category": "Weed",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/44.mp3",
       "entry": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
       "abilities": "Main: Chlorophyll | Hidden: Stench ",
       "height": "2'07\"",
@@ -1286,13 +1329,14 @@
     },
     {
       "id": 45,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/045.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/45.png",
       "name": "Vileplume",
       "category": "Flower",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/45.mp3",
       "entry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
       "abilities": "Main: Chlorophyll | Hidden: Effect Spore",
       "height": "3'11\"",
@@ -1312,13 +1356,14 @@
     },
     {
       "id": 46,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/046.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/46.png",
       "name": "Paras",
       "category": "Mushroom",
       "type": {
         "T1": "Bug",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/46.mp3",
       "entry": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
       "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
       "height": "1'00\"",
@@ -1338,13 +1383,14 @@
     },
     {
       "id": 47,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/047.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/47.png",
       "name": "Parasect",
       "category": "Mushroom",
       "type": {
         "T1": "Bug",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/47.mp3",
       "entry": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
       "abilities": "Main: Effect Spore, Dry Skin | Hidden: Damp",
       "height": "3'03\"",
@@ -1364,13 +1410,14 @@
     },
     {
       "id": 48,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/048.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/48.png",
       "name": "Venonat",
       "category": "Insect",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/48.mp3",
       "entry": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
       "abilities": "Main: Compound Eyes, Tinted Lens | Hidden: Run Away",
       "height": "3'03\"",
@@ -1390,13 +1437,14 @@
     },
     {
       "id": 49,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/049.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/49.png",
       "name": "Venomoth",
       "category": "Poison Moth",
       "type": {
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/49.mp3",
       "entry": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
       "abilities": "Main: Shield Dust, Tinted Lens | Hidden: Wonder Skin",
       "height": "4'11\"",
@@ -1416,12 +1464,13 @@
     },
     {
       "id": 50,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/050.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/50.png",
       "name": "Diglett",
       "category": "Mole",
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/50.mp3",
       "entry": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
       "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
       "height": "0'08\"",
@@ -1441,12 +1490,13 @@
     },
     {
       "id": 51,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/051.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/51.png",
       "name": "Dugtrio",
       "category": "Mole",
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/51.mp3",
       "entry": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
       "abilities": "Main: Sand Veil, Arena Trap | Hidden: Sand Force",
       "height": "2'04\"",
@@ -1466,12 +1516,13 @@
     },
     {
       "id": 52,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/052.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/52.png",
       "name": "Meowth",
       "category": "Scratchy Cat",
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/52.mp3",
       "entry": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
       "abilities": "Main: Pickup, Technician | Hidden: Unnerve",
       "height": "1'04\"",
@@ -1491,12 +1542,13 @@
     },
     {
       "id": 53,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/055.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/53.png",
       "name": "Persian",
       "category": "Classy Cat",
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/53.mp3",
       "entry": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
       "abilities": "Main: Limber, Technician | Hidden: Unnerve",
       "height": "3'03\"",
@@ -1516,12 +1568,13 @@
     },
     {
       "id": 54,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/054.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/54.png",
       "name": "Psyduck",
       "category": "Duck",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/54.mp3",
       "entry": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
       "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
       "height": "2'07\"",
@@ -1541,12 +1594,13 @@
     },
     {
       "id": 55,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/055.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/55.png",
       "name": "Golduck",
       "category": "Duck",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/55.mp3",
       "entry": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "abilities": "Main: Damp, Cloud Nine | Hideen: Swift Swim",
       "height": "5'07\"",
@@ -1566,12 +1620,13 @@
     },
     {
       "id": 56,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/056.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/56.png",
       "name": "Mankey",
       "category": "Pig Monkey",
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/56.mp3",
       "entry": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
       "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
       "height": "1'08\"",
@@ -1591,12 +1646,13 @@
     },
     {
       "id": 57,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/057.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/57.png",
       "name": "Primeape",
       "category": "Pig Monkey",
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/57.mp3",
       "entry": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
       "abilities": "Main: Vital Spirit, Anger Point | Hidden: Defiant",
       "height": "3'03\"",
@@ -1616,12 +1672,13 @@
     },
     {
       "id": 58,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/058.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/58.png",
       "name": "Growlithe",
       "category": "Puppy",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/58.mp3",
       "entry": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
       "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
       "height": "2'04\"",
@@ -1641,12 +1698,13 @@
     },
     {
       "id": 59,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/059.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/59.png",
       "name": "Arcanine",
       "category": "Legendary",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/59.mp3",
       "entry": "A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings.",
       "abilities": "Main: Intimidate, Flash Fire | Hidden: Justified",
       "height": "6'03",
@@ -1666,12 +1724,13 @@
     },
     {
       "id": 60,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/060.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/60.png",
       "name": "Poliwag",
       "category": "Tadpole",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/60.mp3",
       "entry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "2'00\"",
@@ -1691,12 +1750,13 @@
     },
     {
       "id": 61,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/061.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/61.png",
       "name": "Poliwhirl",
       "category": "Tadpole",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/61.mp3",
       "entry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "3'00\"",
@@ -1716,13 +1776,14 @@
     },
     {
       "id": 62,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/062.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/62.png",
       "name": "Poliwrath",
       "category": "Tadpole",
       "type": {
         "T1": "Water",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/62.mp3",
       "entry": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
       "abilities": "Main: Water Absorb, Damp | Hidden: Swift Swim",
       "height": "4'03\"",
@@ -1742,12 +1803,13 @@
     },
     {
       "id": 63,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/063.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/63.png",
       "name": "Abra",
       "category": "Psi",
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/63.mp3",
       "entry": "Using its ability to read minds, it will identify impending danger and Teleport to safety.",
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "2'11\"",
@@ -1767,12 +1829,13 @@
     },
     {
       "id": 64,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/064.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/64.png",
       "name": "Kadabra",
       "category": "Psi",
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/64.mp3",
       "entry": "It emits special alpha waves from its body that induce headaches just by being close by.",
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "4'03\"",
@@ -1792,12 +1855,13 @@
     },
     {
       "id": 65,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/065.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/65.png",
       "name": "Alakazam",
       "category": "Psi",
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/65.mp3",
       "entry": "Its brain can outperform a super-computer. Its intelligence quotient is said to be 5,000.",
       "abilities": "Main: Synchronize, Inner Focus | Hidden: Magic Gaurd",
       "height": "4'11\"",
@@ -1813,7 +1877,7 @@
       "generation":
       {
         "name": "generation1"
-      }, 
+      },
       "variations": [
         {
           "idMega": 65.1,
@@ -1829,12 +1893,13 @@
     },
     {
       "id": 66,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/066.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/66.png",
       "name": "Machop",
       "category": "Superpower",
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/66.mp3",
       "entry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "2'07\"",
@@ -1854,12 +1919,13 @@
     },
     {
       "id": 67,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/067.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/67.png",
       "name": "Machoke",
       "category": "Superpower",
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/67.mp3",
       "entry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "4'11\"",
@@ -1879,12 +1945,13 @@
     },
     {
       "id": 68,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/068.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/68.png",
       "name": "Machamp",
       "category": "Superpower",
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/68.mp3",
       "entry": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
       "abilities": "Main: Guts, No Guard | Hidden: Steadfast",
       "height": "5'03\"",
@@ -1904,13 +1971,14 @@
     },
     {
       "id": 69,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/069.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/69.png",
       "name": "Bellsprout",
       "category": "Flower",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/69.mp3",
       "entry": "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "2'04\"",
@@ -1930,13 +1998,14 @@
     },
     {
       "id": 70,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/070.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/70.png",
       "name": "Weepinbell",
       "category": "Flycatcher",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/70.mp3",
       "entry": "It spits out PoisonPowder to immobilize the enemy and then finishes it with a spray of Acid.",
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "3'03\"",
@@ -1956,13 +2025,14 @@
     },
     {
       "id": 71,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/071.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/71.png",
       "name": "Victreebel",
       "category": "Flycatcher",
       "type": {
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/71.mp3",
       "entry": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
       "abilities": "Main: Chlorophyll | Hidden: Gluttony",
       "height": "5'07\"",
@@ -1982,13 +2052,14 @@
     },
     {
       "id": 72,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/072.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/72.png",
       "name": "Tentacool",
       "category": "Jellyfish",
       "type": {
         "T1": "Water",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/72.mp3",
       "entry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
       "height": "2'11\"",
@@ -2008,13 +2079,14 @@
     },
     {
       "id": 73,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/073.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/73.png",
       "name": "Tentacruel",
       "category": "Jellyfish",
       "type": {
         "T1": "Water",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/73.mp3",
       "entry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
       "abilities": "Main: Clear Body, Liquid Ooze | Hidden: Rain Dish",
       "height": "5'03\"",
@@ -2034,12 +2106,13 @@
     },
     {
       "id": 74,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/074.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/74.png",
       "name": "Geodude",
       "category": "Rock",
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/74.mp3",
       "entry": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "1'04\"",
@@ -2059,13 +2132,14 @@
     },
     {
       "id": 75,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/075.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/75.png",
       "name": "Graveler",
       "category": "Rock",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/75.mp3",
       "entry": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "3'03\"",
@@ -2085,13 +2159,14 @@
     },
     {
       "id": 76,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/076.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/76.png",
       "name": "Golem",
       "category": "Megaton",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/76.mp3",
       "entry": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "4'07\"",
@@ -2111,12 +2186,13 @@
     },
     {
       "id": 77,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/077.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/77.png",
       "name": "Ponyta",
       "category": "Fire Horse",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/77.mp3",
       "entry": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
       "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
       "height": "3'03\"",
@@ -2136,12 +2212,13 @@
     },
     {
       "id": 78,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/078.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/78.png",
       "name": "Rapidash",
       "category": "Fire Horse",
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/78.mp3",
       "entry": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
       "abilities": "Main: Run Away, Flash Fire | HIdden: Flame Body",
       "height": "5'07\"",
@@ -2161,13 +2238,14 @@
     },
     {
       "id": 79,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/079.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/79.png",
       "name": "Slowpoke",
       "category": "Dopey",
       "type": {
         "T1": "Water",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/79.mp3",
       "entry": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "3'11\"",
@@ -2187,13 +2265,14 @@
     },
     {
       "id": 80,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/080.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/80.png",
       "name": "Slowbro",
       "category": "Hermit Crab",
       "type": {
         "T1": "Water",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/80.mp3",
       "entry": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left over scraps.",
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "5'03\"",
@@ -2226,13 +2305,14 @@
     },
     {
       "id": 81,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/081.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/81.png",
       "name": "Magnemite",
       "category": "Magnet",
       "type": {
         "T1": "Electric",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/81.mp3",
       "entry": "Uses anti-gravity to stay suspended. Appears without warning and uses Thunder Wave and similar moves.",
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "1'00\"",
@@ -2252,13 +2332,14 @@
     },
     {
       "id": 82,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/082.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/82.png",
       "name": "Magneton",
       "category": "Magnet",
       "type": {
         "T1": "Electric",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/82.mp3",
       "entry": "Formed by several Magnemites linked together. They frequently appear when sunspots flare up.",
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "3'03\"",
@@ -2278,13 +2359,14 @@
     },
     {
       "id": 83,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/083.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/83.png",
       "name": "Farfetch'd",
       "category": "Wild Duck",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/83.mp3",
       "entry": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
       "abilities": "Main: Keen Eye, Inner Focus | Hidden: Defiant",
       "height": "2'07\"",
@@ -2304,13 +2386,14 @@
     },
     {
       "id": 84,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/084.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/84.png",
       "name": "Doduo",
       "category": "Twin Bird",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/84.mp3",
       "entry": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
       "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
       "height": "4'07\"",
@@ -2330,13 +2413,14 @@
     },
     {
       "id": 85,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/085.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/85.png",
       "name": "Dodrio",
       "category": "Triple Bird",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/85.mp3",
       "entry": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
       "abilities": "Main: Run Away, Early Bird | Hidden: Tangled Feet",
       "height": "5'11\"",
@@ -2356,12 +2440,13 @@
     },
     {
       "id": 86,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/086.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/86.png",
       "name": "Seel",
       "category": "Sea Lion",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/86.mp3",
       "entry": "The protruding horn on its head is very hard. It is used for bashing through thick ice.",
       "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
       "height": "3'07\"",
@@ -2381,13 +2466,14 @@
     },
     {
       "id": 87,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/087.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/87.png",
       "name": "Dewgong",
       "category": "Sea Lion",
       "type": {
         "T1": "Water",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/87.mp3",
       "entry": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "abilities": "Main: Thick Fat, Hydration | Hidden: Ice Body",
       "height": "5'07\"",
@@ -2407,12 +2493,13 @@
     },
     {
       "id": 88,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/088.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/88.png",
       "name": "Grimer",
       "category": "Sludge",
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/88.mp3",
       "entry": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
       "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
       "height": "2'11\"",
@@ -2438,6 +2525,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/89.mp3",
       "entry": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
       "abilities": "Main: Stench, Sticky Hold | Hidden: Poison Touch",
       "height": "3'11\"",
@@ -2457,12 +2545,13 @@
     },
     {
       "id": 90,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/090.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/90.png",
       "name": "Shellder",
       "category": "Bivalve",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/90.mp3",
       "entry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
       "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
       "height": "1'00\"",
@@ -2482,13 +2571,14 @@
     },
     {
       "id": 91,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/091.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/91.png",
       "name": "Cloyster",
       "category": "Bivalve",
       "type": {
         "T1": "Water",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/91.mp3",
       "entry": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
       "abilities": "Main: Shell Armor, Skill Link | Hidden: Overcoat",
       "height": "4'11\"",
@@ -2508,13 +2598,14 @@
     },
     {
       "id": 92,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/092.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/92.png",
       "name": "Gastly",
       "category": "Gas",
       "type": {
         "T1": "Ghost",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/92.mp3",
       "entry": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
       "abilities": "Main: Levitate",
       "height": "4'03\"",
@@ -2534,13 +2625,14 @@
     },
     {
       "id": 93,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/093.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/93.png",
       "name": "Haunter",
       "category": "Gas",
       "type": {
         "T1": "Ghost",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/93.mp3",
       "entry": "Because of its ability to slip through block walls, it is said to be from another dimension.",
       "abilities": "Main: Levitate",
       "height": "5'03\"",
@@ -2560,13 +2652,14 @@
     },
     {
       "id": 94,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/094.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/94.png",
       "name": "Gengar",
       "category": "Shadow",
       "type": {
         "T1": "Ghost",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/94.mp3",
       "entry": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
       "abilities": "Main: Cursed Body",
       "height": "4'11\"",
@@ -2582,7 +2675,7 @@
       "generation":
       {
         "name": "generation1"
-      }, 
+      },
       "variations": [
         {
           "idMega": 94.1,
@@ -2599,13 +2692,14 @@
     },
     {
       "id": 95,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/095.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/95.png",
       "name": "Onix",
       "category": "Rock Snake",
       "type": {
         "T1": "Rock",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/95.mp3",
       "entry": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Weak Armor",
       "height": "28'10\"",
@@ -2625,12 +2719,13 @@
     },
     {
       "id": 96,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/096.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/96.png",
       "name": "Drowzee",
       "category": "Hypnosis",
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/96.mp3",
       "entry": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "3'03\"",
@@ -2650,12 +2745,13 @@
     },
     {
       "id": 97,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/097.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/97.png",
       "name": "Hypno",
       "category": "Hypnosis",
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/97.mp3",
       "entry": "When it locks eyes with an enemy, it will use a mix of PSI moves such as Hypnosis and Confusion.",
       "abilities": "Main: Insomnia, Forewarn | Hidden: Inner Focus",
       "height": "5'03\"",
@@ -2675,12 +2771,13 @@
     },
     {
       "id": 98,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/098.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/98.png",
       "name": "Krabby",
       "category": "River Crab",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/98.mp3",
       "entry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
       "abilities": "Main: Hyper Cutter, Shell Armor | Hidden: Sheer Force",
       "height": "1'04\"",
@@ -2700,12 +2797,13 @@
     },
     {
       "id": 99,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/099.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/99.png",
       "name": "Kingler",
       "category": "Pincer",
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/99.mp3",
       "entry": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
       "abilities": "Main: Hyper Cutter, Shell Armor | Hidden: Sheer Force",
       "height": "4'03\"",
@@ -2731,6 +2829,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/100.mp3",
       "entry": "Usually found in power plants. Easily mistaken for a Poké Ball, they have zapped many people.",
       "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
       "height": "1'08\"",
@@ -2756,6 +2855,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/101.mp3",
       "entry": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
       "abilities": "Main: Soundproof, Static | Hidden: Aftermath",
       "height": "3'11\"",
@@ -2782,6 +2882,7 @@
         "T1": "Grass",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/102.mp3",
       "entry": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
       "abilities": "Main: Chlorophyl | Hidden: Harvest",
       "height": "1'04\"",
@@ -2808,6 +2909,7 @@
         "T1": "Grass",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/103.mp3",
       "entry": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
       "abilities": "Main: Choorophyl | Hidden: Frisk",
       "height": "6'07\"",
@@ -2833,6 +2935,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/104.mp3",
       "entry": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
       "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
       "height": "1'04\"",
@@ -2858,6 +2961,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/105.mp3",
       "entry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
       "abilities": "Main: Rock Head, Lightning Rod | Hidden: Battle Armor",
       "height": "3'03\"",
@@ -2883,6 +2987,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/106.mp3",
       "entry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
       "abilities": "Main: Limber, Reckless | Hidden: Unburden",
       "height": "4'11\"",
@@ -2908,6 +3013,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/107.mp3",
       "entry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
       "abilities": "Main: Keen Eye, Iron Fist | Hidden: Inner Focus",
       "height": "4'07\"",
@@ -2933,6 +3039,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/108.mp3",
       "entry": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
       "abilities": "Main: Own Tempo, Obvious | Hidden: Cloud Nine",
       "height": "3'11\"",
@@ -2958,6 +3065,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/109.mp3",
       "entry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
       "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
       "height": "2'00\"",
@@ -2983,6 +3091,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/110.mp3",
       "entry": "Where two kinds of poison gases meet, 2 Koffings can fuse into a Weezing over many years.",
       "abilities": "Main: Levitate, Neutralizing Gas | Hidden: Stench",
       "height": "3'11\"",
@@ -3009,6 +3118,7 @@
         "T1": "Ground",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/111.mp3",
       "entry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
       "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
       "height": "3'03\"",
@@ -3035,6 +3145,7 @@
         "T1": "Ground",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/112.mp3",
       "entry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
       "abilities": "Main: Lightning Rod, Rock Head Hidden: Reckless",
       "height": "6'03\"",
@@ -3060,6 +3171,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/113.mp3",
       "entry": "A rare and elusive Pokémon that is said to bring happiness to those who manage to get it.",
       "abilities": "Main: Natural Cure, Serene Grace | Hidden: Healer",
       "height": "3'07\"",
@@ -3085,6 +3197,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/114.mp3",
       "entry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Regenerator",
       "height": "3'03\"",
@@ -3110,6 +3223,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/115.mp3",
       "entry": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
       "abilities": "Main: Early Bird, Scrappy | Hidden: Inner Focus",
       "height": "7'03\"",
@@ -3125,7 +3239,7 @@
       "generation":
       {
         "name": "generation1"
-      }, 
+      },
       "variations": [
         {
           "idMega": 115.1,
@@ -3147,6 +3261,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/116.mp3",
       "entry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
       "height": "1'04\"",
@@ -3172,6 +3287,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/117.mp3",
       "entry": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
       "abilities": "Main: Poison Point, Sniper | Hidden: Damp",
       "height": "3'11\"",
@@ -3197,6 +3313,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/118.mp3",
       "entry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
       "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
       "height": "2'00\"",
@@ -3222,6 +3339,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/119.mp3",
       "entry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
       "abilities": "Main: Swift Swim, Water Veil | Hidden: Lightning Rod",
       "height": "4'03\"",
@@ -3247,6 +3365,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/120.mp3",
       "entry": "An enigmatic Pokémon that can effortlessly regenerate any appendage it loses in battle.",
       "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
       "height": "2'07\"",
@@ -3273,6 +3392,7 @@
         "T1": "Water",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/121.mp3",
       "entry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
       "abilities": "Main: Illuminate, Natural Cure | Hidden: Analytic",
       "height": "3'07\"",
@@ -3299,6 +3419,7 @@
         "T1": "Psychic",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/122.mp3",
       "entry": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
       "abilities": "Main: Soundproof, Filter | Hidden: Technician",
       "height": "4'03\"",
@@ -3325,6 +3446,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/123.mp3",
       "entry": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
       "abilities": "Main: Swarm, Technician | Hidden: Steadfast",
       "height": "4'11\"",
@@ -3351,6 +3473,7 @@
         "T1": "Ice",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/124.mp3",
       "entry": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "abilities": "Main: Oblivious, Forewarn | Hidden: Dry Skin",
       "height": "4'07\"",
@@ -3376,6 +3499,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/125.mp3",
       "entry": "Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "abilities": "Main: Static | Hidden: Vital Spirit",
       "height": "3'07\"",
@@ -3401,6 +3525,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/126.mp3",
       "entry": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
       "abilities": "Main: Flame Body | Hidden: Vital Spirit",
       "height": "4'03\"",
@@ -3426,6 +3551,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/127.mp3",
       "entry": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "abilities": "Main: Hyper Cutter, Mold Breaker | Hidden: Moxie",
       "height": "4'11\"",
@@ -3464,6 +3590,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/128.mp3",
       "entry": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
       "abilities": "Main: Intimidate, Anger Point | Hidden: Sheer Force",
       "height": "4'07\"",
@@ -3489,6 +3616,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/129.mp3",
       "entry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
       "abilities": "Main: Swift Swim | Hidden: Rattled",
       "height": "2'11\"",
@@ -3515,6 +3643,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/130.mp3",
       "entry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
       "abilities": "Main: Intimidate | Hidden: Moxie",
       "height": "21'04\"",
@@ -3530,7 +3659,7 @@
       "generation":
       {
         "name": "generation1"
-      }, 
+      },
       "variations": [
         {
           "idMega": 130.1,
@@ -3554,6 +3683,7 @@
         "T1": "Water",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/131.mp3",
       "entry": "A Pokémon that has been overhunted almost to extinction. It can ferry people across the water.",
       "abilities": "Main: Water Absorb, Shell Armor | Hidden: Hydration",
       "height": "8'02\"",
@@ -3579,6 +3709,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/132.mp3",
       "entry": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
       "abilities": "Main: Limber | Hidden: Imposter",
       "height": "1'00\"",
@@ -3604,6 +3735,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/133.mp3",
       "entry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from Evolution stones.",
       "abilities": "Main: Run Away, Adaptability | Hidden: Anticipation",
       "height": "1'00\"",
@@ -3629,6 +3761,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/134.mp3",
       "entry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
       "abilities": "Main: Water Absorb | Hidden: Hydration",
       "height": "3'03\"",
@@ -3654,6 +3787,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/135.mp3",
       "entry": "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.",
       "abilities": "Main: Volt Absorb | Hidden: Quick Feet",
       "height": "2'07\"",
@@ -3679,6 +3813,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/136.mp3",
       "entry": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
       "abilities": "Main: Flash Fire | Hidden: Guts",
       "height": "2'11\"",
@@ -3704,6 +3839,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/137.mp3",
       "entry": "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "abilities": "Main: Trace, Download | Hidden: Analytic",
       "height": "2'07\"",
@@ -3730,6 +3866,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/138.mp3",
       "entry": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
       "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
       "height": "1'04\"",
@@ -3756,6 +3893,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/139.mp3",
       "entry": "A prehistoric Pokémon that died out when its heavy shell made it impossible to catch prey.",
       "abilities": "Main: Swift Swim, Shell Armor | Hidden: Weak Armor",
       "height": "3'03\"",
@@ -3782,6 +3920,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/140.mp3",
       "entry": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
       "height": "1'08\"",
@@ -3808,6 +3947,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/141.mp3",
       "entry": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids.",
       "abilities": "Main: Swift Swim, Battle Armor Hidden: Weak Armor",
       "height": "4'03\"",
@@ -3834,6 +3974,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/142.mp3",
       "entry": "A ferocious, prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs.",
       "abilities": "Main: Rock Head, Pressure | Hidden: Unnerve",
       "height": "5'11\"",
@@ -3849,7 +3990,7 @@
       "generation":
       {
         "name": "generation1"
-      }, 
+      },
       "variations": [
         {
           "idMega": 142.1,
@@ -3872,6 +4013,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/143.mp3",
       "entry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
       "abilities": "Main: Immunity, Thick Fat | Hidden: Gluttony",
       "height": "6'11\"",
@@ -3898,6 +4040,7 @@
         "T1": "Ice",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/144.mp3",
       "entry": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
       "abilities": "Main: Pressure | Hidden: Snow Cloak",
       "height": "5'07\"",
@@ -3924,6 +4067,7 @@
         "T1": "Electric",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/145.mp3",
       "entry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
       "abilities": "Main: Pressure, Static | Hidden: Lightning Rod",
       "height": "5'03\"",
@@ -3950,6 +4094,7 @@
         "T1": "Fire",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/146.mp3",
       "entry": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
       "abilities": "Main: Pressure, Flame Body | Hidden: Beserk",
       "height": "6'07\"",
@@ -3975,6 +4120,7 @@
       "type": {
       "T1": "Dragon"
     },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/147.mp3",
       "entry": "Long considered a mythical Pokémon until recently when a small colony was found living underwater.",
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
       "height": "5'11\"",
@@ -4000,6 +4146,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/148.mp3",
       "entry": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
       "height": "13'01\"",
@@ -4025,6 +4172,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/149.mp3",
       "entry": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
       "abilities": "Main: Inner Focus | Hidden: Multiscale",
       "height": "7'03\"",
@@ -4050,6 +4198,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/150.mp3",
       "entry": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
       "abilities": "Main: Pressure | Hidden: Unnerve",
       "height": "6'07\"",
@@ -4065,14 +4214,14 @@
       "generation":
       {
         "name": "generation1"
-      }, 
+      },
       "variations": [
         {
           "idMega": 150.11,
           "image": "pokeImg/150-mx.png",
           "name": "Mega Mewtwo X",
           "type": {
-            "T1": "Psychic", 
+            "T1": "Psychic",
             "T2": "Fighting"
           },
           "height": "7'07\"",
@@ -4089,7 +4238,7 @@
           "weight": "72.8 lbs"
         }
       ]
-      
+
     },
     {
       "id": 151,
@@ -4099,6 +4248,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/151.mp3",
       "entry": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
       "abilities": "Main: Synchroize",
       "height": "1'04\"",
@@ -4124,6 +4274,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/152.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Leaf Guard",
       "height": "2'11\"",
@@ -4148,6 +4299,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/153.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Leaf Guard",
       "height": "3'11\"",
@@ -4172,6 +4324,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/154.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Leaf Guard",
       "height": "5'11\"",
@@ -4196,6 +4349,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/155.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Flash Fire",
       "height": "1'08\"",
@@ -4220,6 +4374,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/156.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Flash Fire",
       "height": "2'11\"",
@@ -4244,6 +4399,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/157.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Flash Fire",
       "height": "5'07\"",
@@ -4268,6 +4424,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/158.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Sheer Force",
       "height": "2'00\"",
@@ -4292,6 +4449,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/159.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Sheer Force",
       "height": "3'07\"",
@@ -4316,6 +4474,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/160.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Sheer Force",
       "height": "7'07\"",
@@ -4340,6 +4499,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/161.mp3",
       "entry": "",
       "abilities": "Main: Run Away, Keen Eye | Hidden: Frisk",
       "height": "2'07\"",
@@ -4364,6 +4524,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/162.mp3",
       "entry": "",
       "abilities": "Main: Run Away, Keen Eye | Hidden: Frisk",
       "height": "5'11\"",
@@ -4389,6 +4550,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/163.mp3",
       "entry": "",
       "abilities": "Main: Insomnia, Keen Eye | Hidden: Tinted Lens",
       "height": "2'04\"",
@@ -4414,6 +4576,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/164.mp3",
       "entry": "",
       "abilities": "Main: Insomnia, Keen Eye | Hidden: Tinted Lens",
       "height": "5'03\"",
@@ -4439,6 +4602,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/165.mp3",
       "entry": "",
       "abilities": "Main: Swarm, Early Bird | Hidden: Rattled",
       "height": "3'03\"",
@@ -4464,6 +4628,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/166.mp3",
       "entry": "",
       "abilities": "Main: Swarm, Early Bird | Hidden: Iron Fist",
       "height": "4'07\"",
@@ -4489,6 +4654,7 @@
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/167.mp3",
       "entry": "",
       "abilities": "Main: Swarm, Insomnia | Hidden: Sniper",
       "height": "1'08\"",
@@ -4514,6 +4680,7 @@
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/168.mp3",
       "entry": "",
       "abilities": "Main: Swarm, Insomnia | Hidden: Sniper",
       "height": "3'07\"",
@@ -4539,6 +4706,7 @@
         "T1": "Poison",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/169.mp3",
       "entry": "",
       "abilities": "Main: Inner Focus | Hidden: Infiltrator",
       "height": "5'11\"",
@@ -4564,6 +4732,7 @@
         "T1": "Water",
         "T2": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/170.mp3",
       "entry": "",
       "abilities": "Main: Volt Absorb, Illuminate | Hidden: Water Absorb",
       "height": "1'08\"",
@@ -4589,6 +4758,7 @@
         "T1": "Water",
         "T2": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/171.mp3",
       "entry": "",
       "abilities": "Main: Volt Absorb, Illuminate | Hidden: Water Absorb",
       "height": "3'11\"",
@@ -4613,6 +4783,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/172.mp3",
       "entry": "",
       "abilities": "ElectMain: Static | Hidden: Lightning Rodric",
       "height": "1'00\"",
@@ -4637,6 +4808,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/173.mp3",
       "entry": "",
       "abilities": "Main: Cute Charm, Magic Guard | Hidden: Friend Guard ",
       "height": "1'00\"",
@@ -4662,6 +4834,7 @@
         "T1": "Normal",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/174.mp3",
       "entry": "",
       "abilities": "Main: Cute Charm, Competitive | Hidden: Friend Guard",
       "height": "1'00\"",
@@ -4686,6 +4859,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/175.mp3",
       "entry": "",
       "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
       "height": "1'00\"",
@@ -4711,6 +4885,7 @@
         "T1": "Fairy",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/176.mp3",
       "entry": "",
       "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
       "height": "2'00\"",
@@ -4736,6 +4911,7 @@
         "T1": "Psychic",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/177.mp3",
       "entry": "",
       "abilities": "Main: Synchronize, Early Bird | Hidden: Magic Bounce",
       "height": "0'08\"",
@@ -4761,6 +4937,7 @@
         "T1": "Psychic",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/178.mp3",
       "entry": "",
       "abilities": "Main: Synchronize, Early Bird | Hidden: Magic Bounce",
       "height": "4'11\"",
@@ -4779,12 +4956,13 @@
       }
     },{
       "id": 179,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/179179.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/179.png",
       "name": "Mareep",
       "category": "Wool",
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/179.mp3",
       "entry": "",
       "abilities": "Main: Static | Hidden: Plus",
       "height": "2'00\"",
@@ -4809,6 +4987,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/180.mp3",
       "entry": "",
       "abilities": "Main: Static | Hidden: Plus",
       "height": "2'07\"",
@@ -4833,6 +5012,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/181.mp3",
       "entry": "",
       "abilities": "Main: Static | Hidden: Plus",
       "height": "4'07\"",
@@ -4857,6 +5037,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/182.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll | Hidden: Healer",
       "height": "1'04\"",
@@ -4882,6 +5063,7 @@
         "T1": "Water",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/183.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
       "height": "1'04\"",
@@ -4907,6 +5089,7 @@
         "T1": "Water",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/184.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
       "height": "2'07\"",
@@ -4931,6 +5114,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/185.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Rattled",
       "height": "3'11\"",
@@ -4955,6 +5139,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/186.mp3",
       "entry": "",
       "abilities": "Main: Water Absorb, Damp | Hidden: Drizzle",
       "height": "3'07\"",
@@ -4980,6 +5165,7 @@
         "T1": "Grass",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/187.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
       "height": "1'04\"",
@@ -5005,6 +5191,7 @@
         "T1": "Grass",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/188.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
       "height": "2'00\"",
@@ -5030,6 +5217,7 @@
         "T1": "Grass",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/189.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Infiltrator",
       "height": "2'07\"",
@@ -5054,6 +5242,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/190.mp3",
       "entry": "",
       "abilities": "Main: Run Away, Pickup | Hidden: Skill Link",
       "height": "2'07\"",
@@ -5078,6 +5267,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/191.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Solar Power | Hidden: Early Bird",
       "height": "1'00\"",
@@ -5102,6 +5292,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/192.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Solar Power | Hidden: Early Bird",
       "height": "2'07\"",
@@ -5127,6 +5318,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/193.mp3",
       "entry": "",
       "abilities": "Main: Speed Boost, Compound Eyes | Hidden: Frisk",
       "height": "3'11\"",
@@ -5152,6 +5344,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/194.mp3",
       "entry": "",
       "abilities": "Main: Damp, Water Absorb | Hidden: Unaware",
       "height": "1'04\"",
@@ -5177,6 +5370,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/195.mp3",
       "entry": "",
       "abilities": "Main: Damp, Water Absorb | Hidden: Unaware",
       "height": "4'07\"",
@@ -5201,6 +5395,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/196.mp3",
       "entry": "",
       "abilities": "Main: Synchronize | Hidden: Magic Bounce",
       "height": "2'11\"",
@@ -5225,6 +5420,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/197.mp3",
       "entry": "",
       "abilities": "Main: Synchronize | Hidden: Inner Focus",
       "height": "3'03\"",
@@ -5250,6 +5446,7 @@
         "T1": "Dark",
         "T2": "Fyling"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/198.mp3",
       "entry": "",
       "abilities": "Main: Insomnia, Super Luck | Hidden: Prankster",
       "height": "1'08\"",
@@ -5275,6 +5472,7 @@
         "T1": "Water",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/199.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Own Tempo | Hidden: Regenerator",
       "height": "6'07\"",
@@ -5299,6 +5497,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/200.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "2'04\"",
@@ -5324,6 +5523,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/201.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'08\"",
@@ -5339,7 +5539,7 @@
       "generation": {
         "name": "generation2"
       }
-    }, 
+    },
     {
       "id": 202,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/202.png",
@@ -5348,6 +5548,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/202.mp3",
       "entry": "",
       "abilities": "Main: Shadow Tag | Hidden: Telepathy",
       "height": "4'03\"",
@@ -5363,7 +5564,7 @@
       "generation": {
         "name": "generation2"
       }
-    }, 
+    },
     {
       "id": 203,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/203.png",
@@ -5373,6 +5574,7 @@
         "T1": "Normal",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/203.mp3",
       "entry": "",
       "abilities": "Main: Inner Focus, Early Bird | Hidden: Sap Sipper",
       "height": "4'11\"",
@@ -5388,7 +5590,7 @@
       "generation": {
         "name": "generation2"
       }
-    }, 
+    },
     {
       "id": 204,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/204.png",
@@ -5397,6 +5599,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/204.mp3",
       "entry": "",
       "abilities": "Main: Sturdy | Hidden: Overcoat",
       "height": "2'00\"",
@@ -5412,7 +5615,7 @@
       "generation": {
         "name": "generation2"
       }
-    }, 
+    },
     {
       "id": 205,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/205.png",
@@ -5422,6 +5625,7 @@
         "T1": "Bug",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/205.mp3",
       "entry": "",
       "abilities": "Main: Sturdy | Hidden: Overcoat",
       "height": "3'11\"",
@@ -5446,6 +5650,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/206.mp3",
       "entry": "",
       "abilities": "Main: Serene Grace, Run Away | Hidden: Rattled",
       "height": "4'11\"",
@@ -5471,6 +5676,7 @@
         "T1": "Ground",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/207.mp3",
       "entry": "",
       "abilities": "Main: Hyper Cutter, Sand Veil | Hidden: Immunity",
       "height": "3'07\"",
@@ -5496,6 +5702,7 @@
         "T1": "Steel",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/208.mp3",
       "entry": "",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sheer Force",
       "height": "30'02\"",
@@ -5520,6 +5727,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/209.mp3",
       "entry": "",
       "abilities": "Main: Intimidate, Run Away | Hidden: Rattled",
       "height": "2'00\"",
@@ -5544,6 +5752,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/210.mp3",
       "entry": "",
       "abilities": "Main: Intimidate, Quick Feet | Hidden: Rattled",
       "height": "4'07\"",
@@ -5569,6 +5778,7 @@
         "T1": "Water",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/211.mp3",
       "entry": "",
       "abilities": "Main: Poison Point, Swift Swim | Hidden: Intimidate",
       "height": "1'08\"",
@@ -5594,6 +5804,7 @@
         "T1": "Bug",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/212.mp3",
       "entry": "",
       "abilities": "Main: Swarm, Technician | Hidden: Light Metal",
       "height": "5'11\"",
@@ -5604,7 +5815,7 @@
         "Defense": 100,
         "SpAtk": 55,
         "SpDef": 80,
-        "Speed": 65 
+        "Speed": 65
       },
       "generation": {
         "name": "generation2"
@@ -5619,6 +5830,7 @@
         "T1": "Bug",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/213.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Gluttony | Hidden: Contrary",
       "height": "2'00\"",
@@ -5644,6 +5856,7 @@
         "T1": "Bug",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/214.mp3",
       "entry": "",
       "abilities": "Main: Swarm, Guts | Hidden: Moxie",
       "height": "4'11\"",
@@ -5669,6 +5882,7 @@
         "T1": "Dark",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/215.mp3",
       "entry": "",
       "abilities": "Main: Inner Focus, Keen Eye | Hidden: Pickpocket",
       "height": "2'11\"",
@@ -5693,6 +5907,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/216.mp3",
       "entry": "",
       "abilities": "Main: Pickup, Quick Feet | Hidden: Honey Gather",
       "height": "2'00\"",
@@ -5717,6 +5932,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/217.mp3",
       "entry": "",
       "abilities": "Main: Guts, Quick Feet | Hidden: Unnerve",
       "height": "5'11\"",
@@ -5741,6 +5957,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/218.mp3",
       "entry": "",
       "abilities": "Main: Magma Armor, Flame Body | Hidden: Weak Armor",
       "height": "2'04\"",
@@ -5766,6 +5983,7 @@
         "T1": "Fire",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/219.mp3",
       "entry": "",
       "abilities": "Main: Magma Armor, Flame Body | Hidden: Weak Armor",
       "height": "2'07\"",
@@ -5791,6 +6009,7 @@
         "T1": "Ice",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/220.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Snow Cloak | Hidden: Thick Fat",
       "height": "1'04\"",
@@ -5816,6 +6035,7 @@
         "T1": "Ice",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/221.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Snow Cloak | Hidden: Thick Fat",
       "height": "3'07\"",
@@ -5826,7 +6046,7 @@
         "Defense": 80,
         "SpAtk": 60,
         "SpDef": 60,
-        "Speed": 50 
+        "Speed": 50
       },
       "generation": {
         "name": "generation2"
@@ -5841,6 +6061,7 @@
         "T1": "Water",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/222.mp3",
       "entry": "",
       "abilities": "Main: Hustle, Natural Cure | Hidden: Weak Armor",
       "height": "2'00\"",
@@ -5865,6 +6086,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/223.mp3",
       "entry": "",
       "abilities": "Main: Hustle, Sniper | Hidden: Moody",
       "height": "2'00\"",
@@ -5889,6 +6111,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/224.mp3",
       "entry": "",
       "abilities": "Main: Suction Cups, Sniper | Hidden: Moody",
       "height": "2'11\"",
@@ -5914,6 +6137,7 @@
         "T1": "Ice",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/225.mp3",
       "entry": "",
       "abilities": "Main: Vital Spirit, Hustle | Hidden: Insomnia",
       "height": "2'11\"",
@@ -5939,6 +6163,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/226.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Water Absorb | Hidden: Water Veil",
       "height": "6'11\"",
@@ -5964,6 +6189,7 @@
         "T1": "Steel",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/227.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye, Sturdy | Hidden: Weak Armor",
       "height": "5'07\"",
@@ -5989,6 +6215,7 @@
         "T1": "Dark",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/228.mp3",
       "entry": "",
       "abilities": "Main: Early Bird, Flash Fire | Hidden: Unnerve",
       "height": "2'00\"",
@@ -6014,6 +6241,7 @@
         "T1": "Dark",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/229.mp3",
       "entry": "",
       "abilities": "Main: Early Bird, Flash Fire | Hidden: Unnerve",
       "height": "4'07\"",
@@ -6039,6 +6267,7 @@
         "T1": "Water",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/230.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Sniper | Hidden: Damp",
       "height": "5'11\"",
@@ -6063,6 +6292,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/231.mp3",
       "entry": "",
       "abilities": "Main: Pickup | Hidden: Sand Veil",
       "height": "1'08\"",
@@ -6087,6 +6317,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/232.mp3",
       "entry": "",
       "abilities": "Main: Rock Head, Sturdy | Hidden: Sand Veil",
       "height": "3'07\"",
@@ -6111,6 +6342,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/233.mp3",
       "entry": "",
       "abilities": "Main: Trace, Download | Hidden: Analytic",
       "height": "2'00\"",
@@ -6135,6 +6367,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/234.mp3",
       "entry": "",
       "abilities": "Main: Intimidate, Frisk | Hidden: Sap Sipper",
       "height": "4'07\"",
@@ -6159,6 +6392,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/235.mp3",
       "entry": "",
       "abilities": "Main: Own Tempo, Technician | Hidden: Moddy",
       "height": "3'11\"",
@@ -6183,6 +6417,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/236.mp3",
       "entry": "",
       "abilities": "Main: Guts, Steadfast | Hidden: Vital Spirit",
       "height": "2'04\"",
@@ -6207,6 +6442,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/237.mp3",
       "entry": "",
       "abilities": "Main: Intimidate, Technician | Hidden: Steadfast",
       "height": "4'07\"",
@@ -6232,6 +6468,7 @@
         "T1": "Ice",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/238.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Forewarn | Hidden: Hydration",
       "height": "1'04\"",
@@ -6256,6 +6493,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/239.mp3",
       "entry": "",
       "abilities": "Main: Static | Hidden: Vital Spirit",
       "height": "2'00\"",
@@ -6280,6 +6518,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/240.mp3",
       "entry": "",
       "abilities": "Main: Flame Body | Hidden: Vital Spirit",
       "height": "2'04\"",
@@ -6304,6 +6543,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/241.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Scrappy | Hidden: Sap Sipper",
       "height": "3'11\"",
@@ -6328,6 +6568,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/242.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure, Serene Grace | Hidden: Healer",
       "height": "4'11\"",
@@ -6352,6 +6593,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/243.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Inner Focus",
       "height": "6'03\"",
@@ -6376,6 +6618,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/244.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Inner Focus",
       "height": "6'11\"",
@@ -6400,6 +6643,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/245.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Inner Focus",
       "height": "6'07\"",
@@ -6410,7 +6654,7 @@
         "Defense": 115,
         "SpAtk": 90,
         "SpDef": 115,
-        "Speed": 85 
+        "Speed": 85
       },
       "generation": {
         "name": "generation2"
@@ -6425,6 +6669,7 @@
         "T1": "Rock",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/246.mp3",
       "entry": "",
       "abilities": "Main: Guts | Hidden: Sand Veil",
       "height": "2'00\"",
@@ -6450,6 +6695,7 @@
         "T1": "Rock",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/247.mp3",
       "entry": "",
       "abilities": "Main: Shed Skin",
       "height": "3'11\"",
@@ -6475,6 +6721,7 @@
         "T1": "Rock",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/248.mp3",
       "entry": "",
       "abilities": "Main: Sand Stream | Hidden: Unnerve",
       "height": "6'07\"",
@@ -6500,6 +6747,7 @@
         "T1": "Psychic",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/249.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Multiscale",
       "height": "17'01\"",
@@ -6525,6 +6773,7 @@
         "T1": "Fire",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/250.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Regenerator",
       "height": "12'06\"",
@@ -6550,6 +6799,7 @@
         "T1": "Psychic",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/251.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure",
       "height": "2'00\"",
@@ -6574,6 +6824,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/252.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Unburden",
       "height": "1'08\"",
@@ -6598,6 +6849,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/253.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Unburden",
       "height": "2'11\"",
@@ -6622,6 +6874,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/254.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Unburden",
       "height": "5'07\"",
@@ -6646,6 +6899,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/255.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Speed Boost",
       "height": "1'04\"",
@@ -6671,6 +6925,7 @@
         "T1": "Fire",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/256.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Speed Boost",
       "height": "2'11\"",
@@ -6696,6 +6951,7 @@
         "T1": "Fire",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/257.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Speed Boost",
       "height": "6'03\"",
@@ -6720,6 +6976,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/258.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Damp",
       "height": "1'04\"",
@@ -6745,6 +7002,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/259.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Damp",
       "height": "2'04\"",
@@ -6770,6 +7028,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/260.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Damp",
       "height": "4'11\"",
@@ -6780,7 +7039,7 @@
         "Defense": 90,
         "SpAtk": 85,
         "SpDef": 90,
-        "Speed": 60 
+        "Speed": 60
       },
       "generation": {
         "name": "generation3"
@@ -6794,6 +7053,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/261.mp3",
       "entry": "",
       "abilities": "Main: Run Away, Quick Feet | Hidden: Rattled",
       "height": "1'08\"",
@@ -6818,6 +7078,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/262.mp3",
       "entry": "",
       "abilities": "Main: Intimidate, Quick Feet | Hidden: Moxie",
       "height": "3'03\"",
@@ -6842,6 +7103,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/263.mp3",
       "entry": "",
       "abilities": "Main: Pickup, Gluttony | Hidden: Quick Feet",
       "height": "1'04\"",
@@ -6866,6 +7128,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/264.mp3",
       "entry": "",
       "abilities": "Main: Pickup, Gluttony | Hidden: Quick Feet",
       "height": "1'08\"",
@@ -6890,6 +7153,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/265.mp3",
       "entry": "",
       "abilities": "Main: Shield Dust | Hidden: Run Away",
       "height": "1'00\"",
@@ -6914,6 +7178,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/266.mp3",
       "entry": "",
       "abilities": "Main: Shed Skin",
       "height": "2'00\"",
@@ -6939,6 +7204,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/267.mp3",
       "entry": "",
       "abilities": "Main: Swarm | Hidden: Rivalry",
       "height": "3'03\"",
@@ -6963,6 +7229,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/268.mp3",
       "entry": "",
       "abilities": "Main: Shed Skin",
       "height": "2'04\"",
@@ -6988,6 +7255,7 @@
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/269.mp3",
       "entry": "",
       "abilities": "Main: Shield Dust | Hidden: Compound Eyes",
       "height": "3'11\"",
@@ -7013,6 +7281,7 @@
         "T1": "Water",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/270.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Rain Dish | Hidden: Own Tempo",
       "height": "1'08\"",
@@ -7038,6 +7307,7 @@
         "T1": "Water",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/271.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Rain Dish | Hidden: Own Tempo",
       "height": "3'11\"",
@@ -7063,6 +7333,7 @@
         "T1": "Water",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/272.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Rain Dish | Hidden: Own Tempo",
       "height": "4'11\"",
@@ -7087,6 +7358,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/273.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Early Bird | Hidden: Pickpocket",
       "height": "1'08\"",
@@ -7112,6 +7384,7 @@
         "T1": "Grass",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/274.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Early Bird | Hidden: Pickpocket",
       "height": "3'03\"",
@@ -7137,6 +7410,7 @@
         "T1": "Grass",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/275.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Early Bird | Hidden: Pickpocket",
       "height": "4'03\"",
@@ -7162,6 +7436,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/276.mp3",
       "entry": "",
       "abilities": "Main: Guts | Hidden: Scrappy",
       "height": "1'00\"",
@@ -7187,6 +7462,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/277.mp3",
       "entry": "",
       "abilities": "Main: Guts | Hidden: Scrappy",
       "height": "2'04\"",
@@ -7212,6 +7488,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/278.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye, Hydration | Hidden: Rain Dish",
       "height": "2'00\"",
@@ -7237,6 +7514,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/279.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye, Drizzle | Hidden: Rain Dish",
       "height": "3'11\"",
@@ -7262,6 +7540,7 @@
         "T1": "Psychic",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/280.mp3",
       "entry": "",
       "abilities": "Main: Synchronize, Trace | Hidden: Telepathy",
       "height": "1'04\"",
@@ -7287,6 +7566,7 @@
         "T1": "Psychic",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/281.mp3",
       "entry": "",
       "abilities": "Main: Synchronize, Trace | Hidden: Telepathy",
       "height": "2'07\"",
@@ -7312,6 +7592,7 @@
         "T1": "Psychic",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/282.mp3",
       "entry": "",
       "abilities": "Main: Synchronize, Trace | Hidden: Telepathy",
       "height": "5'03\"",
@@ -7337,6 +7618,7 @@
         "T1": "Bug",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/283.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Rain Dish",
       "height": "1'08\"",
@@ -7362,6 +7644,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/284.mp3",
       "entry": "",
       "abilities": "Main: Intimidate | Hidden: Unnerve",
       "height": "2'07\"",
@@ -7386,6 +7669,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/285.mp3",
       "entry": "",
       "abilities": "Main: Effect Spore, Poison heal | Hidden: Quick Feet",
       "height": "1'04\"",
@@ -7411,6 +7695,7 @@
         "T1": "Grass",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/286.mp3",
       "entry": "",
       "abilities": "Main: Effect Spore, Poison Heal | Hidden: Technician",
       "height": "3'11\"",
@@ -7435,6 +7720,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/287.mp3",
       "entry": "",
       "abilities": "Main: Truant",
       "height": "2'07\"",
@@ -7459,6 +7745,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/288.mp3",
       "entry": "",
       "abilities": "Main: Vital Spirit",
       "height": "4'07\"",
@@ -7483,6 +7770,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/289.mp3",
       "entry": "",
       "abilities": "Main: Truant",
       "height": "6'07\"",
@@ -7508,6 +7796,7 @@
         "T1": "Bug",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/290.mp3",
       "entry": "",
       "abilities": "Main: Compound Eyes | Hidden: Run Away",
       "height": "1'08\"",
@@ -7533,6 +7822,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/291.mp3",
       "entry": "",
       "abilities": "Main: Speed Boost | Hidden: Infiltrator",
       "height": "2'07\"",
@@ -7558,6 +7848,7 @@
         "T1": "Bug",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/292.mp3",
       "entry": "",
       "abilities": "Main: Wonder Guard",
       "height": "2'07\"",
@@ -7582,6 +7873,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/293.mp3",
       "entry": "",
       "abilities": "Main: Soundproof | Hidden: Rattled",
       "height": "2'00\"",
@@ -7606,6 +7898,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/294.mp3",
       "entry": "",
       "abilities": "Main: Soundproof | Hidden: Scrappy",
       "height": "3'03\"",
@@ -7630,6 +7923,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/295.mp3",
       "entry": "",
       "abilities": "Main: Soundproof | Hidden: Scrappy",
       "height": "4'11\"",
@@ -7654,6 +7948,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/296.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Guts | Hidden: Sheer Force",
       "height": "3'03\"",
@@ -7678,6 +7973,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/297.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Guts | Hidden: Sheer Force",
       "height": "7'07\"",
@@ -7703,6 +7999,7 @@
         "T1": "Normal",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/298.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Huge Power | Hidden: Sap Sipper",
       "height": "0'08\"",
@@ -7727,6 +8024,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/299.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Magnet Pull | Hidden: Sand Force",
       "height": "3'03\"",
@@ -7751,6 +8049,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/300.mp3",
       "entry": "",
       "abilities": "Main: Cute Charm, Normalize | Hidden: Wonder Skin",
       "height": "2'00\"",
@@ -7775,6 +8074,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/301.mp3",
       "entry": "",
       "abilities": "Main: Cute Charm, Normalize | Hidden: Wonder Skin",
       "height": "3'07\"",
@@ -7800,6 +8100,7 @@
         "T1": "Dark",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/302.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye, Stall | Hidden: Prankster",
       "height": "1'08\"",
@@ -7825,6 +8126,7 @@
         "T1": "Steel",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/303.mp3",
       "entry": "",
       "abilities": "Main: Hyper Cutter, Intimidate | Hidden: Sheer Force",
       "height": "2'00\"",
@@ -7850,6 +8152,7 @@
         "T1": "Steel",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/304.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Heavy Metal",
       "height": "1'04\"",
@@ -7875,6 +8178,7 @@
         "T1": "Steel",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/305.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Heavy Metal",
       "height": "2'11\"",
@@ -7900,6 +8204,7 @@
         "T1": "Steel",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/306.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Heavy Metal",
       "height": "6'11\"",
@@ -7925,6 +8230,7 @@
         "T1": "Fighting",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/307.mp3",
       "entry": "",
       "abilities": "Main: Pure Power | Hidden: Telepathy",
       "height": "2'00\"",
@@ -7950,6 +8256,7 @@
         "T1": "Fighting",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/308.mp3",
       "entry": "",
       "abilities": "Main: Pure Power | Hidden: Telepathy",
       "height": "4'03\"",
@@ -7974,6 +8281,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/309.mp3",
       "entry": "",
       "abilities": "Main: Static, Lightning | Hidden: Minus",
       "height": "2'00\"",
@@ -7998,6 +8306,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/310.mp3",
       "entry": "",
       "abilities": "Main: Static, Lightning | Hidden: Minus",
       "height": "4'11\"",
@@ -8022,6 +8331,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/311.mp3",
       "entry": "",
       "abilities": "Main: Plus | Hidden: Lightning Rod",
       "height": "1'04\"",
@@ -8046,6 +8356,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/312.mp3",
       "entry": "",
       "abilities": "Main: Minus | Hidden: Volt Absorb",
       "height": "1'04\"",
@@ -8070,6 +8381,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/313.mp3",
       "entry": "",
       "abilities": "Main: Illuminate, Swarm | Hidden: Prankster",
       "height": "2'04\"",
@@ -8094,6 +8406,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/314.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Tinted Lens | Hidden: Prankster",
       "height": "2'00\"",
@@ -8119,6 +8432,7 @@
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/315.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure, Poison Point | Hidden: Leaf Guard",
       "height": "1'00\"",
@@ -8143,6 +8457,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/316.mp3",
       "entry": "",
       "abilities": "Main: Liquid Ooze, Sticky Hold | Hidden: Gluttony",
       "height": "1'04\"",
@@ -8167,6 +8482,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/317.mp3",
       "entry": "",
       "abilities": "Main: Liquid Ooze, Sticky Hold | Hidden: Gluttony",
       "height": "5'07\"",
@@ -8192,6 +8508,7 @@
         "T1": "Water",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/318.mp3",
       "entry": "",
       "abilities": "Main: Rough Skin | Hidden: Speed Boost",
       "height": "2'07\"",
@@ -8217,6 +8534,7 @@
         "T1": "Water",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/319.mp3",
       "entry": "",
       "abilities": "Main: Rough Skin | Hidden: Speed Boost",
       "height": "5'11\"",
@@ -8241,6 +8559,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/320.mp3",
       "entry": "",
       "abilities": "Main: Water Veil, Oblivious | Hidden: Pressure",
       "height": "6'07\"",
@@ -8265,6 +8584,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/321.mp3",
       "entry": "",
       "abilities": "Main: Water Veil, Oblivious | Hidden: Pressure",
       "height": "47'07\"",
@@ -8290,6 +8610,7 @@
         "T1": "Fire",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/322.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Simple | Hidden: Own Tempo",
       "height": "2'04\"",
@@ -8315,6 +8636,7 @@
         "T1": "Fire",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/323.mp3",
       "entry": "",
       "abilities": "Main: Magma Armor, Solid Rock | Hidden: Anger Point",
       "height": "6'03\"",
@@ -8339,6 +8661,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/324.mp3",
       "entry": "",
       "abilities": "Main: White Smoke, Drought | Hidden: Shell Armor",
       "height": "1'08\"",
@@ -8363,6 +8686,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/325.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Own Tempo | Hidden: Gluttony",
       "height": "2'04\"",
@@ -8387,6 +8711,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/326.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Own Tempo | Hidden: Gluttony",
       "height": "2'11\"",
@@ -8411,6 +8736,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/327.mp3",
       "entry": "",
       "abilities": "Main: Own Tempo, Tangled Feet | Hidden: Contrary",
       "height": "3'07\"",
@@ -8435,6 +8761,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/328.mp3",
       "entry": "",
       "abilities": "Main: Hyper Cutter, Arena Trap | Hidden: Sheer Force",
       "height": "3'04\"",
@@ -8460,6 +8787,7 @@
         "T1": "Ground",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/329.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "3'07\"",
@@ -8485,6 +8813,7 @@
         "T1": "Ground",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/330.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "6'07\"",
@@ -8509,6 +8838,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/331.mp3",
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Water Absorb",
       "height": "1'04\"",
@@ -8534,6 +8864,7 @@
         "T1": "Grass",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/332.mp3",
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Water Absorb",
       "height": "4'03\"",
@@ -8559,6 +8890,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/333.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure | Hidden: Cloud Nine",
       "height": "1'04\"",
@@ -8584,6 +8916,7 @@
         "T1": "Dragon",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/334.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure | Hidden: Cloud Nine",
       "height": "3'07\"",
@@ -8608,6 +8941,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/335.mp3",
       "entry": "",
       "abilities": "Main: Immunity | Hidden: Toxic Boost",
       "height": "4'03\"",
@@ -8632,6 +8966,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/336.mp3",
       "entry": "",
       "abilities": "Main: Shed Skin | Hidden: Infiltrator",
       "height": "8'10\"",
@@ -8657,6 +8992,7 @@
         "T1": "Rock",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/337.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "3'03\"",
@@ -8682,6 +9018,7 @@
         "T1": "Rock",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/338.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "3'11\"",
@@ -8707,6 +9044,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/339.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Anticipation | Hidden: Hydration",
       "height": "1'04\"",
@@ -8732,6 +9070,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/340.mp3",
       "entry": "",
       "abilities": "Main: Oblivious, Anticipation | Hidden: Hydration",
       "height": "2'11\"",
@@ -8756,6 +9095,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/341.mp3",
       "entry": "",
       "abilities": "Main: Hyper Cutter, Shell Armor | Hidden: Adaptability",
       "height": "2'00\"",
@@ -8781,6 +9121,7 @@
         "T1": "Water",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/342.mp3",
       "entry": "",
       "abilities": "Main: Hyper Cutter, Shell Armor | Hidden: Adaptability",
       "height": "3'07\"",
@@ -8806,6 +9147,7 @@
         "T1": "Ground",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/343.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'08\"",
@@ -8831,6 +9173,7 @@
         "T1": "Ground",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/344.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "4'11\"",
@@ -8856,6 +9199,7 @@
         "T1": "Rock",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/345.mp3",
       "entry": "",
       "abilities": "Main: Suction Cups | Hidden: Storm Drain",
       "height": "3'03\"",
@@ -8881,6 +9225,7 @@
         "T1": "Rock",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/346.mp3",
       "entry": "",
       "abilities": "Main: Suction Cups | Hidden: Storm Drain",
       "height": "4'11\"",
@@ -8906,6 +9251,7 @@
         "T1": "Rock",
         "T2": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/347.mp3",
       "entry": "",
       "abilities": "Main: Battle Armor | Hidden: Swift Swim",
       "height": "2'04\"",
@@ -8931,6 +9277,7 @@
         "T1": "Rock",
         "T2": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/348.mp3",
       "entry": "",
       "abilities": "Main: Battle Armor | Hidden: Swift Swim",
       "height": "4'11\"",
@@ -8955,6 +9302,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/349.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Oblivious | Hidden: Adaptability",
       "height": "2'00\"",
@@ -8979,6 +9327,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/350.mp3",
       "entry": "",
       "abilities": "Main: Marvel Scale, Competitive | Hidden: Cute Charm",
       "height": "20'04\"",
@@ -9003,6 +9352,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/351.mp3",
       "entry": "",
       "abilities": "Main: Forecast",
       "height": "1'00\"",
@@ -9013,7 +9363,7 @@
         "Defense": 70,
         "SpAtk": 70,
         "SpDef": 70,
-        "Speed": 70 
+        "Speed": 70
       },
       "generation": {
         "name": "generation3"
@@ -9027,6 +9377,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/352.mp3",
       "entry": "",
       "abilities": "Main: Color Change | Hidden: Protean",
       "height": "3'03\"",
@@ -9051,6 +9402,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/353.mp3",
       "entry": "",
       "abilities": "Main: Insomnia, Frisk | Hidden: Cursed Body",
       "height": "2'00\"",
@@ -9075,6 +9427,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/354.mp3",
       "entry": "",
       "abilities": "Main: Insomnia, Frisk | Hidden: Cursed Body",
       "height": "3'07\"",
@@ -9099,6 +9452,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/355.mp3",
       "entry": "",
       "abilities": "Main: Levitate | Hidden: Frisk",
       "height": "2'07\"",
@@ -9123,6 +9477,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/356.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Frisk",
       "height": "5'03\"",
@@ -9148,6 +9503,7 @@
         "T1": "Grass",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/357.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Solar Power | Hidden: Harvest",
       "height": "6'07\"",
@@ -9172,6 +9528,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/358.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "2'00\"",
@@ -9196,6 +9553,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/359.mp3",
       "entry": "",
       "abilities": "Main: Pressure, Super Luck | Hidden: Justified",
       "height": "3'11\"",
@@ -9220,6 +9578,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/360.mp3",
       "entry": "",
       "abilities": "Main: Shadow Tag | Hidden: Telepathy",
       "height": "2'00\"",
@@ -9244,6 +9603,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/361.mp3",
       "entry": "",
       "abilities": "Main: Inner Focus, Ice Body | Hidden: Moody",
       "height": "2'04\"",
@@ -9268,6 +9628,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/362.mp3",
       "entry": "",
       "abilities": "Main: Inner Focus, Ice Body | Hidden: Moody",
       "height": "4'11\"",
@@ -9293,6 +9654,7 @@
         "T1": "Ice",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/363.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Ice Body | Hidden: Oblivious",
       "height": "2'07\"",
@@ -9318,6 +9680,7 @@
         "T1": "Ice",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/364.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Ice Body | Hidden: Oblivious",
       "height": "3'07\"",
@@ -9343,6 +9706,7 @@
         "T1": "Ice",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/365.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Ice Body | Hidden: Oblivious",
       "height": "4'07\"",
@@ -9367,6 +9731,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/366.mp3",
       "entry": "",
       "abilities": "Main: Shell Armor | Hidden: Rattled",
       "height": "1'04\"",
@@ -9391,6 +9756,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/367.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Water Veil",
       "height": "5'07\"",
@@ -9415,6 +9781,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/368.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Hydration",
       "height": "5'11\"",
@@ -9440,6 +9807,7 @@
         "T1": "Water",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/369.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Rock Head | Hidden: Sturdy",
       "height": "3'03\"",
@@ -9464,6 +9832,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/370.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Hydration",
       "height": "2'00\"",
@@ -9488,6 +9857,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/371.mp3",
       "entry": "",
       "abilities": "Main: Rock Head | Hidden: Sheer Force",
       "height": "2'00\"",
@@ -9512,6 +9882,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/372.mp3",
       "entry": "",
       "abilities": "Main: Rock Head | Hidden: Overcoat",
       "height": "3'07\"",
@@ -9537,6 +9908,7 @@
         "T1": "Dragon",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/373.mp3",
       "entry": "",
       "abilities": "Main: Intimidate | Hidden: Moxie",
       "height": "4'11\"",
@@ -9562,6 +9934,7 @@
         "T1": "Steel",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/374.mp3",
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "2'00\"",
@@ -9587,6 +9960,7 @@
         "T1": "Steel",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/375.mp3",
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "3'11\"",
@@ -9612,6 +9986,7 @@
         "T1": "Steel",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/376.mp3",
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "5'03\"",
@@ -9636,6 +10011,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/377.mp3",
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Sturdy",
       "height": "5'07\"",
@@ -9660,6 +10036,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/378.mp3",
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Ice Body",
       "height": "5'11\"",
@@ -9684,6 +10061,7 @@
       "type": {
         "T1": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/379.mp3",
       "entry": "",
       "abilities": "Main: Clear Body | Hidden: Light Metal",
       "height": "6'03\"",
@@ -9709,6 +10087,7 @@
         "T1": "Dragon",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/380.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "4'07\"",
@@ -9734,6 +10113,7 @@
         "T1": "Dragon",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/381.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "6'07\"",
@@ -9758,6 +10138,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/382.mp3",
       "entry": "",
       "abilities": "Main: Drizzle | Hidden: Primordial Sea",
       "height": "14'09\"",
@@ -9782,6 +10163,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/383.mp3",
       "entry": "",
       "abilities": "Main: Drought | Hidden: Desolate Land",
       "height": "11'06\"",
@@ -9807,6 +10189,7 @@
         "T1": "Dragon",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/384.mp3",
       "entry": "",
       "abilities": "Main: Air Lock",
       "height": "23'00\"",
@@ -9832,6 +10215,7 @@
         "T1": "Steel",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/385.mp3",
       "entry": "",
       "abilities": "Main: Serene Grace",
       "height": "1'00\"",
@@ -9856,6 +10240,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/386.mp3",
       "entry": "",
       "abilities": "Main: Pressure",
       "height": "5'07\"",
@@ -9871,7 +10256,7 @@
       "generation": {
         "name": "generation3"
       }
-    }, 
+    },
     {
       "id": 387,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/387.png",
@@ -9880,6 +10265,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/387.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Shell Armor",
       "height": "1'04\"",
@@ -9904,6 +10290,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/388.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Shell Armor",
       "height": "3'07\"",
@@ -9929,6 +10316,7 @@
         "T1": "Grass",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/389.mp3",
       "entry": "",
       "abilities": "Main: Overgrow | Hidden: Shell Armor",
       "height": "7'03\"",
@@ -9953,6 +10341,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/390.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Iron Fist",
       "height": "1'08\"",
@@ -9978,6 +10367,7 @@
         "T1": "Fire",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/391.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Iron Fist",
       "height": "2'11\"",
@@ -9993,7 +10383,7 @@
       "generation": {
         "name": "generation4"
       }
-    }, 
+    },
     {
       "id": 392,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/392.png",
@@ -10003,6 +10393,7 @@
         "T1": "Fire",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/392.mp3",
       "entry": "",
       "abilities": "Main: Blaze | Hidden: Iron Fist",
       "height": "3'11\"",
@@ -10018,7 +10409,7 @@
       "generation": {
         "name": "generation4"
       }
-    }, 
+    },
     {
       "id": 393,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/393.png",
@@ -10027,6 +10418,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/393.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Defiant",
       "height": "1'04\"",
@@ -10051,6 +10443,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/394.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Defiant",
       "height": "2'07\"",
@@ -10076,6 +10469,7 @@
         "T1": "Water",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/395.mp3",
       "entry": "",
       "abilities": "Main: Torrent | Hidden: Defiant",
       "height": "5'07\"",
@@ -10101,6 +10495,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/396.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye | Hidden: Reckless",
       "height": "1'00\"",
@@ -10126,6 +10521,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/397.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye | Hidden: Reckless",
       "height": "2'00\"",
@@ -10151,6 +10547,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/398.mp3",
       "entry": "",
       "abilities": "Main: Intimidate | Hidden: Reckless",
       "height": "3'11\"",
@@ -10175,6 +10572,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/399.mp3",
       "entry": "",
       "abilities": "Main: Simple, Unaware | Hidden: Moody",
       "height": "1'08\"",
@@ -10200,6 +10598,7 @@
         "T1": "Normal",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/400.mp3",
       "entry": "",
       "abilities": "Main: Simple, Unaware | Hidden: Moody",
       "height": "3'03\"",
@@ -10224,6 +10623,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/401.mp3",
       "entry": "",
       "abilities": "Main: Shed Skin | Hidden: Run Away",
       "height": "1'00\"",
@@ -10248,6 +10648,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/402.mp3",
       "entry": "",
       "abilities": "Main: Swarm | Hidden: Technician",
       "height": "3'03\"",
@@ -10272,6 +10673,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/403.mp3",
       "entry": "",
       "abilities": "Main: Rivalry, Intimidate | Hidden: Guts",
       "height": "1'08\"",
@@ -10296,6 +10698,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/404.mp3",
       "entry": "",
       "abilities": "Main: Rivalry, Intimidate | Hidden: Guts",
       "height": "2'11\"",
@@ -10321,6 +10724,7 @@
         "T1": "Electric",
         "T2": ""
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/405.mp3",
       "entry": "",
       "abilities": "Main: Rivalry, Intimidate | Hidden: Guts",
       "height": "4'07\"",
@@ -10345,6 +10749,7 @@
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/406.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure, Poison Point | Hidden: Leaf Guard",
       "height": "0'08\"",
@@ -10370,6 +10775,7 @@
         "T1": "Grass",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/407.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure, Poison Point | Hidden: Leaf Guard",
       "height": "2'11\"",
@@ -10394,6 +10800,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/408.mp3",
       "entry": "",
       "abilities": "Main: Mold Breaker | Hidden: Sheer Force",
       "height": "2'11\"",
@@ -10418,6 +10825,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/409.mp3",
       "entry": "",
       "abilities": "Main: Mold Breaker | Hidden: Sheer Force",
       "height": "5'03\"",
@@ -10443,6 +10851,7 @@
         "T1": "Rock",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/410.mp3",
       "entry": "",
       "abilities": "Main: Sturdy | Hidden: Soundproof",
       "height": "1'08\"",
@@ -10468,6 +10877,7 @@
         "T1": "Rock",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/411.mp3",
       "entry": "",
       "abilities": "Main: Sturdy | Hidden: Soundproof",
       "height": "4'03\"",
@@ -10492,6 +10902,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/412.mp3",
       "entry": "",
       "abilities": "Main: Shed Skin | Hidden: Overcoat",
       "height": "0'08\"",
@@ -10517,6 +10928,7 @@
         "T1": "Bug",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/413.mp3",
       "entry": "",
       "abilities": "Main: Anticipation | Hidden: Overcoat",
       "height": "1'08\"",
@@ -10542,6 +10954,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/414.mp3",
       "entry": "",
       "abilities": "Main: Swarm | Hidden: Tinted Lens",
       "height": "2'11\"",
@@ -10567,6 +10980,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/415.mp3",
       "entry": "",
       "abilities": "Main: Honey Gather | Hidden: Hustle",
       "height": "1'00\"",
@@ -10592,6 +11006,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/416.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Unnerve",
       "height": "3'11\"",
@@ -10616,6 +11031,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/417.mp3",
       "entry": "",
       "abilities": "Main: Run Away, Pickup | Hidden: Volt Absorb",
       "height": "1'04\"",
@@ -10640,6 +11056,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/418.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Water Veil",
       "height": "2'04\"",
@@ -10664,6 +11081,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/419.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim | Hidden: Water Veil",
       "height": "3'07\"",
@@ -10688,6 +11106,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/420.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll",
       "height": "1'04\"",
@@ -10712,6 +11131,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/421.mp3",
       "entry": "",
       "abilities": "Main: Flower Gift",
       "height": "1'08\"",
@@ -10736,6 +11156,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/422.mp3",
       "entry": "",
       "abilities": "Main: Sticky Hold, Storm Drain | Hidden: Sand Force",
       "height": "1'00\"",
@@ -10761,6 +11182,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/423.mp3",
       "entry": "",
       "abilities": "Main: Sticky Hold, Storm Drain | Hidden: Sand Force",
       "height": "2'11\"",
@@ -10785,6 +11207,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/424.mp3",
       "entry": "",
       "abilities": "Main: Technician, Pickup | Hidden: Skill Link",
       "height": "3'11\"",
@@ -10810,6 +11233,7 @@
         "T1": "Ghost",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/425.mp3",
       "entry": "",
       "abilities": "Main: Aftermath, Unburden | Hidden: Flare Boost",
       "height": "1'04\"",
@@ -10835,6 +11259,7 @@
         "T1": "Ghost",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/426.mp3",
       "entry": "",
       "abilities": "Main: Aftermath, Unburden | Hidden: Flare Boost",
       "height": "3'11\"",
@@ -10859,6 +11284,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/427.mp3",
       "entry": "",
       "abilities": "Main: Run Away, Klutz | Hidden: Limber",
       "height": "1'04\"",
@@ -10883,6 +11309,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/428.mp3",
       "entry": "",
       "abilities": "Main: Cute Charm, Klutz | Hidden: Limber",
       "height": "3'11\"",
@@ -10907,6 +11334,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/429.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "2'11\"",
@@ -10932,6 +11360,7 @@
         "T1": "Dark",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/430.mp3",
       "entry": "",
       "abilities": "Main: Insomnia, Super Luck | Hidden: Moxie",
       "height": "2'11\"",
@@ -10956,6 +11385,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/431.mp3",
       "entry": "",
       "abilities": "Main: Limber, Own Tempo | Hidden: Keen Eye",
       "height": "1'08\"",
@@ -10980,6 +11410,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/432.mp3",
       "entry": "",
       "abilities": "Main: Thick Fat, Own Tempo | Hidden: Defiant",
       "height": "3'03\"",
@@ -11004,6 +11435,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/433.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "0'08\"",
@@ -11029,6 +11461,7 @@
         "T1": "Poison",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/434.mp3",
       "entry": "",
       "abilities": "Main: Stench, Aftermath | Hidden: Keen Eye",
       "height": "1'04\"",
@@ -11054,6 +11487,7 @@
         "T1": "Poison",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/435.mp3",
       "entry": "",
       "abilities": "Main: Stench, Aftermath | Hidden: Keen Eye",
       "height": "3'03\"",
@@ -11079,6 +11513,7 @@
         "T1": "Steel",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/436.mp3",
       "entry": "",
       "abilities": "Main: Levitate, HeatProof | Hidden: Heavy Metal",
       "height": "1'08\"",
@@ -11104,6 +11539,7 @@
         "T1": "Steel",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/437.mp3",
       "entry": "",
       "abilities": "Main: Levitate, HeatProof | Hidden: Heavy Metal",
       "height": "4'03\"",
@@ -11128,6 +11564,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/438.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Rock Head | Hidden: Rattled",
       "height": "1'08\"",
@@ -11153,6 +11590,7 @@
         "T1": "Psychic",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/439.mp3",
       "entry": "",
       "abilities": "Main: Soundproof, Filter | Hidden: Technician",
       "height": "2'00\"",
@@ -11177,6 +11615,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/440.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure, Serene Grace | Hidden: Friend Guard",
       "height": "2'00\"",
@@ -11202,6 +11641,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/441.mp3",
       "entry": "",
       "abilities": "Main: Keen Eye, Tangled Feet | Hidden: Big Pecks",
       "height": "1'08\"",
@@ -11227,6 +11667,7 @@
         "T1": "Ghost",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/442.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Infiltrator",
       "height": "3'03\"",
@@ -11252,6 +11693,7 @@
         "T1": "Dragon",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/443.mp3",
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Rough Skin",
       "height": "2'04\"",
@@ -11277,6 +11719,7 @@
         "T1": "Dragon",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/444.mp3",
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Rough Skin",
       "height": "4'07\"",
@@ -11302,6 +11745,7 @@
         "T1": "Dragon",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/445.mp3",
       "entry": "",
       "abilities": "Main: Sand Veil | Hidden: Rough Skin",
       "height": "6'03\"",
@@ -11326,6 +11770,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/446.mp3",
       "entry": "",
       "abilities": "Main: Pickup, Thick Fat | Hidden: Gluttony",
       "height": "2'00\"",
@@ -11350,6 +11795,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/447.mp3",
       "entry": "",
       "abilities": "Main: Steadfast, Inner Focus | Hidden: Prankster",
       "height": "2'04\"",
@@ -11375,6 +11821,7 @@
         "T1": "Fighting",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/448.mp3",
       "entry": "",
       "abilities": "Main: Steadfast, Inner Focus | Hidden: Justified",
       "height": "3'11\"",
@@ -11399,6 +11846,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/449.mp3",
       "entry": "",
       "abilities": "Main: Sand Stream | Hidden: Sand Force",
       "height": "2'07\"",
@@ -11423,6 +11871,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/450.mp3",
       "entry": "",
       "abilities": "Main: Sand Stream | Hidden: Sand Force",
       "height": "6'07\"",
@@ -11448,6 +11897,7 @@
         "T1": "Poison",
         "T2": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/451.mp3",
       "entry": "",
       "abilities": "Main: Battle Armor, Sniper | Hidden: Keen Eye",
       "height": "2'07\"",
@@ -11473,6 +11923,7 @@
         "T1": "Poison",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/452.mp3",
       "entry": "",
       "abilities": "Main: Battle Armor, Sniper | Hidden: Keen Eye",
       "height": "4'03\"",
@@ -11498,6 +11949,7 @@
         "T1": "Poison",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/453.mp3",
       "entry": "",
       "abilities": "Main: Anticipation, Dry Skin | Hidden: Poison Touch",
       "height": "2'04\"",
@@ -11523,6 +11975,7 @@
         "T1": "Poison",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/454.mp3",
       "entry": "",
       "abilities": "Main: Anticipation, Dry Skin | Hidden: Poison Touch",
       "height": "4'03\"",
@@ -11547,6 +12000,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/455.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "4'07\"",
@@ -11571,6 +12025,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/456.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Storm Drain | Hidden: Water Veil",
       "height": "1'04\"",
@@ -11595,6 +12050,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/457.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Storm Drain | Hidden: Water Veil",
       "height": "3'11\"",
@@ -11620,6 +12076,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/458.mp3",
       "entry": "",
       "abilities": "Main: Swift Swim, Water Absorb | Hidden: Water Veil",
       "height": "3'03\"",
@@ -11645,6 +12102,7 @@
         "T1": "Grass",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/459.mp3",
       "entry": "",
       "abilities": "Main: Snow Warning | Hidden: Soundproof",
       "height": "3'03\"",
@@ -11670,6 +12128,7 @@
         "T1": "Grass",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/460.mp3",
       "entry": "",
       "abilities": "Main: Snow Warning | Hidden: Soundproof",
       "height": "7'03\"",
@@ -11695,6 +12154,7 @@
         "T1": "Dark",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/461.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Pickpocket",
       "height": "3'07\"",
@@ -11720,6 +12180,7 @@
         "T1": "Electric",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/462.mp3",
       "entry": "",
       "abilities": "Main: Magnet Pull, Sturdy | Hidden: Analytic",
       "height": "3'11\"",
@@ -11744,6 +12205,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/463.mp3",
       "entry": "",
       "abilities": "Main: Own Tempo, Oblivious | Hidden: Cloud Nine",
       "height": "5'07\"",
@@ -11769,6 +12231,7 @@
         "T1": "Ground",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/464.mp3",
       "entry": "",
       "abilities": "Main: Lightning Rod, Solid Rock | Hidden: Reckless",
       "height": "7'10\"",
@@ -11793,6 +12256,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/465.mp3",
       "entry": "",
       "abilities": "Main: Chlorophyll, Leaf Guard | Hidden: Regenerator",
       "height": "6'07\"",
@@ -11817,6 +12281,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/466.mp3",
       "entry": "",
       "abilities": "Main: Motor Drive | Hidden: Vital Spirit",
       "height": "5'11\"",
@@ -11841,6 +12306,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/467.mp3",
       "entry": "",
       "abilities": "Main: Flame Body | Hidden: Vital Spirit",
       "height": "5'03\"",
@@ -11866,6 +12332,7 @@
         "T1": "Fairy",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/468.mp3",
       "entry": "",
       "abilities": "Main: Hustle, Serene Grace | Hidden: Super Luck",
       "height": "4'11\"",
@@ -11890,6 +12357,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/469.mp3",
       "entry": "",
       "abilities": "Main: Speed Boost, Tinted Lens | Hidden: Frisk",
       "height": "6'03\"",
@@ -11914,6 +12382,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/470.mp3",
       "entry": "",
       "abilities": "Main: Leaf Guard | Hidden: Chlorophyll",
       "height": "3'03\"",
@@ -11938,6 +12407,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/471.mp3",
       "entry": "",
       "abilities": "Main: Snow Cloak | Hidden: Ice Body",
       "height": "2'07\"",
@@ -11963,6 +12433,7 @@
         "T1": "Ground",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/472.mp3",
       "entry": "",
       "abilities": "Main: Hyper Cutter, Sand Veil | Hidden: Poison Heal",
       "height": "6'07\"",
@@ -11988,6 +12459,7 @@
         "T1": "Ice",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/473.mp3",
       "entry": "",
       "abilities": "Main: Oblvious, Snow Cloak | Hidden: Thick Fat",
       "height": "8'02\"",
@@ -12012,6 +12484,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/474.mp3",
       "entry": "",
       "abilities": "Main: Adaptability, Download | Hidden: Analytic",
       "height": "2'11\"",
@@ -12037,6 +12510,7 @@
         "T1": "Psychic",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/475.mp3",
       "entry": "",
       "abilities": "Main: Steadfast | Hidden: Justified",
       "height": "5'03\"",
@@ -12062,6 +12536,7 @@
         "T1": "Rock",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/476.mp3",
       "entry": "",
       "abilities": "Main: Sturdy, Magnet Pull | Hidden: Sand Force",
       "height": "4'07\"",
@@ -12086,6 +12561,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/477.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Frisk",
       "height": "7'03\"",
@@ -12111,6 +12587,7 @@
         "T1": "Ice",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/478.mp3",
       "entry": "",
       "abilities": "Main: Snow Cloak | Hidden: Cursed Body",
       "height": "4'03\"",
@@ -12136,6 +12613,7 @@
         "T1": "Electric",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/479.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'00\"",
@@ -12160,6 +12638,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/480.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'00\"",
@@ -12184,6 +12663,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/481.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'00\"",
@@ -12208,6 +12688,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/482.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "1'00\"",
@@ -12233,6 +12714,7 @@
         "T1": "Dragon",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/483.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Telepathy",
       "height": "17'09\"",
@@ -12258,6 +12740,7 @@
         "T1": "Dragon",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/484.mp3",
       "entry": "",
       "abilities": "Main: Pressure | Hidden: Telepathy",
       "height": "13'09\"",
@@ -12283,6 +12766,7 @@
         "T1": "Steel",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/485.mp3",
       "entry": "",
       "abilities": "Main: Flash Fire | Hidden: Flame Body",
       "height": "5'07\"",
@@ -12307,6 +12791,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/486.mp3",
       "entry": "",
       "abilities": "Main: Slow Start",
       "height": "12'02\"",
@@ -12332,6 +12817,7 @@
         "T1": "Ghost",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/487.mp3",
       "entry": "",
       "abilities": "Main: Pressure, Levitate | Hidden: Telepathy",
       "height": "14'09\"",
@@ -12356,6 +12842,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/488.mp3",
       "entry": "",
       "abilities": "Main: Levitate",
       "height": "4'11\"",
@@ -12380,6 +12867,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/489.mp3",
       "entry": "",
       "abilities": "Main: Hydration",
       "height": "1'04\"",
@@ -12404,6 +12892,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/490.mp3",
       "entry": "",
       "abilities": "Main: Hydration",
       "height": "1'00\"",
@@ -12428,6 +12917,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/491.mp3",
       "entry": "",
       "abilities": "Main: Bad Dreams",
       "height": "4'11\"",
@@ -12452,6 +12942,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/492.mp3",
       "entry": "",
       "abilities": "Main: Natural Cure, Serene Grace",
       "height": "0'08\"",
@@ -12476,6 +12967,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/493.mp3",
       "entry": "",
       "abilities": "Main: Multitype",
       "height": "10'06\"",
