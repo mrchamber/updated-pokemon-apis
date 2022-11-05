@@ -2782,7 +2782,7 @@
         "T2": "Psychic"
       },
       "entry": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
-      "abilities": "Main: Chlorophyl | Hidden: Harvest",
+      "abilities": "Main: Chlorophyll | Hidden: Harvest",
       "height": "1'04\"",
       "weight": "5.5 lbs.",
       "stats": {
@@ -12489,6 +12489,3824 @@
       },
       "generation": {
         "name": "generation4"
+      }
+    },
+    {
+      "id": 494,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/494.png",
+      "name": "Victini",
+      "category": "Victory",
+      "type": {
+        "T1": "Psychic",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Victory Star",
+      "height": "1'04\"",
+      "weight": "8.8 lbs.",
+      "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "SpAtk": 100,
+        "SpDef": 100,
+        "Speed": 100
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    }, 
+    {
+      "id": 495,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/495.png",
+      "name": "Snivy",
+      "category": "Grass Snake",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Overgrow | Hidden: Contrary",
+      "height": "2'00\"",
+      "weight": "17.9 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 55,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Speed": 63
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 496,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/496.png",
+      "name": "Servine",
+      "category": "Grass Snake",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Overgrow | Hidden: Contrary",
+      "height": "2'07\"",
+      "weight": "35.3 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "SpAtk": 60,
+        "SpDef": 75,
+        "Speed": 83
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 497,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/497.png",
+      "name": "Serperior",
+      "category": "Regal",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Overgrow | Hidden: Contrary",
+      "height": "10'10\"",
+      "weight": "138.9 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 95,
+        "SpAtk": 75,
+        "SpDef": 95,
+        "Speed": 113
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 498,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/498.png",
+      "name": "Tepig",
+      "category": "Fire Pig",
+      "type": {
+        "T1": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Blaze | Hidden: Thick Fat",
+      "height": "1'08\"",
+      "weight": "21.8 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 63,
+        "Defense": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 499,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/499.png",
+      "name": "Pignite",
+      "category": "Fire Pig",
+      "type": {
+        "T1": "Fire", 
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Blaze | Hidden: Thick Fat",
+      "height": "3'03\"",
+      "weight": "122.4 lbs.",
+      "stats": {
+        "HP": 90,
+        "Attack": 93,
+        "Defense": 55,
+        "SpAtk": 70,
+        "SpDef": 55,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 500,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/500.png",
+      "name": "Emboar",
+      "category": "Mega Fire Pig",
+      "type": {
+        "T1": "Fire",
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Blaze | Hidden: Reckless",
+      "height": "5'03\"",
+      "weight": "330.7 lbs.",
+      "stats": {
+        "HP": 110,
+        "Attack": 123,
+        "Defense": 65,
+        "SpAtk": 100,
+        "SpDef": 65,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 501,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/501.png",
+      "name": "Oshawott",
+      "category": "Sea Otter",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Torrent | Hidden: Shell Armor",
+      "height": "1'08\"",
+      "weight": "13.0 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 45,
+        "SpAtk": 63,
+        "SpDef": 45,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 502,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/502.png",
+      "name": "Dewott",
+      "category": "Discipline",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Torrent | Hidden: Shell Armor",
+      "height": "2'07\"",
+      "weight": "54.0 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 60,
+        "SpAtk": 83,
+        "SpDef": 60,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 503,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/503.png",
+      "name": "Samurott",
+      "category": "Formidable",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Torrent | Hidden: Shell Armor",
+      "height": "4'11\"",
+      "weight": "208.6 lbs.",
+      "stats": {
+        "HP": 95,
+        "Attack": 100,
+        "Defense": 85,
+        "SpAtk": 108,
+        "SpDef": 70,
+        "Speed": 70
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 504,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/504.png",
+      "name": "Patrat",
+      "category": "Scout",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Run Away, Keen Eye | Hidden: Analytic",
+      "height": "1'08\"",
+      "weight": "25.6 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 30,
+        "SpAtk": 35,
+        "SpDef": 39,
+        "Speed": 42
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 505,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/505.png",
+      "name": "Watchdog",
+      "category": "Lookout",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Illuminate, Keen Eye | Hidden: Analytic",
+      "height": "3'07\"",
+      "weight": "59.5 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 69,
+        "SpAtk": 60,
+        "SpDef": 69,
+        "Speed": 77
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 506,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/506.png",
+      "name": "Lillipup",
+      "category": "Puppy",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Vital Spirit, Pickup | Hidden: Run Away",
+      "height": "1'04\"",
+      "weight": "9.0 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 45,
+        "SpAtk": 25,
+        "SpDef": 45,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 507,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/507.png",
+      "name": "Herdier",
+      "category": "Loyal Dog",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Intimidate, Sand Rush | Hidden: Scrappy",
+      "height": "2'11\"",
+      "weight": "32.4 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 65,
+        "SpAtk": 35,
+        "SpDef": 65,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 508,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/508.png",
+      "name": "Stoutland",
+      "category": "Big-Hearted",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Intimidate, Sand Rush | Hidden: Scrappy",
+      "height": "3'11\"",
+      "weight": "134.5 lbs.",
+      "stats": {
+        "HP": 85,
+        "Attack": 100,
+        "Defense": 90,
+        "SpAtk": 45,
+        "SpDef": 90,
+        "Speed": 80
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 509,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/509.png",
+      "name": "Purrloin",
+      "category": "Devious",
+      "type": {
+        "T1": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Limber, Unburden | Hidden: Prankster",
+      "height": "1'04\"",
+      "weight": "22.3 lbs.",
+      "stats": {
+        "HP": 41,
+        "Attack": 50,
+        "Defense": 37,
+        "SpAtk": 50,
+        "SpDef": 37,
+        "Speed": 66
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 510,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/510.png",
+      "name": "Liepard",
+      "category": "Cruel",
+      "type": {
+        "T1": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Limber, Unburden | Hidden: Prankster",
+      "height": "3'07\"",
+      "weight": "82.7 lbs.",
+      "stats": {
+        "HP": 64,
+        "Attack": 88,
+        "Defense": 50,
+        "SpAtk": 88,
+        "SpDef": 50,
+        "Speed": 106
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 511,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/511.png",
+      "name": "Pansage",
+      "category": "Grass Monkey",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony | Hidden: Overgrow",
+      "height": "2'00\"",
+      "weight": "23.1 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "SpAtk": 53,
+        "SpDef": 48,
+        "Speed": 64
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 512,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/512.png",
+      "name": "Simisage",
+      "category": "Thorn Monkey",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony | Hidden: Overgrow",
+      "height": "3'07\"",
+      "weight": "67.2 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "SpAtk": 98,
+        "SpDef": 63,
+        "Speed": 101
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 513,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/513.png",
+      "name": "Pansear",
+      "category": "High Temp",
+      "type": {
+        "T1": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony | Hidden: Blaze",
+      "height": "2'00\"",
+      "weight": "24.3 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "SpAtk": 53,
+        "SpDef": 48,
+        "Speed": 64
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 514,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/514.png",
+      "name": "Simisear",
+      "category": "Ember",
+      "type": {
+        "T1": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony | Hidden: Blaze",
+      "height": "3'03\"",
+      "weight": "61.7 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "SpAtk": 98,
+        "SpDef": 63,
+        "Speed": 101
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 515,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/515.png",
+      "name": "Panpour",
+      "category": "Spray",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony | Hidden: Torrent",
+      "height": "2'00\"",
+      "weight": "29.8 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "SpAtk": 53,
+        "SpDef": 48,
+        "Speed": 64
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 516,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/516.png",
+      "name": "Simipour",
+      "category": "Geyser",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony | Hidden: Torrent",
+      "height": "3'03\"",
+      "weight": "63.9 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "SpAtk": 98,
+        "SpDef": 63,
+        "Speed": 101
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 517,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/517.png",
+      "name": "Munna",
+      "category": "Dream Eater",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Forewarn, Synchronize | Hidden: Telepathy",
+      "height": "2'00\"",
+      "weight": "51.3 lbs.",
+      "stats": {
+        "HP": 76,
+        "Attack": 25,
+        "Defense": 45,
+        "SpAtk": 67,
+        "SpDef": 55,
+        "Speed": 24
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 518,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/518.png",
+      "name": "Musharna",
+      "category": "Drowsing",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Forewarn, Synchronize | Hidden: Telepathy",
+      "height": "3'07\"",
+      "weight": "133.4 lbs.",
+      "stats": {
+        "HP": 116,
+        "Attack": 55,
+        "Defense": 85,
+        "SpAtk": 107,
+        "SpDef": 95,
+        "Speed": 29
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 519,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/519.png",
+      "name": "Pidove",
+      "category": "Tiny Pigeon",
+      "type": {
+        "T1": "Normal", 
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Big Peck, Super Luck | Hidden: Rivalry",
+      "height": "1'00\"",
+      "weight": "4.6 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 55,
+        "Defense": 50,
+        "SpAtk": 36,
+        "SpDef": 30,
+        "Speed": 43
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 520,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/520.png",
+      "name": "Tranquill",
+      "category": "Wild Pigeon",
+      "type": {
+        "T1": "Normal", 
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Big Peck, Super Luck | Hidden: Rivalry",
+      "height": "2'00\"",
+      "weight": "33.1 lbs.",
+      "stats": {
+        "HP": 62,
+        "Attack": 77,
+        "Defense": 62,
+        "SpAtk": 50,
+        "SpDef": 42,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 521,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/521.png",
+      "name": "Unfezant",
+      "category": "Proud",
+      "type": {
+        "T1": "Normal",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Big Peck, Super Luck | Hidden: Rivalry",
+      "height": "3'11\"",
+      "weight": "63.9 lbs.",
+      "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 80,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Speed": 93
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 522,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/522.png",
+      "name": "Blitzle",
+      "category": "Electrified",
+      "type": {
+        "T1": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Lightning Rod, Motor Drive | Hidden: Sap Sipper",
+      "height": "2'07\"",
+      "weight": "65.7 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 32,
+        "SpAtk": 50,
+        "SpDef": 32,
+        "Speed": 76
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 523,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/523.png",
+      "name": "Zebstrika",
+      "category": "Electric",
+      "type": {
+        "T1": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Lightning Rod, Motor Drive | Hidden: Sap Sipper",
+      "height": "5'03\"",
+      "weight": "175.3 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 63,
+        "SpAtk": 80,
+        "SpDef": 63,
+        "Speed": 116
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 524,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/524.png",
+      "name": "Roggenrola",
+      "category": "Mantle",
+      "type": {
+        "T1": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Sturdy, Weak Armor | Hidden: Sand Force",
+      "height": "1'04\"",
+      "weight": "39.7 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 85,
+        "SpAtk": 25,
+        "SpDef": 25,
+        "Speed": 15
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 525,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/525.png",
+      "name": "Boldore",
+      "category": "Ore",
+      "type": {
+        "T1": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Sturdy, Weak Armor | Hidden: Sand Force",
+      "height": "2'11\"",
+      "weight": "224.9 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 105,
+        "SpAtk": 50,
+        "SpDef": 40,
+        "Speed": 20
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 526,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/526.png",
+      "name": "Gigalith",
+      "category": "Compressed",
+      "type": {
+        "T1": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Sturdy, Sand Stream | Hidden: Sand Force",
+      "height": "5'07\"",
+      "weight": "573.2 lbs.",
+      "stats": {
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 130,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Speed": 25
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 527,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/527.png",
+      "name": "Woobat",
+      "category": "Bat",
+      "type": {
+        "T1": "Psychic", 
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Unaware, Klutz | Hidden: Simple",
+      "height": "1'04\"",
+      "weight": "4.6 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 43,
+        "SpAtk": 55,
+        "SpDef": 43,
+        "Speed": 72
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 528,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/528.png",
+      "name": "Swoobat",
+      "category": "Courting",
+      "type": {
+        "T1": "Psychic", 
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Unaware, Klutz | Hidden: Simple",
+      "height": "2'11\"",
+      "weight": "23.1 lbs.",
+      "stats": {
+        "HP":67 ,
+        "Attack": 57,
+        "Defense": 55,
+        "SpAtk": 77,
+        "SpDef": 55,
+        "Speed": 114
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 529,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/529.png",
+      "name": "Drilbur",
+      "category": "Mole",
+      "type": {
+        "T1": "Ground"
+      },
+      "entry": "",
+      "abilities": "Main: Sand Rush, Sand Force | Hidden: Mold Breaker",
+      "height": "1'00\"",
+      "weight": "18.7 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 40,
+        "SpAtk": 30,
+        "SpDef": 45,
+        "Speed": 68
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 530,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/530.png",
+      "name": "Excadrill",
+      "category": "Subterrene",
+      "type": {
+        "T1": "Ground",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Sand Rush, Sand Force | Hidden: Mold Breaker",
+      "height": "2'04\"",
+      "weight": "89.1 lbs.",
+      "stats": {
+        "HP": 110,
+        "Attack": 135,
+        "Defense": 60,
+        "SpAtk": 50,
+        "SpDef": 65,
+        "Speed": 88
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 531,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/531.png",
+      "name": "Audino",
+      "category": "Hearing",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Healer, Regenerator | Hidden: Klutz",
+      "height": "3'07\"",
+      "weight": "68.3 lbs.",
+      "stats": {
+        "HP": 103,
+        "Attack": 60,
+        "Defense": 86,
+        "SpAtk": 60,
+        "SpDef": 86,
+        "Speed": 50
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 532,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/532.png",
+      "name": "Timburr",
+      "category": "Muscular",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Guts, Sheer Force | Hidden: Iron Fist",
+      "height": "2'00\"",
+      "weight": "27.6 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 55,
+        "SpAtk": 25,
+        "SpDef": 35,
+        "Speed": 35
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 533,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/533.png",
+      "name": "Gurdurr",
+      "category": "Muscular",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Guts, Sheer Force | Hidden: Iron Fist",
+      "height": "3'11\"",
+      "weight": "88.2 lbs.",
+      "stats": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 85,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Speed": 40
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 534,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/534.png",
+      "name": "Conkeldurr",
+      "category": "Muscular",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Guts, Sheer Force | Hidden: Iron Fist",
+      "height": "4'07\"",
+      "weight": "191.8 lbs.",
+      "stats": {
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 95,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 535,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/535.png",
+      "name": "Tympole",
+      "category": "Tadpole",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Swift Swim, Hydration | Hidden: Water Absorb",
+      "height": "1'08\"",
+      "weight": "9.9 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "SpAtk": 50,
+        "SpDef": 40,
+        "Speed": 64
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 536,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/536.png",
+      "name": "Palpitoad",
+      "category": "Vibration",
+      "type": {
+        "T1": "Water",
+        "T2": "Ground"
+      },
+      "entry": "",
+      "abilities": "Main: Swift Swim, Hydration | Hidden: Water Absorb",
+      "height": "2'07\"",
+      "weight": "37.5 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 65,
+        "Defense": 55,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Speed": 69
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 537,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/537.png",
+      "name": "Seismitoad",
+      "category": "Vibration",
+      "type": {
+        "T1": "Water", 
+        "T2": "Ground"
+      },
+      "entry": "",
+      "abilities": "Main: Swift Swim, Poison Touch | Hidden: Water Absorb",
+      "height": "4'11\"",
+      "weight": "136.7 lbs.",
+      "stats": {
+        "HP": 105,
+        "Attack": 85,
+        "Defense": 75,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Speed": 74
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 538,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/538.png",
+      "name": "Throh",
+      "category": "Judo",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Guts, Inner Focus | Hidden: Mold Breaker",
+      "height": "4'03\"",
+      "weight": "122.4 lbs.",
+      "stats": {
+        "HP": 120,
+        "Attack": 100,
+        "Defense": 85,
+        "SpAtk": 30,
+        "SpDef": 85,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 539,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/539.png",
+      "name": "Sawk",
+      "category": "Karate",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Sturdy, Inner Focus | Hidden: Mold Breaker",
+      "height": "4'07\"",
+      "weight": "112.4 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 75,
+        "SpAtk": 30,
+        "SpDef": 75,
+        "Speed": 85
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 540,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/540.png",
+      "name": "Sewaddle",
+      "category": "Sewing",
+      "type": {
+        "T1": "Bug", 
+        "T2": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Swarm, Chlorophyll | Hidden: Overcoat",
+      "height": "1'00\"",
+      "weight": "5.5 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 53,
+        "Defense": 70,
+        "SpAtk": 40,
+        "SpDef": 60,
+        "Speed": 42
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 541,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/541.png",
+      "name": "Swadloon",
+      "category": "Leaf-Wrapped",
+      "type": {
+        "T1": "Bug",
+        "T2": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Leaf Guard, Chlorophyll | Hidden: Overcoat",
+      "height": "1'08\"",
+      "weight": "16.1 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 63,
+        "Defense": 90,
+        "SpAtk": 50,
+        "SpDef": 80,
+        "Speed": 42
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 542,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/542.png",
+      "name": "Leavanny",
+      "category": "Nuturing",
+      "type": {
+        "T1": "Bug",
+        "T2": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Swarm, Chlorophyll | Hidden: Overcoat",
+      "height": "3'11\"",
+      "weight": "45.2 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 103,
+        "Defense": 80,
+        "SpAtk": 70,
+        "SpDef": 70,
+        "Speed": 92
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 543,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/543.png",
+      "name": "Venipede",
+      "category": "Centipede",
+      "type": {
+        "T1": "Bug",
+        "T2": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Poison Point, Swarm | Hidden: Speed Boost",
+      "height": "1'04\"",
+      "weight": "11.7 lbs.",
+      "stats": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 59,
+        "SpAtk": 30,
+        "SpDef": 39,
+        "Speed": 57
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 544,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/544.png",
+      "name": "Whirlipede",
+      "category": "Curlipede",
+      "type": {
+        "T1": "Bug",
+        "T2": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Poison Point, Swarm | Hidden: Speed Boost",
+      "height": "3'11\"",
+      "weight": "129.0 lbs.",
+      "stats": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 99,
+        "SpAtk": 40,
+        "SpDef": 79,
+        "Speed": 47
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 545,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/545.png",
+      "name": "Scolipede",
+      "category": "Megapede",
+      "type": {
+        "T1": "Bug",
+        "T2": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Poison Point, Swarm | Hidden: Speed Boost",
+      "height": "8'02\"",
+      "weight": "442.0 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 89,
+        "SpAtk": 55,
+        "SpDef": 69,
+        "Speed": 112
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 546,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/546.png",
+      "name": "Cottonee",
+      "category": "Cotton Puff",
+      "type": {
+        "T1": "Grass",
+        "T2": "Fairy"
+      },
+      "entry": "",
+      "abilities": "Main: Prankster, Infiltrator | Hidden: Chlorophyll",
+      "height": "1'00\"",
+      "weight": "1.3 lbs.",
+      "stats": {
+        "HP": 40,
+        "Attack": 27,
+        "Defense": 60,
+        "SpAtk": 37,
+        "SpDef": 50,
+        "Speed": 66
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 547,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/547.png",
+      "name": "Whimsicott",
+      "category": "Windveiled",
+      "type": {
+        "T1": "Grass",
+        "T2": "Fairy"
+      },
+      "entry": "",
+      "abilities": "Main: Prankster, Infiltrator | Hidden: Chlorophyll",
+      "height": "2'04\"",
+      "weight": "14.6 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 67,
+        "Defense": 85,
+        "SpAtk": 77,
+        "SpDef": 75,
+        "Speed": 116
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 548,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/548.png",
+      "name": "Petilil",
+      "category": "Bulb",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Chlorophyll, Own Tempo | Hidden: Leaf Guard",
+      "height": "1'08\"",
+      "weight": "14.6 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 50,
+        "SpAtk": 70,
+        "SpDef": 50,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 549,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/549.png",
+      "name": "Lilligant",
+      "category": "Flowering",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Chlorophyll, Own Tempo | Hidden: Leaf Guard",
+      "height": "3'07\"",
+      "weight": "35.9 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 75,
+        "SpAtk": 110,
+        "SpDef": 75,
+        "Speed": 90
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 550,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/550.png",
+      "name": "Basculin",
+      "category": "Hostile",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Reckless, Adaptability | Hidden: Mold Breaker",
+      "height": "3'03\"",
+      "weight": "39.7 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 92,
+        "Defense": 65,
+        "SpAtk": 80,
+        "SpDef": 55,
+        "Speed": 98
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 551,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/551.png",
+      "name": "Sandile",
+      "category": "Desert Croc",
+      "type": {
+        "T1": "Ground",
+        "T2": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Intimidate, Moxie | Hidden: Anger Point",
+      "height": "2'04\"",
+      "weight": "33.5 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 72,
+        "Defense": 35,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 552,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/552.png",
+      "name": "Krokorok",
+      "category": "Desert Croc",
+      "type": {
+        "T1": "Ground",
+        "T2": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Intimidate, Moxie | Hidden: Anger Point",
+      "height": "3'03\"",
+      "weight": "73.6 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 82,
+        "Defense": 45,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Speed": 74
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 553,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/553.png",
+      "name": "Krookodile",
+      "category": "Intimidation",
+      "type": {
+        "T1": "Ground",
+        "T2": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Intimidate, Moxie | Hidden: Anger Point",
+      "height": "4'11\"",
+      "weight": "212.3 lbs.",
+      "stats": {
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 70,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Speed": 92
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 554,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/554.png",
+      "name": "Darumaka",
+      "category": "Zen Charm",
+      "type": {
+        "T1": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Hustle | Hidden: Inner Focus",
+      "height": "2'00\"",
+      "weight": "82.7 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 45,
+        "SpAtk": 15,
+        "SpDef": 45,
+        "Speed": 50
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 555,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/555.png",
+      "name": "Darmanitan",
+      "category": "Blazing",
+      "type": {
+        "T1": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Sheer Force | Hidden: Zen Mode",
+      "height": "4'03\"",
+      "weight": "204.8 lbs.",
+      "stats": {
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 55,
+        "SpAtk": 30,
+        "SpDef": 55,
+        "Speed": 95
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 556,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/556.png",
+      "name": "Maractus",
+      "category": "Cactus",
+      "type": {
+        "T1": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Water Absorb, Chlorophyll | Hidden: Storm Drain",
+      "height": "3'03\"",
+      "weight": "61.7 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 86,
+        "Defense": 67,
+        "SpAtk": 106,
+        "SpDef": 67,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 557,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/557.png",
+      "name": "Dweeble",
+      "category": "Rock Inn",
+      "type": {
+        "T1": "Bug", 
+        "T2": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Sturdy, Shell Armor | Hidden: Weak Armor",
+      "height": "1'00\"",
+      "weight": "32.0 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 85,
+        "SpAtk": 35,
+        "SpDef": 35,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 558,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/558.png",
+      "name": "Crustle",
+      "category": "Stone Home",
+      "type": {
+        "T1": "Bug",
+        "T2": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Sturdy, Shell Armor | Hidden: Weak Armor",
+      "height": "4'07\"",
+      "weight": "440.9 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 125,
+        "SpAtk": 65,
+        "SpDef": 75,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 559,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/559.png",
+      "name": "Scraggy",
+      "category": "Shedding",
+      "type": {
+        "T1": "Dark", 
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Shed Skin, Moxie | Hidden: Intimidate",
+      "height": "2'00\"",
+      "weight": "26.0 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 70,
+        "SpAtk": 35,
+        "SpDef": 70,
+        "Speed": 48
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 560,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/560.png",
+      "name": "Scrafty",
+      "category": "Hoodlum",
+      "type": {
+        "T1": "Dark", 
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Shed Skin, Moxie | Hidden: Intimidate",
+      "height": "3'07\"",
+      "weight": "66.1 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 115,
+        "SpAtk": 45,
+        "SpDef": 115,
+        "Speed": 58
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 561,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/561.png",
+      "name": "Sigilyph",
+      "category": "Avianoid",
+      "type": {
+        "T1": "Psychic", 
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Wonder Skin, Magic Guard | Hidden: Tinted Lens",
+      "height": "4'07\"",
+      "weight": "30.9 lbs.",
+      "stats": {
+        "HP": 72,
+        "Attack": 58,
+        "Defense": 80,
+        "SpAtk": 103,
+        "SpDef": 80,
+        "Speed": 97
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 562,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/562.png",
+      "name": "Yanmask",
+      "category": "Spirit",
+      "type": {
+        "T1": "Ghost"
+      },
+      "entry": "",
+      "abilities": "Main: Mummy",
+      "height": "1'08\"",
+      "weight": "3.3 lbs.",
+      "stats": {
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 85,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 563,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/563.png",
+      "name": "Cofagrigus",
+      "category": "Coffin",
+      "type": {
+        "T1": "Ghost"
+      },
+      "entry": "",
+      "abilities": "Main: Mummy",
+      "height": "5'07\"",
+      "weight": "168.7 lbs.",
+      "stats": {
+        "HP": 58,
+        "Attack": 50,
+        "Defense": 145,
+        "SpAtk": 95,
+        "SpDef": 105,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 564,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/564.png",
+      "name": "Tirtouga",
+      "category": "Prototurtle",
+      "type": {
+        "T1": "Water",
+        "T2": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Solid Rock, Sturdy | Hidden: Swift Swim",
+      "height": "2'04\"",
+      "weight": "36.4 lbs.",
+      "stats": {
+        "HP": 54,
+        "Attack": 78,
+        "Defense": 103,
+        "SpAtk": 53,
+        "SpDef": 45,
+        "Speed": 22
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 565,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/565.png",
+      "name": "Carracosta",
+      "category": "Prototurtle",
+      "type": {
+        "T1": "Water", 
+        "T2": "Rock"
+      },
+      "entry": "",
+      "abilities": "Main: Solid Rock, Sturdy | Hidden: Swift Swim",
+      "height": "3'11\"",
+      "weight": "178.6 lbs.",
+      "stats": {
+        "HP": 74,
+        "Attack": 108,
+        "Defense": 133,
+        "SpAtk": 83,
+        "SpDef": 65,
+        "Speed": 32
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 566,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/566.png",
+      "name": "Archen",
+      "category": "First Bird",
+      "type": {
+        "T1": "Rock",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Defeatist",
+      "height": "1'08\"",
+      "weight": "20.9 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 112,
+        "Defense": 45,
+        "SpAtk": 74,
+        "SpDef": 45,
+        "Speed": 70
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 567,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/567.png",
+      "name": "Archeops",
+      "category": "First Bird",
+      "type": {
+        "T1": "Rock", 
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Defeatist",
+      "height": "4'07\"",
+      "weight": "70.5 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 140,
+        "Defense": 65,
+        "SpAtk": 112,
+        "SpDef": 65,
+        "Speed": 110
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 568,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/568.png",
+      "name": "Trubbish",
+      "category": "Trash Bag",
+      "type": {
+        "T1": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Stench, Sticky Hold | Hidden: Aftermath",
+      "height": "2'00\"",
+      "weight": "68.3 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 62,
+        "SpAtk": 40,
+        "SpDef": 62,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 569,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/569.png",
+      "name": "Garbidor",
+      "category": "Trash Heap",
+      "type": {
+        "T1": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Stench, Weak Armor | Hidden: Aftermath",
+      "height": "6'03\"",
+      "weight": "236.6 lbs.",
+      "stats": {
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 82,
+        "SpAtk": 60,
+        "SpDef": 82,
+        "Speed": 75
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 570,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/570.png",
+      "name": "Zorua",
+      "category": "Tricky Fox",
+      "type": {
+        "T1": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Illusion",
+      "height": "2'04\"",
+      "weight": "27.6 lbs.",
+      "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 40,
+        "SpAtk": 80,
+        "SpDef": 40,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 571,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/571.png",
+      "name": "Zoroark",
+      "category": "Illusion Fox",
+      "type": {
+        "T1": "Dark"
+      },
+      "entry": "",
+      "abilities": "Main: Illusion",
+      "height": "5'03\"",
+      "weight": "178.8 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 105,
+        "Defense": 60,
+        "SpAtk": 120,
+        "SpDef": 60,
+        "Speed": 105
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 572,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/572.png",
+      "name": "Minccino",
+      "category": "Chinchilla",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Cute Charm, Technician | Hidden: Skill Link",
+      "height": "1'04\"",
+      "weight": "12.8 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 40,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Speed": 75 
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 573,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/573.png",
+      "name": "Cinccino",
+      "category": "Scarf",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Cute Charm, Technician | Hidden: Skill Link",
+      "height": "1'08\"",
+      "weight": "16.5 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 60,
+        "SpAtk": 65,
+        "SpDef": 60,
+        "Speed": 115
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 574,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/574.png",
+      "name": "Gothita",
+      "category": "Fixation",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Frisk, Competitive | Hidden: Shadow Tag",
+      "height": "1'04\"",
+      "weight": "12.8 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "SpAtk": 55,
+        "SpDef": 65,
+        "Speed": 45
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 575,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/575.png",
+      "name": "Gothorita",
+      "category": "Manipulate",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Frisk, Competitive | Hidden: Shadow Tag",
+      "height": "2'04\"",
+      "weight": "39.7 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "SpAtk": 75,
+        "SpDef": 85,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 576,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/576.png",
+      "name": "Gothitelle",
+      "category": "Astral Body",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Frisk, Competitive | Hidden: Shadow Tag",
+      "height": "4'11\"",
+      "weight": "97.0 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 95,
+        "SpAtk": 95,
+        "SpDef": 110,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 577,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/577.png",
+      "name": "Solosis",
+      "category": "Cell",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Overcoat, Magic Guard | Hidden: Regenerator",
+      "height": "1'00\"",
+      "weight": "2.2 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 40,
+        "SpAtk": 105,
+        "SpDef": 50,
+        "Speed": 20
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 578,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/578.png",
+      "name": "Duosion",
+      "category": "Mitosis",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Overcoat, Magic Guard | Hidden: Regenerator",
+      "height": "2'00\"",
+      "weight": "17.6 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 50,
+        "SpAtk": 125,
+        "SpDef": 60,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 579,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/579.png",
+      "name": "Reuniclus",
+      "category": "Multiplying",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Overcoat, Magic Guard | Hidden: Regenerator",
+      "height": "3'03\"",
+      "weight": "44.3 lbs.",
+      "stats": {
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 75,
+        "SpAtk": 125,
+        "SpDef": 85,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 580,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/580.png",
+      "name": "Ducklett",
+      "category": "Water Bird",
+      "type": {
+        "T1": "Water",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Keen Eye, Big Pecks | Hidden: Hydration",
+      "height": "1'08\"",
+      "weight": "12.1 lbs.",
+      "stats": {
+        "HP": 62,
+        "Attack": 44,
+        "Defense": 50,
+        "SpAtk": 44,
+        "SpDef": 50,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 581,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/581.png",
+      "name": "Swanna",
+      "category": "White Bird",
+      "type": {
+        "T1": "Water",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Keen Eye, Big Pecks | Hidden: Hydration",
+      "height": "4'03\"",
+      "weight": "53.4 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 87,
+        "Defense": 63,
+        "SpAtk": 87,
+        "SpDef": 63,
+        "Speed": 98
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 582,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/582.png",
+      "name": "Vanillite",
+      "category": "Fresh Snow",
+      "type": {
+        "T1": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Ice Body, Snow Cloak | Hidden: Weak Armor",
+      "height": "1'04\"",
+      "weight": "12.6 lbs.",
+      "stats": {
+        "HP": 36,
+        "Attack": 50,
+        "Defense": 50,
+        "SpAtk": 65,
+        "SpDef": 60,
+        "Speed": 44
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 583,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/583.png",
+      "name": "Vanillish",
+      "category": "Icy Snow",
+      "type": {
+        "T1": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Ice Body, Snow Cloak | Hidden: Weak Armor",
+      "height": "3'07\"",
+      "weight": "90.4 lbs.",
+      "stats": {
+        "HP": 51,
+        "Attack": 65,
+        "Defense": 65,
+        "SpAtk": 80,
+        "SpDef": 75,
+        "Speed": 59
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 584,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/584.png",
+      "name": "Vaniluxe",
+      "category": "Ice",
+      "type": {
+        "T1": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Ice Body, Snow Cloak | Hidden: Weak Armor",
+      "height": "4'03\"",
+      "weight": "126.8 lbs.",
+      "stats": {
+        "HP": 71,
+        "Attack": 95,
+        "Defense": 85,
+        "SpAtk": 110,
+        "SpDef": 95,
+        "Speed": 79
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 585,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/585.png",
+      "name": "Deerling",
+      "category": "Season",
+      "type": {
+        "T1": "Normal", 
+        "T2": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Chlorophyll, Sap Sipper | Hidden: Serene Grace",
+      "height": "2'00\"",
+      "weight": "43.0 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 50,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Speed": 75
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 586,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/586.png",
+      "name": "Sawsbuck",
+      "category": "Season",
+      "type": {
+        "T1": "Normal",
+        "T2": "Grass"
+      },
+      "entry": "",
+      "abilities": "Main: Chlorophyll, Sap Sipper | Hidden: Serene Grace",
+      "height": "6'03\"",
+      "weight": "203.9 lbs.",
+      "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 70,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Speed": 95
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 587,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/587.png",
+      "name": "Emolga",
+      "category": "Sky Squirrel",
+      "type": {
+        "T1": "Electric",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Static | Hidden: Motor Drive",
+      "height": "1'04\"",
+      "weight": "11.0 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 60,
+        "SpAtk": 75,
+        "SpDef": 60,
+        "Speed": 103
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 588,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/588.png",
+      "name": "Karrablast",
+      "category": "Clamping",
+      "type": {
+        "T1": "Bug"
+      },
+      "entry": "",
+      "abilities": "Main: Swarm, Shed Skin | Hidden: No Guard",
+      "height": "1'08\"",
+      "weight": "13.0 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 45,
+        "SpAtk": 40,
+        "SpDef": 45,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 589,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/589.png",
+      "name": "Escavalier",
+      "category": "Cavalry",
+      "type": {
+        "T1": "Bug",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Swarm, Shell Armor | Hidden: Overcoat",
+      "height": "3'03\"",
+      "weight": "72.8 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 105,
+        "SpAtk": 60,
+        "SpDef": 105,
+        "Speed": 20
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 590,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/590.png",
+      "name": "Foongus",
+      "category": "Mushroom",
+      "type": {
+        "T1": "Grass", 
+        "T2": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Effect Spore | Hidden: Regenerator",
+      "height": "0'08\"",
+      "weight": "2.2 lbs.",
+      "stats": {
+        "HP": 69,
+        "Attack": 55,
+        "Defense": 45,
+        "SpAtk": 55,
+        "SpDef": 55,
+        "Speed": 15
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 591,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/591.png",
+      "name": "Amoongus",
+      "category": "Mushroom",
+      "type": {
+        "T1": "Grass", 
+        "T2": "Poison"
+      },
+      "entry": "",
+      "abilities": "Main: Effect Spore | Hidden: Regenerator",
+      "height": "2'00\"",
+      "weight": "23.1 lbs.",
+      "stats": {
+        "HP": 114,
+        "Attack": 85,
+        "Defense": 70,
+        "SpAtk": 85,
+        "SpDef": 80,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 592,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/592.png",
+      "name": "Frillish",
+      "category": "Floating",
+      "type": {
+        "T1": "Water",
+        "T2": "Ghost"
+      },
+      "entry": "",
+      "abilities": "Main: Water Absorb, Cursed Body | Hidden: Damp",
+      "height": "3'11\"",
+      "weight": "72.8 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 50,
+        "SpAtk": 65,
+        "SpDef": 85,
+        "Speed": 40
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 593,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/593.png",
+      "name": "Jellicent",
+      "category": "Floating",
+      "type": {
+        "T1": "Water",
+        "T2": "Ghost"
+      },
+      "entry": "",
+      "abilities": "Main: Water Absorb, Cursed Body | Hidden: Damp",
+      "height": "7'03\"",
+      "weight": "297.6 lbs.",
+      "stats": {
+        "HP": 100,
+        "Attack": 60,
+        "Defense": 70,
+        "SpAtk": 85,
+        "SpDef": 105,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 594,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/594.png",
+      "name": "Alomomola",
+      "category": "Caring",
+      "type": {
+        "T1": "Water"
+      },
+      "entry": "",
+      "abilities": "Main: Healer, Hydration | Hidden: Regenerator",
+      "height": "3'11\"",
+      "weight": "69.7 lbs.",
+      "stats": {
+        "HP": 165,
+        "Attack": 75,
+        "Defense": 80,
+        "SpAtk": 40,
+        "SpDef": 45,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 595,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/595.png",
+      "name": "Joltik",
+      "category": "Attaching",
+      "type": {
+        "T1": "Bug",
+        "T2": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Compound Eyes, Unnerve | Hidden: Swarm",
+      "height": "0'04\"",
+      "weight": "1.3 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 47,
+        "Defense": 50,
+        "SpAtk": 57,
+        "SpDef": 50,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 596,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/596.png",
+      "name": "Galvantula",
+      "category": "EleSpider",
+      "type": {
+        "T1": "Bug",
+        "T2": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Compound Eyes, Unnerve | Hidden: Swarm",
+      "height": "2'07\"",
+      "weight": "31.5 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 77,
+        "Defense": 60,
+        "SpAtk": 97,
+        "SpDef": 60,
+        "Speed": 108
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 597,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/597.png",
+      "name": "Ferroseed",
+      "category": "Thorn Seed",
+      "type": {
+        "T1": "Grass",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Iron Barbs",
+      "height": "2'00\"",
+      "weight": "41.4 lbs.",
+      "stats": {
+        "HP": 44,
+        "Attack": 50,
+        "Defense": 91,
+        "SpAtk": 24,
+        "SpDef": 86,
+        "Speed": 10
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 598,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/598.png",
+      "name": "Ferrothorn",
+      "category": "Thorn Pod",
+      "type": {
+        "T1": "Grass",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Iron Barbs | Hidden: Anticipation",
+      "height": "3'03\"",
+      "weight": "242.2 lbs.",
+      "stats": {
+        "HP": 74,
+        "Attack": 94,
+        "Defense": 131,
+        "SpAtk": 54,
+        "SpDef": 116,
+        "Speed": 20
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 599,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/599.png",
+      "name": "Klink",
+      "category": "Gear",
+      "type": {
+        "T1": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Plus, Minus | Hidden: Blear Body",
+      "height": "1'00\"",
+      "weight": "46.3 lbs.",
+      "stats": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 70,
+        "SpAtk": 45,
+        "SpDef": 60,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 600,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/600.png",
+      "name": "Klang",
+      "category": "Gear",
+      "type": {
+        "T1": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Plus, Minus | Hidden: Blear Body",
+      "height": "2'00\"",
+      "weight": "112.4 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 95,
+        "SpAtk": 70,
+        "SpDef": 85,
+        "Speed": 50
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 601,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/601.png",
+      "name": "Klinklang",
+      "category": "Gear",
+      "type": {
+        "T1": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Plus, Minus | Hidden: Blear Body",
+      "height": "2'00\"",
+      "weight": "178.6 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 115,
+        "SpAtk": 70,
+        "SpDef": 85,
+        "Speed": 90
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 602,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/602.png",
+      "name": "Tynamo",
+      "category": "EleFish",
+      "type": {
+        "T1": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Levitate",
+      "height": "0'08\"",
+      "weight": "0.7 lbs.",
+      "stats": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "SpAtk": 45,
+        "SpDef": 40,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 603,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/603.png",
+      "name": "Eelektrik",
+      "category": "EleFish",
+      "type": {
+        "T1": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Levitate",
+      "height": "3'11\"",
+      "weight": "48.5 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 70,
+        "SpAtk": 75,
+        "SpDef": 70,
+        "Speed": 40
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 604,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/604.png",
+      "name": "Eelektross",
+      "category": "EleFish",
+      "type": {
+        "T1": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Levitate",
+      "height": "6'11\"",
+      "weight": "177.5 lbs.",
+      "stats": {
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 80,
+        "SpAtk": 105,
+        "SpDef": 80,
+        "Speed": 50
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 605,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/605.png",
+      "name": "Elgyem",
+      "category": "Cerebral",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Telelpathy, Synchronize | Hidden: Analytic",
+      "height": "1'08\"",
+      "weight": "19.8 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 55,
+        "SpAtk": 85,
+        "SpDef": 55,
+        "Speed": 30
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 606,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/606.png",
+      "name": "Beheeyem",
+      "category": "Cerebral",
+      "type": {
+        "T1": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Telelpathy, Synchronize | Hidden: Analytic",
+      "height": "3'03\"",
+      "weight": "76.1 lbs.",
+      "stats": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 75,
+        "SpAtk": 125,
+        "SpDef": 95,
+        "Speed": 40
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 607,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/607.png",
+      "name": "Litwick",
+      "category": "Candle",
+      "type": {
+        "T1": "Ghost",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Flash Fire, Flame Body | Hidden: Infiltrator",
+      "height": "1'00\"",
+      "weight": "6.8 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 30,
+        "Defense": 55,
+        "SpAtk": 65,
+        "SpDef": 55,
+        "Speed": 20
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 608,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/608.png",
+      "name": "Lampent",
+      "category": "Lamp",
+      "type": {
+        "T1": "Ghost",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Flash Fire, Flame Body | Hidden: Infiltrator",
+      "height": "2'00\"",
+      "weight": "28.7 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "SpAtk": 95,
+        "SpDef": 60,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 609,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/609.png",
+      "name": "Chandelure",
+      "category": "Luring",
+      "type": {
+        "T1": "Ghost",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Flash Fire, Flame Body | Hidden: Infiltrator",
+      "height": "3'03\"",
+      "weight": "75.6 lbs.",
+      "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 90,
+        "SpAtk": 145,
+        "SpDef": 90,
+        "Speed": 80
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 610,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/610.png",
+      "name": "Axew",
+      "category": "Tusk",
+      "type": {
+        "T1": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Rivalry, Mold Breaker | Hidden: Unnerve",
+      "height": "2'00\"",
+      "weight": "39.7 lbs.",
+      "stats": {
+        "HP": 46,
+        "Attack": 87,
+        "Defense": 60,
+        "SpAtk": 30,
+        "SpDef": 40,
+        "Speed": 57
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 611,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/611.png",
+      "name": "Fraxure",
+      "category": "Axe Jaw",
+      "type": {
+        "T1": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Rivalry, Mold Breaker | Hidden: Unnerve",
+      "height": "3'03\"",
+      "weight": "79.4 lbs.",
+      "stats": {
+        "HP": 66,
+        "Attack": 117,
+        "Defense": 70,
+        "SpAtk": 40,
+        "SpDef": 50,
+        "Speed": 67
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 612,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/612.png",
+      "name": "Haxorus",
+      "category": "Axe Jaw",
+      "type": {
+        "T1": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Rivalry, Mold Breaker | Hidden: Unnerve",
+      "height": "5'11\"",
+      "weight": "232.6 lbs.",
+      "stats": {
+        "HP": 76,
+        "Attack": 147,
+        "Defense": 90,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Speed": 97
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 613,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/613.png",
+      "name": "Cubchoo",
+      "category": "Chill",
+      "type": {
+        "T1": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Snow Cloak, Slush Rush | Hidden: Rattled",
+      "height": "1'08\"",
+      "weight": "18.7 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 40,
+        "SpAtk": 60,
+        "SpDef": 40,
+        "Speed":40 
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 614,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/614.png",
+      "name": "Beartic",
+      "category": "Freezing",
+      "type": {
+        "T1": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Snow Cloak, Slush Rush | Hidden: Swift Swim",
+      "height": "8'06\"",
+      "weight": "573.2 lbs.",
+      "stats": {
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 80,
+        "SpAtk": 70,
+        "SpDef": 80,
+        "Speed": 50
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 615,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/615.png",
+      "name": "Cryogonal",
+      "category": "Crystallizing",
+      "type": {
+        "T1": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Levitate",
+      "height": "3'07\"",
+      "weight": "326.3 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 50,
+        "Defense": 30,
+        "SpAtk": 95,
+        "SpDef": 135,
+        "Speed": 105
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 616,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/616.png",
+      "name": "Shelmet",
+      "category": "Snail",
+      "type": {
+        "T1": "Bug"
+      },
+      "entry": "",
+      "abilities": "Main: Hydration, Shell Armor | Hidden: Overcoat",
+      "height": "1'04\"",
+      "weight": "17.0 lbs.",
+      "stats": {
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 85,
+        "SpAtk": 40,
+        "SpDef": 65,
+        "Speed": 25
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 617,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/617.png",
+      "name": "Accelgor",
+      "category": "Shell Out",
+      "type": {
+        "T1": "Bug"
+      },
+      "entry": "",
+      "abilities": "Main: Hydration, Sticky Hold | Hidden: Unburden",
+      "height": "2'07\"",
+      "weight": "55.8 lbs.",
+      "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 40,
+        "SpAtk": 100,
+        "SpDef": 60,
+        "Speed": 145
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 618,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/618.png",
+      "name": "Stunfisk",
+      "category": "Trap",
+      "type": {
+        "T1": "Ground",
+        "T2": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Static, Limber | Hidden: Sand Veil",
+      "height": "2'04\"",
+      "weight": "24.3 lbs.",
+      "stats": {
+        "HP": 109,
+        "Attack": 66,
+        "Defense": 84,
+        "SpAtk": 81,
+        "SpDef": 99,
+        "Speed": 32
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 619,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/619.png",
+      "name": "Mienfoo",
+      "category": "Martial Arts",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Inner Focus, Regenerator | Hidden: Reckless",
+      "height": "2'11\"",
+      "weight": "44.1 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 50,
+        "SpAtk": 55,
+        "SpDef": 50,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 620,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/620.png",
+      "name": "Mienshao",
+      "category": "Martial Arts",
+      "type": {
+        "T1": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Inner Focus, Regenerator | Hidden: Reckless",
+      "height": "4'07\"",
+      "weight": "78.3 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 60,
+        "SpAtk": 95,
+        "SpDef": 60,
+        "Speed": 105
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 621,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/621.png",
+      "name": "Druddigon",
+      "category": "Cave",
+      "type": {
+        "T1": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Rough Skin, Sheer Force | Hidden: Mold Breaker",
+      "height": "5'03\"",
+      "weight": "306.4 lbs.",
+      "stats": {
+        "HP": 77,
+        "Attack": 120,
+        "Defense": 90,
+        "SpAtk": 60,
+        "SpDef": 90,
+        "Speed": 48
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 622,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/622.png",
+      "name": "Golett",
+      "category": "Automation",
+      "type": {
+        "T1": "Ground",
+        "T2": "Ghost"
+      },
+      "entry": "",
+      "abilities": "Main: Iron Fist, Klutz | Hidden: No Guard",
+      "height": "3'03\"",
+      "weight": "202.8 lbs.",
+      "stats": {
+        "HP": 59,
+        "Attack": 74,
+        "Defense": 50,
+        "SpAtk": 35,
+        "SpDef": 50,
+        "Speed": 35
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 623,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/623.png",
+      "name": "Golurk",
+      "category": "Automation",
+      "type": {
+        "T1": "Ground",
+        "T2": "Ghost"
+      },
+      "entry": "",
+      "abilities": "Main: Iron First, Klutz | Hidden: No Guard",
+      "height": "9'02\"",
+      "weight": "727.5 lbs.",
+      "stats": {
+        "HP": 89,
+        "Attack": 124,
+        "Defense": 80,
+        "SpAtk": 55,
+        "SpDef": 80,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 624,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/624.png",
+      "name": "Pawniard",
+      "category": "Sharp Blade",
+      "type": {
+        "T1": "Dark",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Defiant, Inner Focus | Hidden: Pressure",
+      "height": "1'08\"",
+      "weight": "22.5 lbs.",
+      "stats": {
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 70,
+        "SpAtk": 40,
+        "SpDef": 40,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 625,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/625.png",
+      "name": "Bisharp",
+      "category": "Sword Blade",
+      "type": {
+        "T1": "Dark",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Defiant, Inner Focus | Hidden: Pressure",
+      "height": "5'03\"",
+      "weight": "154.3 lbs.",
+      "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "SpAtk": 60,
+        "SpDef": 70,
+        "Speed": 70
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 626,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/626.png",
+      "name": "Buffalant",
+      "category": "Bash Buffalo",
+      "type": {
+        "T1": "Normal"
+      },
+      "entry": "",
+      "abilities": "Main: Reckless, Sap Sipper | Hidden: Soundproof",
+      "height": "5'03\"",
+      "weight": "208.6 lbs.",
+      "stats": {
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 95,
+        "SpAtk": 40,
+        "SpDef": 95,
+        "Speed": 55
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 627,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/627.png",
+      "name": "Rufflet",
+      "category": "Eaglet",
+      "type": {
+        "T1": "Normal",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Keen Eye, Sheer Force | Hidden: Hustle",
+      "height": "1'08\"",
+      "weight": "23.1 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 83,
+        "Defense": 50,
+        "SpAtk": 37,
+        "SpDef": 50,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 628,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/628.png",
+      "name": "Braviary",
+      "category": "Valiant",
+      "type": {
+        "T1": "Normal",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Keen Eye, Sheer Force | Hidden: Defiant",
+      "height": "4'11\"",
+      "weight": "90.4 lbs.",
+      "stats": {
+        "HP": 100,
+        "Attack": 123,
+        "Defense": 75,
+        "SpAtk": 57,
+        "SpDef": 75,
+        "Speed": 80
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 629,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/629.png",
+      "name": "Vullaby",
+      "category": "Diapered",
+      "type": {
+        "T1": "Dark",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Big Pecks, Overcoat | Hidden: Weak Armor",
+      "height": "1'08\"",
+      "weight": "19.8 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 75,
+        "SpAtk": 45,
+        "SpDef": 45,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 630,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/630.png",
+      "name": "Mandibuzz",
+      "category": "Bone Vulture",
+      "type": {
+        "T1": "Dark",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Big Pecks, Overcoat | Hidden: Weak Armor",
+      "height": "3'11\"",
+      "weight": "87.1 lbs.",
+      "stats": {
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 105,
+        "SpAtk": 55,
+        "SpDef": 95,
+        "Speed": 80
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 631,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/631.png",
+      "name": "Heatmor",
+      "category": "Anteater",
+      "type": {
+        "T1": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Gluttony, Flash Fire | Hidden: White Smoke",
+      "height": "4'07\"",
+      "weight": "127.9 lbs.",
+      "stats": {
+        "HP": 85,
+        "Attack": 97,
+        "Defense": 66,
+        "SpAtk": 105,
+        "SpDef": 66,
+        "Speed": 65
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 632,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/632.png",
+      "name": "Durant",
+      "category": "Iron Ant",
+      "type": {
+        "T1": "Bug",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Swarm, Hustle | Hidden: Truant",
+      "height": "1'00\"",
+      "weight": "72.8 lbs.",
+      "stats": {
+        "HP": 58,
+        "Attack": 109,
+        "Defense": 112,
+        "SpAtk": 48,
+        "SpDef": 48,
+        "Speed": 109
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 633,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/633.png",
+      "name": "Deino",
+      "category": "Irate",
+      "type": {
+        "T1": "Dark",
+        "T2": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Hustle",
+      "height": "2'07\"",
+      "weight": "38.1 lbs.",
+      "stats": {
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 50,
+        "SpAtk": 45,
+        "SpDef": 50,
+        "Speed": 38
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 634,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/634.png",
+      "name": "Zweilous",
+      "category": "Hostile",
+      "type": {
+        "T1": "Dark",
+        "T2": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Levitate",
+      "height": "4'07\"",
+      "weight": "110.2 lbs.",
+      "stats": {
+        "HP": 72,
+        "Attack": 85,
+        "Defense": 70,
+        "SpAtk": 65,
+        "SpDef": 70,
+        "Speed": 58
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 635,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/635.png",
+      "name": "Hydreigon",
+      "category": "Brutal",
+      "type": {
+        "T1": "Dark",
+        "T2": "Dragon"
+      },
+      "entry": "",
+      "abilities": "Main: Levitate",
+      "height": "5'11\"",
+      "weight": "352.7 lbs.",
+      "stats": {
+        "HP": 92,
+        "Attack": 105,
+        "Defense": 90,
+        "SpAtk": 125,
+        "SpDef": 90,
+        "Speed": 98
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 636,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/636.png",
+      "name": "Larvesta",
+      "category": "Torch",
+      "type": {
+        "T1": "Bug",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Flame Body, | Hidden: Swarm",
+      "height": "3'07\"",
+      "weight": "63.5 lbs.",
+      "stats": {
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 55,
+        "SpAtk": 50,
+        "SpDef": 55,
+        "Speed": 60
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 637,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/637.png",
+      "name": "Volcarona",
+      "category": "Sun",
+      "type": {
+        "T1": "Bug",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Flame Body | Hidden: Swarm",
+      "height": "5'03\"",
+      "weight": "101.4 lbs.",
+      "stats": {
+        "HP": 85,
+        "Attack": 60,
+        "Defense": 65,
+        "SpAtk": 135,
+        "SpDef": 105,
+        "Speed": 100
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 638,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/638.png",
+      "name": "Cobalion",
+      "category": "Iron Will",
+      "type": {
+        "T1": "Steel",
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Justified",
+      "height": "6'11\"",
+      "weight": "551.2 lbs.",
+      "stats": {
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 129,
+        "SpAtk": 90,
+        "SpDef": 72,
+        "Speed": 108
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 639,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/639.png",
+      "name": "Terrakion",
+      "category": "Cavern",
+      "type": {
+        "T1": "Rock",
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Justified",
+      "height": "6'03\"",
+      "weight": "573.2 lbs.",
+      "stats": {
+        "HP": 91,
+        "Attack": 129,
+        "Defense": 90,
+        "SpAtk": 72,
+        "SpDef": 90,
+        "Speed": 108
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 640,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/640.png",
+      "name": "Virizion",
+      "category": "Grassland",
+      "type": {
+        "T1": "Grass",
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Justified",
+      "height": "6'07\"",
+      "weight": "440.9 lbs.",
+      "stats": {
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 72,
+        "SpAtk": 90,
+        "SpDef": 129,
+        "Speed": 108
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 641,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/641.png",
+      "name": "Tornadus",
+      "category": "Cyclone",
+      "type": {
+        "T1": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Prankster | Hidden: Defiant",
+      "height": "4'11\"",
+      "weight": "138.9 lbs.",
+      "stats": {
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "SpAtk": 125,
+        "SpDef": 80,
+        "Speed": 111
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 642,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/642.png",
+      "name": "Thundurus",
+      "category": "Bolt Strike",
+      "type": {
+        "T1": "Electric",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Prankster | Hidden: Defiant",
+      "height": "4'11\"",
+      "weight": "134.5 lbs.",
+      "stats": {
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 70,
+        "SpAtk": 125,
+        "SpDef": 80,
+        "Speed": 111
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 643,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/643.png",
+      "name": "Reshiram",
+      "category": "Vast White",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Fire"
+      },
+      "entry": "",
+      "abilities": "Main: Turboblaze",
+      "height": "10'06\"",
+      "weight": "727.5 lbs.",
+      "stats": {
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 100,
+        "SpAtk": 150,
+        "SpDef": 120,
+        "Speed": 90
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 644,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/644.png",
+      "name": "Zekrom",
+      "category": "Deep Black",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Electric"
+      },
+      "entry": "",
+      "abilities": "Main: Teravolt",
+      "height": "9'06\"",
+      "weight": "760.6 lbs.",
+      "stats": {
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 120,
+        "SpAtk": 120,
+        "SpDef": 100,
+        "Speed": 90
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 645,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/645.png",
+      "name": "Landorus",
+      "category": "Abundance",
+      "type": {
+        "T1": "Ground",
+        "T2": "Flying"
+      },
+      "entry": "",
+      "abilities": "Main: Sand Force | Hidden: Sheer Force",
+      "height": "4'11\"",
+      "weight": "149.9 lbs.",
+      "stats": {
+        "HP": 89,
+        "Attack": 125,
+        "Defense": 90,
+        "SpAtk": 115,
+        "SpDef": 80,
+        "Speed": 101
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 646,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/646.png",
+      "name": "Kyurem",
+      "category": "Boundary",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Ice"
+      },
+      "entry": "",
+      "abilities": "Main: Pressure",
+      "height": "9'10\"",
+      "weight": "716.5 lbs.",
+      "stats": {
+        "HP": 125,
+        "Attack": 170,
+        "Defense": 100,
+        "SpAtk": 120,
+        "SpDef": 90,
+        "Speed": 95
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 647,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/647.png",
+      "name": "Keldeo",
+      "category": "Colt",
+      "type": {
+        "T1": "Water",
+        "T2": "Fighting"
+      },
+      "entry": "",
+      "abilities": "Main: Justified",
+      "height": "4'07\"",
+      "weight": "106.9 lbs.",
+      "stats": {
+        "HP": 91,
+        "Attack": 72,
+        "Defense": 90,
+        "SpAtk": 129,
+        "SpDef": 90,
+        "Speed": 108
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 648,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/648.png",
+      "name": "Meloetta",
+      "category": "Melody",
+      "type": {
+        "T1": "Normal",
+        "T2": "Psychic"
+      },
+      "entry": "",
+      "abilities": "Main: Serene Grace",
+      "height": "2'00\"",
+      "weight": "14.3 lbs.",
+      "stats": {
+        "HP": 100,
+        "Attack": 77,
+        "Defense": 77,
+        "SpAtk": 128,
+        "SpDef": 128,
+        "Speed": 90
+      },
+      "generation": {
+        "name": "generation5"
+      }
+    },
+    {
+      "id": 649,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/649.png",
+      "name": "Genesect",
+      "category": "Palezoic",
+      "type": {
+        "T1": "Bug",
+        "T2": "Steel"
+      },
+      "entry": "",
+      "abilities": "Main: Download",
+      "height": "4'11\"",
+      "weight": "181.9 lbs.",
+      "stats": {
+        "HP": 71,
+        "Attack": 120,
+        "Defense": 95,
+        "SpAtk": 120,
+        "SpDef": 95,
+        "Speed": 99
+      },
+      "generation": {
+        "name": "generation5"
       }
     }
   ]
