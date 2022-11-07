@@ -27,9 +27,31 @@
         "name": "generation1"
       },
       "evolution": {
-        "E1": "https://updated-pokemon-apis-production.up.railway.app/pokemon/1",
-        "E2": "https://updated-pokemon-apis-production.up.railway.app/pokemon/2",
-        "E3": "https://updated-pokemon-apis-production.up.railway.app/pokemon/3"
+        "E1": {
+          "id": 1,
+          "image": "https://pokeimage-production.up.railway.app/pokeImg/1.png",
+          "name": "Bulbasaur",
+          "category": "Seed",
+          "type": {
+            "T1": "Grass",
+            "T2": "Poison"
+          },
+          "cry": "https://pokeimage-production.up.railway.app/pokeCry/1.mp3",
+          "entry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+          "abilities": "Main: Overgrow | Hidden: Chlorophyll",
+          "height": "2'04\"",
+          "weight": "15.2 lbs",
+          "stats": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "SpAtk": 65,
+            "SpDef": 65,
+            "Speed": 45
+          }
+        },
+        "E2": 2,
+        "E3": 3
       }
     },
     {
