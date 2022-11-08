@@ -27,9 +27,9 @@
         "name": "generation1"
       },
       "evolution": {
-        "E1": "https://updated-pokemon-apis-production.up.railway.app/pokemon/1",
-        "E2": "https://updated-pokemon-apis-production.up.railway.app/pokemon/2",
-        "E3": "https://updated-pokemon-apis-production.up.railway.app/pokemon/3"
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
       }
     },
     {
@@ -59,9 +59,9 @@
         "name": "generation1"
       },
       "evolution": {
-        "E1": "https://updated-pokemon-apis-production.up.railway.app/pokemon/1",
-        "E2": "https://updated-pokemon-apis-production.up.railway.app/pokemon/2",
-        "E3": "https://updated-pokemon-apis-production.up.railway.app/pokemon/3"
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
       }
     },
     {
@@ -91,9 +91,9 @@
         "name": "generation1"
       },
       "evolution": {
-        "E1": "https://updated-pokemon-apis-production.up.railway.app/pokemon/1",
-        "E2": "https://updated-pokemon-apis-production.up.railway.app/pokemon/2",
-        "E3": "https://updated-pokemon-apis-production.up.railway.app/pokemon/3"
+        "E1": 1,
+        "E2": 2,
+        "E3": 3
       },
       "variations": [
         {
@@ -144,6 +144,11 @@
       "generation":
       {
         "name": "generation1"
+      },
+      "evolution": {
+        "E1": 4,
+        "E2": 5,
+        "E3": 6
       }
     },
     {
