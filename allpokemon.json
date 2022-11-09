@@ -132,10 +132,7 @@
         "SpDef": 50,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "evolution": {
         "E1": 4,
         "E2": 5,
@@ -163,10 +160,7 @@
         "SpDef": 65,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 6,
@@ -190,10 +184,7 @@
         "SpDef": 85,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 3.11,
@@ -251,10 +242,7 @@
         "SpDef": 64,
         "Speed": 43
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 8,
@@ -277,10 +265,7 @@
         "SpDef": 80,
         "Speed": 58
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 9,
@@ -675,10 +660,7 @@
         "SpDef": 31,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 22,
@@ -702,10 +684,7 @@
         "SpDef": 61,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 23,
@@ -728,10 +707,7 @@
         "SpDef": 54,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 24,
@@ -754,10 +730,7 @@
         "SpDef": 79,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 25,
@@ -780,10 +753,7 @@
         "SpDef": 50,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 26,
@@ -806,10 +776,7 @@
         "SpDef": 80,
         "Speed": 110
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 27,
@@ -832,10 +799,7 @@
         "SpDef": 30,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 28,
@@ -858,10 +822,7 @@
         "SpDef": 55,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 29,
@@ -884,10 +845,7 @@
         "SpDef": 40,
         "Speed": 41
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 30,
@@ -910,10 +868,7 @@
         "SpDef": 55,
         "Speed": 56
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 31,
@@ -937,10 +892,7 @@
         "SpDef": 85,
         "Speed": 76
     },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 32,
@@ -963,10 +915,7 @@
         "SpDef": 40,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 33,
@@ -989,10 +938,7 @@
         "SpDef": 55,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 34,
@@ -1016,10 +962,7 @@
         "SpDef": 75,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 35,
@@ -1042,10 +985,7 @@
         "SpDef": 65,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 36,
@@ -1068,10 +1008,7 @@
         "SpDef": 90,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 37,
@@ -1094,10 +1031,7 @@
         "SpDef": 65,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 38,
@@ -1120,10 +1054,7 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 39,
@@ -1147,10 +1078,7 @@
         "SpDef": 25,
         "Speed": 20
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 40,
@@ -1174,10 +1102,7 @@
         "SpDef": 50,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 41,
@@ -1201,10 +1126,7 @@
         "SpDef": 40,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 42,
@@ -1228,10 +1150,7 @@
         "SpDef": 75,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 43,
@@ -1255,10 +1174,7 @@
         "SpDef": 65,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 44,
@@ -1282,10 +1198,7 @@
         "SpDef": 75,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 45,
@@ -1309,10 +1222,7 @@
         "SpDef": 90,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 46,
@@ -1336,10 +1246,7 @@
         "SpDef": 55,
         "Speed": 25
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 47,
@@ -1363,10 +1270,7 @@
         "SpDef": 80,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 48,
@@ -1390,10 +1294,7 @@
         "SpDef": 55,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 49,
@@ -1417,10 +1318,7 @@
         "SpDef": 75,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 50,
@@ -1443,10 +1341,7 @@
         "SpDef": 45,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 51,
@@ -1469,10 +1364,7 @@
         "SpDef": 70,
         "Speed": 120
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 52,
@@ -1495,10 +1387,7 @@
         "SpDef": 40,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 53,
@@ -1521,10 +1410,7 @@
         "SpDef": 65,
         "Speed": 115
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 54,
@@ -1547,10 +1433,7 @@
         "SpDef": 50,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 55,
@@ -1573,10 +1456,7 @@
         "SpDef": 80,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 56,
@@ -1599,10 +1479,7 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 57,
@@ -1625,10 +1502,7 @@
         "SpDef": 70,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 58,
@@ -1651,10 +1525,7 @@
         "SpDef": 50,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 59,
@@ -1677,10 +1548,7 @@
         "SpDef": 80,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 60,
@@ -1703,10 +1571,7 @@
         "SpDef": 40,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 61,
@@ -1729,10 +1594,7 @@
         "SpDef": 50,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 62,
@@ -1756,10 +1618,7 @@
         "SpDef": 90,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 63,
@@ -1782,10 +1641,7 @@
         "SpDef": 55,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 64,
@@ -1808,10 +1664,7 @@
         "SpDef": 70,
         "Speed": 105
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 65,
@@ -1834,10 +1687,7 @@
         "SpDef": 95,
         "Speed": 120
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 65.1,
@@ -1872,10 +1722,7 @@
         "SpDef": 35,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 67,
@@ -1898,10 +1745,7 @@
         "SpDef": 60,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 68,
@@ -1924,10 +1768,7 @@
         "SpDef": 85,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 69,
@@ -1951,10 +1792,7 @@
         "SpDef": 30,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 70,
@@ -1978,10 +1816,7 @@
         "SpDef": 45,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 71,
@@ -2005,10 +1840,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 72,
@@ -2032,10 +1864,7 @@
         "SpDef": 100,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 73,
@@ -2059,10 +1888,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 74,
@@ -2085,10 +1911,7 @@
         "SpDef": 30,
         "Speed": 20
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 75,
@@ -2112,10 +1935,7 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 76,
@@ -2139,10 +1959,7 @@
         "SpDef": 65,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 77,
@@ -2165,10 +1982,7 @@
         "SpDef": 65,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 78,
@@ -2191,10 +2005,7 @@
         "SpDef": 80,
         "Speed": 105
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 79,
@@ -2218,10 +2029,7 @@
         "SpDef": 40,
         "Speed": 15
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 80,
@@ -2245,10 +2053,7 @@
         "SpDef": 80,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 80.1,
@@ -2285,10 +2090,7 @@
         "SpDef": 55,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 82,
@@ -2312,10 +2114,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 83,
@@ -2339,10 +2138,7 @@
         "SpDef": 62,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 84,
@@ -2366,10 +2162,7 @@
         "SpDef": 35,
         "Speed": 75
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 85,
@@ -2393,10 +2186,7 @@
         "SpDef": 60,
         "Speed": 110
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 86,
@@ -2419,10 +2209,7 @@
         "SpDef": 70,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 87,
@@ -2446,10 +2233,7 @@
         "SpDef": 95,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 88,
@@ -2472,10 +2256,7 @@
         "SpDef": 50,
         "Speed": 25
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 89,
@@ -2498,10 +2279,7 @@
         "SpDef": 100,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 90,
@@ -2524,10 +2302,7 @@
         "SpDef": 25,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 91,
@@ -2551,10 +2326,7 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 92,
@@ -2578,10 +2350,7 @@
         "SpDef": 35,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 93,
@@ -2605,10 +2374,7 @@
         "SpDef": 55,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 94,
@@ -2632,10 +2398,7 @@
         "SpDef": 75,
         "Speed": 110
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 94.1,
@@ -2672,10 +2435,7 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 96,
@@ -2698,10 +2458,7 @@
         "SpDef": 90,
         "Speed":42
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 97,
@@ -2724,10 +2481,7 @@
         "SpDef": 115,
         "Speed": 67
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 98,
@@ -2750,10 +2504,7 @@
         "SpDef": 25,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 99,
@@ -2776,10 +2527,7 @@
         "SpDef": 50,
         "Speed": 75
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 100,
@@ -2802,10 +2550,7 @@
         "SpDef": 55,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 101,
@@ -2828,10 +2573,7 @@
         "SpDef": 80,
         "Speed": 150
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 102,
@@ -2855,10 +2597,7 @@
         "SpDef": 45,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 103,
@@ -2882,10 +2621,7 @@
         "SpDef": 75,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 104,
@@ -2908,10 +2644,7 @@
         "SpDef": 50,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 105,
@@ -2934,10 +2667,7 @@
         "SpDef": 80,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 106,
@@ -2960,10 +2690,7 @@
         "SpDef": 110,
         "Speed": 76
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 107,
@@ -2986,10 +2713,7 @@
         "SpDef": 110,
         "Speed": 76
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 108,
@@ -3012,10 +2736,7 @@
         "SpDef": 75,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 109,
@@ -3038,10 +2759,7 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 110,
@@ -3064,10 +2782,7 @@
         "SpDef": 70,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 111,
@@ -3091,10 +2806,7 @@
         "SpDef": 30,
         "Speed": 25
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 112,
@@ -3118,10 +2830,7 @@
         "SpDef": 45,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 113,
@@ -3144,10 +2853,7 @@
         "SpDef": 105,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 114,
@@ -3170,10 +2876,7 @@
         "SpDef": 40,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 115,
@@ -3196,10 +2899,7 @@
         "SpDef": 80,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 115.1,
@@ -3234,10 +2934,7 @@
         "SpDef": 25,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 117,
@@ -3260,10 +2957,7 @@
         "SpDef": 45,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 118,
@@ -3286,10 +2980,7 @@
         "SpDef": 50,
         "Speed": 63
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 119,
@@ -3312,10 +3003,7 @@
         "SpDef": 80,
         "Speed": 68
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 120,
@@ -3338,10 +3026,7 @@
         "SpDef": 55,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 121,
@@ -3365,10 +3050,7 @@
         "SpDef": 85,
         "Speed": 115
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 122,
@@ -3392,10 +3074,7 @@
         "SpDef": 120,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 123,
@@ -3419,10 +3098,7 @@
         "SpDef": 80,
         "Speed": 105
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 124,
@@ -3446,10 +3122,7 @@
         "SpDef": 95,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 125,
@@ -3472,10 +3145,7 @@
         "SpDef": 85,
         "Speed": 105
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 126,
@@ -3498,10 +3168,7 @@
         "SpDef": 85,
         "Speed": 93
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 127,
@@ -3524,10 +3191,7 @@
         "SpDef": 70,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 128.1,
@@ -3563,10 +3227,7 @@
         "SpDef": 20,
         "Speed": 110
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 129,
@@ -3589,10 +3250,7 @@
         "SpDef": 20,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 130,
@@ -3616,10 +3274,7 @@
         "SpDef": 100,
         "Speed": 81
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 130.1,
@@ -3656,10 +3311,7 @@
         "SpDef": 95,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 132,
@@ -3682,10 +3334,7 @@
         "SpDef": 48,
         "Speed": 48
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 133,
@@ -3708,10 +3357,7 @@
         "SpDef": 65,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 134,
@@ -3734,10 +3380,7 @@
         "SpDef": 95,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 135,
@@ -3760,10 +3403,7 @@
         "SpDef": 95,
         "Speed": 130
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 136,
@@ -3786,10 +3426,7 @@
         "SpDef": 110,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 137,
@@ -3812,10 +3449,7 @@
         "SpDef": 75,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 138,
@@ -3839,10 +3473,7 @@
         "SpDef": 55,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 139,
@@ -3866,10 +3497,7 @@
         "SpDef": 70,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 140,
@@ -3893,10 +3521,7 @@
         "SpDef": 45,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 141,
@@ -3920,10 +3545,7 @@
         "SpDef": 70,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 142,
@@ -3947,10 +3569,7 @@
         "SpDef": 75,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 142.1,
@@ -3986,10 +3605,7 @@
         "SpDef": 110,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 144,
@@ -4013,10 +3629,7 @@
         "SpDef": 125,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 145,
@@ -4040,10 +3653,7 @@
         "SpDef": 90,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 146,
@@ -4067,10 +3677,7 @@
         "SpDef": 85,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 147,
@@ -4093,10 +3700,7 @@
         "SpDef": 50,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 148,
@@ -4119,10 +3723,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 149,
@@ -4145,10 +3746,7 @@
         "SpDef": 100,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 150,
@@ -4171,10 +3769,7 @@
         "SpDef": 90,
         "Speed": 130
       },
-      "generation":
-      {
-        "name": "generation1"
-      },
+      "generation": "generation1",
       "variations": [
         {
           "idMega": 150.11,
@@ -4221,10 +3816,7 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation1"
-      }
+      "generation": "generation1"
     },
     {
       "id": 152,
@@ -4247,9 +3839,7 @@
         "SpDef": 65,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 153,
@@ -4272,9 +3862,7 @@
         "SpDef": 80,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 154,
@@ -4297,9 +3885,7 @@
         "SpDef": 100,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 155,
@@ -4322,11 +3908,9 @@
         "SpDef": 50,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
-    },{
+      "generation": "generation2"
+    },
+    {
       "id": 156,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/156.png",
       "name": "Quilava",
@@ -4347,11 +3931,9 @@
         "SpDef": 65,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
-    },{
+      "generation": "generation2"
+    },
+    {
       "id": 157,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/157.png",
       "name": "Typlosion",
@@ -4372,11 +3954,9 @@
         "SpDef": 85,
         "Speed": 100
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
-    },{
+      "generation": "generation2"
+    },
+    {
       "id": 158,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/158.png",
       "name": "Totodile",
@@ -4397,11 +3977,9 @@
         "SpDef": 48,
         "Speed": 43
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
-    },{
+      "generation": "generation2"
+    },
+    {
       "id": 159,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/159.png",
       "name": "Croconaw",
@@ -4422,10 +4000,7 @@
         "SpDef": 63,
         "Speed": 58
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 160,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/160.png",
@@ -4447,10 +4022,7 @@
         "SpDef": 83,
         "Speed": 78
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 161,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/161.png",
@@ -4472,10 +4044,7 @@
         "SpDef": 45,
         "Speed": 20
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 162,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/162.png",
@@ -4497,10 +4066,7 @@
         "SpDef": 55,
         "Speed": 90
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 163,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/163.png",
@@ -4523,10 +4089,7 @@
         "SpDef": 56,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 164,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/164.png",
@@ -4549,10 +4112,7 @@
         "SpDef": 96,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 165,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/165.png",
@@ -4575,10 +4135,7 @@
         "SpDef": 80,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 166,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/166.png",
@@ -4601,10 +4158,7 @@
         "SpDef": 110,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 167,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/167.png",
@@ -4627,10 +4181,7 @@
         "SpDef": 40,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 168,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/168.png",
@@ -4653,10 +4204,7 @@
         "SpDef": 70,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 169,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/169.png",
@@ -4679,10 +4227,7 @@
         "SpDef": 80,
         "Speed": 130
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 170,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/170.png",
@@ -4705,10 +4250,7 @@
         "SpDef": 56,
         "Speed": 67
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 171,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/171.png",
@@ -4731,10 +4273,7 @@
         "SpDef": 76,
         "Speed": 67
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 172,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/172.png",
@@ -4756,10 +4295,7 @@
         "SpDef": 35,
         "Speed": 60
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 173,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/173.png",
@@ -4781,10 +4317,7 @@
         "SpDef": 55,
         "Speed": 15
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 174,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/174.png",
@@ -4807,10 +4340,7 @@
         "SpDef": 20,
         "Speed": 15
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 175,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/175.png",
@@ -4832,10 +4362,7 @@
         "SpDef": 65,
         "Speed": 20
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 176,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/176.png",
@@ -4858,10 +4385,7 @@
         "SpDef": 105,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 177,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/177.png",
@@ -4884,10 +4408,7 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 178,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/178.png",
@@ -4910,10 +4431,7 @@
         "SpDef": 70,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 179,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/179.png",
@@ -4935,10 +4453,7 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 180,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/180.png",
@@ -4960,10 +4475,7 @@
         "SpDef": 60,
         "Speed": 45
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 181,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/181.png",
@@ -4985,10 +4497,7 @@
         "SpDef": 90,
         "Speed": 55
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 182,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/182.png",
@@ -5010,10 +4519,7 @@
         "SpDef": 100,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 183,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/183.png",
@@ -5036,10 +4542,7 @@
         "SpDef": 50,
         "Speed": 40
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 184,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/184.png",
@@ -5062,10 +4565,7 @@
         "SpDef": 80,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 185,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/185.png",
@@ -5087,10 +4587,7 @@
         "SpDef": 65,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 186,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/186.png",
@@ -5112,10 +4609,7 @@
         "SpDef": 100,
         "Speed": 70
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 187,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/187.png",
@@ -5138,10 +4632,7 @@
         "SpDef": 55,
         "Speed": 50
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 188,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/188.png",
@@ -5164,10 +4655,7 @@
         "SpDef": 65,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 189,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/189.png",
@@ -5190,10 +4678,7 @@
         "SpDef": 95,
         "Speed": 110
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 190,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/190.png",
@@ -5215,10 +4700,7 @@
         "SpDef": 55,
         "Speed": 80
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 191,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/191.png",
@@ -5240,10 +4722,7 @@
         "SpDef": 30,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 192,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/192.png",
@@ -5265,10 +4744,7 @@
         "SpDef": 85,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 193,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/193.png",
@@ -5291,10 +4767,7 @@
         "SpDef": 45,
         "Speed": 95
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 194,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/194.png",
@@ -5317,10 +4790,7 @@
         "SpDef": 25,
         "Speed": 15
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 195,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/195.png",
@@ -5343,10 +4813,7 @@
         "SpDef": 65,
         "Speed": 35
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 196,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/196.png",
@@ -5368,10 +4835,7 @@
         "SpDef": 95,
         "Speed": 110
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 197,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/197.png",
@@ -5393,10 +4857,7 @@
         "SpDef": 130,
         "Speed": 65
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 198,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/198.png",
@@ -5419,10 +4880,7 @@
         "SpDef": 42,
         "Speed": 91
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 199,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/199.png",
@@ -5445,10 +4903,7 @@
         "SpDef": 110,
         "Speed": 30
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },{
       "id": 200,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/200.png",
@@ -5470,10 +4925,7 @@
         "SpDef": 85,
         "Speed": 85
       },
-      "generation":
-      {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 201,
@@ -5496,9 +4948,7 @@
         "SpDef": 48,
         "Speed": 48
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 202,
@@ -5521,9 +4971,7 @@
         "SpDef": 58,
         "Speed": 33
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 203,
@@ -5547,9 +4995,7 @@
         "SpDef": 65,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 204,
@@ -5572,9 +5018,7 @@
         "SpDef": 35,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 205,
@@ -5598,9 +5042,7 @@
         "SpDef": 60,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 206,
@@ -5623,9 +5065,7 @@
         "SpDef": 65,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 207,
@@ -5649,9 +5089,7 @@
         "SpDef": 65,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 208,
@@ -5675,9 +5113,7 @@
         "SpDef": 65,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 209,
@@ -5700,9 +5136,7 @@
         "SpDef": 40,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 210,
@@ -5725,9 +5159,7 @@
         "SpDef": 60,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 211,
@@ -5751,9 +5183,7 @@
         "SpDef": 55,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 212,
@@ -5777,9 +5207,7 @@
         "SpDef": 80,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 213,
@@ -5803,9 +5231,7 @@
         "SpDef": 230,
         "Speed": 5
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 214,
@@ -5829,9 +5255,7 @@
         "SpDef": 95,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 215,
@@ -5855,9 +5279,7 @@
         "SpDef": 75,
         "Speed": 115
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 216,
@@ -5880,9 +5302,7 @@
         "SpDef": 50,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 217,
@@ -5905,9 +5325,7 @@
         "SpDef": 75,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 218,
@@ -5930,9 +5348,7 @@
         "SpDef": 40,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 219,
@@ -5956,9 +5372,7 @@
         "SpDef": 80,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 220,
@@ -5982,9 +5396,7 @@
         "SpDef": 30,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 221,
@@ -6008,9 +5420,7 @@
         "SpDef": 60,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 222,
@@ -6034,9 +5444,7 @@
         "SpDef": 95,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 223,
@@ -6059,9 +5467,7 @@
         "SpDef": 35,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 224,
@@ -6084,9 +5490,7 @@
         "SpDef": 75,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 225,
@@ -6110,9 +5514,7 @@
         "SpDef": 45,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 226,
@@ -6136,9 +5538,7 @@
         "SpDef": 140,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 227,
@@ -6162,9 +5562,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 228,
@@ -6188,9 +5586,7 @@
         "SpDef": 50,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 229,
@@ -6214,9 +5610,7 @@
         "SpDef": 80,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 230,
@@ -6240,9 +5634,7 @@
         "SpDef": 95,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 231,
@@ -6265,9 +5657,7 @@
         "SpDef": 40,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 232,
@@ -6290,9 +5680,7 @@
         "SpDef": 60,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 233,
@@ -6315,9 +5703,7 @@
         "SpDef": 95,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 234,
@@ -6340,9 +5726,7 @@
         "SpDef": 65,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 235,
@@ -6365,9 +5749,7 @@
         "SpDef": 45,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 236,
@@ -6390,9 +5772,7 @@
         "SpDef": 35,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 237,
@@ -6415,9 +5795,7 @@
         "SpDef": 110,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 238,
@@ -6441,9 +5819,7 @@
         "SpDef": 65,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 239,
@@ -6466,9 +5842,7 @@
         "SpDef": 55,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 240,
@@ -6491,9 +5865,7 @@
         "SpDef": 55,
         "Speed": 83
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 241,
@@ -6516,9 +5888,7 @@
         "SpDef": 40,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 242,
@@ -6541,9 +5911,7 @@
         "SpDef": 135,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 243,
@@ -6566,9 +5934,7 @@
         "SpDef": 100,
         "Speed": 115
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 244,
@@ -6591,9 +5957,7 @@
         "SpDef": 75,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 245,
@@ -6616,9 +5980,7 @@
         "SpDef": 115,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 246,
@@ -6642,9 +6004,7 @@
         "SpDef": 50,
         "Speed": 41
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 247,
@@ -6668,9 +6028,7 @@
         "SpDef": 70,
         "Speed": 51
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 248,
@@ -6694,9 +6052,7 @@
         "SpDef": 100,
         "Speed": 61
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 249,
@@ -6720,9 +6076,7 @@
         "SpDef": 154,
         "Speed": 110
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
     },
     {
       "id": 250,
@@ -6746,9 +6100,8 @@
         "SpDef": 154,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
+
     },
     {
       "id": 251,
@@ -6772,9 +6125,8 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation2"
-      }
+      "generation": "generation2"
+
     },
     {
       "id": 252,
@@ -6797,9 +6149,8 @@
         "SpDef": 55,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation2"
+
     },
     {
       "id": 253,
@@ -6822,9 +6173,8 @@
         "SpDef": 65,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation2"
+
     },
     {
       "id": 254,
@@ -6847,9 +6197,8 @@
         "SpDef": 85,
         "Speed": 120
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation2"
+
     },
     {
       "id": 255,
@@ -6872,9 +6221,8 @@
         "SpDef": 50,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation2"
+
     },
     {
       "id": 256,
@@ -6898,9 +6246,7 @@
         "SpDef": 60,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 257,
@@ -6924,9 +6270,7 @@
         "SpDef": 70,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 258,
@@ -6949,9 +6293,7 @@
         "SpDef": 50,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 259,
@@ -6975,9 +6317,7 @@
         "SpDef": 70,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 260,
@@ -7001,9 +6341,7 @@
         "SpDef": 90,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 261,
@@ -7026,9 +6364,7 @@
         "SpDef": 30,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 262,
@@ -7051,9 +6387,7 @@
         "SpDef": 60,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 263,
@@ -7076,9 +6410,7 @@
         "SpDef": 41,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 264,
@@ -7101,9 +6433,7 @@
         "SpDef": 61,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 265,
@@ -7126,9 +6456,7 @@
         "SpDef": 30,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 266,
@@ -7151,9 +6479,7 @@
         "SpDef": 25,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 267,
@@ -7177,9 +6503,7 @@
         "SpDef": 50,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 268,
@@ -7202,9 +6526,7 @@
         "SpDef": 25,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 269,
@@ -7228,9 +6550,7 @@
         "SpDef": 90,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 270,
@@ -7254,9 +6574,7 @@
         "SpDef": 50,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 271,
@@ -7280,9 +6598,7 @@
         "SpDef": 70,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 272,
@@ -7306,9 +6622,7 @@
         "SpDef": 100,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 273,
@@ -7331,9 +6645,7 @@
         "SpDef": 30,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 274,
@@ -7357,9 +6669,7 @@
         "SpDef": 40,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 275,
@@ -7383,9 +6693,7 @@
         "SpDef": 60,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 276,
@@ -7409,9 +6717,7 @@
         "SpDef": 30,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 277,
@@ -7435,9 +6741,7 @@
         "SpDef": 50,
         "Speed": 125
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 278,
@@ -7461,9 +6765,7 @@
         "SpDef": 30,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 279,
@@ -7487,9 +6789,7 @@
         "SpDef": 70,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 280,
@@ -7513,9 +6813,7 @@
         "SpDef": 35,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 281,
@@ -7539,9 +6837,7 @@
         "SpDef": 55,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 282,
@@ -7565,9 +6861,7 @@
         "SpDef": 115,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 283,
@@ -7591,9 +6885,7 @@
         "SpDef": 52,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 284,
@@ -7617,9 +6909,7 @@
         "SpDef": 82,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 285,
@@ -7642,9 +6932,7 @@
         "SpDef": 60,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 286,
@@ -7668,9 +6956,7 @@
         "SpDef": 60,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 287,
@@ -7693,9 +6979,7 @@
         "SpDef": 35,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 288,
@@ -7718,9 +7002,7 @@
         "SpDef": 55,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 289,
@@ -7743,9 +7025,7 @@
         "SpDef": 65,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 290,
@@ -7769,9 +7049,7 @@
         "SpDef": 30,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 291,
@@ -7795,9 +7073,7 @@
         "SpDef": 50,
         "Speed": 160
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 292,
@@ -7821,9 +7097,7 @@
         "SpDef": 30,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 293,
@@ -7846,9 +7120,7 @@
         "SpDef": 23,
         "Speed": 28
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 294,
@@ -7871,9 +7143,7 @@
         "SpDef": 43,
         "Speed": 48
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 295,
@@ -7896,9 +7166,7 @@
         "SpDef": 73,
         "Speed": 68
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 296,
@@ -7921,9 +7189,7 @@
         "SpDef": 30,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 297,
@@ -7946,9 +7212,7 @@
         "SpDef": 60,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 298,
@@ -7972,9 +7236,7 @@
         "SpDef": 40,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 299,
@@ -7997,9 +7259,7 @@
         "SpDef": 90,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 300,
@@ -8022,9 +7282,7 @@
         "SpDef": 35,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 301,
@@ -8047,9 +7305,7 @@
         "SpDef": 55,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 302,
@@ -8073,9 +7329,7 @@
         "SpDef": 65,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 303,
@@ -8099,9 +7353,7 @@
         "SpDef": 55,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 304,
@@ -8125,9 +7377,7 @@
         "SpDef": 40,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 305,
@@ -8151,9 +7401,7 @@
         "SpDef": 50,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 306,
@@ -8177,9 +7425,7 @@
         "SpDef": 60,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 307,
@@ -8203,9 +7449,7 @@
         "SpDef": 55,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 308,
@@ -8229,9 +7473,7 @@
         "SpDef": 75,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 309,
@@ -8254,9 +7496,7 @@
         "SpDef": 40,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 310,
@@ -8279,9 +7519,7 @@
         "SpDef": 60,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 311,
@@ -8304,9 +7542,7 @@
         "SpDef": 75,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 312,
@@ -8329,9 +7565,7 @@
         "SpDef": 85,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 313,
@@ -8354,9 +7588,7 @@
         "SpDef": 85,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 314,
@@ -8379,9 +7611,7 @@
         "SpDef": 85,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 315,
@@ -8405,9 +7635,7 @@
         "SpDef": 80,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 316,
@@ -8430,9 +7658,7 @@
         "SpDef": 53,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 317,
@@ -8455,9 +7681,7 @@
         "SpDef": 83,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 318,
@@ -8481,9 +7705,7 @@
         "SpDef": 20,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 319,
@@ -8507,9 +7729,7 @@
         "SpDef": 40,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 320,
@@ -8532,9 +7752,7 @@
         "SpDef": 35,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 321,
@@ -8557,9 +7775,7 @@
         "SpDef": 45,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 322,
@@ -8583,9 +7799,7 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 323,
@@ -8609,9 +7823,7 @@
         "SpDef": 75,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 324,
@@ -8634,9 +7846,7 @@
         "SpDef": 70,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 325,
@@ -8659,9 +7869,7 @@
         "SpDef": 80,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 326,
@@ -8684,9 +7892,7 @@
         "SpDef": 110,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 327,
@@ -8709,9 +7915,7 @@
         "SpDef": 60,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 328,
@@ -8734,9 +7938,7 @@
         "SpDef": 45,
         "Speed": 10
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 329,
@@ -8760,9 +7962,7 @@
         "SpDef": 50,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 330,
@@ -8786,9 +7986,7 @@
         "SpDef": 80,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 331,
@@ -8811,9 +8009,7 @@
         "SpDef": 40,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 332,
@@ -8837,9 +8033,7 @@
         "SpDef": 60,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 333,
@@ -8863,9 +8057,7 @@
         "SpDef": 75,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 334,
@@ -8889,9 +8081,7 @@
         "SpDef": 105,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 335,
@@ -8914,9 +8104,7 @@
         "SpDef": 60,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 336,
@@ -8939,9 +8127,7 @@
         "SpDef": 60,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 337,
@@ -8965,9 +8151,7 @@
         "SpDef": 85,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 338,
@@ -8991,9 +8175,7 @@
         "SpDef": 65,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 339,
@@ -9017,9 +8199,7 @@
         "SpDef": 41,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 340,
@@ -9043,9 +8223,7 @@
         "SpDef": 71,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 341,
@@ -9068,9 +8246,7 @@
         "SpDef": 35,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 342,
@@ -9094,9 +8270,7 @@
         "SpDef": 55,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 343,
@@ -9120,9 +8294,7 @@
         "SpDef": 70,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 344,
@@ -9146,9 +8318,7 @@
         "SpDef": 120,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 345,
@@ -9172,9 +8342,7 @@
         "SpDef": 87,
         "Speed": 23
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 346,
@@ -9198,9 +8366,7 @@
         "SpDef": 107,
         "Speed": 43
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 347,
@@ -9224,9 +8390,7 @@
         "SpDef": 50,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 348,
@@ -9250,9 +8414,7 @@
         "SpDef": 80,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 349,
@@ -9275,9 +8437,7 @@
         "SpDef": 55,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 350,
@@ -9300,9 +8460,7 @@
         "SpDef": 125,
         "Speed": 81
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 351,
@@ -9325,9 +8483,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 352,
@@ -9350,9 +8506,7 @@
         "SpDef": 120,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 353,
@@ -9375,9 +8529,7 @@
         "SpDef": 33,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 354,
@@ -9400,9 +8552,7 @@
         "SpDef": 83,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 355,
@@ -9425,9 +8575,7 @@
         "SpDef": 90,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 356,
@@ -9450,9 +8598,7 @@
         "SpDef": 130,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 357,
@@ -9476,9 +8622,7 @@
         "SpDef": 87,
         "Speed": 51
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 358,
@@ -9501,9 +8645,7 @@
         "SpDef": 90,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 359,
@@ -9526,9 +8668,7 @@
         "SpDef": 60,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 360,
@@ -9551,9 +8691,7 @@
         "SpDef": 48,
         "Speed": 23
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 361,
@@ -9576,9 +8714,7 @@
         "SpDef": 50,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 362,
@@ -9601,9 +8737,7 @@
         "SpDef": 80,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 363,
@@ -9627,9 +8761,7 @@
         "SpDef": 50,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 364,
@@ -9653,9 +8785,7 @@
         "SpDef": 70,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 365,
@@ -9679,9 +8809,7 @@
         "SpDef": 90,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 366,
@@ -9704,9 +8832,7 @@
         "SpDef": 55,
         "Speed": 32
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 367,
@@ -9729,9 +8855,7 @@
         "SpDef": 75,
         "Speed": 52
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 368,
@@ -9754,9 +8878,7 @@
         "SpDef": 75,
         "Speed": 52
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 369,
@@ -9780,9 +8902,7 @@
         "SpDef": 65,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 370,
@@ -9805,9 +8925,7 @@
         "SpDef": 65,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 371,
@@ -9830,9 +8948,7 @@
         "SpDef": 30,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 372,
@@ -9855,9 +8971,7 @@
         "SpDef": 50,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 373,
@@ -9881,9 +8995,7 @@
         "SpDef": 80,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 374,
@@ -9907,9 +9019,7 @@
         "SpDef": 60,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 375,
@@ -9933,9 +9043,7 @@
         "SpDef": 80,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 376,
@@ -9959,9 +9067,7 @@
         "SpDef": 90,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 377,
@@ -9984,9 +9090,7 @@
         "SpDef": 100,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 378,
@@ -10009,9 +9113,7 @@
         "SpDef": 200,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 379,
@@ -10034,9 +9136,7 @@
         "SpDef": 150,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 380,
@@ -10060,9 +9160,7 @@
         "SpDef": 130,
         "Speed": 110
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 381,
@@ -10086,9 +9184,7 @@
         "SpDef": 110,
         "Speed": 110
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 382,
@@ -10111,9 +9207,7 @@
         "SpDef": 140,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 383,
@@ -10136,9 +9230,7 @@
         "SpDef": 90,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 384,
@@ -10162,9 +9254,7 @@
         "SpDef": 90,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 385,
@@ -10188,9 +9278,7 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 386,
@@ -10213,9 +9301,7 @@
         "SpDef": 50,
         "Speed": 150
       },
-      "generation": {
-        "name": "generation3"
-      }
+      "generation": "generation3"
     },
     {
       "id": 387,
@@ -10238,9 +9324,7 @@
         "SpDef": 55,
         "Speed": 31
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 388,
@@ -10263,9 +9347,7 @@
         "SpDef": 65,
         "Speed": 36
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 389,
@@ -10289,9 +9371,7 @@
         "SpDef": 85,
         "Speed": 56
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 390,
@@ -10314,9 +9394,7 @@
         "SpDef": 44,
         "Speed": 61
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 391,
@@ -10340,9 +9418,7 @@
         "SpDef": 52,
         "Speed": 81
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 392,
@@ -10366,9 +9442,7 @@
         "SpDef": 71,
         "Speed": 108
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 393,
@@ -10391,9 +9465,7 @@
         "SpDef": 56,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 394,
@@ -10416,9 +9488,7 @@
         "SpDef": 76,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 395,
@@ -10442,9 +9512,7 @@
         "SpDef": 101,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 396,
@@ -10468,9 +9536,7 @@
         "SpDef": 30,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 397,
@@ -10494,9 +9560,7 @@
         "SpDef": 40,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 398,
@@ -10520,9 +9584,7 @@
         "SpDef": 60,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 399,
@@ -10545,9 +9607,7 @@
         "SpDef": 40,
         "Speed": 31
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 400,
@@ -10571,9 +9631,7 @@
         "SpDef": 60,
         "Speed": 71
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 401,
@@ -10596,9 +9654,7 @@
         "SpDef": 41,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 402,
@@ -10621,9 +9677,7 @@
         "SpDef": 51,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 403,
@@ -10646,9 +9700,7 @@
         "SpDef": 34,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 404,
@@ -10671,9 +9723,7 @@
         "SpDef": 49,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 405,
@@ -10697,10 +9747,10 @@
         "SpDef": 79,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation4"
-      }
-    },{
+      "generation": "generation4"
+
+    },
+    {
       "id": 406,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/406.png",
       "name": "Budew",
@@ -10722,9 +9772,7 @@
         "SpDef": 70,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 407,
@@ -10748,9 +9796,7 @@
         "SpDef": 105,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 408,
@@ -10773,9 +9819,7 @@
         "SpDef": 30,
         "Speed": 58
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 409,
@@ -10798,9 +9842,7 @@
         "SpDef": 50,
         "Speed": 58
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 410,
@@ -10824,9 +9866,7 @@
         "SpDef": 88,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 411,
@@ -10850,9 +9890,7 @@
         "SpDef": 138,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 412,
@@ -10875,9 +9913,7 @@
         "SpDef": 45,
         "Speed": 36
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 413,
@@ -10901,9 +9937,7 @@
         "SpDef": 105,
         "Speed": 36
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 414,
@@ -10927,9 +9961,7 @@
         "SpDef": 50,
         "Speed": 66
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 415,
@@ -10953,9 +9985,7 @@
         "SpDef": 50,
         "Speed": 66
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 416,
@@ -10979,9 +10009,7 @@
         "SpDef": 42,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 417,
@@ -11004,9 +10032,7 @@
         "SpDef": 102,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 418,
@@ -11029,9 +10055,7 @@
         "SpDef": 90,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 419,
@@ -11054,9 +10078,7 @@
         "SpDef": 50,
         "Speed": 115
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 420,
@@ -11079,9 +10101,7 @@
         "SpDef": 53,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 421,
@@ -11104,9 +10124,7 @@
         "SpDef": 78,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 422,
@@ -11129,9 +10147,7 @@
         "SpDef": 62,
         "Speed": 34
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 423,
@@ -11155,9 +10171,7 @@
         "SpDef": 82,
         "Speed": 39
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 424,
@@ -11180,9 +10194,7 @@
         "SpDef": 66,
         "Speed": 115
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 425,
@@ -11206,9 +10218,7 @@
         "SpDef": 44,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 426,
@@ -11232,9 +10242,7 @@
         "SpDef": 54,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 427,
@@ -11257,9 +10265,7 @@
         "SpDef": 56,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 428,
@@ -11282,9 +10288,7 @@
         "SpDef": 96,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 429,
@@ -11307,9 +10311,7 @@
         "SpDef": 105,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 430,
@@ -11333,9 +10335,7 @@
         "SpDef": 52,
         "Speed": 71
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 431,
@@ -11358,9 +10358,7 @@
         "SpDef": 37,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 432,
@@ -11383,9 +10381,7 @@
         "SpDef": 59,
         "Speed": 112
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 433,
@@ -11408,9 +10404,7 @@
         "SpDef": 50,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 434,
@@ -11434,9 +10428,7 @@
         "SpDef": 41,
         "Speed": 74
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 435,
@@ -11460,9 +10452,7 @@
         "SpDef": 61,
         "Speed": 84
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 436,
@@ -11486,9 +10476,7 @@
         "SpDef": 86,
         "Speed": 23
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 437,
@@ -11512,9 +10500,7 @@
         "SpDef": 116,
         "Speed": 33
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 438,
@@ -11537,9 +10523,7 @@
         "SpDef": 45,
         "Speed": 10
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 439,
@@ -11563,9 +10547,7 @@
         "SpDef": 90,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 440,
@@ -11588,9 +10570,7 @@
         "SpDef": 65,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 441,
@@ -11614,9 +10594,7 @@
         "SpDef": 42,
         "Speed": 91
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 442,
@@ -11640,9 +10618,7 @@
         "SpDef": 108,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 443,
@@ -11666,9 +10642,7 @@
         "SpDef": 45,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 444,
@@ -11692,9 +10666,7 @@
         "SpDef": 55,
         "Speed": 82
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 445,
@@ -11718,9 +10690,7 @@
         "SpDef": 85,
         "Speed": 102
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 446,
@@ -11743,9 +10713,7 @@
         "SpDef": 85,
         "Speed": 5
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 447,
@@ -11768,9 +10736,7 @@
         "SpDef": 40,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 448,
@@ -11794,9 +10760,7 @@
         "SpDef": 70,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 449,
@@ -11819,9 +10783,7 @@
         "SpDef": 42,
         "Speed": 32
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 450,
@@ -11844,9 +10806,7 @@
         "SpDef": 72,
         "Speed": 47
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 451,
@@ -11870,9 +10830,7 @@
         "SpDef": 55,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 452,
@@ -11896,9 +10854,7 @@
         "SpDef": 75,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 453,
@@ -11922,9 +10878,7 @@
         "SpDef": 40,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 454,
@@ -11948,9 +10902,7 @@
         "SpDef": 65,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 455,
@@ -11973,9 +10925,7 @@
         "SpDef": 72,
         "Speed": 46
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 456,
@@ -11998,9 +10948,7 @@
         "SpDef": 61,
         "Speed": 66
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 457,
@@ -12023,9 +10971,7 @@
         "SpDef": 86,
         "Speed": 91
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 458,
@@ -12049,9 +10995,7 @@
         "SpDef": 120,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 459,
@@ -12075,9 +11019,7 @@
         "SpDef": 60,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 460,
@@ -12101,9 +11043,7 @@
         "SpDef": 85,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 461,
@@ -12127,9 +11067,7 @@
         "SpDef": 85,
         "Speed": 125
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 462,
@@ -12153,9 +11091,7 @@
         "SpDef": 90,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 463,
@@ -12178,9 +11114,7 @@
         "SpDef": 95,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 464,
@@ -12204,9 +11138,7 @@
         "SpDef": 55,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 465,
@@ -12229,9 +11161,7 @@
         "SpDef": 50,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 466,
@@ -12254,9 +11184,7 @@
         "SpDef": 85,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 467,
@@ -12279,9 +11207,7 @@
         "SpDef": 95,
         "Speed": 83
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 468,
@@ -12305,9 +11231,7 @@
         "SpDef": 115,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 469,
@@ -12330,9 +11254,7 @@
         "SpDef": 56,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 470,
@@ -12355,9 +11277,7 @@
         "SpDef": 65,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 471,
@@ -12380,9 +11300,7 @@
         "SpDef": 95,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 472,
@@ -12406,9 +11324,7 @@
         "SpDef": 75,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 473,
@@ -12432,9 +11348,7 @@
         "SpDef": 60,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 474,
@@ -12457,9 +11371,7 @@
         "SpDef": 75,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 475,
@@ -12483,9 +11395,7 @@
         "SpDef": 115,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 476,
@@ -12509,9 +11419,7 @@
         "SpDef": 150,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 477,
@@ -12534,9 +11442,7 @@
         "SpDef": 135,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 478,
@@ -12560,9 +11466,7 @@
         "SpDef": 70,
         "Speed": 110
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 479,
@@ -12586,9 +11490,7 @@
         "SpDef": 77,
         "Speed": 91
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 480,
@@ -12611,9 +11513,7 @@
         "SpDef": 130,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 481,
@@ -12636,9 +11536,7 @@
         "SpDef": 105,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 482,
@@ -12661,9 +11559,7 @@
         "SpDef": 70,
         "Speed": 115
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 483,
@@ -12687,9 +11583,7 @@
         "SpDef": 100,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 484,
@@ -12713,9 +11607,7 @@
         "SpDef": 120,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 485,
@@ -12739,9 +11631,7 @@
         "SpDef": 106,
         "Speed": 77
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 486,
@@ -12764,9 +11654,7 @@
         "SpDef": 110,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 487,
@@ -12790,9 +11678,7 @@
         "SpDef": 120,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 488,
@@ -12815,9 +11701,7 @@
         "SpDef": 130,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 489,
@@ -12840,9 +11724,7 @@
         "SpDef": 80,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 490,
@@ -12865,9 +11747,7 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 491,
@@ -12890,9 +11770,7 @@
         "SpDef": 90,
         "Speed": 125
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 492,
@@ -12915,9 +11793,7 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 493,
@@ -12940,9 +11816,7 @@
         "SpDef": 120,
         "Speed": 120
       },
-      "generation": {
-        "name": "generation4"
-      }
+      "generation": "generation4"
     },
     {
       "id": 494,
@@ -12965,9 +11839,7 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     }, 
     {
       "id": 495,
@@ -12989,9 +11861,7 @@
         "SpDef": 55,
         "Speed": 63
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 496,
@@ -13013,9 +11883,7 @@
         "SpDef": 75,
         "Speed": 83
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 497,
@@ -13037,9 +11905,7 @@
         "SpDef": 95,
         "Speed": 113
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 498,
@@ -13061,9 +11927,7 @@
         "SpDef": 45,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 499,
@@ -13086,9 +11950,7 @@
         "SpDef": 55,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 500,
@@ -13111,9 +11973,7 @@
         "SpDef": 65,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 501,
@@ -13135,9 +11995,7 @@
         "SpDef": 45,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 502,
@@ -13159,9 +12017,7 @@
         "SpDef": 60,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 503,
@@ -13183,9 +12039,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 504,
@@ -13207,9 +12061,7 @@
         "SpDef": 39,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 505,
@@ -13231,9 +12083,7 @@
         "SpDef": 69,
         "Speed": 77
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 506,
@@ -13255,9 +12105,7 @@
         "SpDef": 45,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 507,
@@ -13279,9 +12127,7 @@
         "SpDef": 65,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 508,
@@ -13303,9 +12149,7 @@
         "SpDef": 90,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 509,
@@ -13327,9 +12171,7 @@
         "SpDef": 37,
         "Speed": 66
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 510,
@@ -13351,9 +12193,7 @@
         "SpDef": 50,
         "Speed": 106
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 511,
@@ -13375,9 +12215,7 @@
         "SpDef": 48,
         "Speed": 64
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 512,
@@ -13399,9 +12237,7 @@
         "SpDef": 63,
         "Speed": 101
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 513,
@@ -13423,9 +12259,7 @@
         "SpDef": 48,
         "Speed": 64
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 514,
@@ -13447,9 +12281,7 @@
         "SpDef": 63,
         "Speed": 101
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 515,
@@ -13471,9 +12303,7 @@
         "SpDef": 48,
         "Speed": 64
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 516,
@@ -13495,9 +12325,7 @@
         "SpDef": 63,
         "Speed": 101
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 517,
@@ -13519,9 +12347,7 @@
         "SpDef": 55,
         "Speed": 24
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 518,
@@ -13543,9 +12369,7 @@
         "SpDef": 95,
         "Speed": 29
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 519,
@@ -13568,9 +12392,7 @@
         "SpDef": 30,
         "Speed": 43
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 520,
@@ -13593,9 +12415,7 @@
         "SpDef": 42,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 521,
@@ -13618,9 +12438,7 @@
         "SpDef": 55,
         "Speed": 93
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 522,
@@ -13642,9 +12460,7 @@
         "SpDef": 32,
         "Speed": 76
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 523,
@@ -13666,9 +12482,7 @@
         "SpDef": 63,
         "Speed": 116
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 524,
@@ -13690,9 +12504,7 @@
         "SpDef": 25,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 525,
@@ -13714,9 +12526,7 @@
         "SpDef": 40,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 526,
@@ -13738,9 +12548,7 @@
         "SpDef": 70,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 527,
@@ -13763,9 +12571,7 @@
         "SpDef": 43,
         "Speed": 72
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 528,
@@ -13788,9 +12594,7 @@
         "SpDef": 55,
         "Speed": 114
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 529,
@@ -13812,9 +12616,7 @@
         "SpDef": 45,
         "Speed": 68
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 530,
@@ -13837,9 +12639,7 @@
         "SpDef": 65,
         "Speed": 88
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 531,
@@ -13861,9 +12661,7 @@
         "SpDef": 86,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 532,
@@ -13885,9 +12683,7 @@
         "SpDef": 35,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 533,
@@ -13909,9 +12705,7 @@
         "SpDef": 50,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 534,
@@ -13933,9 +12727,7 @@
         "SpDef": 65,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 535,
@@ -13957,9 +12749,7 @@
         "SpDef": 40,
         "Speed": 64
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 536,
@@ -13982,9 +12772,7 @@
         "SpDef": 55,
         "Speed": 69
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 537,
@@ -14007,9 +12795,7 @@
         "SpDef": 75,
         "Speed": 74
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 538,
@@ -14031,9 +12817,7 @@
         "SpDef": 85,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 539,
@@ -14055,9 +12839,7 @@
         "SpDef": 75,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 540,
@@ -14080,9 +12862,7 @@
         "SpDef": 60,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 541,
@@ -14105,9 +12885,7 @@
         "SpDef": 80,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 542,
@@ -14130,9 +12908,7 @@
         "SpDef": 70,
         "Speed": 92
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 543,
@@ -14155,9 +12931,7 @@
         "SpDef": 39,
         "Speed": 57
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 544,
@@ -14180,9 +12954,7 @@
         "SpDef": 79,
         "Speed": 47
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 545,
@@ -14205,9 +12977,7 @@
         "SpDef": 69,
         "Speed": 112
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 546,
@@ -14230,9 +13000,7 @@
         "SpDef": 50,
         "Speed": 66
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 547,
@@ -14255,9 +13023,7 @@
         "SpDef": 75,
         "Speed": 116
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 548,
@@ -14279,9 +13045,7 @@
         "SpDef": 50,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 549,
@@ -14303,9 +13067,7 @@
         "SpDef": 75,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 550,
@@ -14327,9 +13089,7 @@
         "SpDef": 55,
         "Speed": 98
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 551,
@@ -14352,9 +13112,7 @@
         "SpDef": 35,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 552,
@@ -14377,9 +13135,7 @@
         "SpDef": 45,
         "Speed": 74
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 553,
@@ -14402,9 +13158,7 @@
         "SpDef": 70,
         "Speed": 92
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 554,
@@ -14426,9 +13180,7 @@
         "SpDef": 45,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 555,
@@ -14450,9 +13202,7 @@
         "SpDef": 55,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 556,
@@ -14474,9 +13224,7 @@
         "SpDef": 67,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 557,
@@ -14499,9 +13247,7 @@
         "SpDef": 35,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 558,
@@ -14524,9 +13270,7 @@
         "SpDef": 75,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 559,
@@ -14549,9 +13293,7 @@
         "SpDef": 70,
         "Speed": 48
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 560,
@@ -14574,9 +13316,7 @@
         "SpDef": 115,
         "Speed": 58
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 561,
@@ -14599,9 +13339,7 @@
         "SpDef": 80,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 562,
@@ -14623,9 +13361,7 @@
         "SpDef": 65,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 563,
@@ -14647,9 +13383,7 @@
         "SpDef": 105,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 564,
@@ -14672,9 +13406,7 @@
         "SpDef": 45,
         "Speed": 22
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 565,
@@ -14697,9 +13429,7 @@
         "SpDef": 65,
         "Speed": 32
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 566,
@@ -14722,9 +13452,7 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 567,
@@ -14747,9 +13475,7 @@
         "SpDef": 65,
         "Speed": 110
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 568,
@@ -14771,9 +13497,7 @@
         "SpDef": 62,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 569,
@@ -14795,9 +13519,7 @@
         "SpDef": 82,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 570,
@@ -14819,9 +13541,7 @@
         "SpDef": 40,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 571,
@@ -14843,9 +13563,7 @@
         "SpDef": 60,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 572,
@@ -14867,9 +13585,7 @@
         "SpDef": 40,
         "Speed": 75 
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 573,
@@ -14891,9 +13607,7 @@
         "SpDef": 60,
         "Speed": 115
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 574,
@@ -14915,9 +13629,7 @@
         "SpDef": 65,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 575,
@@ -14939,9 +13651,7 @@
         "SpDef": 85,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 576,
@@ -14963,9 +13673,7 @@
         "SpDef": 110,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 577,
@@ -14987,9 +13695,7 @@
         "SpDef": 50,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 578,
@@ -15011,9 +13717,7 @@
         "SpDef": 60,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 579,
@@ -15035,9 +13739,7 @@
         "SpDef": 85,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 580,
@@ -15060,9 +13762,7 @@
         "SpDef": 50,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 581,
@@ -15085,9 +13785,7 @@
         "SpDef": 63,
         "Speed": 98
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 582,
@@ -15109,9 +13807,7 @@
         "SpDef": 60,
         "Speed": 44
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 583,
@@ -15133,9 +13829,7 @@
         "SpDef": 75,
         "Speed": 59
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 584,
@@ -15157,9 +13851,7 @@
         "SpDef": 95,
         "Speed": 79
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 585,
@@ -15182,9 +13874,7 @@
         "SpDef": 50,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 586,
@@ -15207,9 +13897,7 @@
         "SpDef": 70,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 587,
@@ -15232,9 +13920,7 @@
         "SpDef": 60,
         "Speed": 103
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 588,
@@ -15256,9 +13942,7 @@
         "SpDef": 45,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 589,
@@ -15281,9 +13965,7 @@
         "SpDef": 105,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 590,
@@ -15306,9 +13988,7 @@
         "SpDef": 55,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 591,
@@ -15331,9 +14011,7 @@
         "SpDef": 80,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 592,
@@ -15356,9 +14034,7 @@
         "SpDef": 85,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 593,
@@ -15381,9 +14057,7 @@
         "SpDef": 105,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 594,
@@ -15405,9 +14079,7 @@
         "SpDef": 45,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 595,
@@ -15430,9 +14102,7 @@
         "SpDef": 50,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 596,
@@ -15455,9 +14125,7 @@
         "SpDef": 60,
         "Speed": 108
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 597,
@@ -15480,9 +14148,7 @@
         "SpDef": 86,
         "Speed": 10
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 598,
@@ -15505,9 +14171,7 @@
         "SpDef": 116,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 599,
@@ -15529,9 +14193,7 @@
         "SpDef": 60,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 600,
@@ -15553,9 +14215,7 @@
         "SpDef": 85,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 601,
@@ -15577,9 +14237,7 @@
         "SpDef": 85,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 602,
@@ -15601,9 +14259,7 @@
         "SpDef": 40,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 603,
@@ -15625,9 +14281,7 @@
         "SpDef": 70,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 604,
@@ -15649,9 +14303,7 @@
         "SpDef": 80,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 605,
@@ -15673,9 +14325,7 @@
         "SpDef": 55,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 606,
@@ -15697,9 +14347,7 @@
         "SpDef": 95,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 607,
@@ -15722,9 +14370,7 @@
         "SpDef": 55,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 608,
@@ -15747,9 +14393,7 @@
         "SpDef": 60,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 609,
@@ -15772,9 +14416,7 @@
         "SpDef": 90,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 610,
@@ -15796,9 +14438,7 @@
         "SpDef": 40,
         "Speed": 57
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 611,
@@ -15820,9 +14460,7 @@
         "SpDef": 50,
         "Speed": 67
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 612,
@@ -15844,9 +14482,7 @@
         "SpDef": 70,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 613,
@@ -15868,9 +14504,7 @@
         "SpDef": 40,
         "Speed":40 
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 614,
@@ -15892,9 +14526,7 @@
         "SpDef": 80,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 615,
@@ -15916,9 +14548,7 @@
         "SpDef": 135,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 616,
@@ -15940,9 +14570,7 @@
         "SpDef": 65,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 617,
@@ -15964,9 +14592,7 @@
         "SpDef": 60,
         "Speed": 145
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 618,
@@ -15989,9 +14615,7 @@
         "SpDef": 99,
         "Speed": 32
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 619,
@@ -16013,9 +14637,7 @@
         "SpDef": 50,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 620,
@@ -16037,9 +14659,7 @@
         "SpDef": 60,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 621,
@@ -16061,9 +14681,7 @@
         "SpDef": 90,
         "Speed": 48
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 622,
@@ -16086,9 +14704,7 @@
         "SpDef": 50,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 623,
@@ -16111,9 +14727,7 @@
         "SpDef": 80,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 624,
@@ -16136,9 +14750,7 @@
         "SpDef": 40,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 625,
@@ -16161,9 +14773,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 626,
@@ -16185,9 +14795,7 @@
         "SpDef": 95,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 627,
@@ -16210,9 +14818,7 @@
         "SpDef": 50,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 628,
@@ -16235,9 +14841,7 @@
         "SpDef": 75,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 629,
@@ -16260,9 +14864,7 @@
         "SpDef": 45,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 630,
@@ -16285,9 +14887,7 @@
         "SpDef": 95,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 631,
@@ -16309,9 +14909,7 @@
         "SpDef": 66,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 632,
@@ -16334,9 +14932,7 @@
         "SpDef": 48,
         "Speed": 109
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 633,
@@ -16359,9 +14955,7 @@
         "SpDef": 50,
         "Speed": 38
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 634,
@@ -16384,9 +14978,7 @@
         "SpDef": 70,
         "Speed": 58
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 635,
@@ -16409,9 +15001,7 @@
         "SpDef": 90,
         "Speed": 98
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 636,
@@ -16434,9 +15024,7 @@
         "SpDef": 55,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 637,
@@ -16459,9 +15047,7 @@
         "SpDef": 105,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 638,
@@ -16484,9 +15070,7 @@
         "SpDef": 72,
         "Speed": 108
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 639,
@@ -16509,9 +15093,7 @@
         "SpDef": 90,
         "Speed": 108
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 640,
@@ -16534,9 +15116,7 @@
         "SpDef": 129,
         "Speed": 108
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 641,
@@ -16558,9 +15138,7 @@
         "SpDef": 80,
         "Speed": 111
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 642,
@@ -16583,9 +15161,7 @@
         "SpDef": 80,
         "Speed": 111
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 643,
@@ -16608,9 +15184,7 @@
         "SpDef": 120,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 644,
@@ -16633,9 +15207,7 @@
         "SpDef": 100,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 645,
@@ -16658,9 +15230,7 @@
         "SpDef": 80,
         "Speed": 101
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 646,
@@ -16683,9 +15253,7 @@
         "SpDef": 90,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 647,
@@ -16708,9 +15276,7 @@
         "SpDef": 90,
         "Speed": 108
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 648,
@@ -16733,9 +15299,7 @@
         "SpDef": 128,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 649,
@@ -16758,9 +15322,7 @@
         "SpDef": 95,
         "Speed": 99
       },
-      "generation": {
-        "name": "generation5"
-      }
+      "generation": "generation5"
     },
     {
       "id": 650,
@@ -16782,9 +15344,7 @@
         "SpDef": 45,
         "Speed": 38
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 651,
@@ -16806,9 +15366,7 @@
         "SpDef": 58,
         "Speed": 57
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 652,
@@ -16831,9 +15389,7 @@
         "SpDef": 75,
         "Speed": 64
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 653,
@@ -16855,9 +15411,7 @@
         "SpDef": 60,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 654,
@@ -16879,9 +15433,7 @@
         "SpDef": 70,
         "Speed": 73
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 655,
@@ -16904,9 +15456,7 @@
         "SpDef": 100,
         "Speed": 104
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 656,
@@ -16928,9 +15478,7 @@
         "SpDef": 44,
         "Speed": 71
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 657,
@@ -16952,9 +15500,7 @@
         "SpDef": 56,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 658,
@@ -16977,9 +15523,7 @@
         "SpDef": 71,
         "Speed": 122
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 659,
@@ -17001,9 +15545,7 @@
         "SpDef": 36,
         "Speed": 57
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 660,
@@ -17026,9 +15568,7 @@
         "SpDef": 77,
         "Speed": 78
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 661,
@@ -17051,9 +15591,7 @@
         "SpDef": 38,
         "Speed": 62
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 662,
@@ -17076,9 +15614,7 @@
         "SpDef": 52,
         "Speed": 84
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 663,
@@ -17101,9 +15637,7 @@
         "SpDef": 69,
         "Speed": 126
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 664,
@@ -17125,9 +15659,7 @@
         "SpDef": 25,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 665,
@@ -17149,9 +15681,7 @@
         "SpDef": 30,
         "Speed": 29
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 666,
@@ -17174,9 +15704,7 @@
         "SpDef": 50,
         "Speed": 89
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 667,
@@ -17199,9 +15727,7 @@
         "SpDef": 52,
         "Speed": 72
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 668,
@@ -17224,9 +15750,7 @@
         "SpDef": 66,
         "Speed": 106
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 669,
@@ -17248,9 +15772,7 @@
         "SpDef": 79,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 670,
@@ -17272,9 +15794,7 @@
         "SpDef": 98,
         "Speed": 52
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 671,
@@ -17296,9 +15816,7 @@
         "SpDef": 154,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 672,
@@ -17320,9 +15838,7 @@
         "SpDef": 57,
         "Speed": 52
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 673,
@@ -17344,9 +15860,7 @@
         "SpDef": 81,
         "Speed": 68
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 674,
@@ -17368,9 +15882,7 @@
         "SpDef": 48,
         "Speed": 43
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 675,
@@ -17393,9 +15905,7 @@
         "SpDef": 71,
         "Speed": 58
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 676,
@@ -17417,9 +15927,7 @@
         "SpDef": 90,
         "Speed": 102
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 677,
@@ -17441,9 +15949,7 @@
         "SpDef": 60,
         "Speed": 68
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 678,
@@ -17465,9 +15971,7 @@
         "SpDef": 81,
         "Speed": 104
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 679,
@@ -17490,9 +15994,7 @@
         "SpDef": 37,
         "Speed": 28
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 680,
@@ -17515,9 +16017,7 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 681,
@@ -17540,9 +16040,7 @@
         "SpDef": 150,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 682,
@@ -17564,9 +16062,7 @@
         "SpDef": 65,
         "Speed": 23
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 683,
@@ -17588,9 +16084,7 @@
         "SpDef": 89,
         "Speed": 29
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 684,
@@ -17612,9 +16106,7 @@
         "SpDef": 57,
         "Speed": 49
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 685,
@@ -17636,9 +16128,7 @@
         "SpDef": 75,
         "Speed": 72
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 686,
@@ -17661,9 +16151,7 @@
         "SpDef": 46,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 687,
@@ -17686,9 +16174,7 @@
         "SpDef": 75,
         "Speed": 73
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 688,
@@ -17711,9 +16197,7 @@
         "SpDef": 56,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 689,
@@ -17736,9 +16220,7 @@
         "SpDef": 86,
         "Speed": 68
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 690,
@@ -17761,9 +16243,7 @@
         "SpDef": 60,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 691,
@@ -17786,9 +16266,7 @@
         "SpDef": 123,
         "Speed": 44
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 692,
@@ -17810,9 +16288,7 @@
         "SpDef": 63,
         "Speed": 44
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 693,
@@ -17834,9 +16310,7 @@
         "SpDef": 89,
         "Speed": 59
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 694,
@@ -17859,9 +16333,7 @@
         "SpDef": 43,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 695,
@@ -17884,9 +16356,7 @@
         "SpDef": 94,
         "Speed": 109
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 696,
@@ -17909,9 +16379,7 @@
         "SpDef": 45,
         "Speed": 48
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 697,
@@ -17934,9 +16402,7 @@
         "SpDef": 59,
         "Speed": 71
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 698,
@@ -17959,9 +16425,7 @@
         "SpDef": 63,
         "Speed": 46
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 699,
@@ -17984,9 +16448,7 @@
         "SpDef": 92,
         "Speed": 58
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 700,
@@ -18008,9 +16470,7 @@
         "SpDef": 130,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 701,
@@ -18033,9 +16493,7 @@
         "SpDef": 63,
         "Speed": 118
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 702,
@@ -18058,9 +16516,7 @@
         "SpDef": 67,
         "Speed": 101
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 703,
@@ -18083,9 +16539,7 @@
         "SpDef": 150,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 704,
@@ -18107,9 +16561,7 @@
         "SpDef": 75,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 705,
@@ -18131,9 +16583,7 @@
         "SpDef": 113,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 706,
@@ -18155,9 +16605,7 @@
         "SpDef": 150,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 707,
@@ -18180,9 +16628,7 @@
         "SpDef": 87,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 708,
@@ -18205,9 +16651,7 @@
         "SpDef": 60,
         "Speed": 38
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 709,
@@ -18230,9 +16674,7 @@
         "SpDef": 82,
         "Speed": 56
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 710,
@@ -18255,9 +16697,7 @@
         "SpDef": 55,
         "Speed": 51
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 711,
@@ -18280,9 +16720,7 @@
         "SpDef": 75,
         "Speed": 99
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 712,
@@ -18304,9 +16742,7 @@
         "SpDef": 35,
         "Speed": 28
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 713,
@@ -18328,9 +16764,7 @@
         "SpDef": 46,
         "Speed": 28
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 714,
@@ -18353,9 +16787,7 @@
         "SpDef": 40,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 715,
@@ -18378,9 +16810,7 @@
         "SpDef": 80,
         "Speed": 123
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 716,
@@ -18402,9 +16832,7 @@
         "SpDef": 98,
         "Speed": 99
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 717,
@@ -18427,9 +16855,7 @@
         "SpDef": 98,
         "Speed": 99
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 718,
@@ -18452,9 +16878,7 @@
         "SpDef": 95,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 719,
@@ -18477,9 +16901,7 @@
         "SpDef": 150,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 720,
@@ -18502,9 +16924,7 @@
         "SpDef": 130,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 721,
@@ -18527,9 +16947,7 @@
         "SpDef": 90,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation6"
-      }
+      "generation": "generation6"
     },
     {
       "id": 722,
@@ -18553,9 +16971,7 @@
         "SpDef": 50,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 723,
@@ -18579,9 +16995,7 @@
         "SpDef": 70,
         "Speed": 52
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 724,
@@ -18605,9 +17019,7 @@
         "SpDef": 100,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 725,
@@ -18630,9 +17042,7 @@
         "SpDef": 40,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 726,
@@ -18655,9 +17065,7 @@
         "SpDef": 50,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 727,
@@ -18681,9 +17089,7 @@
         "SpDef": 90,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 728,
@@ -18706,9 +17112,7 @@
         "SpDef": 56,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 729,
@@ -18731,9 +17135,7 @@
         "SpDef": 81,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 730,
@@ -18757,9 +17159,7 @@
         "SpDef": 116,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 731,
@@ -18783,9 +17183,7 @@
         "SpDef": 30,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 732,
@@ -18809,9 +17207,7 @@
         "SpDef": 50,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 733,
@@ -18835,9 +17231,7 @@
         "SpDef": 75,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 734,
@@ -18860,9 +17254,7 @@
         "SpDef": 30,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 735,
@@ -18885,9 +17277,7 @@
         "SpDef": 60,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 736,
@@ -18910,9 +17300,7 @@
         "SpDef": 60,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 737,
@@ -18936,9 +17324,7 @@
         "SpDef": 75,
         "Speed": 36
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 738,
@@ -18962,9 +17348,7 @@
         "SpDef": 75,
         "Speed": 43
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 739,
@@ -18987,9 +17371,7 @@
         "SpDef": 47,
         "Speed": 63
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 740,
@@ -19013,9 +17395,7 @@
         "SpDef": 67,
         "Speed": 43
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 741,
@@ -19039,9 +17419,7 @@
         "SpDef": 70,
         "Speed": 93
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 742,
@@ -19065,9 +17443,7 @@
         "SpDef": 40,
         "Speed": 84
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 743,
@@ -19091,9 +17467,7 @@
         "SpDef": 70,
         "Speed": 124
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 744,
@@ -19116,9 +17490,7 @@
         "SpDef": 30,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 745,
@@ -19141,9 +17513,7 @@
         "SpDef": 65,
         "Speed": 112
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 746,
@@ -19166,9 +17536,7 @@
         "SpDef": 25,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 747,
@@ -19192,9 +17560,7 @@
         "SpDef": 52,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 748,
@@ -19218,9 +17584,7 @@
         "SpDef": 142,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 749,
@@ -19243,9 +17607,7 @@
         "SpDef": 55,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 750,
@@ -19268,9 +17630,7 @@
         "SpDef": 85,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 751,
@@ -19294,9 +17654,7 @@
         "SpDef": 72,
         "Speed": 27
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 752,
@@ -19320,9 +17678,7 @@
         "SpDef": 132,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 753,
@@ -19345,9 +17701,7 @@
         "SpDef": 35,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 754,
@@ -19370,9 +17724,7 @@
         "SpDef": 90,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 755,
@@ -19396,9 +17748,7 @@
         "SpDef": 75,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 756,
@@ -19422,9 +17772,7 @@
         "SpDef": 100,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 757,
@@ -19448,9 +17796,7 @@
         "SpDef": 40,
         "Speed": 77
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 758,
@@ -19474,9 +17820,7 @@
         "SpDef": 60,
         "Speed": 117
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 759,
@@ -19500,9 +17844,7 @@
         "SpDef": 50,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 760,
@@ -19526,9 +17868,7 @@
         "SpDef": 60,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 761,
@@ -19551,9 +17891,7 @@
         "SpDef": 38,
         "Speed": 32
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 762,
@@ -19576,9 +17914,7 @@
         "SpDef": 48,
         "Speed": 62
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 763,
@@ -19601,9 +17937,7 @@
         "SpDef": 98,
         "Speed": 72
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 764,
@@ -19626,9 +17960,7 @@
         "SpDef": 110,
         "Speed": 100
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 765,
@@ -19652,9 +17984,7 @@
         "SpDef": 110,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 766,
@@ -19677,9 +18007,7 @@
         "SpDef": 60,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 767,
@@ -19703,9 +18031,7 @@
         "SpDef": 30,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 768,
@@ -19729,9 +18055,7 @@
         "SpDef": 90,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 769,
@@ -19755,9 +18079,7 @@
         "SpDef": 45,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 770,
@@ -19781,9 +18103,7 @@
         "SpDef": 75,
         "Speed": 35
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 771,
@@ -19806,9 +18126,7 @@
         "SpDef": 130,
         "Speed": 5
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 772,
@@ -19831,9 +18149,7 @@
         "SpDef": 95,
         "Speed": 59
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 773,
@@ -19856,9 +18172,7 @@
         "SpDef": 95,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 774,
@@ -19882,9 +18196,7 @@
         "SpDef": 100,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 775,
@@ -19907,9 +18219,7 @@
         "SpDef": 95,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 776,
@@ -19933,9 +18243,7 @@
         "SpDef": 85,
         "Speed": 36
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 777,
@@ -19959,9 +18267,7 @@
         "SpDef": 73,
         "Speed": 96
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 778,
@@ -19985,9 +18291,7 @@
         "SpDef": 105,
         "Speed": 96
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 779,
@@ -20011,9 +18315,7 @@
         "SpDef": 70,
         "Speed": 92
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 780,
@@ -20037,9 +18339,7 @@
         "SpDef": 91,
         "Speed": 36
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 781,
@@ -20063,9 +18363,7 @@
         "SpDef": 90,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 782,
@@ -20088,9 +18386,7 @@
         "SpDef": 45,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 783,
@@ -20114,9 +18410,7 @@
         "SpDef": 70,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 784,
@@ -20140,9 +18434,7 @@
         "SpDef": 105,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 785,
@@ -20166,9 +18458,7 @@
         "SpDef": 75,
         "Speed": 130
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 786,
@@ -20192,9 +18482,7 @@
         "SpDef": 115,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 787,
@@ -20218,9 +18506,7 @@
         "SpDef": 95,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 788,
@@ -20244,9 +18530,7 @@
         "SpDef": 95,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 789,
@@ -20269,9 +18553,7 @@
         "SpDef": 31,
         "Speed": 37
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 790,
@@ -20294,9 +18576,7 @@
         "SpDef": 131,
         "Speed": 37
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 791,
@@ -20320,9 +18600,7 @@
         "SpDef": 89,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 792,
@@ -20346,9 +18624,7 @@
         "SpDef": 107,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 793,
@@ -20372,9 +18648,7 @@
         "SpDef": 131,
         "Speed": 103
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 794,
@@ -20398,9 +18672,7 @@
         "SpDef": 53,
         "Speed": 79
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 795,
@@ -20424,9 +18696,7 @@
         "SpDef": 37,
         "Speed": 151
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 796,
@@ -20449,9 +18719,7 @@
         "SpDef": 71,
         "Speed": 83
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 797,
@@ -20475,9 +18743,7 @@
         "SpDef": 101,
         "Speed": 61
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 798,
@@ -20501,9 +18767,7 @@
         "SpDef": 31,
         "Speed": 109
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 799,
@@ -20527,9 +18791,7 @@
         "SpDef": 53,
         "Speed": 43
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 800,
@@ -20552,9 +18814,7 @@
         "SpDef": 89,
         "Speed": 79
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 801,
@@ -20578,9 +18838,7 @@
         "SpDef": 115,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 802,
@@ -20604,9 +18862,7 @@
         "SpDef": 90,
         "Speed": 125
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 803,
@@ -20629,9 +18885,7 @@
         "SpDef": 67,
         "Speed": 73
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 804,
@@ -20655,9 +18909,7 @@
         "SpDef": 73,
         "Speed": 121
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 805,
@@ -20681,9 +18933,7 @@
         "SpDef": 101,
         "Speed": 13
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 806,
@@ -20707,9 +18957,7 @@
         "SpDef": 79,
         "Speed": 107
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 807,
@@ -20732,9 +18980,7 @@
         "SpDef": 80,
         "Speed": 143
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 808,
@@ -20757,9 +19003,7 @@
         "SpDef": 35,
         "Speed": 34
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 809,
@@ -20782,9 +19026,7 @@
         "SpDef": 65,
         "Speed": 34
       },
-      "generation": {
-        "name": "generation7"
-      }
+      "generation": "generation7"
     },
     {
       "id": 810,
@@ -20807,9 +19049,7 @@
         "SpDef": 40,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 811,
@@ -20832,9 +19072,7 @@
         "SpDef": 60,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 812,
@@ -20857,9 +19095,7 @@
         "SpDef": 70,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 813,
@@ -20882,9 +19118,7 @@
         "SpDef": 40,
         "Speed": 69
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 814,
@@ -20907,9 +19141,7 @@
         "SpDef": 60,
         "Speed": 94
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 815,
@@ -20932,9 +19164,7 @@
         "SpDef": 75,
         "Speed": 119
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 816,
@@ -20957,9 +19187,7 @@
         "SpDef": 40,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 817,
@@ -20982,9 +19210,7 @@
         "SpDef": 55,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 818,
@@ -21007,9 +19233,7 @@
         "SpDef": 65,
         "Speed": 120
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 819,
@@ -21032,9 +19256,7 @@
         "SpDef": 35,
         "Speed": 25
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 820,
@@ -21057,9 +19279,7 @@
         "SpDef": 75,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 821,
@@ -21082,9 +19302,7 @@
         "SpDef": 35,
         "Speed": 57
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 822,
@@ -21107,9 +19325,7 @@
         "SpDef": 55,
         "Speed": 77
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 823,
@@ -21133,9 +19349,7 @@
         "SpDef": 85,
         "Speed": 67
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 824,
@@ -21158,9 +19372,7 @@
         "SpDef": 45,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 825,
@@ -21184,9 +19396,7 @@
         "SpDef": 90,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 826,
@@ -21210,9 +19420,7 @@
         "SpDef": 120,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 827,
@@ -21235,9 +19443,7 @@
         "SpDef": 52,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 828,
@@ -21260,9 +19466,7 @@
         "SpDef": 92,
         "Speed": 90
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 829,
@@ -21285,9 +19489,7 @@
         "SpDef": 60,
         "Speed": 10
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 830,
@@ -21310,9 +19512,7 @@
         "SpDef": 120,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 831,
@@ -21335,9 +19535,7 @@
         "SpDef": 45,
         "Speed": 48
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 832,
@@ -21360,9 +19558,7 @@
         "SpDef": 90,
         "Speed": 88
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 833,
@@ -21385,9 +19581,7 @@
         "SpDef": 38,
         "Speed": 44
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 834,
@@ -21411,9 +19605,7 @@
         "SpDef": 68,
         "Speed": 74
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 835,
@@ -21436,9 +19628,7 @@
         "SpDef": 50,
         "Speed": 26
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 836,
@@ -21461,9 +19651,7 @@
         "SpDef": 60,
         "Speed": 121
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 837,
@@ -21486,9 +19674,7 @@
         "SpDef": 50,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 838,
@@ -21512,9 +19698,7 @@
         "SpDef": 70,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
      {
       "id": 839,
@@ -21538,9 +19722,7 @@
         "SpDef": 90,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+       "generation": "generation8"
     },
     {
       "id": 840,
@@ -21564,9 +19746,7 @@
         "SpDef": 40,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 841,
@@ -21590,9 +19770,7 @@
         "SpDef": 60,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 842,
@@ -21616,9 +19794,7 @@
         "SpDef": 80,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 843,
@@ -21641,9 +19817,7 @@
         "SpDef": 50,
         "Speed": 46
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 844,
@@ -21666,9 +19840,7 @@
         "SpDef": 70,
         "Speed": 71
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 845,
@@ -21692,9 +19864,7 @@
         "SpDef": 95,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 846,
@@ -21717,9 +19887,7 @@
         "SpDef": 30,
         "Speed": 66
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 847,
@@ -21742,9 +19910,7 @@
         "SpDef": 50,
         "Speed": 136
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 848,
@@ -21768,9 +19934,7 @@
         "SpDef": 35,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 849,
@@ -21794,9 +19958,7 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 850,
@@ -21820,9 +19982,7 @@
         "SpDef": 50,
         "Speed": 45
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 851,
@@ -21846,9 +20006,7 @@
         "SpDef": 90,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 852,
@@ -21871,9 +20029,7 @@
         "SpDef": 50,
         "Speed": 32
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 853,
@@ -21896,9 +20052,7 @@
         "SpDef": 80,
         "Speed": 42
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 854,
@@ -21921,9 +20075,7 @@
         "SpDef": 54,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 855,
@@ -21946,9 +20098,7 @@
         "SpDef": 114,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 856,
@@ -21971,9 +20121,7 @@
         "SpDef": 53,
         "Speed": 39
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 857,
@@ -21996,9 +20144,7 @@
         "SpDef": 73,
         "Speed": 49
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 858,
@@ -22022,9 +20168,7 @@
         "SpDef": 103,
         "Speed": 29
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 859,
@@ -22048,9 +20192,7 @@
         "SpDef": 40,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 860,
@@ -22074,9 +20216,7 @@
         "SpDef": 55,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 861,
@@ -22100,9 +20240,7 @@
         "SpDef": 75,
         "Speed": 60
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 862,
@@ -22126,9 +20264,7 @@
         "SpDef": 81,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 863,
@@ -22151,9 +20287,7 @@
         "SpDef": 60,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 864,
@@ -22176,9 +20310,7 @@
         "SpDef": 130,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 865,
@@ -22201,9 +20333,7 @@
         "SpDef": 82,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 866,
@@ -22227,9 +20357,7 @@
         "SpDef": 100,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 867,
@@ -22253,9 +20381,7 @@
         "SpDef": 105,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 868,
@@ -22278,9 +20404,7 @@
         "SpDef": 61,
         "Speed": 34
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 869,
@@ -22303,9 +20427,7 @@
         "SpDef": 121,
         "Speed": 64
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 870,
@@ -22328,9 +20450,7 @@
         "SpDef": 60,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 871,
@@ -22353,9 +20473,7 @@
         "SpDef": 85,
         "Speed": 15
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 872,
@@ -22379,9 +20497,7 @@
         "SpDef": 30,
         "Speed": 20
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 873,
@@ -22405,9 +20521,7 @@
         "SpDef": 90,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 874,
@@ -22430,9 +20544,7 @@
         "SpDef": 20,
         "Speed": 70
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 875,
@@ -22455,9 +20567,7 @@
         "SpDef": 90,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 876,
@@ -22481,9 +20591,7 @@
         "SpDef": 95,
         "Speed": 95
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 877,
@@ -22507,9 +20615,7 @@
         "SpDef": 58,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 878,
@@ -22532,9 +20638,7 @@
         "SpDef": 49,
         "Speed": 40
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 879,
@@ -22557,9 +20661,7 @@
         "SpDef": 69,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 880,
@@ -22583,9 +20685,7 @@
         "SpDef": 70,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 881,
@@ -22609,9 +20709,7 @@
         "SpDef": 80,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
      {
       "id": 882,
@@ -22635,9 +20733,7 @@
         "SpDef": 80,
         "Speed": 75
       },
-      "generation": {
-        "name": "generation8"
-      }
+       "generation": "generation8"
     },
     {
       "id": 883,
@@ -22661,9 +20757,7 @@
         "SpDef": 90,
         "Speed": 55
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 884,
@@ -22687,9 +20781,7 @@
         "SpDef": 50,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 885,
@@ -22713,9 +20805,7 @@
         "SpDef": 30,
         "Speed": 82
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 886,
@@ -22739,9 +20829,7 @@
         "SpDef": 50,
         "Speed": 102
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 887,
@@ -22765,9 +20853,7 @@
         "SpDef": 75,
         "Speed": 142
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 888,
@@ -22791,9 +20877,7 @@
         "SpDef": 115,
         "Speed": 148
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 889,
@@ -22817,9 +20901,7 @@
         "SpDef": 145,
         "Speed": 128
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 890,
@@ -22843,9 +20925,7 @@
         "SpDef": 95,
         "Speed": 130
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 891,
@@ -22868,9 +20948,7 @@
         "SpDef": 50,
         "Speed": 72
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 892,
@@ -22894,9 +20972,7 @@
         "SpDef": 60,
         "Speed": 97
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 893,
@@ -22920,9 +20996,7 @@
         "SpDef": 95,
         "Speed": 105
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 894,
@@ -22945,9 +21019,7 @@
         "SpDef": 50,
         "Speed": 200
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 895,
@@ -22970,9 +21042,7 @@
         "SpDef": 50,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 896,
@@ -22995,9 +21065,7 @@
         "SpDef": 110,
         "Speed": 30
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 897,
@@ -23020,9 +21088,7 @@
         "SpDef": 80,
         "Speed": 130
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 898,
@@ -23046,9 +21112,7 @@
         "SpDef": 80,
         "Speed": 80
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 899,
@@ -23072,9 +21136,7 @@
         "SpDef": 75,
         "Speed": 65
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 900,
@@ -23098,9 +21160,7 @@
         "SpDef": 70,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 901,
@@ -23124,9 +21184,7 @@
         "SpDef": 80,
         "Speed": 50
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 902,
@@ -23150,9 +21208,7 @@
         "SpDef": 75,
         "Speed": 78
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 903,
@@ -23176,9 +21232,7 @@
         "SpDef": 80,
         "Speed": 120
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 904,
@@ -23202,9 +21256,7 @@
         "SpDef": 65,
         "Speed": 85
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     },
     {
       "id": 905,
@@ -23228,9 +21280,7 @@
         "SpDef": 80,
         "Speed": 106
       },
-      "generation": {
-        "name": "generation8"
-      }
+      "generation": "generation8"
     }
   ]
 }
