@@ -11827,6 +11827,7 @@
         "T1": "Psychic",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/494.mp3",
       "entry": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
       "abilities": "Main: Victory Star",
       "height": "1'04\"",
@@ -11849,6 +11850,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/495.mp3",
       "entry": "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.",
       "abilities": "Main: Overgrow | Hidden: Contrary",
       "height": "2'00\"",
@@ -11871,6 +11873,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/496.mp3",
       "entry": "When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.",
       "abilities": "Main: Overgrow | Hidden: Contrary",
       "height": "2'07\"",
@@ -11893,6 +11896,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/497.mp3",
       "entry": "It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.",
       "abilities": "Main: Overgrow | Hidden: Contrary",
       "height": "10'10\"",
@@ -11915,6 +11919,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/498.mp3",
       "entry": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
       "abilities": "Main: Blaze | Hidden: Thick Fat",
       "height": "1'08\"",
@@ -11938,6 +11943,7 @@
         "T1": "Fire", 
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/499.mp3",
       "entry": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",
       "abilities": "Main: Blaze | Hidden: Thick Fat",
       "height": "3'03\"",
@@ -11961,6 +11967,7 @@
         "T1": "Fire",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/500.mp3",
       "entry": "A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.",
       "abilities": "Main: Blaze | Hidden: Reckless",
       "height": "5'03\"",
@@ -11983,6 +11990,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/501.mp3",
       "entry": "The scalchop on its stomach isn't just used for battle--it can be used to break open hard berries as well.",
       "abilities": "Main: Torrent | Hidden: Shell Armor",
       "height": "1'08\"",
@@ -12005,6 +12013,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/502.mp3",
       "entry": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
       "abilities": "Main: Torrent | Hidden: Shell Armor",
       "height": "2'07\"",
@@ -12027,6 +12036,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/503.mp3",
       "entry": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",
       "abilities": "Main: Torrent | Hidden: Shell Armor",
       "height": "4'11\"",
@@ -12049,6 +12059,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/504.mp3",
       "entry": "Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.",
       "abilities": "Main: Run Away, Keen Eye | Hidden: Analytic",
       "height": "1'08\"",
@@ -12071,6 +12082,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/505.mp3",
       "entry": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
       "abilities": "Main: Illuminate, Keen Eye | Hidden: Analytic",
       "height": "3'07\"",
@@ -12093,6 +12105,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/506.mp3",
       "entry": "Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle.",
       "abilities": "Main: Vital Spirit, Pickup | Hidden: Run Away",
       "height": "1'04\"",
@@ -12115,6 +12128,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/507.mp3",
       "entry": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon.",
       "abilities": "Main: Intimidate, Sand Rush | Hidden: Scrappy",
       "height": "2'11\"",
@@ -12137,6 +12151,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/508.mp3",
       "entry": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
       "abilities": "Main: Intimidate, Sand Rush | Hidden: Scrappy",
       "height": "3'11\"",
@@ -12159,6 +12174,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/509.mp3",
       "entry": "Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.",
       "abilities": "Main: Limber, Unburden | Hidden: Prankster",
       "height": "1'04\"",
@@ -12181,6 +12197,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/510.mp3",
       "entry": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
       "abilities": "Main: Limber, Unburden | Hidden: Prankster",
       "height": "3'07\"",
@@ -12203,6 +12220,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/511.mp3",
       "entry": "It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.",
       "abilities": "Main: Gluttony | Hidden: Overgrow",
       "height": "2'00\"",
@@ -12225,6 +12243,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/512.mp3",
       "entry": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
       "abilities": "Main: Gluttony | Hidden: Overgrow",
       "height": "3'07\"",
@@ -12247,6 +12266,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/513.mp3",
       "entry": "Very intelligent, it roasts berries before eating them. It likes to help people.",
       "abilities": "Main: Gluttony | Hidden: Blaze",
       "height": "2'00\"",
@@ -12269,6 +12289,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/514.mp3",
       "entry": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
       "abilities": "Main: Gluttony | Hidden: Blaze",
       "height": "3'03\"",
@@ -12291,6 +12312,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/515.mp3",
       "entry": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
       "abilities": "Main: Gluttony | Hidden: Torrent",
       "height": "2'00\"",
@@ -12313,6 +12335,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/516.mp3",
       "entry": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
       "abilities": "Main: Gluttony | Hidden: Torrent",
       "height": "3'03\"",
@@ -12335,6 +12358,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/517.mp3",
       "entry": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
       "abilities": "Main: Forewarn, Synchronize | Hidden: Telepathy",
       "height": "2'00\"",
@@ -12357,6 +12381,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/518.mp3",
       "entry": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
       "abilities": "Main: Forewarn, Synchronize | Hidden: Telepathy",
       "height": "3'07\"",
@@ -12380,6 +12405,7 @@
         "T1": "Normal", 
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/519.mp3",
       "entry": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
       "abilities": "Main: Big Peck, Super Luck | Hidden: Rivalry",
       "height": "1'00\"",
@@ -12403,6 +12429,7 @@
         "T1": "Normal", 
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/520.mp3",
       "entry": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
       "abilities": "Main: Big Peck, Super Luck | Hidden: Rivalry",
       "height": "2'00\"",
@@ -12426,6 +12453,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/521.mp3",
       "entry": "Males swing the plumage on their heads to threaten others, but females are better at flying.",
       "abilities": "Main: Big Peck, Super Luck | Hidden: Rivalry",
       "height": "3'11\"",
@@ -12448,6 +12476,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/522.mp3",
       "entry": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
       "abilities": "Main: Lightning Rod, Motor Drive | Hidden: Sap Sipper",
       "height": "2'07\"",
@@ -12470,6 +12499,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/523.mp3",
       "entry": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
       "abilities": "Main: Lightning Rod, Motor Drive | Hidden: Sap Sipper",
       "height": "5'03\"",
@@ -12492,6 +12522,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/524.mp3",
       "entry": "The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.",
       "abilities": "Main: Sturdy, Weak Armor | Hidden: Sand Force",
       "height": "1'04\"",
@@ -12514,6 +12545,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/525.mp3",
       "entry": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
       "abilities": "Main: Sturdy, Weak Armor | Hidden: Sand Force",
       "height": "2'11\"",
@@ -12536,6 +12568,7 @@
       "type": {
         "T1": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/526.mp3",
       "entry": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
       "abilities": "Main: Sturdy, Sand Stream | Hidden: Sand Force",
       "height": "5'07\"",
@@ -12559,6 +12592,7 @@
         "T1": "Psychic", 
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/527.mp3",
       "entry": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
       "abilities": "Main: Unaware, Klutz | Hidden: Simple",
       "height": "1'04\"",
@@ -12582,6 +12616,7 @@
         "T1": "Psychic", 
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/528.mp3",
       "entry": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
       "abilities": "Main: Unaware, Klutz | Hidden: Simple",
       "height": "2'11\"",
@@ -12604,6 +12639,7 @@
       "type": {
         "T1": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/529.mp3",
       "entry": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
       "abilities": "Main: Sand Rush, Sand Force | Hidden: Mold Breaker",
       "height": "1'00\"",
@@ -12627,6 +12663,7 @@
         "T1": "Ground",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/530.mp3",
       "entry": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
       "abilities": "Main: Sand Rush, Sand Force | Hidden: Mold Breaker",
       "height": "2'04\"",
@@ -12649,6 +12686,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/531.mp3",
       "entry": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
       "abilities": "Main: Healer, Regenerator | Hidden: Klutz",
       "height": "3'07\"",
@@ -12671,6 +12709,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/532.mp3",
       "entry": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
       "abilities": "Main: Guts, Sheer Force | Hidden: Iron Fist",
       "height": "2'00\"",
@@ -12693,6 +12732,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/533.mp3",
       "entry": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
       "abilities": "Main: Guts, Sheer Force | Hidden: Iron Fist",
       "height": "3'11\"",
@@ -12715,6 +12755,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/534.mp3",
       "entry": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
       "abilities": "Main: Guts, Sheer Force | Hidden: Iron Fist",
       "height": "4'07\"",
@@ -12737,6 +12778,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/535.mp3",
       "entry": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger.",
       "abilities": "Main: Swift Swim, Hydration | Hidden: Water Absorb",
       "height": "1'08\"",
@@ -12760,6 +12802,7 @@
         "T1": "Water",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/536.mp3",
       "entry": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
       "abilities": "Main: Swift Swim, Hydration | Hidden: Water Absorb",
       "height": "2'07\"",
@@ -12783,6 +12826,7 @@
         "T1": "Water", 
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/537.mp3",
       "entry": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
       "abilities": "Main: Swift Swim, Poison Touch | Hidden: Water Absorb",
       "height": "4'11\"",
@@ -12805,6 +12849,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/538.mp3",
       "entry": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
       "abilities": "Main: Guts, Inner Focus | Hidden: Mold Breaker",
       "height": "4'03\"",
@@ -12827,6 +12872,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/539.mp3",
       "entry": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
       "abilities": "Main: Sturdy, Inner Focus | Hidden: Mold Breaker",
       "height": "4'07\"",
@@ -12850,6 +12896,7 @@
         "T1": "Bug", 
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/540.mp3",
       "entry": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
       "abilities": "Main: Swarm, Chlorophyll | Hidden: Overcoat",
       "height": "1'00\"",
@@ -12873,6 +12920,7 @@
         "T1": "Bug",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/541.mp3",
       "entry": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
       "abilities": "Main: Leaf Guard, Chlorophyll | Hidden: Overcoat",
       "height": "1'08\"",
@@ -12896,6 +12944,7 @@
         "T1": "Bug",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/542.mp3",
       "entry": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
       "abilities": "Main: Swarm, Chlorophyll | Hidden: Overcoat",
       "height": "3'11\"",
@@ -12919,6 +12968,7 @@
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/543.mp3",
       "entry": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state.",
       "abilities": "Main: Poison Point, Swarm | Hidden: Speed Boost",
       "height": "1'04\"",
@@ -12942,6 +12992,7 @@
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/544.mp3",
       "entry": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
       "abilities": "Main: Poison Point, Swarm | Hidden: Speed Boost",
       "height": "3'11\"",
@@ -12965,6 +13016,7 @@
         "T1": "Bug",
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/545.mp3",
       "entry": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
       "abilities": "Main: Poison Point, Swarm | Hidden: Speed Boost",
       "height": "8'02\"",
@@ -12988,6 +13040,7 @@
         "T1": "Grass",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/546.mp3",
       "entry": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
       "abilities": "Main: Prankster, Infiltrator | Hidden: Chlorophyll",
       "height": "1'00\"",
@@ -13011,6 +13064,7 @@
         "T1": "Grass",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/547.mp3",
       "entry": "They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes",
       "abilities": "Main: Prankster, Infiltrator | Hidden: Chlorophyll",
       "height": "2'04\"",
@@ -13033,6 +13087,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/548.mp3",
       "entry": "The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.",
       "abilities": "Main: Chlorophyll, Own Tempo | Hidden: Leaf Guard",
       "height": "1'08\"",
@@ -13055,6 +13110,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/549.mp3",
       "entry": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
       "abilities": "Main: Chlorophyll, Own Tempo | Hidden: Leaf Guard",
       "height": "3'07\"",
@@ -13077,6 +13133,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/550.mp3",
       "entry": "Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.",
       "abilities": "Main: Reckless, Adaptability | Hidden: Mold Breaker",
       "height": "3'03\"",
@@ -13100,6 +13157,7 @@
         "T1": "Ground",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/551.mp3",
       "entry": "They live hidden under hot desert sands in order to keep their body temperature from dropping.",
       "abilities": "Main: Intimidate, Moxie | Hidden: Anger Point",
       "height": "2'04\"",
@@ -13123,6 +13181,7 @@
         "T1": "Ground",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/552.mp3",
       "entry": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
       "abilities": "Main: Intimidate, Moxie | Hidden: Anger Point",
       "height": "3'03\"",
@@ -13146,6 +13205,7 @@
         "T1": "Ground",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/553.mp3",
       "entry": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
       "abilities": "Main: Intimidate, Moxie | Hidden: Anger Point",
       "height": "4'11\"",
@@ -13168,6 +13228,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/554.mp3",
       "entry": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100°F.",
       "abilities": "Main: Hustle | Hidden: Inner Focus",
       "height": "2'00\"",
@@ -13190,6 +13251,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/555.mp3",
       "entry": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
       "abilities": "Main: Sheer Force | Hidden: Zen Mode",
       "height": "4'03\"",
@@ -13212,6 +13274,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/556.mp3",
       "entry": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
       "abilities": "Main: Water Absorb, Chlorophyll | Hidden: Storm Drain",
       "height": "3'03\"",
@@ -13235,6 +13298,7 @@
         "T1": "Bug", 
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/557.mp3",
       "entry": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
       "abilities": "Main: Sturdy, Shell Armor | Hidden: Weak Armor",
       "height": "1'00\"",
@@ -13258,6 +13322,7 @@
         "T1": "Bug",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/558.mp3",
       "entry": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
       "abilities": "Main: Sturdy, Shell Armor | Hidden: Weak Armor",
       "height": "4'07\"",
@@ -13281,6 +13346,7 @@
         "T1": "Dark", 
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/559.mp3",
       "entry": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
       "abilities": "Main: Shed Skin, Moxie | Hidden: Intimidate",
       "height": "2'00\"",
@@ -13304,6 +13370,7 @@
         "T1": "Dark", 
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/560.mp3",
       "entry": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
       "abilities": "Main: Shed Skin, Moxie | Hidden: Intimidate",
       "height": "3'07\"",
@@ -13327,6 +13394,7 @@
         "T1": "Psychic", 
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/561.mp3",
       "entry": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
       "abilities": "Main: Wonder Skin, Magic Guard | Hidden: Tinted Lens",
       "height": "4'07\"",
@@ -13349,6 +13417,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/562.mp3",
       "entry": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
       "abilities": "Main: Mummy",
       "height": "1'08\"",
@@ -13371,6 +13440,7 @@
       "type": {
         "T1": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/563.mp3",
       "entry": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
       "abilities": "Main: Mummy",
       "height": "5'07\"",
@@ -13394,6 +13464,7 @@
         "T1": "Water",
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/564.mp3",
       "entry": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.",
       "abilities": "Main: Solid Rock, Sturdy | Hidden: Swift Swim",
       "height": "2'04\"",
@@ -13417,6 +13488,7 @@
         "T1": "Water", 
         "T2": "Rock"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/565.mp3",
       "entry": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all.",
       "abilities": "Main: Solid Rock, Sturdy | Hidden: Swift Swim",
       "height": "3'11\"",
@@ -13440,6 +13512,7 @@
         "T1": "Rock",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/566.mp3",
       "entry": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another.",
       "abilities": "Main: Defeatist",
       "height": "1'08\"",
@@ -13463,6 +13536,7 @@
         "T1": "Rock", 
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/567.mp3",
       "entry": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
       "abilities": "Main: Defeatist",
       "height": "4'07\"",
@@ -13485,6 +13559,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/568.mp3",
       "entry": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
       "abilities": "Main: Stench, Sticky Hold | Hidden: Aftermath",
       "height": "2'00\"",
@@ -13507,6 +13582,7 @@
       "type": {
         "T1": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/569.mp3",
       "entry": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
       "abilities": "Main: Stench, Weak Armor | Hidden: Aftermath",
       "height": "6'03\"",
@@ -13529,6 +13605,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/570.mp3",
       "entry": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.",
       "abilities": "Main: Illusion",
       "height": "2'04\"",
@@ -13551,6 +13628,7 @@
       "type": {
         "T1": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/571.mp3",
       "entry": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
       "abilities": "Main: Illusion",
       "height": "5'03\"",
@@ -13573,6 +13651,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/572.mp3",
       "entry": "Minccino greet each other by grooming one another thoroughly with their tails.",
       "abilities": "Main: Cute Charm, Technician | Hidden: Skill Link",
       "height": "1'04\"",
@@ -13595,6 +13674,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/573.mp3",
       "entry": "Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches.",
       "abilities": "Main: Cute Charm, Technician | Hidden: Skill Link",
       "height": "1'08\"",
@@ -13617,6 +13697,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/574.mp3",
       "entry": "It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.",
       "abilities": "Main: Frisk, Competitive | Hidden: Shadow Tag",
       "height": "1'04\"",
@@ -13639,6 +13720,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/575.mp3",
       "entry": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
       "abilities": "Main: Frisk, Competitive | Hidden: Shadow Tag",
       "height": "2'04\"",
@@ -13661,6 +13743,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/576.mp3",
       "entry": "It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness.",
       "abilities": "Main: Frisk, Competitive | Hidden: Shadow Tag",
       "height": "4'11\"",
@@ -13683,6 +13766,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/577.mp3",
       "entry": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
       "abilities": "Main: Overcoat, Magic Guard | Hidden: Regenerator",
       "height": "1'00\"",
@@ -13705,6 +13789,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/578.mp3",
       "entry": "When their two divided brains think the same thoughts, their psychic power is maximized.",
       "abilities": "Main: Overcoat, Magic Guard | Hidden: Regenerator",
       "height": "2'00\"",
@@ -13727,6 +13812,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/579.mp3",
       "entry": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically.",
       "abilities": "Main: Overcoat, Magic Guard | Hidden: Regenerator",
       "height": "3'03\"",
@@ -13750,6 +13836,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/580.mp3",
       "entry": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
       "abilities": "Main: Keen Eye, Big Pecks | Hidden: Hydration",
       "height": "1'08\"",
@@ -13773,6 +13860,7 @@
         "T1": "Water",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/581.mp3",
       "entry": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
       "abilities": "Main: Keen Eye, Big Pecks | Hidden: Hydration",
       "height": "4'03\"",
@@ -13795,6 +13883,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/582.mp3",
       "entry": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
       "abilities": "Main: Ice Body, Snow Cloak | Hidden: Weak Armor",
       "height": "1'04\"",
@@ -13817,6 +13906,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/583.mp3",
       "entry": "They cool down the surrounding air and create ice particles, which they use to freeze their foes.",
       "abilities": "Main: Ice Body, Snow Cloak | Hidden: Weak Armor",
       "height": "3'07\"",
@@ -13839,6 +13929,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/584.mp3",
       "entry": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards.",
       "abilities": "Main: Ice Body, Snow Cloak | Hidden: Weak Armor",
       "height": "4'03\"",
@@ -13862,6 +13953,7 @@
         "T1": "Normal", 
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/585.mp3",
       "entry": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
       "abilities": "Main: Chlorophyll, Sap Sipper | Hidden: Serene Grace",
       "height": "2'00\"",
@@ -13885,6 +13977,7 @@
         "T1": "Normal",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/586.mp3",
       "entry": "They migrate according to seasons, so some people call Sawsbuck the harbingers of spring.",
       "abilities": "Main: Chlorophyll, Sap Sipper | Hidden: Serene Grace",
       "height": "6'03\"",
@@ -13908,6 +14001,7 @@
         "T1": "Electric",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/587.mp3",
       "entry": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
       "abilities": "Main: Static | Hidden: Motor Drive",
       "height": "1'04\"",
@@ -13930,6 +14024,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/588.mp3",
       "entry": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
       "abilities": "Main: Swarm, Shed Skin | Hidden: No Guard",
       "height": "1'08\"",
@@ -13953,6 +14048,7 @@
         "T1": "Bug",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/589.mp3",
       "entry": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
       "abilities": "Main: Swarm, Shell Armor | Hidden: Overcoat",
       "height": "3'03\"",
@@ -13976,6 +14072,7 @@
         "T1": "Grass", 
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/590.mp3",
       "entry": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
       "abilities": "Main: Effect Spore | Hidden: Regenerator",
       "height": "0'08\"",
@@ -13999,6 +14096,7 @@
         "T1": "Grass", 
         "T2": "Poison"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/591.mp3",
       "entry": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
       "abilities": "Main: Effect Spore | Hidden: Regenerator",
       "height": "2'00\"",
@@ -14022,6 +14120,7 @@
         "T1": "Water",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/592.mp3",
       "entry": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
       "abilities": "Main: Water Absorb, Cursed Body | Hidden: Damp",
       "height": "3'11\"",
@@ -14045,6 +14144,7 @@
         "T1": "Water",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/593.mp3",
       "entry": "Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.",
       "abilities": "Main: Water Absorb, Cursed Body | Hidden: Damp",
       "height": "7'03\"",
@@ -14067,6 +14167,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/594.mp3",
       "entry": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
       "abilities": "Main: Healer, Hydration | Hidden: Regenerator",
       "height": "3'11\"",
@@ -14090,6 +14191,7 @@
         "T1": "Bug",
         "T2": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/595.mp3",
       "entry": "Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
       "abilities": "Main: Compound Eyes, Unnerve | Hidden: Swarm",
       "height": "0'04\"",
@@ -14113,6 +14215,7 @@
         "T1": "Bug",
         "T2": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/596.mp3",
       "entry": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.",
       "abilities": "Main: Compound Eyes, Unnerve | Hidden: Swarm",
       "height": "2'07\"",
@@ -14136,6 +14239,7 @@
         "T1": "Grass",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/597.mp3",
       "entry": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
       "abilities": "Main: Iron Barbs",
       "height": "2'00\"",
@@ -14159,6 +14263,7 @@
         "T1": "Grass",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/598.mp3",
       "entry": "By swinging around its three spiky feels and shooting spikes, it can obliterate an opponent.",
       "abilities": "Main: Iron Barbs | Hidden: Anticipation",
       "height": "3'03\"",
@@ -14181,6 +14286,7 @@
       "type": {
         "T1": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/599.mp3",
       "entry": "Two bodies comprise a fixed pair. They spin around each other to generate energy.",
       "abilities": "Main: Plus, Minus | Hidden: Blear Body",
       "height": "1'00\"",
@@ -14203,6 +14309,7 @@
       "type": {
         "T1": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/600.mp3",
       "entry": "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.",
       "abilities": "Main: Plus, Minus | Hidden: Blear Body",
       "height": "2'00\"",
@@ -14225,6 +14332,7 @@
       "type": {
         "T1": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/601.mp3",
       "entry": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
       "abilities": "Main: Plus, Minus | Hidden: Blear Body",
       "height": "2'00\"",
@@ -14247,6 +14355,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/602.mp3",
       "entry": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
       "abilities": "Main: Levitate",
       "height": "0'08\"",
@@ -14269,6 +14378,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/603.mp3",
       "entry": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
       "abilities": "Main: Levitate",
       "height": "3'11\"",
@@ -14291,6 +14401,7 @@
       "type": {
         "T1": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/604.mp3",
       "entry": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
       "abilities": "Main: Levitate",
       "height": "6'11\"",
@@ -14313,6 +14424,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/605.mp3",
       "entry": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
       "abilities": "Main: Telelpathy, Synchronize | Hidden: Analytic",
       "height": "1'08\"",
@@ -14335,6 +14447,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/606.mp3",
       "entry": "Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.",
       "abilities": "Main: Telelpathy, Synchronize | Hidden: Analytic",
       "height": "3'03\"",
@@ -14358,6 +14471,7 @@
         "T1": "Ghost",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/607.mp3",
       "entry": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
       "abilities": "Main: Flash Fire, Flame Body | Hidden: Infiltrator",
       "height": "1'00\"",
@@ -14381,6 +14495,7 @@
         "T1": "Ghost",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/608.mp3",
       "entry": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
       "abilities": "Main: Flash Fire, Flame Body | Hidden: Infiltrator",
       "height": "2'00\"",
@@ -14404,6 +14519,7 @@
         "T1": "Ghost",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/609.mp3",
       "entry": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
       "abilities": "Main: Flash Fire, Flame Body | Hidden: Infiltrator",
       "height": "3'03\"",
@@ -14426,6 +14542,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/610.mp3",
       "entry": "Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.",
       "abilities": "Main: Rivalry, Mold Breaker | Hidden: Unnerve",
       "height": "2'00\"",
@@ -14448,6 +14565,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/611.mp3",
       "entry": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
       "abilities": "Main: Rivalry, Mold Breaker | Hidden: Unnerve",
       "height": "3'03\"",
@@ -14470,6 +14588,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/612.mp3",
       "entry": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
       "abilities": "Main: Rivalry, Mold Breaker | Hidden: Unnerve",
       "height": "5'11\"",
@@ -14492,6 +14611,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/613.mp3",
       "entry": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
       "abilities": "Main: Snow Cloak, Slush Rush | Hidden: Rattled",
       "height": "1'08\"",
@@ -14514,6 +14634,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/614.mp3",
       "entry": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
       "abilities": "Main: Snow Cloak, Slush Rush | Hidden: Swift Swim",
       "height": "8'06\"",
@@ -14536,6 +14657,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/615.mp3",
       "entry": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
       "abilities": "Main: Levitate",
       "height": "3'07\"",
@@ -14558,6 +14680,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/616.mp3",
       "entry": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
       "abilities": "Main: Hydration, Shell Armor | Hidden: Overcoat",
       "height": "1'04\"",
@@ -14580,6 +14703,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/617.mp3",
       "entry": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison.",
       "abilities": "Main: Hydration, Sticky Hold | Hidden: Unburden",
       "height": "2'07\"",
@@ -14603,6 +14727,7 @@
         "T1": "Ground",
         "T2": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/618.mp3",
       "entry": "When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.",
       "abilities": "Main: Static, Limber | Hidden: Sand Veil",
       "height": "2'04\"",
@@ -14625,6 +14750,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/619.mp3",
       "entry": "It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity.",
       "abilities": "Main: Inner Focus, Regenerator | Hidden: Reckless",
       "height": "2'11\"",
@@ -14647,6 +14773,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/620.mp3",
       "entry": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
       "abilities": "Main: Inner Focus, Regenerator | Hidden: Reckless",
       "height": "4'07\"",
@@ -14669,6 +14796,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/621.mp3",
       "entry": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.",
       "abilities": "Main: Rough Skin, Sheer Force | Hidden: Mold Breaker",
       "height": "5'03\"",
@@ -14692,6 +14820,7 @@
         "T1": "Ground",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/622.mp3",
       "entry": "Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.",
       "abilities": "Main: Iron Fist, Klutz | Hidden: No Guard",
       "height": "3'03\"",
@@ -14715,6 +14844,7 @@
         "T1": "Ground",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/623.mp3",
       "entry": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
       "abilities": "Main: Iron First, Klutz | Hidden: No Guard",
       "height": "9'02\"",
@@ -14738,6 +14868,7 @@
         "T1": "Dark",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/624.mp3",
       "entry": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
       "abilities": "Main: Defiant, Inner Focus | Hidden: Pressure",
       "height": "1'08\"",
@@ -14761,6 +14892,7 @@
         "T1": "Dark",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/625.mp3",
       "entry": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
       "abilities": "Main: Defiant, Inner Focus | Hidden: Pressure",
       "height": "5'03\"",
@@ -14783,6 +14915,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/626.mp3",
       "entry": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
       "abilities": "Main: Reckless, Sap Sipper | Hidden: Soundproof",
       "height": "5'03\"",
@@ -14806,6 +14939,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/627.mp3",
       "entry": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
       "abilities": "Main: Keen Eye, Sheer Force | Hidden: Hustle",
       "height": "1'08\"",
@@ -14829,6 +14963,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/628.mp3",
       "entry": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
       "abilities": "Main: Keen Eye, Sheer Force | Hidden: Defiant",
       "height": "4'11\"",
@@ -14852,6 +14987,7 @@
         "T1": "Dark",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/629.mp3",
       "entry": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
       "abilities": "Main: Big Pecks, Overcoat | Hidden: Weak Armor",
       "height": "1'08\"",
@@ -14875,6 +15011,7 @@
         "T1": "Dark",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/630.mp3",
       "entry": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
       "abilities": "Main: Big Pecks, Overcoat | Hidden: Weak Armor",
       "height": "3'11\"",
@@ -14897,6 +15034,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/631.mp3",
       "entry": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
       "abilities": "Main: Gluttony, Flash Fire | Hidden: White Smoke",
       "height": "4'07\"",
@@ -14920,6 +15058,7 @@
         "T1": "Bug",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/632.mp3",
       "entry": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
       "abilities": "Main: Swarm, Hustle | Hidden: Truant",
       "height": "1'00\"",
@@ -14943,6 +15082,7 @@
         "T1": "Dark",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/633.mp3",
       "entry": "Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.",
       "abilities": "Main: Hustle",
       "height": "2'07\"",
@@ -14966,6 +15106,7 @@
         "T1": "Dark",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/634.mp3",
       "entry": "The two heads do not get along. Whichever head eats more than the other gets to be the leader.",
       "abilities": "Main: Levitate",
       "height": "4'07\"",
@@ -14989,6 +15130,7 @@
         "T1": "Dark",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/635.mp3",
       "entry": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
       "abilities": "Main: Levitate",
       "height": "5'11\"",
@@ -15012,6 +15154,7 @@
         "T1": "Bug",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/636.mp3",
       "entry": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
       "abilities": "Main: Flame Body, | Hidden: Swarm",
       "height": "3'07\"",
@@ -15035,6 +15178,7 @@
         "T1": "Bug",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/637.mp3",
       "entry": "Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.",
       "abilities": "Main: Flame Body | Hidden: Swarm",
       "height": "5'03\"",
@@ -15058,6 +15202,7 @@
         "T1": "Steel",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/638.mp3",
       "entry": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
       "abilities": "Main: Justified",
       "height": "6'11\"",
@@ -15081,6 +15226,7 @@
         "T1": "Rock",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/639.mp3",
       "entry": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
       "abilities": "Main: Justified",
       "height": "6'03\"",
@@ -15104,6 +15250,7 @@
         "T1": "Grass",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/640.mp3",
       "entry": "Legends say this Pokémon confounded opponents with its swift movements.",
       "abilities": "Main: Justified",
       "height": "6'07\"",
@@ -15126,6 +15273,7 @@
       "type": {
         "T1": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/641.mp3",
       "entry": "In every direction it flies, creating winds so powerful, they blow everything away.",
       "abilities": "Main: Prankster | Hidden: Defiant",
       "height": "4'11\"",
@@ -15149,6 +15297,7 @@
         "T1": "Electric",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/642.mp3",
       "entry": "\"\tAs it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.\"",
       "abilities": "Main: Prankster | Hidden: Defiant",
       "height": "4'11\"",
@@ -15172,6 +15321,7 @@
         "T1": "Dragon",
         "T2": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/643.mp3",
       "entry": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
       "abilities": "Main: Turboblaze",
       "height": "10'06\"",
@@ -15195,6 +15345,7 @@
         "T1": "Dragon",
         "T2": "Electric"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/644.mp3",
       "entry": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
       "abilities": "Main: Teravolt",
       "height": "9'06\"",
@@ -15218,6 +15369,7 @@
         "T1": "Ground",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/645.mp3",
       "entry": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
       "abilities": "Main: Sand Force | Hidden: Sheer Force",
       "height": "4'11\"",
@@ -15241,6 +15393,7 @@
         "T1": "Dragon",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/646.mp3",
       "entry": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
       "abilities": "Main: Pressure",
       "height": "9'10\"",
@@ -15264,6 +15417,7 @@
         "T1": "Water",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/647.mp3",
       "entry": "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
       "abilities": "Main: Justified",
       "height": "4'07\"",
@@ -15287,6 +15441,7 @@
         "T1": "Normal",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/648.mp3",
       "entry": "The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.",
       "abilities": "Main: Serene Grace",
       "height": "2'00\"",
@@ -15310,6 +15465,7 @@
         "T1": "Bug",
         "T2": "Steel"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/649.mp3",
       "entry": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
       "abilities": "Main: Download",
       "height": "4'11\"",
@@ -15332,6 +15488,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/650.mp3",
       "entry": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock",
       "abilities": "Main: Overgrow | Hidden: Bulletproof",
       "height": "1'04\"",
@@ -15354,6 +15511,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/651.mp3",
       "entry": "It relies on its sturdy shell to deflect predator's attacks. It counterattacks with its sharp quills",
       "abilities": "Main: Overgrow | Hidden: Bulletproof",
       "height": "2'04\"",
@@ -15377,6 +15535,7 @@
         "T1": "Grass",
         "T2": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/652.mp3",
       "entry": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body",
       "abilities": "Main: Overgrow | Hidden: Bulletproof",
       "height": "5'03\"",
@@ -15399,6 +15558,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/653.mp3",
       "entry": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit",
       "abilities": "Main: Blaze | Hidden: Magician",
       "height": "1'04\"",
@@ -15421,6 +15581,7 @@
       "type": {
         "T1": "Fire"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/654.mp3",
       "entry": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle",
       "abilities": "Main: Blaze | Hidden: Magician",
       "height": "3'03\"",
@@ -15444,6 +15605,7 @@
         "T1": "Fire",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/655.mp3",
       "entry": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future",
       "abilities": "Main: Blaze | Hidden: Magician",
       "height": "4'11\"",
@@ -15466,6 +15628,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/656.mp3",
       "entry": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked",
       "abilities": "Main: Torrent | Hidden: Protean",
       "height": "1'00\"",
@@ -15488,6 +15651,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/657.mp3",
       "entry": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away",
       "abilities": "Main: Torrent | Hidden: Protean",
       "height": "2'00\"",
@@ -15511,6 +15675,7 @@
         "T1": "Water",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/658.mp3",
       "entry": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two",
       "abilities": "Main: Torrent | Hidden: Protean",
       "height": "4'11\"",
@@ -15533,6 +15698,7 @@
       "type": {
         "T1": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/659.mp3",
       "entry": "They use their large ears to dig burrows. They will dig the whole night through",
       "abilities": "Main: Pickup, Cheek Pouch | Hidden: Huge Power",
       "height": "1'04\"",
@@ -15556,6 +15722,7 @@
         "T1": "Normal",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/660.mp3",
       "entry": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites",
       "abilities": "Main: Pickup, Cheek Pouch | Hidden: Huge Power",
       "height": "3'03\"",
@@ -15579,6 +15746,7 @@
         "T1": "Normal",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/661.mp3",
       "entry": "These friendly Pokemon send signals to one another with beautiful chirps and tail-feather movements",
       "abilities": "Main: Big Pecks | Hidden: Gale Wings",
       "height": "1'00\"",
@@ -15602,6 +15770,7 @@
         "T1": "Fire",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/662.mp3",
       "entry": "From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass",
       "abilities": "Main: Flame Body | Hidden: Gale Wings",
       "height": "2'04\"",
@@ -15625,6 +15794,7 @@
         "T1": "Fire",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/663.mp3",
       "entry": "In the fever of an exciting battle, it showers embers from the gaps between its feathers and takes to the air",
       "abilities": "Main: Flame Body | Hidden: Gale Wings",
       "height": "3'11\"",
@@ -15647,6 +15817,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/664.mp3",
       "entry": "When under attack from bird Pokemon, it spews a poisonous black powder that causes paralysis on contact",
       "abilities": "Main: Shield Dust, Compound Eyes | Hidden: Friend Guard",
       "height": "1'00\"",
@@ -15669,6 +15840,7 @@
       "type": {
         "T1": "Bug"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/665.mp3",
       "entry": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them",
       "abilities": "Main: Shed Skin | Hidden: Friend Guard",
       "height": "1'00\"",
@@ -15692,6 +15864,7 @@
         "T1": "Bug",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/666.mp3",
       "entry": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat",
       "abilities": "Main: Shield Dust, Compound Eyes | Hidden: Friend Guard",
       "height": "3'11\"",
@@ -15715,6 +15888,7 @@
         "T1": "Fire",
         "T2": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/667.mp3",
       "entry": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body",
       "abilities": "Main: Rivalry, Unnerve | Hidden: Moxie",
       "height": "2'00\"",
@@ -15738,6 +15912,7 @@
         "T1": "Fire",
         "T2": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/668.mp3",
       "entry": "The male with the largest mane of fire is the leader of the pride",
       "abilities": "Main: Rivalry, Unnerve | Hidden: Moxie",
       "height": "4'11\"",
@@ -15760,6 +15935,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/669.mp3",
       "entry": "It draws out and controls the hidden power of flowers. The flower Flabebe holds is most likely part of its body",
       "abilities": "Main: Flower Veil | Hidden: Symbiosis",
       "height": "0'04\"",
@@ -15782,6 +15958,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/670.mp3",
       "entry": "It flutters around fields of flowers and cares for flowers that are starting to wilt. It draws out the power of flowers to battle",
       "abilities": "Main: Flower Veil | Hidden: Symbiosis",
       "height": "0'08\"",
@@ -15804,6 +15981,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/671.mp3",
       "entry": "It claims exquisite flower gardens as its territory, and it obtains power from basking in the energy emitted by flowering plants",
       "abilities": "Main: Flower Veil | Hidden: Symbiosis",
       "height": "3'07\"",
@@ -15826,6 +16004,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/672.mp3",
       "entry": "Thought to be one of the first Pokemon to live in harmony with humans, it has a placid disposition",
       "abilities": "Main: Sap Sipper | Hidden: Grass Pelt",
       "height": "2'11\"",
@@ -15848,6 +16027,7 @@
       "type": {
         "T1": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/673.mp3",
       "entry": "It can tell how its trainer is feeling by subtle shifts in the grip on its horns. This empathetic sense lets them run as if one being ",
       "abilities": "Main: Sap Sipper | Hidden: Grass Pelt",
       "height": "5'07\"",
@@ -15870,6 +16050,7 @@
       "type": {
         "T1": "Fighting"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/674.mp3",
       "entry": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark",
       "abilities": "Main: Iron Fist, Mold Breaker | Hidden: Scrappy",
       "height": "2'00\"",
@@ -15893,6 +16074,7 @@
         "T1": "Fighting",
         "T2": "Dark"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/675.mp3",
       "entry": "Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies",
       "abilities": "Main: Iron Fist, Mold Breaker | Hidden: Scrappy",
       "height": "6'11\"",
@@ -15915,6 +16097,7 @@
       "type": {
         "T1": "Normle"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/676.mp3",
       "entry": "Trimming its fluffy fur not only makes it more elegant, but also increases the swiftness of its movements",
       "abilities": "Main: Fur Coat",
       "height": "3'11\"",
@@ -15937,6 +16120,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/677.mp3",
       "entry": "The organ that emits its intense psychic power is shelteted by its ears to keep power from leaking out",
       "abilities": "Main: Keen Eye, Infiltrator | Hidden: Own Tempo",
       "height": "1'00\"",
@@ -15959,6 +16143,7 @@
       "type": {
         "T1": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/678.mp3",
       "entry": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust",
       "abilities": "Main: Keen Eye, Infiltrator | Hidden: Prankster/Competitive",
       "height": "2'00\"",
@@ -15982,6 +16167,7 @@
         "T1": "Steel",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/679.mp3",
       "entry": "Apparently this Pokemon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force",
       "abilities": "Main: No Guard",
       "height": "2'07\"",
@@ -16005,6 +16191,7 @@
         "T1": "Steel",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/680.mp3",
       "entry": "When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons",
       "abilities": "Main: No Guard",
       "height": "2'07\"",
@@ -16028,6 +16215,7 @@
         "T1": "Steel",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/681.mp3",
       "entry": "Generations of kings were attended by these Pokemon, which used their spectral power to manipulate and control people and Pokemon",
       "abilities": "Main: Stance Change",
       "height": "5'07\"",
@@ -16050,6 +16238,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/682.mp3",
       "entry": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten",
       "abilities": "Main: Healer | Hidden: Aroma Veil",
       "height": "0'08\"",
@@ -16072,6 +16261,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/683.mp3",
       "entry": "It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle",
       "abilities": "Main: Healer | Hidden: Aroma Veil",
       "height": "2'07\"",
@@ -16094,6 +16284,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/684.mp3",
       "entry": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy",
       "abilities": "Main: Sweet Veil | Hidden: Unburden",
       "height": "1'04\"",
@@ -16116,6 +16307,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/685.mp3",
       "entry": "It can distinguish the faintest of scents. It puts its sensitive sense to use by helping pastry chefs in their work",
       "abilities": "Main: Sweet Veil | Hidden: Unburden",
       "height": "2'07\"",
@@ -16139,6 +16331,7 @@
         "T1": "Dark",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/686.mp3",
       "entry": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight",
       "abilities": "Main: Contrary, Suction Cups | Hidden: Infiltrator",
       "height": "1'04\"",
@@ -16162,6 +16355,7 @@
         "T1": "Dark",
         "T2": "Psychic"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/687.mp3",
       "entry": "It weilds the most compelling hypnotic powers of any Pokemon, and it forces others to do whatever it wants",
       "abilities": "Main: Contrary, Suction Cups | Hidden: Infiltrator",
       "height": "4'11\"",
@@ -16185,6 +16379,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/688.mp3",
       "entry": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock",
       "abilities": "Main: Tough Claws, Sniper | Hidden: Pickpocket",
       "height": "1'08\"",
@@ -16208,6 +16403,7 @@
         "T1": "Rock",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/689.mp3",
       "entry": "When they evolve, two Binacle multiply into seven. They fight with the power of seven Binacle",
       "abilities": "Main: Tough Claws, Sniper | Hidden: Pickpocket",
       "height": "4'03\"",
@@ -16231,6 +16427,7 @@
         "T1": "Poison",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/690.mp3",
       "entry": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off",
       "abilities": "Main: Poison Point, Poison Touch | Hidden: Adaptability",
       "height": "1'08\"",
@@ -16254,6 +16451,7 @@
         "T1": "Poison",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/691.mp3",
       "entry": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminatley at anything that enters their territory",
       "abilities": "Main: Poison Point, Poison Touch | Hidden: Adaptability",
       "height": "5'11\"",
@@ -16276,6 +16474,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/692.mp3",
       "entry": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol ",
       "abilities": "Main: 1'08",
       "height": "1'08\"",
@@ -16298,6 +16497,7 @@
       "type": {
         "T1": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/693.mp3",
       "entry": "Their enormous claws launch cannonballs of water powerful enough to pierce tanker hulls",
       "abilities": "Main: Mega Launcher",
       "height": "4'03\"",
@@ -16321,6 +16521,7 @@
         "T1": "Electric",
         "T2": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/694.mp3",
       "entry": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement",
       "abilities": "Main: Dry Skin, Sand Veil | Hidden: Solar Power",
       "height": "1'08\"",
@@ -16344,6 +16545,7 @@
         "T1": "Electric",
         "T2": "Normal"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/695.mp3",
       "entry": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper",
       "abilities": "Main: Dry Skin, Sand Veil | Hidden: Solar Power",
       "height": "3'03\"",
@@ -16367,6 +16569,7 @@
         "T1": "Rock",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/696.mp3",
       "entry": "This Pokemon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild",
       "abilities": "Main: Strong Jaw | Hidden: Sturdy",
       "height": "2'07\"",
@@ -16390,6 +16593,7 @@
         "T1": "Rock",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/697.mp3",
       "entry": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited",
       "abilities": "Main: Strong Jaw | Hidden: Rock Head",
       "height": "8'02\"",
@@ -16413,6 +16617,7 @@
         "T1": "Rock",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/698.mp3",
       "entry": "This ancient Pokemon was restored from part of its body that had been frozen in ice for over 100 million years",
       "abilities": "Main: Refrigerate | Hidden: Snow Warning",
       "height": "4'03\"",
@@ -16436,6 +16641,7 @@
         "T1": "Rock",
         "T2": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/699.mp3",
       "entry": "The diamond-shaped crystal on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice ",
       "abilities": "Main: Refrigerate | Hidden: Snow Warning",
       "height": "8'10\"",
@@ -16458,6 +16664,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/700.mp3",
       "entry": "It sends a soothing aura from its ribbonlike feelers to calm fights ",
       "abilities": "Main: Cute Charm | Hidden: Pixilate",
       "height": "3'03\"",
@@ -16481,6 +16688,7 @@
         "T1": "Fighting",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/701.mp3",
       "entry": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama",
       "abilities": "Main: Limber, Unburden | Hidden: Mold Breaker",
       "height": "2'07\"",
@@ -16504,6 +16712,7 @@
         "T1": "Electric",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/702.mp3",
       "entry": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances",
       "abilities": "Main: Cheek Pouch, Pickup | Hidden: Plus",
       "height": "0'08\"",
@@ -16527,6 +16736,7 @@
         "T1": "Rock",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/703.mp3",
       "entry": "Born from temperatures and pressures deep underground, it fires beams from the stone in its head",
       "abilities": "Main: Clear Body | Hidden: Sturdy",
       "height": "1'00\"",
@@ -16549,6 +16759,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/704.mp3",
       "entry": "The weakest Dragon-type Pokemon, it lives in damp, shady places, so its body doesn't dry out ",
       "abilities": "Main: Sap Sipper, Hydration | Hidden: Gooey",
       "height": "1'00\"",
@@ -16571,6 +16782,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/705.mp3",
       "entry": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devovled, so it can't see anything",
       "abilities": "Main: Sap Sipper, Hydration | Hidden: Gooey",
       "height": "2'07\"",
@@ -16593,6 +16805,7 @@
       "type": {
         "T1": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/706.mp3",
       "entry": "This very friendly Dragon-type Pokemon will hug its beloved Trainer, leaving that Trainer covered in sticky slime",
       "abilities": "Main: Sap Sipper, Hydration | Hidden: Gooey",
       "height": "6'07\"",
@@ -16616,6 +16829,7 @@
         "T1": "Steel",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/707.mp3",
       "entry": "These key collectors threaten any attackes by fiercely jingling their keys at them ",
       "abilities": "Main: Prankster | Hidden: Magician",
       "height": "0'08\"",
@@ -16639,6 +16853,7 @@
         "T1": "Ghost",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/708.mp3",
       "entry": "These Pokemon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests",
       "abilities": "Main: Natural Cure, Frisk | Hidden: Harvest",
       "height": "1'04\"",
@@ -16662,6 +16877,7 @@
         "T1": "Ghost",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/709.mp3",
       "entry": "It can control trees at will. It will trap people who harm the forest, so they can never leave",
       "abilities": "Main: Natural Cure, Frisk | Hidden: Harvest",
       "height": "4'11\"",
@@ -16685,6 +16901,7 @@
         "T1": "Ghost",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/710.mp3",
       "entry": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active",
       "abilities": "Main: Pickup, Frisk | Hidden: Insomnia",
       "height": "1'04\"",
@@ -16708,6 +16925,7 @@
         "T1": "Ghost",
         "T2": "Grass"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry711/.mp3",
       "entry": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed",
       "abilities": "Main: Pickup, Frisk | Hidden: Insomnia",
       "height": "2'11\"",
@@ -16730,6 +16948,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/712.mp3",
       "entry": "It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice",
       "abilities": "Main: Own Tempo, Ice Body | Hidden: Sturdy",
       "height": "3'03\"",
@@ -16752,6 +16971,7 @@
       "type": {
         "T1": "Ice"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/713.mp3",
       "entry": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anythig that stands in its way",
       "abilities": "Main: Own Tempo, Ice Body | Hidden: Sturdy",
       "height": "6'07\"",
@@ -16775,6 +16995,7 @@
         "T1": "Flying",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/714.mp3",
       "entry": "They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz",
       "abilities": "Main: Frisk, Infiltrator | Hidden: Telepathy",
       "height": "1'08\"",
@@ -16798,6 +17019,7 @@
         "T1": "Flying",
         "T2": "Dragon"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/715.mp3",
       "entry": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark",
       "abilities": "Main: Frisk, Infiltrator | Hidden: Telepathy",
       "height": "4'11\"",
@@ -16820,6 +17042,7 @@
       "type": {
         "T1": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/716.mp3",
       "entry": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival ",
       "abilities": "Main: Fairy Aura",
       "height": "9'10\"",
@@ -16843,6 +17066,7 @@
         "T1": "Dark",
         "T2": "Flying"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/717.mp3",
       "entry": "When this legendary Pokemon's wings and tail feathers spread wide andn glow red, its absorbs the life force of living creatures",
       "abilities": "Main: Dark Aura",
       "height": "19'00\"",
@@ -16866,6 +17090,7 @@
         "T1": "Dragon",
         "T2": "Ground"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/718.mp3",
       "entry": "When the Kalos region's ecosystems falls into disarray, it appears and reveals its secret power",
       "abilities": "Main: Aura Break, Power Construct",
       "height": "16'05\"",
@@ -16889,6 +17114,7 @@
         "T1": "Rock",
         "T2": "Fairy"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/719.mp3",
       "entry": "A sudden tranformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world",
       "abilities": "Main: Clear Body",
       "height": "2'04\"",
@@ -16912,6 +17138,7 @@
         "T1": "Psychic",
         "T2": "Ghost"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/720.mp3",
       "entry": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space",
       "abilities": "Main: Magician",
       "height": "1'08\"",
@@ -16935,6 +17162,7 @@
         "T1": "Fire",
         "T2": "Water"
       },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/721.mp3",
       "entry": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread",
       "abilities": "Main: Water Absorb",
       "height": "5'07\"",
@@ -19036,7 +19264,7 @@
       "type": {
         "T1": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/810.mp3",
       "entry": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area ",
       "abilities": "Main: Overgrow | Hidden: Grassy Surge",
       "height": "1'00\"",
@@ -19059,7 +19287,7 @@
       "type": {
         "T1": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/811.mp3",
       "entry": "The faster a Thwackey can beat out a rhythm within its two sticks, the more respect it wins from its peers",
       "abilities": "Main: Overgrow | Hidden: Grassy Surge",
       "height": "2'04\"",
@@ -19082,7 +19310,7 @@
       "type": {
         "T1": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/812.mp3",
       "entry": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle",
       "abilities": "Main: Overgrow | Hidden: Grassy Surge",
       "height": "6'11\"",
@@ -19105,7 +19333,7 @@
       "type": {
         "T1": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/813.mp3",
       "entry": "A warm-up of running around gets fire energy coursing through this Pokemon's body. Once that happens, it's ready to fight at full power",
       "abilities": "Main: Blaze | Hidden: Libero",
       "height": "1'00\"",
@@ -19128,7 +19356,7 @@
       "type": {
         "T1": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/814.mp3",
       "entry": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves",
       "abilities": "Main: Blaze | Hidden: Libero",
       "height": "2'00\"",
@@ -19151,7 +19379,7 @@
       "type": {
         "T1": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/815.mp3",
       "entry": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched",
       "abilities": "Main: Blaze | Hidden: Libero",
       "height": "4'07\"",
@@ -19174,7 +19402,7 @@
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/816.mp3",
       "entry": "When scared, this Pokemon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping ",
       "abilities": "Main: Torrent | Hidden: Sniper",
       "height": "1'00\"",
@@ -19197,7 +19425,7 @@
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/817.mp3",
       "entry": "A clever combatant, this Pokemon battles using water balloons created with moisture secreted from its palms",
       "abilities": "Main: Torrent | Hidden: Sniper",
       "height": "2'04\"",
@@ -19220,7 +19448,7 @@
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/818.mp3",
       "entry": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air",
       "abilities": "Main: Torrent | Hidden: Sniper",
       "height": "6'03\"",
@@ -19243,7 +19471,7 @@
       "type": {
         "T1": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/819.mp3",
       "entry": "Found throughout the Galar region, this Pokemon becomes uneasy if its cheeks are ever completely empty of berries",
       "abilities": "Main: Cheek Pouch | Hidden: Gluttony",
       "height": "1'00\"",
@@ -19266,7 +19494,7 @@
       "type": {
         "T1": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/820.mp3",
       "entry": "It stashes berries in its tail - so many berries that they fall out constantly. But this Pokemon is a bit slow-witted, so it doesn't notice the loss",
       "abilities": "Main: Cheek Pouch | Hidden: Gluttony",
       "height": "2'00\"",
@@ -19289,7 +19517,7 @@
       "type": {
         "T1": "Flying"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/821.mp3",
       "entry": "It will bravely challenge any opponent, no matter how powerful. This Pokemon benefits from every battle - even a defeat increases its strength a bit",
       "abilities": "Main: Keen Eye, Unnerve | Hidden: Big Pecks",
       "height": "0'08\"",
@@ -19312,7 +19540,7 @@
       "type": {
         "T1": "Flying"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/822.mp3",
       "entry": "Smart enough to use tools in battle, these Pokemon have been seen picking up rocks and flinging them or using ropes to wrap up enemies",
       "abilities": "Main: Keen Eye, Unnerve | Hidden: Big Pecks",
       "height": "2'07\"",
@@ -19336,7 +19564,7 @@
         "T1": "Flying",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/823.mp3",
       "entry": "This Pokemon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe",
       "abilities": "Main: Pressure, Unnerve | Hidden: Mirror Armor",
       "height": "7'03\"",
@@ -19359,7 +19587,7 @@
       "type": {
         "T1": "Bug"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/824.mp3",
       "entry": "A constant collector of information, this Pokemon is very smart. Very strong is what it isn't",
       "abilities": "Main: Swarm, Compound Eyes | Hidden: Telepathy",
       "height": "1'04\"",
@@ -19383,7 +19611,7 @@
         "T1": "Bug",
         "T2": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/825.mp3",
       "entry": "It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers ",
       "abilities": "Main: Swarm, Compound Eyes | Hidden: Telepathy",
       "height": "1'04\"",
@@ -19407,7 +19635,7 @@
         "T1": "Bug",
         "T2": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/826.mp3",
       "entry": "It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power",
       "abilities": "Main: Swarm, Frisk | Hidden: Telepathy",
       "height": "1'04\"",
@@ -19430,7 +19658,7 @@
       "type": {
         "T1": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/827.mp3",
       "entry": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokemon. It survives off its ill-gotten gains ",
       "abilities": "Main: Run Away, Unburden | Hidden: Stakeout",
       "height": "2'00\"",
@@ -19453,7 +19681,7 @@
       "type": {
         "T1": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/828.mp3",
       "entry": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it ",
       "abilities": "Main: Run Away, Unburden | Hidden: Stakeout",
       "height": "3'11\"",
@@ -19476,7 +19704,7 @@
       "type": {
         "T1": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/829.mp3",
       "entry": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petas spread as it blooms brilliantly",
       "abilities": "Main: Cotton Down, Regenerator | Hidden: Effect Spore",
       "height": "1'04\"",
@@ -19499,7 +19727,7 @@
       "type": {
         "T1": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/830.mp3",
       "entry": "The seeds attatched to its cotton fluff of nutrients. It spreads them on the wind so that plants and other Pokemon can benefit from them ",
       "abilities": "Main: Cotton Down, Regenerator | Hidden: Effect Spore",
       "height": "1'08\"",
@@ -19522,7 +19750,7 @@
       "type": {
         "T1": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/831.mp3",
       "entry": "Its curly fleece is such an effective cushion that this Pokemon could fall off a cliff and stand right back up at the bottom, unharmed",
       "abilities": "Main: Fluffy, Run Away | Hidden: Bulletproof",
       "height": "2'00\"",
@@ -19545,7 +19773,7 @@
       "type": {
         "T1": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/832.mp3",
       "entry": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment the moment you set foot on it",
       "abilities": "Main: Fluffy, Steadfast | Hidden: Bulletproof",
       "height": "4'03\"",
@@ -19568,7 +19796,7 @@
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/833.mp3",
       "entry": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it ",
       "abilities": "Main: Strong Jaw, Shell Armor | Hidden: Swift Swim",
       "height": "1'00\"",
@@ -19592,7 +19820,7 @@
         "T1": "Water", 
         "T2": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/834.mp3",
       "entry": "With jaws that can shear through steel rods, this highly aggressive Pokemon chomps down on its unfortunate prey ",
       "abilities": "Main: Strong Jaw, Shell Armor | Hidden: Swift Swim",
       "height": "3'03\"",
@@ -19615,7 +19843,7 @@
       "type": {
         "T1": "Electric"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/835.mp3",
       "entry": "This Pokemon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail",
       "abilities": "Main: Ball Fetch | Hidden: Rattled",
       "height": "1'00\"",
@@ -19638,7 +19866,7 @@
       "type": {
         "T1": "Electric"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/836.mp3",
       "entry": "This Pokemon generates electricity and channels it into its legs to keep them going strong. Bolthund can run nonstop for three full days",
       "abilities": "Main: Strong Jaw | Hidden: Competitive",
       "height": "3'03\"",
@@ -19661,7 +19889,7 @@
       "type": {
         "T1": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/837.mp3",
       "entry": "Most of its body has the same composition as coal. Fittingly, this Pokemon was first discovered in coal mines about 400 years ago",
       "abilities": "Main: Stream Engine, Heatproof | Hidden: Flash Fire",
       "height": "1'00\"",
@@ -19685,7 +19913,7 @@
         "T1": "Rock",
         "T2": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/838.mp3",
       "entry": "It forms coal inside its body. Coal dropped by this Pokemon once helped fuel the lives of people in the Galar region",
       "abilities": "Main: Steam Engine, Flame Body | Hidden: Flash Fire",
       "height": "3'07\"",
@@ -19709,7 +19937,7 @@
         "T1": "Rock",
         "T2": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/839.mp3",
       "entry": "It's usually peaceful, but the vandalism of mines enrages it. Offender will be incinerated with flames that reach 2,700 degrees Fahrenheit",
       "abilities": "Main: Steam Engine, Flame Body | Hidden: Flash Fire",
       "height": "9'02\"",
@@ -19733,7 +19961,7 @@
         "T1": "Grass",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/840.mp3",
       "entry": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokemon, by pretending it's just an apple and nothing more ",
       "abilities": "Main: Ripen, Gluttony | Hidden: Bulletproof",
       "height": "0'08\"",
@@ -19757,7 +19985,7 @@
         "T1": "Grass",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/841.mp3",
       "entry": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns",
       "abilities": "Main: Ripen, Gluttony | Hidden: Hustle",
       "height": "1'00\"",
@@ -19781,7 +20009,7 @@
         "T1": "Grass",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/842.mp3",
       "entry": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokemon it preys on",
       "abilities": "Main: Ripen, Gluttony | Hidden: Thick Fat",
       "height": "1'04\"",
@@ -19804,7 +20032,7 @@
       "type": {
         "T1": "Ground"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/843.mp3",
       "entry": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand",
       "abilities": "Main: Sand Spit, Shed Skin | Hidden: Sand Veil",
       "height": "7'03\"",
@@ -19827,7 +20055,7 @@
       "type": {
         "T1": "Ground"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/844.mp3",
       "entry": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened",
       "abilities": "Main: Sand Spit, Shed Skin | Hidden: Sand Veil",
       "height": "12'06\"",
@@ -19851,7 +20079,7 @@
         "T1": "Flying",
         "T2": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/845.mp3",
       "entry": "It's so strong that it can knock out some opponents in a sinlge hit, but it also may forget what it's battling midfight",
       "abilities": "Main: Gulp Missle",
       "height": "2'07\"",
@@ -19874,7 +20102,7 @@
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/846.mp3",
       "entry": "If it sees any movement around it, this Pokemon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw",
       "abilities": "Main: Swift Swim | Hidden: Propeller Tail",
       "height": "1'08\"",
@@ -19897,7 +20125,7 @@
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/847.mp3",
       "entry": "This Pokemon has a jaw that's as sharp as a spear and strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too",
       "abilities": "Main: Swift Swim | Hidden: Propeller Tail",
       "height": "4'03\"",
@@ -19921,7 +20149,7 @@
         "T1": "Electric",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/848.mp3",
       "entry": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokemon, a tingling sensation follows",
       "abilities": "Main: Rattled, Static | Hidden: Klutz",
       "height": "1'03\"",
@@ -19945,7 +20173,7 @@
         "T1": "Electric", 
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/849.mp3",
       "entry": "When this Pokemon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity ",
       "abilities": "Main: Punk Rock, Plus | Hidden: Technician",
       "height": "5'03\"",
@@ -19969,7 +20197,7 @@
         "T1": "Fire", 
         "T2": "Bug"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/850.mp3",
       "entry": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particulary hot",
       "abilities": "Main: Flash Fire, White Smoke | Hidden: Flame Body",
       "height": "2'04\"",
@@ -19993,7 +20221,7 @@
         "T1": "Fire",
         "T2": "Bug"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/851.mp3",
       "entry": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies ",
       "abilities": "Main: Flash Fire, White Smoke | Hidden: Flame Body",
       "height": "9'10\"",
@@ -20016,7 +20244,7 @@
       "type": {
         "T1": "Fighting"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/852.mp3",
       "entry": "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land",
       "abilities": "Main: Limber | Hidden: Technician",
       "height": "2'00\"",
@@ -20039,7 +20267,7 @@
       "type": {
         "T1": "Fighting"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/853.mp3",
       "entry": "A body made up of nothing but muscle makes the grappling moves this Pokemon performs with its tentacles tremendously powerful",
       "abilities": "Main: Limber | Hidden: Technician",
       "height": "5'03\"",
@@ -20062,7 +20290,7 @@
       "type": {
         "T1": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/854.mp3",
       "entry": "This Pokemon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea",
       "abilities": "Main: Weak Armor | Hidden: Cursed Body",
       "height": "0'04\"",
@@ -20085,7 +20313,7 @@
       "type": {
         "T1": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/855.mp3",
       "entry": "This species lives in antique teapots. Most pots forgeries, but on rare occasions, an authentic work is found",
       "abilities": "Main: Weak Armor | Hidden: Cursed Body",
       "height": "0'08\"",
@@ -20108,7 +20336,7 @@
       "type": {
         "T1": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/856.mp3",
       "entry": "Via the protusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you",
       "abilities": "Main: Healer, Anticipation | Hidden: Magic Bounce",
       "height": "1'04\"",
@@ -20131,7 +20359,7 @@
       "type": {
         "T1": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/857.mp3",
       "entry": "No matter who you are, if you bring strong emotions near this Pokemon, it will silence you violently ",
       "abilities": "Main: Healer, Anticipation | Hidden: Magic Bounce",
       "height": "2'00\"",
@@ -20155,7 +20383,7 @@
         "T1": "Psychic",
         "T2": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/858.mp3",
       "entry": "It emits psychic power strong enough to cause headaches as a dterrent to the approach of others",
       "abilities": "Main: Healer, Anticipation | Hidden: Magic Bounce",
       "height": "6'11\"",
@@ -20179,7 +20407,7 @@
         "T1": "Dark",
         "T2": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/859.mp3",
       "entry": "Through its noes, it sucks in the emanations produced by people and Pokemon when they feel annoyed. It thrives off this negative energy",
       "abilities": "Main: Prankster, Frisk | Hidden: Pickpocket",
       "height": "1'04\"",
@@ -20203,7 +20431,7 @@
         "T1": "Dark", 
         "T2": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/860.mp3",
       "entry": "When it gets down on all fours as if to beg for forgiveness, it's trying to lure oppponents in so that it can stab them with its spear-like hair",
       "abilities": "Main: Prankster, Frisk | Hidden: Pickpocket",
       "height": "2'07\"",
@@ -20227,7 +20455,7 @@
         "T1": "Dark",
         "T2": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/861.mp3",
       "entry": "With hair wrapped around its body helping enhance its muscles, this Pokemon can overwhelm even Machamp",
       "abilities": "Main: Prankster, Frisk | Hidden: Pickpocket",
       "height": "4'11\"",
@@ -20251,7 +20479,7 @@
         "T1": "Dark",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/862.mp3",
       "entry": "Its voice is staggering in volume. Obstagoon has a tendacy to take on a threatening posture and shout - this move is known as Obstruct",
       "abilities": "Main: Reckless, Guts | Hidden: Defiant",
       "height": "5'03\"",
@@ -20274,7 +20502,7 @@
       "type": {
         "T1": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/863.mp3",
       "entry": "What appears to be an iron helmet is actually hardened hair. This Pokemon lives fro the thrill of battle",
       "abilities": "Main: Battle Armor, Tough Claws | Hidden: Steely Spirit",
       "height": "2'07\"",
@@ -20297,7 +20525,7 @@
       "type": {
         "T1": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/864.mp3",
       "entry": "Its shell is overlowing with its heightened otherwordly energy. The ectoplasm serves as protection for this Pokemon's core spirit ",
       "abilities": "Main: Weak Armor | Hidden: Perish Body",
       "height": "3'03\"",
@@ -20320,7 +20548,7 @@
       "type": {
         "T1": "Fighting"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/865.mp3",
       "entry": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pokemon's leek withers, it will retire from combat",
       "abilities": "Main: Steadfast | Hidden: Scrappy",
       "height": "2'07\"",
@@ -20344,7 +20572,7 @@
         "T1": "Ice", 
         "T2": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/866.mp3",
       "entry": "It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements",
       "abilities": "Main: Tangled Feet, Screen Clean | Hidden: Ice Body",
       "height": "4'11\"",
@@ -20368,7 +20596,7 @@
         "T1": "Ground",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/867.mp3",
       "entry": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move",
       "abilities": "Main: Wandering Spirit",
       "height": "5'03\"",
@@ -20391,7 +20619,7 @@
       "type": {
         "T1": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/868.mp3",
       "entry": "This Pokemon was born from sweet-smelling particles in the air. Its body is made of cream",
       "abilities": "Main: Sweet Veil | Hidden: Aroma Veil",
       "height": "0'08\"",
@@ -20414,7 +20642,7 @@
       "type": {
         "T1": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/869.mp3",
       "entry": "When it trusts a Trainer, it will treat them to berries it's decorated with cream",
       "abilities": "Main: Sweet Veil | Hidden: Aroma Veil",
       "height": "1'00\"",
@@ -20437,7 +20665,7 @@
       "type": {
         "T1": "Fighting"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/870.mp3",
       "entry": "Five of them are troopers, and one is the brass. The brass's orders are absolute",
       "abilities": "Main: Battle Armor | Hidden: Defiant",
       "height": "9'10\"",
@@ -20460,7 +20688,7 @@
       "type": {
         "T1": "Electric"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/871.mp3",
       "entry": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines",
       "abilities": "Main: Lightning Rod | Hidden: Electric Surge",
       "height": "1'00\"",
@@ -20484,7 +20712,7 @@
         "T1": "Ice",
         "T2": "Bug"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/872.mp3",
       "entry": "It spits out a thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps",
       "abilities": "Main: Shield Dust | Hidden: Ice Scales",
       "height": "1'00\"",
@@ -20508,7 +20736,7 @@
         "T1": "Ice",
         "T2": "Bug"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/873.mp3",
       "entry": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than -290 degrees Fahrenheit",
       "abilities": "Main: Shield Dust | Hidden: Ice Scales",
       "height": "4'03\"",
@@ -20531,7 +20759,7 @@
       "type": {
         "T1": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/874.mp3",
       "entry": "It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokemon has a talent for delivering dynamic kicks",
       "abilities": "Main: Power Spot",
       "height": "8'02\"",
@@ -20554,7 +20782,7 @@
       "type": {
         "T1": "Ice"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/875.mp3",
       "entry": "It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold",
       "abilities": "Main: Ice Face",
       "height": "4'07\"",
@@ -20578,7 +20806,7 @@
         "T1": "Psychic",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/876.mp3",
       "entry": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need",
       "abilities": "Main: Inner Focus, Synchronize | Hidden: Psychic Surge",
       "height": "2'11\"",
@@ -20602,7 +20830,7 @@
         "T1": "Electric",
         "T2": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/877.mp3",
       "entry": "As it eats the seeds stored up in its pocket-like pouches, this Pokemon is not just satisfying its constant hunger. It's also generating electricity ",
       "abilities": "Main: Hunger Switch",
       "height": "1'00\"",
@@ -20625,7 +20853,7 @@
       "type": {
         "T1": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/878.mp3",
       "entry": "It digs up the gorund with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all",
       "abilities": "Main: Sheer Force | Hidden: Heavy Metal",
       "height": "3'11\"",
@@ -20648,7 +20876,7 @@
       "type": {
         "T1": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/879.mp3",
       "entry": "They came over from another region longn ago and worked together with humans. Their green skin is resistant to water",
       "abilities": "Main: Sheer Force | Hidden: Heavy Metal",
       "height": "9'10\"",
@@ -20672,7 +20900,7 @@
         "T1": "Electric",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/880.mp3",
       "entry": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources",
       "abilities": "Main: Volt Absorb, Hustle | Hidden: Sand Rush",
       "height": "5'11\"",
@@ -20696,7 +20924,7 @@
         "T1": "Electric",
         "T2": "Ice"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/881.mp3",
       "entry": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around",
       "abilities": "Main: Volt Absorb, Static | Hidden: Slush Rush",
       "height": "7'07\"",
@@ -20720,7 +20948,7 @@
         "T1": "Water",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/882.mp3",
       "entry": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction",
       "abilities": "Main: Water Absorb, Strong Jaw | Hidden: Sand Rush",
       "height": "7'07\"",
@@ -20744,7 +20972,7 @@
         "T1": "Water", 
         "T2": "Ice"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/883.mp3",
       "entry": "Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head",
       "abilities": "Main: Water Absorb, Strong Jaw | Hidden: Sand Rush",
       "height": "6'07\"",
@@ -20768,7 +20996,7 @@
         "T1": "Steel",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/884.mp3",
       "entry": "Its body resembles polished meta., and it's both lightweight and strong. The only drawback is that it rusts easily",
       "abilities": "Main: Light Metal, Heavy Metal | Hidden: Stalwart",
       "height": "5'11\"",
@@ -20792,7 +21020,7 @@
         "T1": "Dragon", 
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/885.mp3",
       "entry": "After being reborn as a ghost Pokemon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas",
       "abilities": "Main: Clear Body, Infiltrator | Hidden: Cursed Body",
       "height": "1'08\"",
@@ -20816,7 +21044,7 @@
         "T1": "Dragon",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/886.mp3",
       "entry": "It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve",
       "abilities": "Main: Clear Body, Infiltrator | Hidden: Cursed Body",
       "height": "4'07\"",
@@ -20840,7 +21068,7 @@
         "T1": "Dragon",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/887.mp3",
       "entry": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a figiht starts, it launches the Dreepy like supersonic missles",
       "abilities": "Main: Clear Body, Infiltrator | Hidden: Cursed Body",
       "height": "9'10\"",
@@ -20864,7 +21092,7 @@
         "T1": "Fairy",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/888.mp3",
       "entry": "Now armed with a weapon it used in ancient times, this Pokemon needs only a single strike to fell even Gigantamax Pokemon",
       "abilities": "Main: Intrepid Sword",
       "height": "9'02\"",
@@ -20888,7 +21116,7 @@
         "T1": "Fighting",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/889.mp3",
       "entry": "Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all",
       "abilities": "Main: Dauntless Shield",
       "height": "9'06\"",
@@ -20912,7 +21140,7 @@
         "T1": "Poison",
         "T2": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/890.mp3",
       "entry": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active",
       "abilities": "Main: Pressure",
       "height": "65'07\"",
@@ -20935,7 +21163,7 @@
       "type": {
         "T1": "Fighting"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/891.mp3",
       "entry": "Kubfu trainsn hard to perfect its moves. The moves it masters will determine which form it takes when it evolves",
       "abilities": "Main: Inner Focus",
       "height": "2'00\"",
@@ -20959,7 +21187,7 @@
         "T1": "Fighting", 
         "T2": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/892.mp3",
       "entry": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devestating blow with a hardened fist",
       "abilities": "Main: Unseen Fist",
       "height": "6'03\"",
@@ -20983,7 +21211,7 @@
         "T1": "Dark",
         "T2": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/893.mp3",
       "entry": "Within dense forests, this Pokemon lives in a pack with others of its kind. It's incredibly aggrrerssive, and the other Pokemon of the forest fear it",
       "abilities": "Main: Leaf Guard",
       "height": "5'11\"",
@@ -21006,7 +21234,7 @@
       "type": {
         "T1": "Electric"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/894.mp3",
       "entry": "This Pokemon is a clustser of electrical energy. It's said that removing the rings on Regieleki's body will unleash the Pokemon's latent power",
       "abilities": "Main: Transistor",
       "height": "3'11\"",
@@ -21029,7 +21257,7 @@
       "type": {
         "T1": "Dragon"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/895.mp3",
       "entry": "An academic theory proposes that Regidrago's arms were once the head of an ancient dragon Pokemon. The theory remains unproven",
       "abilities": "Main: Dragon's Maw",
       "height": "6'11\"",
@@ -21052,7 +21280,7 @@
       "type": {
         "T1": "Ice"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/896.mp3",
       "entry": "Glastrier emits intense cold from its hooves. It's also a belligerent Pokemon - anything it wants, it takes by force",
       "abilities": "Main: Chlling Neigh",
       "height": "7'03\"",
@@ -21075,7 +21303,7 @@
       "type": {
         "T1": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/897.mp3",
       "entry": "It probes its surroundings with a ll its senses save one - it doesn't use its sense of sight. Spectrier's kicks are said to seperate soul from body",
       "abilities": "Main: Grim Neigh",
       "height": "6'07\"",
@@ -21099,7 +21327,7 @@
         "T1": "Psychic",
         "T2": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/898.mp3",
       "entry": "Calyrex is a merciful Pokemon, capable of providing healing and blessings. It reigned over the Galar region in times of yore",
       "abilities": "Main: Unnerve",
       "height": "3'07\"",
@@ -21123,7 +21351,7 @@
         "T1": "Normal",
         "T2": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/899.mp3",
       "entry": "The black orbs shine with an uncanny light when the Pokemon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing",
       "abilities": "Main: Intimidate, Frisk | Hidden: Sap Sipper",
       "height": "5'11\"",
@@ -21147,7 +21375,7 @@
         "T1": "Bug",
         "T2": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/900.mp3",
       "entry": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokemon in the wilds, one's only recourse is to flee",
       "abilities": "Main: Swarm, Sheer Force | Hidden: Steadfast",
       "height": "5'11\"",
@@ -21171,7 +21399,7 @@
         "T1": "Ground",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/901.mp3",
       "entry": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will",
       "abilities": "Main: Guts, Bulletproof | Hidden: Unnerve",
       "height": "7'10\"",
@@ -21195,7 +21423,7 @@
         "T1": "Water",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/902.mp3",
       "entry": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all of Hisui's rivers is Basculegion's equal",
       "abilities": "Main: Rattled, Adaptability | Hidden: Mold Breaker",
       "height": "9'10\"",
@@ -21219,7 +21447,7 @@
         "T1": "Fighting",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/903.mp3",
       "entry": "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs",
       "abilities": "Main: Pressure | Hidden: Poison Touch",
       "height": "4'03\"",
@@ -21243,7 +21471,7 @@
         "T1": "Dark",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/904.mp3",
       "entry": "Its lancelike spikes and savage temperament have earned it the nickname "sea fiend." It slurps up poison to nourish itself",
       "abilities": "Main: Poison Point, Swift Swim | Hidden: Intimidate",
       "height": "8'02\"",
@@ -21267,7 +21495,7 @@
         "T1": "Fairy",
         "T2": "Flying"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/905.mp3",
       "entry": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokemon's love gives rise to the budding of fresh life across Hisui",
       "abilities": "Main: Healer | Hidden: Contrary",
       "height": "5'03\"",
