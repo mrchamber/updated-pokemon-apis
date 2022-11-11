@@ -6149,7 +6149,7 @@
         "SpDef": 55,
         "Speed": 70
       },
-      "generation": "generation2"
+      "generation": "generation3"
 
     },
     {
@@ -6173,7 +6173,7 @@
         "SpDef": 65,
         "Speed": 95
       },
-      "generation": "generation2"
+      "generation": "generation3"
 
     },
     {
@@ -6197,7 +6197,7 @@
         "SpDef": 85,
         "Speed": 120
       },
-      "generation": "generation2"
+      "generation": "generation3"
 
     },
     {
@@ -6221,7 +6221,7 @@
         "SpDef": 50,
         "Speed": 45
       },
-      "generation": "generation2"
+      "generation": "generation3"
 
     },
     {
@@ -21364,7 +21364,7 @@
         "SpDef": 75,
         "Speed": 65
       },
-      "generation": "generation8"
+      "generation": "generation85"
     },
     {
       "id": 900,
@@ -21471,7 +21471,7 @@
         "T1": "Dark",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/904.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/.mp3",
       "entry": "Its lancelike spikes and savage temperament have earned it the nickname "sea fiend." It slurps up poison to nourish itself",
       "abilities": "Main: Poison Point, Swift Swim | Hidden: Intimidate",
       "height": "8'02\"",
