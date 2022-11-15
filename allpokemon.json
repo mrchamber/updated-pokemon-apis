@@ -9731,8 +9731,7 @@
       "name": "Luxray",
       "category": "Gleam Eyes",
       "type": {
-        "T1": "Electric",
-        "T2": ""
+        "T1": "Electric"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/405.mp3",
       "entry": "It can see clearly through walls to track down its prey and seek its lost young.",
