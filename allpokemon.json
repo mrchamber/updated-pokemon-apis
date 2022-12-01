@@ -23834,6 +23834,7 @@
     {
       "id": 1006,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/1006.png",
+      "name": "Chi-Yu",
       "category": "Ruinous",
       "type": {
         "T1": "Dark",
