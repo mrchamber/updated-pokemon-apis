@@ -493,7 +493,16 @@
         "SpDef": 20,
         "Speed": 50
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 13,
+        "E2": 14,
+        "E3": 15
+      },
+      "evolution-level": {
+        "LV1": 7,
+        "LV2": 10
+      }
     },
     {
       "id": 14,
@@ -517,7 +526,16 @@
         "SpDef": 25,
         "Speed": 35
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 13,
+        "E2": 14,
+        "E3": 15
+      },
+      "evolution-level": {
+        "LV1": 7,
+        "LV2": 10
+      }
     },
     {
       "id": 15,
@@ -542,6 +560,15 @@
         "Speed": 75
       },
       "generation": "generation1",
+      "evolution": {
+        "E1": 13,
+        "E2": 14,
+        "E3": 15
+      },
+      "evolution-level": {
+        "LV1": 7,
+        "LV2": 10
+      },
       "variations": [
         {
           "idMega": 15.1,
@@ -578,7 +605,16 @@
         "SpDef": 35,
         "Speed": 56
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 16,
+        "E2": 17,
+        "E3": 18
+      },
+      "evolution-level": {
+        "LV1": 18,
+        "LV2": 36
+      }
     },
     {
       "id": 17,
@@ -602,7 +638,16 @@
         "SpDef": 50,
         "Speed": 71
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 16,
+        "E2": 17,
+        "E3": 18
+      },
+      "evolution-level": {
+        "LV1": 18,
+        "LV2": 36
+      }
     },
     {
       "id": 18,
@@ -627,6 +672,15 @@
         "Speed": 101
       },
       "generation": "generation1",
+      "evolution": {
+        "E1": 16,
+        "E2": 17,
+        "E3": 18
+      },
+      "evolution-level": {
+        "LV1": 18,
+        "LV2": 36
+      },
       "variations": [
         {
           "idMega": 18.1,
@@ -666,6 +720,9 @@
       "evolution": {
         "E1": 19,
         "E2": 20
+      },
+      "evolution-level": {
+        "LV1": 20
       },
       "variations": [
         {
@@ -708,6 +765,9 @@
         "E1": 19,
         "E2": 20
       },
+      "evolution-level": {
+        "LV1": 20
+      },
       "variations": [
         {
           "idAlolan": 20.2,
@@ -744,7 +804,14 @@
         "SpDef": 31,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 21,
+        "E2": 22
+      },
+      "evolution-level": {
+        "LV1": 20
+      }
     },
     {
       "id": 22,
@@ -768,7 +835,14 @@
         "SpDef": 61,
         "Speed": 100
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 21,
+        "E2": 22
+      },
+      "evolution-level": {
+        "LV1": 20
+      }
     },
     {
       "id": 23,
@@ -791,7 +865,14 @@
         "SpDef": 54,
         "Speed": 55
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 23,
+        "E2": 24
+      },
+      "evolution-level": {
+        "LV1": 22
+      }
     },
     {
       "id": 24,
@@ -814,7 +895,14 @@
         "SpDef": 79,
         "Speed": 80
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 23,
+        "E2": 24
+      },
+      "evolution-level": {
+        "LV1": 22
+      }
     },
     {
       "id": 25,
@@ -837,7 +925,14 @@
         "SpDef": 50,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 25,
+        "E2": 26
+      },
+      "evolution-level": {
+        "LV1": "Thunder Stone"
+      }
     },
     {
       "id": 26,
@@ -860,7 +955,14 @@
         "SpDef": 80,
         "Speed": 110
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 25,
+        "E2": 26
+      },
+      "evolution-level": {
+        "LV1": "Thunder Stone"
+      }
     },
     {
       "id": 27,
@@ -883,7 +985,14 @@
         "SpDef": 30,
         "Speed": 40
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 27,
+        "E2": 28
+      },
+      "evolution-level": {
+        "LV1": 22
+      }
     },
     {
       "id": 28,
@@ -906,7 +1015,14 @@
         "SpDef": 55,
         "Speed": 65
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 27,
+        "E2": 28
+      },
+      "evolution-level": {
+        "LV1": 22
+      }
     },
     {
       "id": 29,
@@ -929,7 +1045,16 @@
         "SpDef": 40,
         "Speed": 41
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 29,
+        "E2": 30,
+        "E3": 31
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 30,
@@ -952,7 +1077,16 @@
         "SpDef": 55,
         "Speed": 56
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 29,
+        "E2": 30,
+        "E3": 31
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 31,
@@ -976,7 +1110,16 @@
         "SpDef": 85,
         "Speed": 76
     },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 29,
+        "E2": 30,
+        "E3": 31
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 32,
@@ -999,7 +1142,16 @@
         "SpDef": 40,
         "Speed": 50
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 32,
+        "E2": 33,
+        "E3": 34
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 33,
@@ -1022,7 +1174,16 @@
         "SpDef": 55,
         "Speed": 65
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 32,
+        "E2": 33,
+        "E3": 34
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 34,
@@ -1046,7 +1207,16 @@
         "SpDef": 75,
         "Speed": 85
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 32,
+        "E2": 33,
+        "E3": 34
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 35,
@@ -1069,7 +1239,16 @@
         "SpDef": 65,
         "Speed": 35
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 173,
+        "E2": 35,
+        "E3": 36
+      },
+      "evolution-level": {
+        "LV1": "Lvl up w/ Happiness Value of 220",
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 36,
@@ -1092,7 +1271,16 @@
         "SpDef": 90,
         "Speed": 60
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 173,
+        "E2": 35,
+        "E3": 36
+      },
+      "evolution-level": {
+        "LV1": "Lvl up w/ Happiness Value of 220",
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 37,
@@ -1115,7 +1303,14 @@
         "SpDef": 65,
         "Speed": 65
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 37,
+        "E2": 38
+      },
+      "evolution-level": {
+        "LV1": "Fire Stone"
+      }
     },
     {
       "id": 38,
@@ -1138,7 +1333,14 @@
         "SpDef": 100,
         "Speed": 100
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 37,
+        "E2": 38
+      },
+      "evolution-level": {
+        "LV1": "Fire Stone"
+      }
     },
     {
       "id": 39,
@@ -1162,7 +1364,16 @@
         "SpDef": 25,
         "Speed": 20
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 174,
+        "E2": 39,
+        "E3": 40
+      },
+      "evolution-level": {
+        "LV1": "Lvl up w/ Happiness Value of 220",
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 40,
@@ -1186,7 +1397,16 @@
         "SpDef": 50,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 174,
+        "E2": 39,
+        "E3": 40
+      },
+      "evolution-level": {
+        "LV1": "Lvl up w/ Happiness Value of 220",
+        "LV2": "Moon Stone"
+      }
     },
     {
       "id": 41,
@@ -1210,7 +1430,16 @@
         "SpDef": 40,
         "Speed": 55
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 41,
+        "E2": 42,
+        "E3": 169
+      },
+      "evolution-level": {
+        "LV1": 22,
+        "LV2": "Lvl up w/ Happiness Value of 220"
+      }
     },
     {
       "id": 42,
@@ -1234,7 +1463,16 @@
         "SpDef": 75,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 41,
+        "E2": 42,
+        "E3": 169
+      },
+      "evolution-level": {
+        "LV1": 22,
+        "LV2": "Lvl up w/ Happiness Value of 220"
+      }
     },
     {
       "id": 43,
@@ -1258,7 +1496,18 @@
         "SpDef": 65,
         "Speed": 30
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 43,
+        "E2": 44,
+        "E3": 45,
+        "E4": 182
+      },
+      "evolution-level": {
+        "LV1": 22,
+        "LV2": "Leaf Stone",
+        "LV3": "Sun Stone"
+      }
     },
     {
       "id": 44,
@@ -1282,7 +1531,18 @@
         "SpDef": 75,
         "Speed": 40
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 43,
+        "E2": 44,
+        "E3": 45,
+        "E4": 182
+      },
+      "evolution-level": {
+        "LV1": 22,
+        "LV2": "Leaf Stone",
+        "LV3": "Sun Stone"
+      }
     },
     {
       "id": 45,
@@ -1306,7 +1566,18 @@
         "SpDef": 90,
         "Speed": 50
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 43,
+        "E2": 44,
+        "E3": 45,
+        "E4": 182
+      },
+      "evolution-level": {
+        "LV1": 22,
+        "LV2": "Leaf Stone",
+        "LV3": "Sun Stone"
+      }
     },
     {
       "id": 46,
@@ -1330,7 +1601,14 @@
         "SpDef": 55,
         "Speed": 25
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 45,
+        "E2": 46
+      },
+      "evolution-level": {
+        "LV1": 24
+      }
     },
     {
       "id": 47,
@@ -1354,7 +1632,14 @@
         "SpDef": 80,
         "Speed": 30
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 45,
+        "E2": 46
+      },
+      "evolution-level": {
+        "LV1": 24
+      }
     },
     {
       "id": 48,
@@ -1378,7 +1663,14 @@
         "SpDef": 55,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 48,
+        "E2": 49
+      },
+      "evolution-level": {
+        "LV1": 31
+      }
     },
     {
       "id": 49,
@@ -1402,7 +1694,14 @@
         "SpDef": 75,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 48,
+        "E2": 49
+      },
+      "evolution-level": {
+        "LV1": 31
+      }
     },
     {
       "id": 50,
@@ -1425,7 +1724,14 @@
         "SpDef": 45,
         "Speed": 95
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 50,
+        "E2": 51
+      },
+      "evolution-level": {
+        "LV1": 26
+      }
     },
     {
       "id": 51,
@@ -1448,7 +1754,14 @@
         "SpDef": 70,
         "Speed": 120
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 50,
+        "E2": 51
+      },
+      "evolution-level": {
+        "LV1": 26
+      }
     },
     {
       "id": 52,
@@ -1471,7 +1784,14 @@
         "SpDef": 40,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 52,
+        "E2": 53
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 53,
@@ -1494,7 +1814,14 @@
         "SpDef": 65,
         "Speed": 115
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 52,
+        "E2": 53
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 54,
@@ -1517,7 +1844,14 @@
         "SpDef": 50,
         "Speed": 55
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 54,
+        "E2": 55
+      },
+      "evolution-level": {
+        "LV1": 33
+      }
     },
     {
       "id": 55,
@@ -1540,7 +1874,14 @@
         "SpDef": 80,
         "Speed": 85
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 54,
+        "E2": 55
+      },
+      "evolution-level": {
+        "LV1": 33
+      }
     },
     {
       "id": 56,
@@ -1563,7 +1904,14 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 56,
+        "E2": 57
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 57,
@@ -1586,7 +1934,14 @@
         "SpDef": 70,
         "Speed": 95
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 56,
+        "E2": 57
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 58,
@@ -1609,7 +1964,14 @@
         "SpDef": 50,
         "Speed": 60
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 58,
+        "E2": 59
+      },
+      "evolution-level": {
+        "LV1": "Fire Stone"
+      }
     },
     {
       "id": 59,
@@ -1632,7 +1994,14 @@
         "SpDef": 80,
         "Speed": 95
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 58,
+        "E2": 59
+      },
+      "evolution-level": {
+        "LV1": "Fire Stone"
+      }
     },
     {
       "id": 60,
@@ -1655,7 +2024,18 @@
         "SpDef": 40,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 60,
+        "E2": 61,
+        "E3": 62,
+        "E4": 182
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Water Stone",
+        "LV3": "Trade w/ King's Rock"
+      }
     },
     {
       "id": 61,
@@ -1678,7 +2058,18 @@
         "SpDef": 50,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 60,
+        "E2": 61,
+        "E3": 62,
+        "E4": 182
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Water Stone",
+        "LV3": "Trade w/ King's Rock"
+      }
     },
     {
       "id": 62,
@@ -1702,7 +2093,18 @@
         "SpDef": 90,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 60,
+        "E2": 61,
+        "E3": 62,
+        "E4": 182
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Water Stone",
+        "LV3": "Trade w/ King's Rock"
+      }
     },
     {
       "id": 63,
@@ -1725,7 +2127,16 @@
         "SpDef": 55,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 64,
+        "E2": 65,
+        "E3": 66
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 64,
@@ -1748,7 +2159,16 @@
         "SpDef": 70,
         "Speed": 105
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 64,
+        "E2": 65,
+        "E3": 66
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 65,
@@ -1772,6 +2192,15 @@
         "Speed": 120
       },
       "generation": "generation1",
+      "evolution": {
+        "E1": 64,
+        "E2": 65,
+        "E3": 66
+      },
+      "evolution-level": {
+        "LV1": 16,
+        "LV2": "Trade"
+      },
       "variations": [
         {
           "idMega": 65.1,
@@ -1806,7 +2235,16 @@
         "SpDef": 35,
         "Speed": 35
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 66,
+        "E2": 67,
+        "E3": 68
+      },
+      "evolution-level": {
+        "LV1": 28,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 67,
@@ -1829,7 +2267,16 @@
         "SpDef": 60,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 66,
+        "E2": 67,
+        "E3": 68
+      },
+      "evolution-level": {
+        "LV1": 28,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 68,
@@ -1852,7 +2299,16 @@
         "SpDef": 85,
         "Speed": 55
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 66,
+        "E2": 67,
+        "E3": 68
+      },
+      "evolution-level": {
+        "LV1": 28,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 69,
@@ -1876,7 +2332,16 @@
         "SpDef": 30,
         "Speed": 40
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 69,
+        "E2": 70,
+        "E3": 71
+      },
+      "evolution-level": {
+        "LV1": 21,
+        "LV2": "Leaf Stone"
+      }
     },
     {
       "id": 70,
@@ -1900,7 +2365,16 @@
         "SpDef": 45,
         "Speed": 55
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 69,
+        "E2": 70,
+        "E3": 71
+      },
+      "evolution-level": {
+        "LV1": 21,
+        "LV2": "Leaf Stone"
+      }
     },
     {
       "id": 71,
@@ -1924,7 +2398,16 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 69,
+        "E2": 70,
+        "E3": 71
+      },
+      "evolution-level": {
+        "LV1": 21,
+        "LV2": "Leaf Stone"
+      }
     },
     {
       "id": 72,
@@ -1948,7 +2431,14 @@
         "SpDef": 100,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 72,
+        "E2": 73
+      },
+      "evolution-level": {
+        "LV1": 30
+      }
     },
     {
       "id": 73,
@@ -1972,7 +2462,14 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 72,
+        "E2": 73
+      },
+      "evolution-level": {
+        "LV1": 30
+      }
     },
     {
       "id": 74,
@@ -1995,7 +2492,16 @@
         "SpDef": 30,
         "Speed": 20
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 74,
+        "E2": 75,
+        "E3": 76
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 75,
@@ -2019,7 +2525,16 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 74,
+        "E2": 75,
+        "E3": 76
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 76,
@@ -2043,7 +2558,16 @@
         "SpDef": 65,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 74,
+        "E2": 75,
+        "E3": 76
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 77,
@@ -2066,7 +2590,14 @@
         "SpDef": 65,
         "Speed": 90
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 77,
+        "E2": 78
+      },
+      "evolution-level": {
+        "LV1": 40
+      }
     },
     {
       "id": 78,
@@ -2089,7 +2620,14 @@
         "SpDef": 80,
         "Speed": 105
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 77,
+        "E2": 78
+      },
+      "evolution-level": {
+        "LV1": 40
+      }
     },
     {
       "id": 79,
@@ -2113,7 +2651,16 @@
         "SpDef": 40,
         "Speed": 15
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 79,
+        "E2": 80,
+        "E3": 199
+      },
+      "evolution-level": {
+        "LV1": 37,
+        "LV2": "Trade w/ King's Rock"
+      }
     },
     {
       "id": 80,
@@ -2174,7 +2721,16 @@
         "SpDef": 55,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 81,
+        "E2": 82,
+        "E3": 462
+      },
+      "evolution-level": {
+        "LV1": 30,
+        "LV2": "Thunder Stone"
+      }
     },
     {
       "id": 82,
@@ -2198,7 +2754,16 @@
         "SpDef": 70,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 81,
+        "E2": 82,
+        "E3": 462
+      },
+      "evolution-level": {
+        "LV1": 30,
+        "LV2": "Thunder Stone"
+      }
     },
     {
       "id": 83,
@@ -2222,7 +2787,14 @@
         "SpDef": 62,
         "Speed": 60
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 81,
+        "E2": 865
+      },
+      "evolution-level": {
+        "LV1": "3 crits in one battle"
+      }
     },
     {
       "id": 84,
@@ -2246,7 +2818,14 @@
         "SpDef": 35,
         "Speed": 75
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 84,
+        "E2": 85
+      },
+      "evolution-level": {
+        "LV1": 31
+      }
     },
     {
       "id": 85,
@@ -2270,7 +2849,14 @@
         "SpDef": 60,
         "Speed": 110
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 84,
+        "E2": 85
+      },
+      "evolution-level": {
+        "LV1": 31
+      }
     },
     {
       "id": 86,
@@ -2293,7 +2879,14 @@
         "SpDef": 70,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 86,
+        "E2": 87
+      },
+      "evolution-level": {
+        "LV1": 34
+      }
     },
     {
       "id": 87,
@@ -2317,7 +2910,14 @@
         "SpDef": 95,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 86,
+        "E2": 87
+      },
+      "evolution-level": {
+        "LV1": 34
+      }
     },
     {
       "id": 88,
@@ -2340,7 +2940,14 @@
         "SpDef": 50,
         "Speed": 25
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 88,
+        "E2": 89
+      },
+      "evolution-level": {
+        "LV1": 38
+      }
     },
     {
       "id": 89,
@@ -2363,7 +2970,14 @@
         "SpDef": 100,
         "Speed": 50
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 88,
+        "E2": 89
+      },
+      "evolution-level": {
+        "LV1": 38
+      }
     },
     {
       "id": 90,
@@ -2386,7 +3000,14 @@
         "SpDef": 25,
         "Speed": 40
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 90,
+        "E2": 91
+      },
+      "evolution-level": {
+        "LV1": "Water Stone"
+      }
     },
     {
       "id": 91,
@@ -2410,7 +3031,14 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 90,
+        "E2": 91
+      },
+      "evolution-level": {
+        "LV1": "Water Stone"
+      }
     },
     {
       "id": 92,
@@ -2434,7 +3062,16 @@
         "SpDef": 35,
         "Speed": 80
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 92,
+        "E2": 93,
+        "E3": 94
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 93,
@@ -2458,7 +3095,16 @@
         "SpDef": 55,
         "Speed": 95
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 92,
+        "E2": 93,
+        "E3": 94
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Trade"
+      }
     },
     {
       "id": 94,
@@ -2483,6 +3129,15 @@
         "Speed": 110
       },
       "generation": "generation1",
+      "evolution": {
+        "E1": 92,
+        "E2": 93,
+        "E3": 94
+      },
+      "evolution-level": {
+        "LV1": 25,
+        "LV2": "Trade"
+      },
       "variations": [
         {
           "idMega": 94.1,
@@ -2519,7 +3174,14 @@
         "SpDef": 45,
         "Speed": 70
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 95,
+        "E2": 208
+      },
+      "evolution-level": {
+        "LV1": "Trade w/ Metal Coat"
+      }
     },
     {
       "id": 96,
@@ -2542,7 +3204,14 @@
         "SpDef": 90,
         "Speed":42
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 96,
+        "E2": 97
+      },
+      "evolution-level": {
+        "LV1": 26
+      }
     },
     {
       "id": 97,
@@ -2565,7 +3234,14 @@
         "SpDef": 115,
         "Speed": 67
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 96,
+        "E2": 97
+      },
+      "evolution-level": {
+        "LV1": 26
+      }
     },
     {
       "id": 98,
@@ -2588,7 +3264,14 @@
         "SpDef": 25,
         "Speed": 50
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 98,
+        "E2": 99
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 99,
@@ -2611,7 +3294,14 @@
         "SpDef": 50,
         "Speed": 75
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 98,
+        "E2": 99
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 100,
@@ -2634,7 +3324,14 @@
         "SpDef": 55,
         "Speed": 100
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 100,
+        "E2": 101
+      },
+      "evolution-level": {
+        "LV1": 30
+      }
     },
     {
       "id": 101,
@@ -2657,7 +3354,14 @@
         "SpDef": 80,
         "Speed": 150
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 100,
+        "E2": 101
+      },
+      "evolution-level": {
+        "LV1": 30
+      }
     },
     {
       "id": 102,
@@ -2681,7 +3385,14 @@
         "SpDef": 45,
         "Speed": 40
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 102,
+        "E2": 103
+      },
+      "evolution-level": {
+        "LV1": "Leaf Stone"
+      }
     },
     {
       "id": 103,
@@ -2705,7 +3416,14 @@
         "SpDef": 75,
         "Speed": 55
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 102,
+        "E2": 103
+      },
+      "evolution-level": {
+        "LV1": "Leaf Stone"
+      }
     },
     {
       "id": 104,
@@ -2728,7 +3446,14 @@
         "SpDef": 50,
         "Speed": 35
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 104,
+        "E2": 105
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 105,
@@ -2751,7 +3476,14 @@
         "SpDef": 80,
         "Speed": 45
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 104,
+        "E2": 105
+      },
+      "evolution-level": {
+        "LV1": 28
+      }
     },
     {
       "id": 106,
@@ -2774,7 +3506,18 @@
         "SpDef": 110,
         "Speed": 76
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 236,
+        "E2": 106,
+        "E3": 107,
+        "E4": 237
+      },
+      "evolution-level": {
+        "LV1": "Lvl 20 Attack < Defence",
+        "LV2": "Lvl 20 Defence < Attack",
+        "LV3": "Lvl 20 Attack = Defence"
+      }
     },
     {
       "id": 107,
@@ -2797,7 +3540,18 @@
         "SpDef": 110,
         "Speed": 76
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 236,
+        "E2": 106,
+        "E3": 107,
+        "E4": 237
+      },
+      "evolution-level": {
+        "LV1": "Lvl 20 Attack < Defence",
+        "LV2": "Lvl 20 Defence < Attack",
+        "LV3": "Lvl 20 Attack = Defence"
+      }
     },
     {
       "id": 108,
@@ -2820,7 +3574,14 @@
         "SpDef": 75,
         "Speed": 30
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 108,
+        "E2": 463
+      },
+      "evolution-level": {
+        "LV1": "Lvl up w/ Roll out learned"
+      }
     },
     {
       "id": 109,
@@ -2843,7 +3604,14 @@
         "SpDef": 45,
         "Speed": 35
       },
-      "generation": "generation1"
+      "generation": "generation1",
+      "evolution": {
+        "E1": 109,
+        "E2": 110
+      },
+      "evolution-level": {
+        "LV1": 35
+      }
     },
     {
       "id": 110,
