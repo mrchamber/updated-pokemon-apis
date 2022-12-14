@@ -1,0 +1,35 @@
+{
+    "Pokemon": [
+        {
+            "id": 2,
+            "image": "https://pokeimage-production.up.railway.app/pokeImg/2.png",
+            "name": "Ivysaur",
+            "category": "Seed",
+            "type": {
+              "T1": "Grass",
+              "T2": "Poison"
+            },
+            "cry": "https://pokeimage-production.up.railway.app/pokeCry/2.mp3",
+            "entry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "abilities": "Main: Overgrow | Hidden: Chlorophyll",
+            "height": "3'03\"",
+            "weight": "28.7 lbs",
+            "stats": {
+              "HP": 60,
+              "Attack": 62,
+              "Defense": 63,
+              "SpAtk": 80,
+              "SpDef": 80,
+              "Speed": 60
+            },
+            "generation": "generation1",
+            "evolution": {
+              "E1": 1,
+              "E2": 2,
+              "E3": 3
+            }
+          },
+
+
+    ]
+}
