@@ -22765,31 +22765,9 @@
         "Speed": 105
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 924,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/924.png",
-      "name": "Paldean Wooper",
-      "category": "Poison Fish",
-      "type": {
-        "T1": "Poison",
-        "T2": "Ground"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/924.mp3",
-      "entry": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
-      "abilities": "Main: Poison Point, Water Absorb | Hidden: Unaware ",
-      "height": "1'04\"",
-      "weight": "18.7 lbs",
-      "stats": {
-        "HP": 55,
-        "Attack": 45,
-        "Defense": 45,
-        "SpAtk": 25,
-        "SpDef": 25,
-        "Speed": 15
-      },
-      "generation": "generation9"
-    },{
-      "id": 925,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/925.png",
       "name": "Clodsire",
       "category": "Spiny Fish",
@@ -22811,8 +22789,9 @@
         "Speed": 20
       },
       "generation": "generation9"
-    },{
-      "id": 926,
+    },
+    {
+      "id": 925,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/926.png",
       "name": "Tandemaus",
       "category": "Couple",
@@ -22833,8 +22812,9 @@
         "Speed": 75
       },
       "generation": "generation9"
-    },{
-      "id": 927,
+    },
+    {
+      "id": 926,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/927.png",
       "name": "Maushold",
       "category": "Family",
@@ -22855,8 +22835,9 @@
         "Speed": 111
       },
       "generation": "generation9"
-    },{
-      "id": 928,
+    },
+    {
+      "id": 927,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/928.png",
       "name": "Fidough",
       "category": "Puppy",
@@ -22877,8 +22858,9 @@
         "Speed": 65
       },
       "generation": "generation9"
-    },{
-      "id": 929,
+    },
+    {
+      "id": 928,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/929.png",
       "name": "Dachsbun",
       "category": "Dog",
@@ -22899,8 +22881,9 @@
         "Speed": 95
       },
       "generation": "generation9"
-    },{
-      "id": 930,
+    },
+    {
+      "id": 929,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/930.png",
       "name": "Smoliv",
       "category": "Olive",
@@ -22922,8 +22905,9 @@
         "Speed": 30
       },
       "generation": "generation9"
-    },{
-      "id": 931,
+    },
+    {
+      "id": 930,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/931.png",
       "name": "Dolliv",
       "category": "Olive",
@@ -22945,8 +22929,9 @@
         "Speed": 33
       },
       "generation": "generation9"
-    },{
-      "id": 932,
+    },
+    {
+      "id": 931,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/932.png",
       "name": "Arboliva",
       "category": "Olive",
@@ -22968,8 +22953,9 @@
         "Speed": 39
       },
       "generation": "generation9"
-    },{
-      "id": 933,
+    },
+    {
+      "id": 932,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/933.png",
       "name": "Squawkabilly",
       "category": "Parrot",
@@ -22991,8 +22977,9 @@
         "Speed": 92
       },
       "generation": "generation9"
-    },{
-      "id": 934,
+    },
+    {
+      "id": 933,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/934.png",
       "name": "Nacli",
       "category": "Rock Salt",
@@ -23013,8 +23000,9 @@
         "Speed": 25
       },
       "generation": "generation9"
-    },{
-      "id": 935,
+    },
+    {
+      "id": 934,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/935.png",
       "name": "Naclstack",
       "category": "Rock Salt",
@@ -23035,8 +23023,9 @@
         "Speed": 35
       },
       "generation": "generation9"
-    },{
-      "id": 936,
+    },
+    {
+      "id": 935,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/936.png",
       "name": "Garganacl",
       "category": "Rock Salt",
@@ -23057,8 +23046,9 @@
         "Speed": 35
       },
       "generation": "generation9"
-    },{
-      "id": 937,
+    },
+    {
+      "id": 936,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/937.png",
       "name": "Annihilape",
       "category": "Rage Monkey",
@@ -23080,8 +23070,9 @@
         "Speed": 90
       },
       "generation": "generation9"
-    },{
-      "id": 938,
+    },
+    {
+      "id": 937,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/938.png",
       "name": "Charcadet",
       "category": "Fire Child",
@@ -23102,8 +23093,9 @@
         "Speed": 35
       },
       "generation": "generation9"
-    },{
-      "id": 939,
+    },
+    {
+      "id": 938,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/939.png",
       "name": "Armarouge",
       "category": "Fire Warrior",
@@ -23125,8 +23117,9 @@
         "Speed": 75
       },
       "generation": "generation9"
-    },{
-      "id": 940,
+    },
+    {
+      "id": 939,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/940.png",
       "name": "Ceruledge",
       "category": "Fire Blades",
@@ -23148,8 +23141,9 @@
         "Speed": 85
       },
       "generation": "generation9"
-    },{
-      "id": 941,
+    },
+    {
+      "id": 940,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/941.png",
       "name": "Tadbulb",
       "category": "EleTadpole",
@@ -23170,8 +23164,9 @@
         "Speed": 45
       },
       "generation": "generation9"
-    },{
-      "id": 942,
+    },
+    {
+      "id": 941,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/942.png",
       "name": "Bellibolt",
       "category": "EleFrog",
@@ -23192,8 +23187,9 @@
         "Speed": 45
       },
       "generation": "generation9"
-    },{
-      "id": 943,
+    },
+    {
+      "id": 942,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/943.png",
       "name": "Wattrel",
       "category": "Storm Petrel",
@@ -23215,8 +23211,9 @@
         "Speed": 70
       },
       "generation": "generation9"
-    },{
-      "id": 944,
+    },
+    {
+      "id": 943,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/944.png",
       "name": "Kilowatteral",
       "category": "Frigatebird",
@@ -23240,7 +23237,7 @@
       "generation": "generation9"
     },
     {
-      "id": 945,
+      "id": 944,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/945.png",
       "name": "Dudunsparce",
       "category": "Land Snake",
@@ -23263,7 +23260,7 @@
       "generation": "generation9"
     },
     {
-      "id": 946,
+      "id": 945,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/946.png",
       "name": "Fairgiraf",
       "category": "Long Neck",
@@ -23287,7 +23284,7 @@
       "generation": "generation9"
     },
     {
-      "id": 947,
+      "id": 946,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/947.png",
       "name": "Maschiff",
       "category": "Rascal",
@@ -23310,7 +23307,7 @@
       "generation": "generation9"
     },
     {
-      "id": 948,
+      "id": 947,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/948.png",
       "name": "Mabosstiff",
       "category": "Boss",
@@ -23333,7 +23330,7 @@
       "generation": "generation9"
     },
     {
-      "id": 949,
+      "id": 948,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/949.png",
       "name": "Shroodle",
       "category": "Toxic Mouse",
@@ -23357,7 +23354,7 @@
       "generation": "generation9"
     },
     {
-      "id": 950,
+      "id": 949,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/950.png",
       "name": "Grafaiai",
       "category": "Toxic Monkey",
@@ -23381,30 +23378,7 @@
       "generation": "generation9"
     },
     {
-      "id": 951,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/951.png",
-      "name": "Paldean Tauros",
-      "category": "Wild Bull",
-      "type": {
-        "T1": "Fighting"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/951.mp3",
-      "entry": "This Pokémon has a muscular body and excels at close-quarters combat. It uses its short horns to strike the opponent’s weak spots.",
-      "abilities": "Main: Intimidate, Anger Point | Hidden: Cud Chew ",
-      "height": "4'07\"",
-      "weight": "253.5 lbs",
-      "stats": {
-        "HP": 75,
-        "Attack": 110,
-        "Defense": 105,
-        "SpAtk": 30,
-        "SpDef": 70,
-        "Speed": 100
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 952,
+      "id": 950,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/952.png",
       "name": "Bramblin",
       "category": "Tumbleweed",
@@ -23428,7 +23402,7 @@
       "generation": "generation9"
     },
     {
-      "id": 953,
+      "id": 951,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/953.png",
       "name": "Brambleghast",
       "category": "Tumbleweed",
@@ -23452,7 +23426,7 @@
       "generation": "generation9"
     },
     {
-      "id": 954,
+      "id": 952,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/954.png",
       "name": "Toedscool",
       "category": "Woodear",
@@ -23476,7 +23450,7 @@
       "generation": "generation9"
     },
     {
-      "id": 955,
+      "id": 953,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/955.png",
       "name": "Toedscruel",
       "category": "Woodear",
@@ -23500,7 +23474,7 @@
       "generation": "generation9"
     },
     {
-      "id": 956,
+      "id": 954,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/956.png",
       "name": "Klawf",
       "category": "Ambush",
