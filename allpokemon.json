@@ -23165,15 +23165,15 @@
       "generation": "generation9"
     },
     {
-      "id": 943,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/944.png",
+      "id": 941,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/941.png",
       "name": "Kilowatteral",
       "category": "Frigatebird",
       "type": {
         "T1": "Electric",
         "T2": "Flying"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/944.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/941.mp3",
       "entry": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
       "abilities": "Main: Wind Power, Volt Absorb | Hidden: Competitive ",
       "height": "4'07\"",
@@ -23189,61 +23189,14 @@
       "generation": "generation9"
     },
     {
-      "id": 944,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/945.png",
-      "name": "Dudunsparce",
-      "category": "Land Snake",
-      "type": {
-        "T1": "Normal"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/945.mp3",
-      "entry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
-      "abilities": "Main: Serene Grace, Run Away | Hidden: Rattled ",
-      "height": "11'10\"",
-      "weight": "86.4 lbs",
-      "stats": {
-        "HP": 125,
-        "Attack": 100,
-        "Defense": 80,
-        "SpAtk": 85,
-        "SpDef": 75,
-        "Speed": 55
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 945,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/946.png",
-      "name": "Fairgiraf",
-      "category": "Long Neck",
-      "type": {
-        "T1": "Normal",
-        "T2": "Psychic"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/946.mp3",
-      "entry": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
-      "abilities": "Main: Cud Chew, Armor Tail | Hidden: Sap Sipper ",
-      "height": "10'06 \"",
-      "weight": "352.7 lbs",
-      "stats": {
-        "HP": 120,
-        "Attack": 90,
-        "Defense": 70,
-        "SpAtk": 110,
-        "SpDef": 70,
-        "Speed": 60
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 946,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/947.png",
+      "id": 942,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/942.png",
       "name": "Maschiff",
       "category": "Rascal",
       "type": {
         "T1": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/947.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/942.mp3",
       "entry": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face.",
       "abilities": "Main: Intimidate, Run Away | Hidden: Stakeout ",
       "height": "1'08\"",
@@ -23259,14 +23212,14 @@
       "generation": "generation9"
     },
     {
-      "id": 947,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/948.png",
+      "id": 943,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/943.png",
       "name": "Mabosstiff",
       "category": "Boss",
       "type": {
         "T1": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/948.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/943.mp3",
       "entry": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
       "abilities": "Main: Intimidate, Guard Dog | Hidden: Stakeout ",
       "height": "3'07\"",
@@ -23282,15 +23235,15 @@
       "generation": "generation9"
     },
     {
-      "id": 948,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/949.png",
+      "id": 944,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/944.png",
       "name": "Shroodle",
       "category": "Toxic Mouse",
       "type": {
         "T1": "Poison",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/949.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/944.mp3",
       "entry": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
       "abilities": "Main: Unburden, Pickpocket | Hidden: Prankster ",
       "height": "0'08\"",
@@ -23306,15 +23259,15 @@
       "generation": "generation9"
     },
     {
-      "id": 949,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/950.png",
+      "id": 945,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/945.png",
       "name": "Grafaiai",
       "category": "Toxic Monkey",
       "type": {
         "T1": "Poison",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/950.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/945.mp3",
       "entry": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
       "abilities": "Main: Unburden, Poison Touch | Hidden: Prankster ",
       "height": "2'04\"",
@@ -23330,15 +23283,15 @@
       "generation": "generation9"
     },
     {
-      "id": 950,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/952.png",
+      "id": 946,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/946.png",
       "name": "Bramblin",
       "category": "Tumbleweed",
       "type": {
         "T1": "Grass",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/952.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/946.mp3",
       "entry": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.",
       "abilities": "Main: Wind Rider | Hidden: Infiltrator ",
       "height": "2'00\"",
@@ -23354,15 +23307,15 @@
       "generation": "generation9"
     },
     {
-      "id": 951,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/953.png",
+      "id": 947,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/947.png",
       "name": "Brambleghast",
       "category": "Tumbleweed",
       "type": {
         "T1": "Grass",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/953.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/947.mp3",
       "entry": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
       "abilities": "Main: Wind Rider | Hidden: Infiltrator ",
       "height": "3'11\"",
@@ -23378,15 +23331,15 @@
       "generation": "generation9"
     },
     {
-      "id": 952,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/954.png",
+      "id": 948,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/948.png",
       "name": "Toedscool",
       "category": "Woodear",
       "type": {
         "T1": "Ground",
         "T2": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/954.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/948.mp3",
       "entry": "Toedscool lives in muggy forests. The flaps that fall from its body are chewy and very delicious.",
       "abilities": "Main: Mycelium Might ",
       "height": "2'11\"",
@@ -23402,15 +23355,15 @@
       "generation": "generation9"
     },
     {
-      "id": 953,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/955.png",
+      "id": 949,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/949.png",
       "name": "Toedscruel",
       "category": "Woodear",
       "type": {
         "T1": "Ground",
         "T2": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/955.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/949.mp3",
       "entry": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
       "abilities": "Main: Mycelium Might ",
       "height": "6'03\"",
@@ -23426,14 +23379,14 @@
       "generation": "generation9"
     },
     {
-      "id": 954,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/956.png",
+      "id": 950,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/950.png",
       "name": "Klawf",
       "category": "Ambush",
       "type": {
         "T1": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/956.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/950.mp3",
       "entry": "Klawf hangs upside-down from cliffs, waiting for prey. But Klawf can’t remain in this position for long because its blood rushes to its head.",
       "abilities": "Main: Anger Shell, Shell Armor | Hidden: Regenerator ",
       "height": "4'03\"",
@@ -23449,14 +23402,14 @@
       "generation": "generation9"
     },
     {
-      "id": 955,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/957.png",
+      "id": 951,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/951.png",
       "name": "Capsakid",
       "category": "Spicy Pepper",
       "type": {
         "T1": "Grass"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/957.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/951.mp3",
       "entry": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
       "abilities": "Main: Chlorophyll, Insomnia | Hidden: Klutz ",
       "height": "1'00\"",
@@ -23472,15 +23425,15 @@
       "generation": "generation9"
     },
     {
-      "id": 956,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/958.png",
+      "id": 952,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/952.png",
       "name": "Scovillain",
       "category": "Spicy Pepper",
       "type": {
         "T1": "Grass",
         "T2": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/958.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/952.mp3",
       "entry": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
       "abilities": "Main: Chlorophyll, Insomnia | Hidden: Moody ",
       "height": "2'11\"",
@@ -23496,14 +23449,14 @@
       "generation": "generation9"
     },
     {
-      "id": 957,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/959.png",
+      "id": 953,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/953.png",
       "name": "Rellor",
       "category": "Rolling",
       "type": {
         "T1": "Bug"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/959.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/953.mp3",
       "entry": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
       "abilities": "Main: Compound Eyes | Hidden: Shed Skin ",
       "height": "0'08\"",
@@ -23519,15 +23472,15 @@
       "generation": "generation9"
     },
     {
-      "id": 958,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/960.png",
+      "id": 954,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/954.png",
       "name": "Rabsca",
       "category": "Rolling",
       "type": {
         "T1": "Bug",
         "T2": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/960.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/954.mp3",
       "entry": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball.",
       "abilities": "Main: Synchronize | Hidden: Telepathy ",
       "height": "1'00\"",
@@ -23543,14 +23496,14 @@
       "generation": "generation9"
     },
     {
-      "id": 959,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/961.png",
+      "id": 955,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/955.png",
       "name": "Flittle",
       "category": "Frill",
       "type": {
         "T1": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/961.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/955.mp3",
       "entry": "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly.",
       "abilities": "Main: Anticipation, Frisk | Hidden: Speed Boost ",
       "height": "0'08\"",
@@ -23566,14 +23519,14 @@
       "generation": "generation9"
     },
     {
-      "id": 960,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/962.png",
+      "id": 956,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/956.png",
       "name": "Espathra",
       "category": "Ostrich",
       "type": {
         "T1": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/962.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/956.mp3",
       "entry": "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament.",
       "abilities": "Main: Opportunist, Frisk | Hidden: Speed Boost ",
       "height": "6'03\"",
@@ -23589,15 +23542,15 @@
       "generation": "generation9"
     },
     {
-      "id": 961,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/963.png",
+      "id": 957,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/957.png",
       "name": "Tinkatink",
       "category": "Metalsmith",
       "type": {
         "T1": "Fairy",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/963.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/957.mp3",
       "entry": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
       "abilities": "Main: Mold Breaker, Own Tempo | Hidden: Pickpoket ",
       "height": "1'04\"",
@@ -23613,15 +23566,15 @@
       "generation": "generation9"
     },
     {
-      "id": 962,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/964.png",
+      "id": 958,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/958.png",
       "name": "Tinkabuff",
       "category": "Hammer",
       "type": {
         "T1": "Fairy",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/964.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/958.mp3",
       "entry": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
       "abilities": "Main: Mold Breaker, Own Tempo | Hidden: Pickpoket ",
       "height": "2'04\"",
@@ -23637,15 +23590,15 @@
       "generation": "generation9"
     },
     {
-      "id": 963,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/965.png",
+      "id": 959,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/959.png",
       "name": "Tinkaton",
       "category": "Hammer",
       "type": {
         "T1": "Fairy",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/965.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/959.mp3",
       "entry": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
       "abilities": "Main: Mold Breaker, Own Tempo | Hidden: Pickpoket ",
       "height": "2'04\"",
@@ -23661,14 +23614,14 @@
       "generation": "generation9"
     },
     {
-      "id": 964,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/966.png",
+      "id": 960,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/960.png",
       "name": "Wiglett",
       "category": "Garden Eel",
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/966.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/960.mp3",
       "entry": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
       "abilities": "Main: Gooey, Rattled | Hidden: Sand Veil ",
       "height": "3'11\"",
@@ -23684,14 +23637,14 @@
       "generation": "generation9"
     },
     {
-      "id": 965,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/967.png",
+      "id": 961,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/961.png",
       "name": "Wugtrio",
       "category": "Garden Eel",
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/967.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/961.mp3",
       "entry": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
       "abilities": "Main: Gooey, Rattled | Hidden: Sand Veil ",
       "height": "3'11\"",
@@ -23707,15 +23660,15 @@
       "generation": "generation9"
     },
     {
-      "id": 966,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/968.png",
+      "id": 962,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/962.png",
       "name": "Bombirdier",
       "category": "Item Drop",
       "type": {
         "T1": "Flying",
         "T2": "Dark"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/968.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/962.mp3",
       "entry": "It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun.",
       "abilities": "Main: Big Pecks, Keen Eye | Hidden: Rocky Payload ",
       "height": "4'11\"",
@@ -23731,14 +23684,14 @@
       "generation": "generation9"
     },
     {
-      "id": 967,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/969.png",
+      "id": 963,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/963.png",
       "name": "Finizen",
       "category": "Dolphin",
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/969.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/963.mp3",
       "entry": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
       "abilities": "Main: Water Veil ",
       "height": "4'03\"",
@@ -23754,14 +23707,14 @@
       "generation": "generation9"
     },
     {
-      "id": 968,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/970.png",
+      "id": 964,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/964.png",
       "name": "Palafin",
       "category": "Dolphin",
       "type": {
         "T1": "Water"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/970.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/964.mp3",
       "entry": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation.",
       "abilities": "Main: Zero to Hero ",
       "height": "4'03\"",
@@ -23777,15 +23730,15 @@
       "generation": "generation9"
     },
     {
-      "id": 969,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/971.png",
+      "id": 965,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/965.png",
       "name": "Varoom",
       "category": "Single-Cyl",
       "type": {
         "T1": "Steel",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/971.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/965.mp3",
       "entry": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
       "abilities": "Main: Overcoat | Hidden: Slow Start ",
       "height": "3'03\"",
@@ -23801,15 +23754,15 @@
       "generation": "generation9"
     },
     {
-      "id": 970,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/972.png",
+      "id": 966,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/966.png",
       "name": "Revavroom",
       "category": "Multi-Cyl",
       "type": {
         "T1": "Steel",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/972.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/966.mp3",
       "entry": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
       "abilities": "Main: Overcoat | Hidden: Filter ",
       "height": "5'11\"",
@@ -23825,15 +23778,15 @@
       "generation": "generation9"
     },
     {
-      "id": 971,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/973.png",
+      "id": 967,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/967.png",
       "name": "Cyclizar",
       "category": "Mount",
       "type": {
         "T1": "Dragon",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/973.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/967.mp3",
       "entry": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
       "abilities": "Main:  | Hidden: ",
       "height": "5'03\"",
@@ -23849,14 +23802,14 @@
       "generation": "generation9"
     },
     {
-      "id": 972,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/974.png",
+      "id": 968,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/968.png",
       "name": "Orthworm",
       "category": "Earthworm",
       "type": {
         "T1": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/974.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/968.mp3",
       "entry": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
       "abilities": "Main: Earth Eater | Hidden: Sand Veil ",
       "height": "8'02\"",
@@ -23872,15 +23825,15 @@
       "generation": "generation9"
     },
     {
-      "id": 973,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/975.png",
+      "id": 969,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/969.png",
       "name": "Glimmet",
       "category": "Ore",
       "type": {
         "T1": "Rock",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/975.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/969.mp3",
       "entry": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
       "abilities": "Main: Toxic Debris | Hidden: Corrosion ",
       "height": "2'04\"",
@@ -23896,15 +23849,15 @@
       "generation": "generation9"
     },
     {
-      "id": 974,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/976.png",
+      "id": 970,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/970.png",
       "name": "Glimmora",
       "category": "Ore",
       "type": {
         "T1": "Rock",
         "T2": "Poison"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/976.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/970.mp3",
       "entry": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
       "abilities": "Main: Toxic Debris | Hidden: Corrosion ",
       "height": "4'11\"",
@@ -23920,14 +23873,14 @@
       "generation": "generation9"
     },
     {
-      "id": 975,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/977.png",
+      "id": 971,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/971.png",
       "name": "Greavard",
       "category": "Ghost Dog",
       "type": {
         "T1": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/977.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/971.mp3",
       "entry": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.",
       "abilities": "Main: Pickup | Hidden: Fluffy ",
       "height": "2'00\"",
@@ -23943,14 +23896,14 @@
       "generation": "generation9"
     },
     {
-      "id": 976,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/978.png",
+      "id": 972,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/972.png",
       "name": "Houndstone",
       "category": "Ghost Dog",
       "type": {
         "T1": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/978.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/972.mp3",
       "entry": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
       "abilities": "Main: Sand Rush | Hidden: Fluffy ",
       "height": "6'07\"",
@@ -23966,15 +23919,15 @@
       "generation": "generation9"
     },
     {
-      "id": 977,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/979.png",
+      "id": 973,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/973.png",
       "name": "Flamigo",
       "category": "Synchronize",
       "type": {
         "T1": "Flying",
         "T2": "Fighting"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/979.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/973.mp3",
       "entry": "This Pokémon apparently ties the base of its neck into a knot so that the energy stored in its belly does not escape from its beak.",
       "abilities": "Main: Scrappy, Tangled Feet | Hidden: Costar ",
       "height": "5'3\"",
@@ -23990,14 +23943,14 @@
       "generation": "generation9"
     },
     {
-      "id": 978,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/978.png",
+      "id": 974,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/974.png",
       "name": "Cetoddle",
       "category": "Terra Whale",
       "type": {
         "T1": "Ice"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/978.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/974.mp3",
       "entry": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
       "abilities": "Main: Thick Fat, Snow Cloak | Hidden: Sheer Force ",
       "height": "3'11\"",
@@ -24009,6 +23962,100 @@
         "SpAtk": 30,
         "SpDef": 40,
         "Speed": 43
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 975,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/975.png",
+      "name": "Cetitan",
+      "category": "Terra Whale",
+      "type": {
+        "T1": "Ice"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/975.mp3",
+      "entry": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
+      "abilities": "Main: Thick Fat, Slush Rush | Hidden: Sheer Force ",
+      "height": "14'09\"",
+      "weight": "1,543.2 lbs",
+      "stats": {
+        "HP": 170,
+        "Attack": 113,
+        "Defense": 65,
+        "SpAtk": 45,
+        "SpDef": 55,
+        "Speed": 73
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 976,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/976.png",
+      "name": "Veluza",
+      "category": "Jettison",
+      "type": {
+        "T1": "Water",
+        "T2": "Psychic"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/976.mp3",
+      "entry": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+      "abilities": "Main: Mold Breaker | Hidden: Sharpness ",
+      "height": "8'02\"",
+      "weight": "198.4 lbs",
+      "stats": {
+        "HP": 90,
+        "Attack": 102,
+        "Defense": 73,
+        "SpAtk": 78,
+        "SpDef": 65,
+        "Speed": 70
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 977,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/977.png",
+      "name": "Dondozo",
+      "category": "Big Catfish",
+      "type": {
+        "T1": "Water"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/977.mp3",
+      "entry": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.",
+      "abilities": "Main: Unaware, Oblivious | Hidden: Water Veil ",
+      "height": "39'04\"",
+      "weight": "485.0 lbs",
+      "stats": {
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 115,
+        "SpAtk": 65,
+        "SpDef": 65,
+        "Speed": 35
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 978,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/978.png",
+      "name": "Tatsugiri",
+      "category": "Minicry",
+      "type": {
+        "T1": "Dragon",
+        "T2": "Water"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/978.mp3",
+      "entry": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+      "abilities": "Main: Commander | Hidden: Storm Drain ",
+      "height": "1'00\"",
+      "weight": "17.6 lbs",
+      "stats": {
+        "HP": 68,
+        "Attack": 50,
+        "Defense": 60,
+        "SpAtk": 120,
+        "SpDef": 95,
+        "Speed": 82
       },
       "generation": "generation9"
     },
@@ -24037,29 +24084,6 @@
       "generation": "generation9"
     },
     {
-      "id": 979,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/981.png",
-      "name": "Cetitan",
-      "category": "Terra Whale",
-      "type": {
-        "T1": "Ice"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/981.mp3",
-      "entry": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin.",
-      "abilities": "Main: Thick Fat, Slush Rush | Hidden: Sheer Force ",
-      "height": "14'09\"",
-      "weight": "1,543.2 lbs",
-      "stats": {
-        "HP": 170,
-        "Attack": 113,
-        "Defense": 65,
-        "SpAtk": 45,
-        "SpDef": 55,
-        "Speed": 73
-      },
-      "generation": "generation9"
-    },
-    {
       "id": 980,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/980.png",
       "name": "Clodsire",
@@ -24084,15 +24108,63 @@
       "generation": "generation9"
     },
     {
+      "id": 981,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/981.png",
+      "name": "Fairgiraf",
+      "category": "Long Neck",
+      "type": {
+        "T1": "Normal",
+        "T2": "Psychic"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/981.mp3",
+      "entry": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
+      "abilities": "Main: Cud Chew, Armor Tail | Hidden: Sap Sipper ",
+      "height": "10'06 \"",
+      "weight": "352.7 lbs",
+      "stats": {
+        "HP": 120,
+        "Attack": 90,
+        "Defense": 70,
+        "SpAtk": 110,
+        "SpDef": 70,
+        "Speed": 60
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 982,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/981.png",
+      "name": "Dudunsparce",
+      "category": "Land Snake",
+      "type": {
+        "T1": "Normal"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/981.mp3",
+      "entry": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+      "abilities": "Main: Serene Grace, Run Away | Hidden: Rattled ",
+      "height": "11'10\"",
+      "weight": "86.4 lbs",
+      "stats": {
+        "HP": 125,
+        "Attack": 100,
+        "Defense": 80,
+        "SpAtk": 85,
+        "SpDef": 75,
+        "Speed": 55
+      },
+      "generation": "generation9"
+    },
+
+    {
       "id": 983,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/982.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/983.png",
       "name": "Kingambit",
       "category": "Big Blade",
       "type": {
         "T1": "Dark",
         "T2": "Steel"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/982.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/983.mp3",
       "entry": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
       "abilities": "Main: Defiant, Supreme Overlord | Hidden: Pressure ",
       "height": "6'07\"",
@@ -24104,77 +24176,6 @@
         "SpAtk": 60,
         "SpDef": 85,
         "Speed": 50
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 981,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/983.png",
-      "name": "Veluza",
-      "category": "Jettison",
-      "type": {
-        "T1": "Water",
-        "T2": "Psychic"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/983.mp3",
-      "entry": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
-      "abilities": "Main: Mold Breaker | Hidden: Sharpness ",
-      "height": "8'02\"",
-      "weight": "198.4 lbs",
-      "stats": {
-        "HP": 90,
-        "Attack": 102,
-        "Defense": 73,
-        "SpAtk": 78,
-        "SpDef": 65,
-        "Speed": 70
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 982,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/984.png",
-      "name": "Dondozo",
-      "category": "Big Catfish",
-      "type": {
-        "T1": "Water"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/984.mp3",
-      "entry": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.",
-      "abilities": "Main: Unaware, Oblivious | Hidden: Water Veil ",
-      "height": "39'04\"",
-      "weight": "485.0 lbs",
-      "stats": {
-        "HP": 150,
-        "Attack": 100,
-        "Defense": 115,
-        "SpAtk": 65,
-        "SpDef": 65,
-        "Speed": 35
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 983,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/985.png",
-      "name": "Tatsugiri",
-      "category": "Minicry",
-      "type": {
-        "T1": "Dragon",
-        "T2": "Water"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/985.mp3",
-      "entry": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
-      "abilities": "Main: Commander | Hidden: Storm Drain ",
-      "height": "1'00\"",
-      "weight": "17.6 lbs",
-      "stats": {
-        "HP": 68,
-        "Attack": 50,
-        "Defense": 60,
-        "SpAtk": 120,
-        "SpDef": 95,
-        "Speed": 82
       },
       "generation": "generation9"
     },
