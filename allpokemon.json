@@ -22768,37 +22768,13 @@
     },
     {
       "id": 924,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/925.png",
-      "name": "Clodsire",
-      "category": "Spiny Fish",
-      "type": {
-        "T1": "Poison",
-        "T2": "Ground"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/925.mp3",
-      "entry": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
-      "abilities": "Main: Poison Point, Water Absorb | Hidden: Unaware ",
-      "height": "5'11\"",
-      "weight": "491.6 lbs",
-      "stats": {
-        "HP": 130,
-        "Attack": 75,
-        "Defense": 60,
-        "SpAtk": 45,
-        "SpDef": 100,
-        "Speed": 20
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 925,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/926.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/924.png",
       "name": "Tandemaus",
       "category": "Couple",
       "type": {
         "T1": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/926.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/924.mp3",
       "entry": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
       "abilities": "Main: Run Away, Pickup | Hidden: Own Tempo ",
       "height": "1'00\"",
@@ -22814,14 +22790,14 @@
       "generation": "generation9"
     },
     {
-      "id": 926,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/927.png",
+      "id": 925,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/925.png",
       "name": "Maushold",
       "category": "Family",
       "type": {
         "T1": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/927.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/925.mp3",
       "entry": "The two little ones just appeared one day. The group might be a family of related Pokémon, but nobody knows for sure",
       "abilities": "Main: Friend Guard, Cheek Pouch | Hidden: Technician ",
       "height": "1'00\"",
@@ -22837,14 +22813,14 @@
       "generation": "generation9"
     },
     {
-      "id": 927,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/928.png",
+      "id": 926,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/926.png",
       "name": "Fidough",
       "category": "Puppy",
       "type": {
         "T1": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/928.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/926.mp3",
       "entry": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity.",
       "abilities": "Main: Own Tempo | Hidden: Klutz ",
       "height": "1'00\"",
@@ -22860,14 +22836,14 @@
       "generation": "generation9"
     },
     {
-      "id": 928,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/929.png",
+      "id": 927,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/927.png",
       "name": "Dachsbun",
       "category": "Dog",
       "type": {
         "T1": "Fairy"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/929.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/927.mp3",
       "entry": "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages.",
       "abilities": "Main: Well-Baked Body | Hidden: Aroma Veil ",
       "height": "1'08\"",
@@ -22883,15 +22859,15 @@
       "generation": "generation9"
     },
     {
-      "id": 929,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/930.png",
+      "id": 928,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/928.png",
       "name": "Smoliv",
       "category": "Olive",
       "type": {
         "T1": "Grass",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/930.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/928.mp3",
       "entry": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch.",
       "abilities": "Main: Early Bird | Hidden: Harvest ",
       "height": "1'00\"",
@@ -22907,15 +22883,15 @@
       "generation": "generation9"
     },
     {
-      "id": 930,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/931.png",
+      "id": 929,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/929.png",
       "name": "Dolliv",
       "category": "Olive",
       "type": {
         "T1": "Grass",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/931.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/929.mp3",
       "entry": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
       "abilities": "Main: Early Bird | Hidden: Harvest ",
       "height": "2'00\"",
@@ -22931,15 +22907,15 @@
       "generation": "generation9"
     },
     {
-      "id": 931,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/932.png",
+      "id": 930,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/930.png",
       "name": "Arboliva",
       "category": "Olive",
       "type": {
         "T1": "Grass",
         "T2": "Normal"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/932.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/930.mp3",
       "entry": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
       "abilities": "Main: Seed Sower | Hidden: Harvest ",
       "height": "4'07\"",
@@ -22955,15 +22931,15 @@
       "generation": "generation9"
     },
     {
-      "id": 932,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/933.png",
+      "id": 931,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/931.png",
       "name": "Squawkabilly",
       "category": "Parrot",
       "type": {
         "T1": "Normal",
         "T2": "Flying"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/933.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/931.mp3",
       "entry": "These Pokémon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
       "abilities": "Main: Intimidate, Hustle | Hidden: Guts, Sheer Force ",
       "height": "2'00\"",
@@ -22979,14 +22955,14 @@
       "generation": "generation9"
     },
     {
-      "id": 933,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/934.png",
+      "id": 932,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/932.png",
       "name": "Nacli",
       "category": "Rock Salt",
       "type": {
         "T1": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/934.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/932.mp3",
       "entry": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
       "abilities": "Main: Purifying Salt, Sturdy | Hidden: Clear Body ",
       "height": "1'04\"",
@@ -23002,14 +22978,14 @@
       "generation": "generation9"
     },
     {
-      "id": 934,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/935.png",
+      "id": 933,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/933.png",
       "name": "Naclstack",
       "category": "Rock Salt",
       "type": {
         "T1": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/935.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/933.mp3",
       "entry": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body.",
       "abilities": "Main: Purifying Salt, Sturdy | Hidden: Clear Body ",
       "height": "2'00\"",
@@ -23025,14 +23001,14 @@
       "generation": "generation9"
     },
     {
-      "id": 935,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/936.png",
+      "id": 934,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/934.png",
       "name": "Garganacl",
       "category": "Rock Salt",
       "type": {
         "T1": "Rock"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/936.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/934.mp3",
       "entry": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
       "abilities": "Main: Purifying Salt, Sturdy | Hidden: Clear Body ",
       "height": "7'07\"",
@@ -23048,38 +23024,14 @@
       "generation": "generation9"
     },
     {
-      "id": 936,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/937.png",
-      "name": "Annihilape",
-      "category": "Rage Monkey",
-      "type": {
-        "T1": "Fighting",
-        "T2": "Ghost"
-      },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/937.mp3",
-      "entry": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
-      "abilities": "Main: Vital Spirit, Inner Focus | Hidden: Defiant ",
-      "height": "3'11\"",
-      "weight": "123.5 lbs",
-      "stats": {
-        "HP": 110,
-        "Attack": 115,
-        "Defense": 80,
-        "SpAtk": 50,
-        "SpDef": 90,
-        "Speed": 90
-      },
-      "generation": "generation9"
-    },
-    {
-      "id": 937,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/938.png",
+      "id": 935,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/935.png",
       "name": "Charcadet",
       "category": "Fire Child",
       "type": {
         "T1": "Fire"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/938.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/935.mp3",
       "entry": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
       "abilities": "Main: Flash Fire | Hidden: Flame Body ",
       "height": "2'00\"",
@@ -23095,15 +23047,15 @@
       "generation": "generation9"
     },
     {
-      "id": 938,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/939.png",
+      "id": 936,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/936.png",
       "name": "Armarouge",
       "category": "Fire Warrior",
       "type": {
         "T1": "Fire",
         "T2": "Psychic"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/939.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/936.mp3",
       "entry": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
       "abilities": "Main: Flash Fire | Hidden: Weak Armor ",
       "height": "4'11\"",
@@ -23119,15 +23071,15 @@
       "generation": "generation9"
     },
     {
-      "id": 939,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/940.png",
+      "id": 937,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/937.png",
       "name": "Ceruledge",
       "category": "Fire Blades",
       "type": {
         "T1": "Fire",
         "T2": "Ghost"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/940.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/937.mp3",
       "entry": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
       "abilities": "Main: Flash Fire | Hidden: Weak Armor ",
       "height": "5'03\"",
@@ -23143,14 +23095,14 @@
       "generation": "generation9"
     },
     {
-      "id": 940,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/941.png",
+      "id": 938,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/938.png",
       "name": "Tadbulb",
       "category": "EleTadpole",
       "type": {
         "T1": "Electric"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/941.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/938.mp3",
       "entry": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
       "abilities": "Main: Own Tempo, Static | Hidden: Damp ",
       "height": "1'00\"",
@@ -23166,14 +23118,14 @@
       "generation": "generation9"
     },
     {
-      "id": 941,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/942.png",
+      "id": 939,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/939.png",
       "name": "Bellibolt",
       "category": "EleFrog",
       "type": {
         "T1": "Electric"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/942.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/939.mp3",
       "entry": "When this Pokémon expands and contracts its wobbly body, the belly-button dynamo in its stomach produces a huge amount of electricity.",
       "abilities": "Main: Electromorphosis, Static | Hidden: Damp ",
       "height": "3'11\"",
@@ -23189,15 +23141,15 @@
       "generation": "generation9"
     },
     {
-      "id": 942,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/943.png",
+      "id": 940,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/940.png",
       "name": "Wattrel",
       "category": "Storm Petrel",
       "type": {
         "T1": "Electric",
         "T2": "Flying"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/943.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/940.mp3",
       "entry": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them.",
       "abilities": "Main: Wind Power, Volt Absorb | Hidden: Competitive ",
       "height": "1'04\"",
@@ -24039,13 +23991,13 @@
     },
     {
       "id": 978,
-      "image": "https://pokeimage-production.up.railway.app/pokeImg/980.png",
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/978.png",
       "name": "Cetoddle",
       "category": "Terra Whale",
       "type": {
         "T1": "Ice"
       },
-      "cry": "https://pokeimage-production.up.railway.app/pokeCry/980.mp3",
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/978.mp3",
       "entry": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
       "abilities": "Main: Thick Fat, Snow Cloak | Hidden: Sheer Force ",
       "height": "3'11\"",
@@ -24057,6 +24009,30 @@
         "SpAtk": 30,
         "SpDef": 40,
         "Speed": 43
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 979,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/979.png",
+      "name": "Annihilape",
+      "category": "Rage Monkey",
+      "type": {
+        "T1": "Fighting",
+        "T2": "Ghost"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/979.mp3",
+      "entry": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
+      "abilities": "Main: Vital Spirit, Inner Focus | Hidden: Defiant ",
+      "height": "3'11\"",
+      "weight": "123.5 lbs",
+      "stats": {
+        "HP": 110,
+        "Attack": 115,
+        "Defense": 80,
+        "SpAtk": 50,
+        "SpDef": 90,
+        "Speed": 90
       },
       "generation": "generation9"
     },
@@ -24085,6 +24061,30 @@
     },
     {
       "id": 980,
+      "image": "https://pokeimage-production.up.railway.app/pokeImg/980.png",
+      "name": "Clodsire",
+      "category": "Spiny Fish",
+      "type": {
+        "T1": "Poison",
+        "T2": "Ground"
+      },
+      "cry": "https://pokeimage-production.up.railway.app/pokeCry/980.mp3",
+      "entry": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+      "abilities": "Main: Poison Point, Water Absorb | Hidden: Unaware ",
+      "height": "5'11\"",
+      "weight": "491.6 lbs",
+      "stats": {
+        "HP": 130,
+        "Attack": 75,
+        "Defense": 60,
+        "SpAtk": 45,
+        "SpDef": 100,
+        "Speed": 20
+      },
+      "generation": "generation9"
+    },
+    {
+      "id": 983,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/982.png",
       "name": "Kingambit",
       "category": "Big Blade",
