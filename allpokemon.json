@@ -158,13 +158,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 4,
-        "E2": 5,
-        "E3": 6
-      },
-      "evolution-level": {
-        "LV1": 16,
-        "LV2": 36
+        "E1": {
+          "img": 4,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 5,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 6
+        }
       }
     },
     {
@@ -190,13 +194,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 4,
-        "E2": 5,
-        "E3": 6
-      },
-      "evolution-level": {
-        "LV1": 16,
-        "LV2": 36
+        "E1": {
+          "img": 4,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 5,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 6
+        }
       }
     },
     {
@@ -223,13 +231,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 4,
-        "E2": 5,
-        "E3": 6
-      },
-      "evolution-level": {
-        "LV1": 16,
-        "LV2": 36
+        "E1": {
+          "img": 4,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 5,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 6
+        }
       },
       "variations": [
         {
@@ -290,13 +302,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 7,
-        "E2": 8,
-        "E3": 9
-      },
-      "evolution-level": {
-        "LV1": 16,
-        "LV2": 36
+        "E1": {
+          "img": 7,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 8,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 9
+        }
       }
     },
     {
@@ -322,13 +338,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 7,
-        "E2": 8,
-        "E3": 9
-      },
-      "evolution-level": {
-        "LV1": 16,
-        "LV2": 36
+        "E1": {
+          "img": 7,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 8,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 9
+        }
       }
     },
     {
@@ -354,13 +374,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 7,
-        "E2": 8,
-        "E3": 9
-      },
-      "evolution-level": {
-        "LV1": 16,
-        "LV2": 36
+        "E1": {
+          "img": 7,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 8,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 9
+        }
       },
       "variations": [
         {
