@@ -24,13 +24,15 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 1,
-        "E2": 2,
+        "E1": {
+          "img": 1,
+          "way": 16
+        },
+        "E2": {
+          "img": 2,
+          "way": 36
+        },
         "E3": 3
-      }, 
-      "evolution-level": {
-        "LV1": 16, 
-        "LV2": 36
       }
     },
     {
