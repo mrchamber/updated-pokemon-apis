@@ -26,13 +26,15 @@
       "evolution": {
         "E1": {
           "img": 1,
-          "way": 16
+          "way": "LvL 16"
         },
         "E2": {
           "img": 2,
-          "way": 36
+          "way": "LvL 36"
         },
-        "E3": 3
+        "E3": {
+          "img": 3
+        }
       }
     },
     {
@@ -59,13 +61,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 1,
-        "E2": 2,
-        "E3": 3
-      },
-      "evolution-level": {
-        "LV1": 16, 
-        "LV2": 36
+        "E1": {
+          "img": 1,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 2,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 3
+        }
       }
     },
     {
@@ -92,13 +98,17 @@
       },
       "generation": "generation1",
       "evolution": {
-        "E1": 1,
-        "E2": 2,
-        "E3": 3
-      },
-      "evolution-level": {
-        "LV1": 16, 
-        "LV2": 32
+        "E1": {
+          "img": 1,
+          "way": "LvL 16"
+        },
+        "E2": {
+          "img": 2,
+          "way": "LvL 36"
+        },
+        "E3": {
+          "img": 3
+        }
       },
       "variations": [
         {
@@ -153,7 +163,7 @@
         "E3": 6
       },
       "evolution-level": {
-        "LV1": 16, 
+        "LV1": 16,
         "LV2": 36
       }
     },
@@ -178,14 +188,14 @@
         "SpDef": 65,
         "Speed": 80
       },
-      "generation": "generation1", 
+      "generation": "generation1",
       "evolution": {
         "E1": 4,
         "E2": 5,
         "E3": 6
       },
       "evolution-level": {
-        "LV1": 16, 
+        "LV1": 16,
         "LV2": 36
       }
     },
@@ -218,7 +228,7 @@
         "E3": 6
       },
       "evolution-level": {
-        "LV1": 16, 
+        "LV1": 16,
         "LV2": 36
       },
       "variations": [
@@ -285,7 +295,7 @@
         "E3": 9
       },
       "evolution-level": {
-        "LV1": 16, 
+        "LV1": 16,
         "LV2": 36
       }
     },
@@ -317,7 +327,7 @@
         "E3": 9
       },
       "evolution-level": {
-        "LV1": 16, 
+        "LV1": 16,
         "LV2": 36
       }
     },
@@ -349,7 +359,7 @@
         "E3": 9
       },
       "evolution-level": {
-        "LV1": 16, 
+        "LV1": 16,
         "LV2": 36
       },
       "variations": [
@@ -461,7 +471,7 @@
       },
       "variations": [
         {
-          "idGigantamax": 12.4 ,
+          "idGigantamax": 12.4,
           "image": "pokeImg/012-gi.png",
           "name": "Gigantamax Butterfree",
           "type": {
@@ -739,7 +749,6 @@
           "weight": "8.4 lbs"
         }
       ]
-
     },
     {
       "id": 20,
@@ -1111,7 +1120,7 @@
         "SpAtk": 75,
         "SpDef": 85,
         "Speed": 76
-    },
+      },
       "generation": "generation1",
       "evolution": {
         "E1": 29,
@@ -3204,7 +3213,7 @@
         "Defense": 45,
         "SpAtk": 43,
         "SpDef": 90,
-        "Speed":42
+        "Speed": 42
       },
       "generation": "generation1",
       "evolution": {
@@ -4263,7 +4272,7 @@
       "id": 136,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/136.png",
       "name": "Flareon",
-      "category":"Flame",
+      "category": "Flame",
       "type": {
         "T1": "Fire"
       },
@@ -4539,8 +4548,8 @@
       "name": "Dratini",
       "category": "Dragon",
       "type": {
-      "T1": "Dragon"
-    },
+        "T1": "Dragon"
+      },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/147.mp3",
       "entry": "Long considered a mythical Pokémon until recently when a small colony was found living underwater.",
       "abilities": "Main: Shed Skin | Hidden: Marvel Scale",
@@ -4647,7 +4656,6 @@
           "weight": "72.8 lbs"
         }
       ]
-
     },
     {
       "id": 151,
@@ -4855,7 +4863,8 @@
         "Speed": 58
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 160,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/160.png",
       "name": "Feraligatr",
@@ -4877,7 +4886,8 @@
         "Speed": 78
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 161,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/161.png",
       "name": "Sentret",
@@ -4899,7 +4909,8 @@
         "Speed": 20
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 162,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/162.png",
       "name": "Furret",
@@ -4921,7 +4932,8 @@
         "Speed": 90
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 163,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/163.png",
       "name": "Hoothoot",
@@ -4944,7 +4956,8 @@
         "Speed": 50
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 164,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/164.png",
       "name": "Noctowl",
@@ -4967,7 +4980,8 @@
         "Speed": 70
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 165,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/165.png",
       "name": "Ledyba",
@@ -4990,7 +5004,8 @@
         "Speed": 55
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 166,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/166.png",
       "name": "Ledian",
@@ -5013,7 +5028,8 @@
         "Speed": 85
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 167,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/167.png",
       "name": "Spinarak",
@@ -5036,7 +5052,8 @@
         "Speed": 30
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 168,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/168.png",
       "name": "Ariados",
@@ -5059,7 +5076,8 @@
         "Speed": 40
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 169,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/169.png",
       "name": "Crobat",
@@ -5082,7 +5100,8 @@
         "Speed": 130
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 170,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/170.png",
       "name": "Chinchou",
@@ -5105,7 +5124,8 @@
         "Speed": 67
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 171,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/171.png",
       "name": "Lanturn ",
@@ -5128,7 +5148,8 @@
         "Speed": 67
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 172,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/172.png",
       "name": "Pichu",
@@ -5150,7 +5171,8 @@
         "Speed": 60
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 173,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/173.png",
       "name": "Cleffa",
@@ -5172,7 +5194,8 @@
         "Speed": 15
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 174,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/174.png",
       "name": "Igglybuff",
@@ -5195,7 +5218,8 @@
         "Speed": 15
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 175,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/175.png",
       "name": "Togepi",
@@ -5217,7 +5241,8 @@
         "Speed": 20
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 176,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/176.png",
       "name": "Togetic",
@@ -5240,7 +5265,8 @@
         "Speed": 40
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 177,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/177.png",
       "name": "Natu",
@@ -5263,7 +5289,8 @@
         "Speed": 70
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 178,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/178.png",
       "name": "Xatu",
@@ -5286,7 +5313,8 @@
         "Speed": 95
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 179,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/179.png",
       "name": "Mareep",
@@ -5308,7 +5336,8 @@
         "Speed": 35
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 180,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/180.png",
       "name": "Flaaffy",
@@ -5330,7 +5359,8 @@
         "Speed": 45
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 181,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/181.png",
       "name": "Ampharos",
@@ -5352,7 +5382,8 @@
         "Speed": 55
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 182,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/182.png",
       "name": "Bellossom",
@@ -5374,7 +5405,8 @@
         "Speed": 50
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 183,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/183.png",
       "name": "Marill",
@@ -5397,7 +5429,8 @@
         "Speed": 40
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 184,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/184.png",
       "name": "Azumarill",
@@ -5420,7 +5453,8 @@
         "Speed": 50
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 185,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/185.png",
       "name": "Sudowoodo",
@@ -5442,7 +5476,8 @@
         "Speed": 30
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 186,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/186.png",
       "name": "Politoed",
@@ -5464,7 +5499,8 @@
         "Speed": 70
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 187,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/187.png",
       "name": "Hoppip",
@@ -5487,7 +5523,8 @@
         "Speed": 50
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 188,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/188.png",
       "name": "Skiploom",
@@ -5510,7 +5547,8 @@
         "Speed": 80
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 189,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/189.png",
       "name": "Jumpluff",
@@ -5533,7 +5571,8 @@
         "Speed": 110
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 190,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/190.png",
       "name": "Aipom",
@@ -5555,7 +5594,8 @@
         "Speed": 80
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 191,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/191.png",
       "name": "Sunkern",
@@ -5577,7 +5617,8 @@
         "Speed": 30
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 192,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/192.png",
       "name": "Sunflora",
@@ -5599,7 +5640,8 @@
         "Speed": 30
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 193,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/193.png",
       "name": "Yanma",
@@ -5622,7 +5664,8 @@
         "Speed": 95
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 194,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/194.png",
       "name": "Wooper",
@@ -5645,7 +5688,8 @@
         "Speed": 15
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 195,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/195.png",
       "name": "Quagsire",
@@ -5668,7 +5712,8 @@
         "Speed": 35
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 196,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/196.png",
       "name": "Espeon",
@@ -5690,7 +5735,8 @@
         "Speed": 110
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 197,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/197.png",
       "name": "Umbreon",
@@ -5712,7 +5758,8 @@
         "Speed": 65
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 198,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/198.png",
       "name": "Murkrow",
@@ -5735,7 +5782,8 @@
         "Speed": 91
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 199,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/199.png",
       "name": "Slowking",
@@ -5758,7 +5806,8 @@
         "Speed": 30
       },
       "generation": "generation2"
-    },{
+    },
+    {
       "id": 200,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/200.png",
       "name": "Misdreavus",
@@ -6955,7 +7004,6 @@
         "Speed": 90
       },
       "generation": "generation2"
-
     },
     {
       "id": 251,
@@ -6980,7 +7028,6 @@
         "Speed": 100
       },
       "generation": "generation2"
-
     },
     {
       "id": 252,
@@ -7004,7 +7051,6 @@
         "Speed": 70
       },
       "generation": "generation3"
-
     },
     {
       "id": 253,
@@ -7028,7 +7074,6 @@
         "Speed": 95
       },
       "generation": "generation3"
-
     },
     {
       "id": 254,
@@ -7052,7 +7097,6 @@
         "Speed": 120
       },
       "generation": "generation3"
-
     },
     {
       "id": 255,
@@ -7076,7 +7120,6 @@
         "Speed": 45
       },
       "generation": "generation3"
-
     },
     {
       "id": 256,
@@ -10601,7 +10644,6 @@
         "Speed": 70
       },
       "generation": "generation4"
-
     },
     {
       "id": 406,
@@ -12694,7 +12736,7 @@
         "Speed": 100
       },
       "generation": "generation5"
-    }, 
+    },
     {
       "id": 495,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/495.png",
@@ -12793,7 +12835,7 @@
       "name": "Pignite",
       "category": "Fire Pig",
       "type": {
-        "T1": "Fire", 
+        "T1": "Fire",
         "T2": "Fighting"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/499.mp3",
@@ -13255,7 +13297,7 @@
       "name": "Pidove",
       "category": "Tiny Pigeon",
       "type": {
-        "T1": "Normal", 
+        "T1": "Normal",
         "T2": "Flying"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/519.mp3",
@@ -13279,7 +13321,7 @@
       "name": "Tranquill",
       "category": "Wild Pigeon",
       "type": {
-        "T1": "Normal", 
+        "T1": "Normal",
         "T2": "Flying"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/520.mp3",
@@ -13442,7 +13484,7 @@
       "name": "Woobat",
       "category": "Bat",
       "type": {
-        "T1": "Psychic", 
+        "T1": "Psychic",
         "T2": "Flying"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/527.mp3",
@@ -13466,7 +13508,7 @@
       "name": "Swoobat",
       "category": "Courting",
       "type": {
-        "T1": "Psychic", 
+        "T1": "Psychic",
         "T2": "Flying"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/528.mp3",
@@ -13475,7 +13517,7 @@
       "height": "2'11\"",
       "weight": "23.1 lbs.",
       "stats": {
-        "HP":67 ,
+        "HP": 67,
         "Attack": 57,
         "Defense": 55,
         "SpAtk": 77,
@@ -13676,7 +13718,7 @@
       "name": "Seismitoad",
       "category": "Vibration",
       "type": {
-        "T1": "Water", 
+        "T1": "Water",
         "T2": "Ground"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/537.mp3",
@@ -13746,7 +13788,7 @@
       "name": "Sewaddle",
       "category": "Sewing",
       "type": {
-        "T1": "Bug", 
+        "T1": "Bug",
         "T2": "Grass"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/540.mp3",
@@ -14148,7 +14190,7 @@
       "name": "Dweeble",
       "category": "Rock Inn",
       "type": {
-        "T1": "Bug", 
+        "T1": "Bug",
         "T2": "Rock"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/557.mp3",
@@ -14196,7 +14238,7 @@
       "name": "Scraggy",
       "category": "Shedding",
       "type": {
-        "T1": "Dark", 
+        "T1": "Dark",
         "T2": "Fighting"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/559.mp3",
@@ -14220,7 +14262,7 @@
       "name": "Scrafty",
       "category": "Hoodlum",
       "type": {
-        "T1": "Dark", 
+        "T1": "Dark",
         "T2": "Fighting"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/560.mp3",
@@ -14244,7 +14286,7 @@
       "name": "Sigilyph",
       "category": "Avianoid",
       "type": {
-        "T1": "Psychic", 
+        "T1": "Psychic",
         "T2": "Flying"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/561.mp3",
@@ -14338,7 +14380,7 @@
       "name": "Carracosta",
       "category": "Prototurtle",
       "type": {
-        "T1": "Water", 
+        "T1": "Water",
         "T2": "Rock"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/565.mp3",
@@ -14386,7 +14428,7 @@
       "name": "Archeops",
       "category": "First Bird",
       "type": {
-        "T1": "Rock", 
+        "T1": "Rock",
         "T2": "Flying"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/567.mp3",
@@ -14515,7 +14557,7 @@
         "Defense": 40,
         "SpAtk": 40,
         "SpDef": 40,
-        "Speed": 75 
+        "Speed": 75
       },
       "generation": "generation5"
     },
@@ -14803,7 +14845,7 @@
       "name": "Deerling",
       "category": "Season",
       "type": {
-        "T1": "Normal", 
+        "T1": "Normal",
         "T2": "Grass"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/585.mp3",
@@ -14922,7 +14964,7 @@
       "name": "Foongus",
       "category": "Mushroom",
       "type": {
-        "T1": "Grass", 
+        "T1": "Grass",
         "T2": "Poison"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/590.mp3",
@@ -14946,7 +14988,7 @@
       "name": "Amoongus",
       "category": "Mushroom",
       "type": {
-        "T1": "Grass", 
+        "T1": "Grass",
         "T2": "Poison"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/591.mp3",
@@ -15475,7 +15517,7 @@
         "Defense": 40,
         "SpAtk": 60,
         "SpDef": 40,
-        "Speed":40 
+        "Speed": 40
       },
       "generation": "generation5"
     },
@@ -20670,7 +20712,7 @@
       "name": "Drednaw",
       "category": "Bite",
       "type": {
-        "T1": "Water", 
+        "T1": "Water",
         "T2": "Rock"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/834.mp3",
@@ -20781,7 +20823,7 @@
       },
       "generation": "generation8"
     },
-     {
+    {
       "id": 839,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/839.png",
       "name": "Coalossal",
@@ -20803,7 +20845,7 @@
         "SpDef": 90,
         "Speed": 30
       },
-       "generation": "generation8"
+      "generation": "generation8"
     },
     {
       "id": 840,
@@ -21023,7 +21065,7 @@
       "name": "Toxtricity",
       "category": "Punk",
       "type": {
-        "T1": "Electric", 
+        "T1": "Electric",
         "T2": "Poison"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/849.mp3",
@@ -21047,7 +21089,7 @@
       "name": "Sizzlipede",
       "category": "Radiator",
       "type": {
-        "T1": "Fire", 
+        "T1": "Fire",
         "T2": "Bug"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/850.mp3",
@@ -21281,7 +21323,7 @@
       "name": "Morgrem",
       "category": "Devious",
       "type": {
-        "T1": "Dark", 
+        "T1": "Dark",
         "T2": "Fairy"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/860.mp3",
@@ -21422,7 +21464,7 @@
       "name": "Mr.Rime",
       "category": "Comedian",
       "type": {
-        "T1": "Ice", 
+        "T1": "Ice",
         "T2": "Psychic"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/866.mp3",
@@ -21792,7 +21834,7 @@
       },
       "generation": "generation8"
     },
-     {
+    {
       "id": 882,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/882.png",
       "name": "Dracovish",
@@ -21814,7 +21856,7 @@
         "SpDef": 80,
         "Speed": 75
       },
-       "generation": "generation8"
+      "generation": "generation8"
     },
     {
       "id": 883,
@@ -21822,7 +21864,7 @@
       "name": "Arctovish",
       "category": "Fossil",
       "type": {
-        "T1": "Water", 
+        "T1": "Water",
         "T2": "Ice"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/883.mp3",
@@ -21870,7 +21912,7 @@
       "name": "Dreepy",
       "category": "Lingering",
       "type": {
-        "T1": "Dragon", 
+        "T1": "Dragon",
         "T2": "Ghost"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/885.mp3",
@@ -22037,7 +22079,7 @@
       "name": "Urshifu",
       "category": "Wushu",
       "type": {
-        "T1": "Fighting", 
+        "T1": "Fighting",
         "T2": "Dark"
       },
       "cry": "https://pokeimage-production.up.railway.app/pokeCry/892.mp3",
@@ -22385,7 +22427,8 @@
         "Speed": 65
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 907,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/907.png",
       "name": "Floragato",
@@ -22407,7 +22450,8 @@
         "Speed": 83
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 908,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/908.png",
       "name": "Meowscarada",
@@ -22430,7 +22474,8 @@
         "Speed": 123
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 909,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/909.png",
       "name": "Fuecoco",
@@ -22452,7 +22497,8 @@
         "Speed": 36
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 910,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/910.png",
       "name": "Crocalor",
@@ -22474,7 +22520,8 @@
         "Speed": 49
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 911,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/911.png",
       "name": "Skeledirge",
@@ -22497,7 +22544,8 @@
         "Speed": 66
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 912,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/912.png",
       "name": "Quaxly",
@@ -22519,7 +22567,8 @@
         "Speed": 50
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 913,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/913.png",
       "name": "Quaxwell",
@@ -22541,7 +22590,8 @@
         "Speed": 60
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 914,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/914.png",
       "name": "Quaquaval",
@@ -22564,7 +22614,8 @@
         "Speed": 85
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 915,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/915.png",
       "name": "Lechonk",
@@ -22586,7 +22637,8 @@
         "Speed": 35
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 916,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/916.png",
       "name": "Oinkologne",
@@ -22631,7 +22683,8 @@
         "Speed": 20
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 918,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/918.png",
       "name": "Spidops",
@@ -22653,7 +22706,8 @@
         "Speed": 35
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 919,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/919.png",
       "name": "Nymble",
@@ -22675,7 +22729,8 @@
         "Speed": 45
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 920,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/920.png",
       "name": "Lokix",
@@ -22698,7 +22753,8 @@
         "Speed": 92
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 921,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/921.png",
       "name": "Pawmi",
@@ -22711,7 +22767,6 @@
       "abilities": "Main: Static, Natural Cure | Hidden: Iron Fist ",
       "height": "1'00\"",
       "weight": "5.5 lbs",
-
       "stats": {
         "HP": 45,
         "Attack": 50,
@@ -22721,7 +22776,8 @@
         "Speed": 60
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 922,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/922.png",
       "name": "Pawmo",
@@ -22744,7 +22800,8 @@
         "Speed": 85
       },
       "generation": "generation9"
-    },{
+    },
+    {
       "id": 923,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/923.png",
       "name": "Pawmot",
@@ -23870,7 +23927,7 @@
         "Defense": 90,
         "SpAtk": 130,
         "SpDef": 81,
-        "Speed":  86
+        "Speed": 86
       },
       "generation": "generation9"
     },
@@ -24156,7 +24213,6 @@
       },
       "generation": "generation9"
     },
-
     {
       "id": 983,
       "image": "https://pokeimage-production.up.railway.app/pokeImg/983.png",
